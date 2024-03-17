@@ -1,0 +1,2 @@
+A reservoir is a component of a thermodynamic system which has a very large area whose temperature is constant.
+i.e. any heat addition or removal (no matter how large) will not impact the temperature of the reservoir.

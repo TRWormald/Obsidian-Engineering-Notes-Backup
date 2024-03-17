@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2092cf",
+  "theme": "moonstone",
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "ImageCentering",
+    "Tom-Images"
+  ]
+}

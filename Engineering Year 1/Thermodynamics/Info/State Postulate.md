@@ -1,0 +1,1 @@
+The thermodynamic State Postulate says that for a system in equilibrium you are able to find any property of that system given that you know any other two properties.

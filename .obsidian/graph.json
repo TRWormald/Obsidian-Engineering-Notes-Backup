@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Engineering Year 1/AVDASI\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Engineering Year 1/Electrical\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16491534
+      }
+    },
+    {
+      "query": "path:\"Engineering Year 1/Mechanics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13831405
+      }
+    },
+    {
+      "query": "path:\"Engineering Year 1/Maths\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1173521
+      }
+    },
+    {
+      "query": "path:\"Engineering Year 1/Structures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6059222
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.905363321799308,
+  "lineSizeMultiplier": 2.07525951557093,
+  "collapse-forces": false,
+  "centerStrength": 0.427335640138408,
+  "repelStrength": 11.2456747404844,
+  "linkStrength": 0.634948096885813,
+  "linkDistance": 89,
+  "scale": 0.42892428512479874,
+  "close": false
+}
