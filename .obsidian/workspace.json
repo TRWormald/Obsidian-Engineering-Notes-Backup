@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimum drag speed",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61d320204f5af9d0",
+  "active": "e3bd7b19e10f3f01",
   "lastOpenFiles": [
     "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
