@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md"
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md"
               }
             }
           }
@@ -148,11 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3bd7b19e10f3f01",
+  "active": "61d320204f5af9d0",
   "lastOpenFiles": [
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
+    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
+    "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
-    "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Untitled.md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots/Fixed Point Iteration.md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots/The Newton-Raphson Method.md",
@@ -179,17 +186,9 @@
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Images & Attachments/Pasted image 20240314153447.png",
-    "Engineering Year 1/AVDASI/Engineering/Hydraulic Systems.md",
-    "Engineering Year 1/AVDASI/Engineering/Fly-by-Wire (FBW).md",
     "Images & Attachments/Pasted image 20240314151254.png",
     "Images & Attachments/Screenshot 2024-03-14 145844.png",
     "Images & Attachments/Pasted image 20240314145255.png",
-    "Engineering Year 1/Electrical/Induction.md",
-    "Engineering Year 1/Electrical/Inductors.md",
-    "Engineering Year 1/Electrical/Lorentz Force.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Thermal Conductivity.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Thermal Expansion Coefficient.md",
     "Engineering Year 1/Materials/Selection",
     "Engineering Year 1/Materials/Selection/Selecting for Physical Properties",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy",
