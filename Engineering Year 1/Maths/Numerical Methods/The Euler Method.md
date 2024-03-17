@@ -19,4 +19,9 @@ $$t_{4}=1,~~~x_{4}=2.44$$
 Since $x(1)=2.718$ the error is $x(1)-x_{4}\approx -0.28$
 ### The Error of the Euler Method
 The true solution of the initial value problem is $x(t)$ and a Taylor expansion around $t_{0}$ gives $x(t_{1})$ as a series:
-$$x(t_{1})=$$
+$$x(t_{1})=x(t_{0})+x'(t_{0})(t_{1}-t_{0})+\frac{x''(t_{0})}{2}(t_{2}-t_{1})^{2}+...$$
+In terms of $f$, $x_{0}$, and $h$ that is:
+$$x(t_{1})=x_{0}+f(x_{0},t_{0})h+\frac{x''(t_{0})}{2}h^{2}$$
+Which looks like the Euler scheme but with extra terms. The local error for $x_{1}$ is $x_{1}-x(t_{1})$ and:
+$$x_{1}-x(t_{1})\approx\frac{x''(t_{0})}{2}h^2$$
+So the error will decrease if we make the size of the steps smaller.
