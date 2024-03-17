@@ -14,6 +14,6 @@ We have no method for finding a closed-form solution to this ODE but we still wa
 **Method**- In the context of solving ODEs, a numerical method is a systematic way of going from the estimate of $x$ at one timestep to an estimate of $x$ at the next timestep.
 Given a differential equation:
 $$\frac{dx}{dt}=f(x,t)$$
-and given $x_{n}$ as an approximation of $x(t_{0}+nh)$, a method is an algorithm that uses this information to obtain $x_{n+1}$, an approximation of $x(t_{0}+(n+1)h)$
+and given $x_{n}$ as an approximation of $x(t_{0}+nh)$, a method is an algorithm that uses this information to obtain $x_{n+1}$, an approximation of $x(t_{0}+(n+1)h)$.
 
 
