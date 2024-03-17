@@ -58,3 +58,8 @@ $$FV_{d}= F\sqrt{\frac{F}{2\rho A_{d}}}=\frac{F^{\frac{3}{2}}}{\sqrt{2\rho A_{d}
 \
 However the power put into the air (effective power output) is given by:
 $$FV_{1}=\rho Q (V_{4}-V_{1})V_{1}$$
+So for forward flight at a speed $v$:
+$$Fv=\rho Q (V_{4}-v)v$$
+\
+The propulsive efficiency (for forward flight) is the ratio of power input and output:
+$$\eta=\frac{\rho Q(V_{4}-V_{1})}{\rho Q(V_{4}-V_{1})}\frac{V_{1}}{\frac{1}{2}(V_{4}-V_{1})+V_{1}}=\frac{2V_{1}}{V_{4}+V_{1}}$$

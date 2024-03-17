@@ -1,0 +1,1 @@
+Fluid **does work** on the turbine (shaft work)
