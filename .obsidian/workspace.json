@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md"
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md"
               }
             }
           }
@@ -149,18 +149,21 @@
   },
   "active": "61d320204f5af9d0",
   "lastOpenFiles": [
-    "Engineering Year 1/Fluids/Actuator Disc Theory (Propellors).md",
+    "Engineering Year 1/Maths/Numerical Methods/Finding Roots/Fixed Point Iteration.md",
+    "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
+    "Engineering Year 1/Maths/Numerical Methods/Finding Roots/The Newton-Raphson Method.md",
+    "Engineering Year 1/Maths/Numerical Methods/Finding Roots/Root Finding.md",
     "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
+    "Engineering Year 1/Maths/Numerical Methods/Finding Roots",
+    "Engineering Year 1/Fluids/Actuator Disc Theory (Propellors).md",
     "Engineering Year 1/Fluids/Control Volume Analysis Introduction.md",
     "Images & Attachments/Pasted image 20240317130400.png",
     "New folder",
     "repository",
     "Untitled.canvas",
     "Images & Attachments/Pasted image 20240316162021.png",
-    "Engineering Year 1/Maths/Numerical Methods/The Newton-Raphson Method.md",
     "Images & Attachments/Pasted image 20240316120851.png",
     "Images & Attachments/Pasted image 20240316120835.png",
-    "Engineering Year 1/Maths/Numerical Methods/Fixed Point Iteration.md",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
     "Images & Attachments/Pasted image 20240314183735.png",
@@ -188,13 +191,11 @@
     "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Electrical Properties.md",
     "Engineering Year 1/Materials/Selection/Selecting for Physical Properties",
     "Engineering Year 1/Electrical/Capacitors.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy",
     "Engineering Year 1/Materials",
     "Engineering Year 1/Maths/Numerical Methods",
     "Engineering Year 1/Fluids",
     "Engineering Year 1/Electrical",
-    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients",
     "Untitled 1.canvas",
     "Equation Sheets/Structures/Untitled.canvas"
   ]
