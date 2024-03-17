@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md"
+                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md"
               }
             }
           }
@@ -149,9 +149,22 @@
   },
   "active": "61d320204f5af9d0",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Engineering/Fly-by-Wire (FBW).md",
+    "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Power.md",
+    "Engineering Year 1/AVDASI/Engineering/PID Control.md",
+    "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
+    "Engineering Year 1/AVDASI/Engineering/Propulsion.md",
+    "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/Hydraulic Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/Civil Aircraft Design.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
@@ -162,12 +175,7 @@
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
     "Untitled.md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots/Fixed Point Iteration.md",
-    "Engineering Year 1/Maths/Numerical Methods/Finding Roots/The Newton-Raphson Method.md",
-    "Engineering Year 1/Maths/Numerical Methods/Finding Roots/Root Finding.md",
-    "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots",
-    "Engineering Year 1/Fluids/Actuator Disc Theory (Propellors).md",
-    "Engineering Year 1/Fluids/Control Volume Analysis Introduction.md",
     "Images & Attachments/Pasted image 20240317130400.png",
     "New folder",
     "repository",
@@ -175,16 +183,8 @@
     "Images & Attachments/Pasted image 20240316162021.png",
     "Images & Attachments/Pasted image 20240316120851.png",
     "Images & Attachments/Pasted image 20240316120835.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
     "Images & Attachments/Pasted image 20240314183735.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Images & Attachments/Screenshot 2024-03-14 154840.png",
-    "Engineering Year 1/AVDASI/Engineering/Propulsion.md",
-    "Engineering Year 1/AVDASI/Engineering/Civil Aircraft Design.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Images & Attachments/Pasted image 20240314153447.png",
     "Images & Attachments/Pasted image 20240314151254.png",
     "Images & Attachments/Screenshot 2024-03-14 145844.png",
