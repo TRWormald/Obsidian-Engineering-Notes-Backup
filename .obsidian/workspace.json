@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disk Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disk Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disk Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Fluids/Actuator Disk Theory (Windmills & Turbines).md"
+                "file": "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md"
               }
             }
           }
@@ -150,8 +150,9 @@
   "active": "61d320204f5af9d0",
   "lastOpenFiles": [
     "Engineering Year 1/Fluids/Actuator Disc Theory (Propellors).md",
-    "Engineering Year 1/Fluids/Actuator Disk Theory (Windmills & Turbines).md",
+    "Engineering Year 1/Fluids/Actuator Disc Theory (Windmills & Turbines).md",
     "Engineering Year 1/Fluids/Control Volume Analysis Introduction.md",
+    "Images & Attachments/Pasted image 20240317130400.png",
     "New folder",
     "repository",
     "Untitled.canvas",
@@ -176,7 +177,6 @@
     "Images & Attachments/Pasted image 20240314151254.png",
     "Images & Attachments/Screenshot 2024-03-14 145844.png",
     "Images & Attachments/Pasted image 20240314145255.png",
-    "Images & Attachments/Screenshot 2024-03-14 144441.png",
     "Engineering Year 1/Electrical/Induction.md",
     "Engineering Year 1/Electrical/Inductors.md",
     "Engineering Year 1/Electrical/Lorentz Force.md",
