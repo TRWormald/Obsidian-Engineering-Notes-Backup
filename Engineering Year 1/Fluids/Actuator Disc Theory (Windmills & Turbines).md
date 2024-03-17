@@ -37,4 +37,14 @@ $$\begin{align*}
 P_{disc}=-FV_{d}&= -\rho Q(V_{4}-V_{1})V_{d}\\&= \rho A_{d}V_{d}(V_{1}-V_{4})V_{d}\\&= \frac{1}{4}\rho A_{d}(V_{4}+V_{1})(V_{1}^{2}-V_{4}^{2})
 \end{align*}$$
 Calculating efficiency is slightly harder than with propellors and as such we have to consider the wind passing through the disc area as if the disc were not present (i.e. no change in area or velocity):
-$$P_{wind}=\frac{1}{2}$$
+$$P_{wind}=\frac{1}{2}\dot{m}V_{1}^{2}=\frac{1}{2}\rho A_{d}V_{1}V_{1}^{2}=\frac{1}{2}\rho A_{d}V_{1}^{3}$$
+The efficiency is therefore:
+$$\eta=\frac{P_{disc}}{P_{wind}}=\frac{\frac{1}{4}\rho A_{d}(V_{4}+V_{1})(V_{1}^{2}-V_{4}^{2})}{\frac{1}{2}\rho A_{d}V_{1}^{3}}=\frac{(V_{4}+V_{1})(V_{1}^{2}-V_{4}^{2})}{2V_{1}^{3}}$$
+We can find the maximum efficiency by differentiating with respect to $V_{4}$ and equating to zero defines the minimum/maximum. From this we find the efficiency is a maximum when:
+$$\begin{align*}
+\frac{\partial\eta}{\partial V_{4}}&= \frac{(V_{1}^{2}-V_{4}^{2})-2V_{4}(V_{1}+V_{4})}{2V_{1}^{3}}=0\\&= 3V_{4}^{2}+2V_{4}V_{1}-V_{1}^{2}
+\end{align*}$$
+$$\Rightarrow~~~V_{4}=\frac{-2V_{1}\pm\sqrt{4V_{1}^{2}+12V_{1}^{2}}}{6}$$
+$$\Rightarrow ~~~ \frac{V_{4}}{V_{1}}=\frac{-2\pm4}{6}$$
+Hence the maximum efficiency occurs when $\frac{V_{4}}{V_{1}}=\frac{1}{3}$ and the minimum efficiency
+Note that we differentiate with respect to $V_{4}$ because it is a factor that we can change (as $V_{1}$ is the wind speed).
