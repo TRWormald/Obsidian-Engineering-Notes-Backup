@@ -46,5 +46,9 @@ $$\begin{align*}
 \end{align*}$$
 $$\Rightarrow~~~V_{4}=\frac{-2V_{1}\pm\sqrt{4V_{1}^{2}+12V_{1}^{2}}}{6}$$
 $$\Rightarrow ~~~ \frac{V_{4}}{V_{1}}=\frac{-2\pm4}{6}$$
-Hence the maximum efficiency occurs when $\frac{V_{4}}{V_{1}}=\frac{1}{3}$ and the minimum efficiency
+Hence the maximum efficiency occurs when $\frac{V_{4}}{V_{1}}=\frac{1}{3}$ and the minimum efficiency occurs when $\frac{V_{4}}{V_{1}}=-1$.
+So the maximum efficiency we can have is:
+$$\eta= \frac{V_{1}^{3}}{V_{1}^{3}}\frac{(\frac{1}{3}+1)(1-\frac{1}{9})}{2}=0.59$$
+In reality $\eta\approx 0.15-0.3$.
+
 Note that we differentiate with respect to $V_{4}$ because it is a factor that we can change (as $V_{1}$ is the wind speed).
