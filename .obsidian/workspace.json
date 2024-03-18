@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md"
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "61d320204f5af9d0",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
     "Images & Attachments/Pasted image 20240318100720.png",
     "Images & Attachments/Pasted image 20240318100601.png",
     "Images & Attachments/Pasted image 20240318100537.png",
@@ -156,7 +158,6 @@
     "Engineering Year 1/AVDASI/Engineering/System Safety.md",
     "Engineering Year 1/AVDASI/Engineering/Propulsion.md",
     "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
-    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
     "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
     "Engineering Year 1/AVDASI/Engineering/Fly-by-Wire (FBW).md",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
@@ -188,7 +189,6 @@
     "Images & Attachments/Pasted image 20240314183735.png",
     "Images & Attachments/Screenshot 2024-03-14 154840.png",
     "Images & Attachments/Pasted image 20240314153447.png",
-    "Images & Attachments/Pasted image 20240314151254.png",
     "Engineering Year 1/Materials/Selection",
     "Engineering Year 1/Materials/Selection/Selecting for Physical Properties",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy",

@@ -20,10 +20,13 @@ There are several different forms of power sources on modern aircraft:
 - **Generators**
 These are the primary sources of electrical power on aircraft - they are driven by the aircraft engine (in light aircraft the system for converting the mechanical power to electrical power might be quite simple and produces a low voltage, whilst on a larger aircraft it involves auxiliary gearboxes with multiple generators converting into multiphase AC)
 - **Batteries**
+These are batteries - there's not much else to say about them. There are two main types: primary (non-rechargeable) cells, and secondary (rechargeable) cells.
 - **APU (Auxiliary Power Unit)**
+This is a small gas turbine that is used to start the engines, and provides backup for the hydraulic pneumatic and electrical power systems. It is started via the batteries.
 - **RAT (Ram Air Turbine)**
+This is an emergency air driven generator that is dropped into the air stream of a moving aircraft when other systems have failed. It will provide hydraulic as well as electrical power in the case of a failure of both the engine driven generators and the APU.
 - **Ground Power**
-
+This is where the aircraft is 'plugged in' to a generator on the ground meaning that it doesn't need to use any of its fuel/the energy stored in its batteries.
 #### Fixed or Variable Frequency
 Aircraft engines operate at variable speeds, so a generator attached to them will have variable output frequency.
 This is not a problem where the output is rectified immediately.
