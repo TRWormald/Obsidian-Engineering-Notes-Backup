@@ -8,3 +8,24 @@ In AC single phase we have a single live, neutral, and earth terminal.
 ![[Pasted image 20240318100601.png]]
 Three Phase AC systems feature phase voltages displaced by $120\degree$. Most higher power systems are 3 phase AC.  
 ![[Pasted image 20240318100720.png]]
+The advantages of three phase AC are as follows:
+- At any point in time the sum of the three sine waves is zero. So in a balanced three phase system there is no neutral current (so there doesn't need to be a neutral return wire.)
+- Three out of phase currents generate a rotating magnetic field, which simplifies the design of electric motors, as no starting circuit is required.
+- The current is transmitted with only three connectors instead of six, because the return lines for each phase are not necessary, this halves the path covered by the flow of electrons, and thus the resistance, which is half with respect to a mono-phase system.
+#### Key Terminology
+**Rectification** - This is the process of going from AC to DC and can be carried out mechanically or electrically (with passive or active components)
+**Inversion** - This is the process of going from DC to AC and is complex to achieve with mechanical components.
+#### Aircraft Electrical Power Sources
+There are several different forms of power sources on modern aircraft:
+- **Generators**
+These are the primary sources of electrical power on aircraft - they are driven by the aircraft engine (in light aircraft the system for converting the mechanical power to electrical power might be quite simple and produces a low voltage, whilst on a larger aircraft it involves auxiliary gearboxes with multiple generators converting into multiphase AC)
+- **Batteries**
+- **APU (Auxiliary Power Unit)**
+- **RAT (Ram Air Turbine)**
+- **Ground Power**
+
+#### Fixed or Variable Frequency
+Aircraft engines operate at variable speeds, so a generator attached to them will have variable output frequency.
+This is not a problem where the output is rectified immediately.
+However with an AC distribution system this can cause the frequency to vary resulting in problems with some loads which require a fixed frequency.
+A way to fix this is to drive the generator through a constant speed gearbox.
