@@ -12,3 +12,6 @@ There are many cases that the aircraft type probably won't experience during its
 This is a common critical case for lifting surfaces, we can calculate the maximum load:
 $$L_{max}=C_{L_{max}} \frac{1}{2}\rho V^{2}_{max}S$$
 There is a speed where the aircraft stalls just as it is reaching maximum load. This is known as the manoeuvre speed. Below this speed it is not possible to break the aircraft through use of full control inputs, because the lifting surfaces will stall first, limiting the maximum load.
+#### Finding Loads
+An ultimate load test verifies the structural response (usually buckling), but what are the loads? Sometimes they are easy to estimate, sometimes very hard.
+If you overestimate loads you aircraft will be unnecessarily heavy and therefore not be able to fly as far/carry as many passengers etc.
