@@ -1,0 +1,1 @@
+Modern civil aircraft use electrical power for a wide variety of tasks and have a correspondingly higher demand. They feature multiple generators and system voltages, and are architected to provide redundancy in case of individual component failure. A typical system includes a 3 phase 115V AC system for high power loads and a back-up system based around a 28V DC supply.

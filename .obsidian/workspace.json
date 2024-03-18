@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gear",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md"
+                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "61d320204f5af9d0",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Engineering/Hydraulic Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/System Safety.md",
+    "Engineering Year 1/AVDASI/Engineering/Propulsion.md",
+    "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
     "Engineering Year 1/AVDASI/Engineering/Fly-by-Wire (FBW).md",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
@@ -157,10 +163,6 @@
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Engineering Year 1/AVDASI/Engineering/PID Control.md",
-    "Engineering Year 1/AVDASI/Engineering/Military Aircraft Design.md",
-    "Engineering Year 1/AVDASI/Engineering/Propulsion.md",
-    "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
-    "Engineering Year 1/AVDASI/Engineering/Hydraulic Systems.md",
     "Engineering Year 1/AVDASI/Engineering/Civil Aircraft Design.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
@@ -173,8 +175,6 @@
     "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
-    "Untitled.md",
-    "Engineering Year 1/Maths/Numerical Methods/Finding Roots/Fixed Point Iteration.md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots",
     "Images & Attachments/Pasted image 20240317130400.png",
     "New folder",
