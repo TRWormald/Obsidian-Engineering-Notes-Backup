@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
-                "mode": "source",
+                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md"
+                "file": "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "61d320204f5af9d0",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
     "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
+    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
     "Images & Attachments/Pasted image 20240318100720.png",
     "Images & Attachments/Pasted image 20240318100601.png",
     "Images & Attachments/Pasted image 20240318100537.png",
