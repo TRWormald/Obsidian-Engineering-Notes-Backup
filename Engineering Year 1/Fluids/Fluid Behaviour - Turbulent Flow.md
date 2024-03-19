@@ -5,4 +5,12 @@ Large eddies interact with each other and produce smaller eddies, which then int
 
 In detail, turbulent flow is unsteady, 3D and (apparently) random. However, when it is time-averaged the flow becomes steady.
 ### Turbulent Boundary Layer
-In []
+In [[Fluid Behaviour - Laminar Flow#Flow Over a Flat Plate|Laminar Flow]] shear stress (viscosity) is due to lateral momentum transfer at the molecular level.
+In turbulent flow 'large-scale' mixing provides an additional mechanism for lateral momentum transfer - this means that the effective shear stress is greatly increased.
+The graph below shows the velocity profile of both laminar and turbulent flow.
+![[Screenshot 2024-03-19 161319 1.png]]
+We can see that the velocity doesn't return to the freestream's magnitude until much later in the turbulent flow and that the velocity reduces to zero much faster in comparison to the laminar flow.
+### Turbulence Transition Mechanism
+Transition from laminar to turbulent flow can be idealised by the stages shown below:
+![[Pasted image 20240319162342.png|center|400]]
+However, in analysis transition is often taken as instantaneous. The factors that have a strong effec
