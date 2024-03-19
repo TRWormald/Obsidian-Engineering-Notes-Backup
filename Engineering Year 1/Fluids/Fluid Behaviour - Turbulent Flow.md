@@ -13,4 +13,8 @@ We can see that the velocity doesn't return to the freestream's magnitude until 
 ### Turbulence Transition Mechanism
 Transition from laminar to turbulent flow can be idealised by the stages shown below:
 ![[Pasted image 20240319162342.png|center|400]]
-However, in analysis transition is often taken as instantaneous. The factors that have a strong effec
+However, in analysis transition is often taken as instantaneous. The factors that have a strong effect on the onset and length of transition include: 
+- Reynolds Number
+- Streamwise pressure gradient (i.e. whether the flow is accelerating or decelerating - slowing flows transition earlier & vice versa. Some accelerating turbulent flows can even become laminar again)
+- Surface roughness (if the surface is rough it increases the number of disturbances in the flow and allows it to become turbulent faster)
+- Turbulence in the freestream - this has a similar effect to surface roughness
