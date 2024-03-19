@@ -15,3 +15,14 @@ There is a speed where the aircraft stalls just as it is reaching maximum load. 
 #### Finding Loads
 An ultimate load test verifies the structural response (usually buckling), but what are the loads? Sometimes they are easy to estimate, sometimes very hard.
 If you overestimate loads you aircraft will be unnecessarily heavy and therefore not be able to fly as far/carry as many passengers etc.
+
+#### Scale Modelling of Loads
+When modelling ditching at scale the Froude number ($Fr$) must be matched to compare your results to the full scale. This is a [[Dimensionless Number]] and for the correct simulated damage we must also have the correct ratio of maximum stress to dynamic pressure of the water.
+We calculate the Froude number as follows:
+$$Fr=\frac{u}{\sqrt{gL}}$$
+Where $u$ is the speed of the aircraft/model, $g$ is the acceleration due to gravity, and $L$ is a characteristic length (probably the chord length or something similar).
+So we would compare in the following way:
+$$\frac{u_{1}}{\sqrt{gL_{1}}}=\frac{u_{2}}{\sqrt{gL_{2}}}$$
+Hence if we want to find the speed ($u_{1}$) at which the model ditches:
+$$u_{1}= \frac{u_{2}\sqrt{gL_{1}}}{\sqrt{gL_{2}}}$$
+$$u_{1}=u_{2}\sqrt{\frac{L_{1}}{L_{2}}}$$
