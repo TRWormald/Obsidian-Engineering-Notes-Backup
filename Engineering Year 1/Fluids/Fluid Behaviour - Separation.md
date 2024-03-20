@@ -25,4 +25,11 @@ We are primarily interested in high Re flow - for which there are three main cat
 \
 These conditions can be seen in the three diagrams on the right in the image above in their corresponding order.
 Note that the wider the wake the higher the suction and hence the greater the drag.
-![[Screenshot 2024-03-20 113602.png]]
+![[Screenshot 2024-03-20 113602.png|center|600]]
+### Lift and Drag Definitions
+We can integrate the forces on a body into components normal to the flow (Lift or Vertical Thrust) and parallel to the flow (Drag).
+These forces have two parts, formed from the integration of pressure, $p$, and shear stress, $\tau_{w}=(\tau_{x},\tau_{y})$, around the body.
+For a 2D shape in a flow aligned with the x-axis, the force per unit span is given by:
+$$D=\int\tau_{x}\cdot dx-\int pn_{x}\cdot dy$$
+$$L=\int\tau_{y}\cdot dy-\int pn_{y}\cdot dx$$
+
