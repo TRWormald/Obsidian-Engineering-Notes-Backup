@@ -36,4 +36,4 @@ Rearranging to make $y(t+h)$ the solution of the equation:
 $$y(t+h)=y(t)+hf(t,y(t))$$
 Or in another form:
 $$y_{n+1}=y_{n}+hf(t_{n},y_{n})$$
-Which is our Euler method definition
+Which is our Euler method definition.
