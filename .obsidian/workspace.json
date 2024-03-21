@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md"
+                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "3faf80fd6484a1b7",
   "lastOpenFiles": [
-    "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+    "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
+    "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
     "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md",
     "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Images & Attachments/Pasted image 20240321141948.png",
@@ -198,7 +199,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vertex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/From Navier-Stokes to Bernoulli.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots",
     "New folder",
     "repository",
