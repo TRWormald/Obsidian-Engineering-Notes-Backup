@@ -25,3 +25,4 @@ $$x(t_{1})=x_{0}+f(x_{0},t_{0})h+\frac{x''(t_{0})}{2}h^{2}$$
 Which looks like the Euler scheme but with extra terms. The local error for $x_{1}$ is $x_{1}-x(t_{1})$ and:
 $$x_{1}-x(t_{1})\approx\frac{x''(t_{0})}{2}h^2$$
 So the error will decrease if we make the size of the steps smaller.
+In other words the Euler Method has local error $O(h^{2})$ and global error $O(h)$.
