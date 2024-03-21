@@ -26,3 +26,14 @@ Which looks like the Euler scheme but with extra terms. The local error for $x_{
 $$x_{1}-x(t_{1})\approx\frac{x''(t_{0})}{2}h^2$$
 So the error will decrease if we make the size of the steps smaller.
 In other words the Euler Method has local error $O(h^{2})$ and global error $O(h)$.
+### The Derivation
+Given an initial value problem, with stepsize $h$:
+$$\frac{dy}{dt}=f(t,y),~~~y(0)=y_{0}$$
+We can approximate the gradient of this function by iterating $y$ by $h$ and finding the delta, and then dividing by $h$:
+$$\frac{y(t+h)-y(t)}{h}\approx \frac{dy}{dt}=f(t,y)$$
+If we consider what is going on here the function of $y$ is changing and we are calculating the change in it over an iteration of $h$ (so we are finding $\Delta y$), and $h$ is the change in the value along the x-axis ($t$), so we have $\frac{\Delta y}{\Delta x} =\text{grad}$.   
+Rearranging to make $y(t+h)$ the solution of the equation:
+$$y(t+h)=y(t)+hf(t,y(t))$$
+Or in another form:
+$$y_{n+1}=y_{n}+hf(t_{n},y_{n})$$
+Which is our Euler method definition

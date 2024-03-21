@@ -18,4 +18,9 @@ First we take a half step:
 $$x_\frac{1}{2}=x_{0}+ \frac{h}{2}f(x_{0},t_{0})=1+0.25\times1=1.25$$
 Which we then use to find the full step:
 $$x_{1}=x_{0}+hf(x_{\frac{1}{2}},t_{\frac{1}{2}})=1+0.5\times1.25=1.625$$
+\
+Repeating this process, now with $x(0.5)=x_{1}=1.625$ and $t_{1}=0.5$, the half step gives us:
+$$x_{1+ \frac{1}{2}}=1.625+0.5\times 1.625=2.03125$$
+Whilst using it to get the full step garners:
+$$x(1)=x_{2}=1.625+0.5\times 2.03125=2.640625$$
 
