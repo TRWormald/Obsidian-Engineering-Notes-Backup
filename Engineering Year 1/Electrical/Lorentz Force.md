@@ -13,3 +13,9 @@ Where $I$ is the current in the wire, and $l$ is the length of wire in the magne
 We can use the left hand rule to determine the direction of the force:
 ![[Pasted image 20240322112638.png|center|500]]
 Where the thumb represents the direction force, the first finger points the direction of the field, and the second finger points the direction of the current.
+
+### Relating the Lorentz force to EMF
+We know that using [[Induction#Faraday's Law of Induction|Faraday's Law]] we can calculate the EMF produced when a magnet moves within a coil of wire, and using the Lorentz force we can calculate the force on a wire from a magnetic field. Using these two facts we can calculate the EMF generated based on the velocity of a wire in a magnetic field.
+![[Screenshot 2024-03-22 114915 1.png|center|500]]
+
+
