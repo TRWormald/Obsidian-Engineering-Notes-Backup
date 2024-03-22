@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f7f8c4c3a714ef",
+        "id": "d09290a1a56e27c1",
         "type": "tabs",
         "children": [
           {
-            "id": "0e74cd808443eca2",
+            "id": "5bd3d277f7255a93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983e01a4cdbc3544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e74cd808443eca2",
+  "active": "5bd3d277f7255a93",
   "lastOpenFiles": [
     "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
     "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
