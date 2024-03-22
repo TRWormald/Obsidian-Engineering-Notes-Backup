@@ -7,4 +7,5 @@ All electric machines have the capability of converting in both directions:
 - Mechanical to Electrical - Generator
 - Electrical to Mechanical - Motor
 ### Machine Types
-#### Brushed Motors
+#### Brushed Machines
+

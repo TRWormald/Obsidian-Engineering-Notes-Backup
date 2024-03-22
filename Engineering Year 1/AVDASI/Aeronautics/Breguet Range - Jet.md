@@ -51,7 +51,7 @@ We can make several interesting observations about it:
 - We want to maximise our speed $V$ as this results in a better fuel efficiency
 - $C_{L}/C_{D}$ is a measure of aerodynamic efficiency - i.e. we want to minimise drag.
 - $W_{1}/W_{2}$ is a measure of structural efficiency - i.e. we want to minimise the fixed weight $W_{2}$
-- 
+
 **A more common notation for commercial aircraft is:**
 $$\boxed{R=\frac{a}{fg}\left(M \frac{L}{D}\right)\ln\left(\frac{W_{1}}{W_{2}}\right)}$$
 Where $a$ is the speed of sound $M$ is the Mach number, and $M(L/D)$ becomes the important aerodynamic parameter for range.

@@ -10,4 +10,6 @@ Where $\theta$ is the angle between $v$ and $B$.
 For a current carrying wire the force applied to it is:
 $$F=B\cdot I\cdot l$$
 Where $I$ is the current in the wire, and $l$ is the length of wire in the magnetic field.
-We can use the right hand rule to determine the direction of the force.
+We can use the left hand rule to determine the direction of the force:
+![[Pasted image 20240322112638.png|center|500]]
+Where the thumb represents the direction force, the first finger points the direction of the field, and the second finger points the direction of the current.
