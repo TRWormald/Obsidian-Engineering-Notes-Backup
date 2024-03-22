@@ -5,3 +5,6 @@ Where $B$ is the magnetic field strength, $i$ is the current, $l$ is the length 
 \
 If we have a bundle of $N$ wires carrying $i$ amps then:
 $$F=NBil\sin\theta=k_ei\sin\theta,~~~~~~\text{where } k_{e}=BlN $$
+We also know that we can calculate the EMF induced in a wire moving through a magnetic field using the equation:
+$$F=B\cdot l\cdot v$$
+And can again use Fleming's left hand rule to deter
