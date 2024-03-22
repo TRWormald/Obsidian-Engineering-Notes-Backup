@@ -9,7 +9,7 @@ We also know that we can calculate the EMF induced in a wire moving through a ma
 $$\epsilon=B\cdot l\cdot v$$
 And can use [[Fleming's Left and Right Hand Rules|Fleming's Right Hand Rule]] rule to determine the direction of the induced current/voltage.
 If we apply this to a bundle of $N$ wires moving together at $v$ m/s:
-$$\epsilon=ElvN\sin\theta=k_{e}v\sin\theta,~~~~~~\text{where }k_{e}=BlN$$
+$$\epsilon=BlvN\sin\theta=k_{e}v\sin\theta,~~~~~~\text{where }k_{e}=BlN$$
 Where $\theta$ is the angle between the wires and the magnetic field.
 \
 **These effects are not isolated, and frequently we get both at the same time.**
