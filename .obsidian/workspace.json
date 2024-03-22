@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bd3d277f7255a93",
+            "id": "23fa625bd523596a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bd3d277f7255a93",
+  "active": "23fa625bd523596a",
   "lastOpenFiles": [
     "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md",
     "Engineering Year 1/Maths/Numerical Methods/Finding Roots/The Newton-Raphson Method.md",
