@@ -34,3 +34,15 @@ Hence we can create a table comparing the two systems:
 ![[Pasted image 20240416110052.png|center]]
 ### Using Series Circuits to model Complex Thermal Systems
 What happens if we have two materials with different thermal conductivities in series?
+![[Pasted image 20240416110320.png|center|400]]
+Note that $A_{1}=A_{2}$
+So:
+$$R_{t1}=\frac{x_{2}-x_{1}}{k_{1}\cdot A}$$
+$$R_{t2}=\frac{x_{3}-x_{2}}{k_{2}\cdot A}$$
+We can model this instead as two resistors in series:
+![[Pasted image 20240416110516.png|center|250]]
+So the equivalent resistance is equal to:
+$$R_{e,sys}=R_{e1}+R_{e2}$$
+Therefore, the thermal resistance of the whole system is equal to:
+$$R_{t,sys}=R_{t1}+R_{t2}=\frac{x_{2}-x_{1}}{k_{1}\cdot A}+\frac{x_{3}-x_{2}}{k_{2}\cdot A}$$
+
