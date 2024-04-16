@@ -1,5 +1,5 @@
 ### What is Piezoelectricity?
-Piezoelectricity is the process of pressure resulting in a build up of electrical charge.
+Piezoelectricity is the process of pressure resulting in a build up of electrical charge. It is an electro-mechanical coupling mechanism allowing us to relate potential difference and mechanical force.
 \
 **The Piezoelectric Effect** - Striking a piezoelectric material (applying a force; resulting in mechanical stress) results in a potential difference ($V$) across the material.
 **Reverse Piezoelectric Effect** - A potential difference ($V$) across the material results in mechanical deformation.
@@ -24,6 +24,13 @@ If we consider this problem dimensionally:
 Therefore:
 - Piezoelectric Voltage Constant - $m^{2}/C$
 \
-Typical Values:
-For a single crystal - 
+**Typical Values:**
+For a single crystal - $20\times 10^{-3}$ to $50\times 10^{-3}~m^{2}/C$
+For piezoelectric polymers - $100\times 10^{-3}$ to $300\times 10^{-3}~m^{2}/C$
+
+#### The Piezoelectric Equation
+The equation relating the voltage and force is as follows:
+$$V=\frac{g\cdot F\cdot t}{A}$$
+Where $g$ is the piezoelectric voltage constant, $F$ is the force applied/resultant, $t$ is the thickness of the material, $A$ is the cross sectional area of the material, and $V$ is the potential difference across the material.
+![[Pasted image 20240416094806.png|center|300]]
 
