@@ -1,3 +1,8 @@
+---
+aliases:
+  - Streamlines
+  - Streamline
+---
 ### Pathlines
 These are the path traced by an element of fluid over an interval in time. They are specific to single elements of fluids.
 Below is an example of a pathline.
@@ -12,3 +17,4 @@ A streamline is the curve drawn from the flow field at an instant in time, whose
 The 3D equivalent of a streamline is a stream tube.
 ###
 Pathlines, streaklines and streamlines are identical in **steady flow**, but in general unsteady flows they are different. (However this year we will only be solving steady flows.)
+

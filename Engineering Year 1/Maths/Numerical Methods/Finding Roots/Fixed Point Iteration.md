@@ -1,7 +1,7 @@
 ### The Basics
 Let $g(x)$ be any real-valued function. We say that $c$ is a **fixed point** of $g$ if:
 $$g(c)=c$$
-Ife we are trying to find the root of a function $f(x)$, one possibility is to rearrange $f(x)=0$ into the form $g(x)=x$ and then apply $g$ iteratively on an initial guess, so that $x_{n+1}=g(x_n).$ In some cases this will lead to a  better and better approximation of the root of $f$. This process is called **fixed point iteration**.
+If we are trying to find the root of a function $f(x)$, one possibility is to rearrange $f(x)=0$ into the form $g(x)=x$ and then apply $g$ iteratively on an initial guess, so that $x_{n+1}=g(x_n).$ In some cases this will lead to a  better and better approximation of the root of $f$. This process is called **fixed point iteration**.
 For example given the following function to find the root of :
 $$f(x)=x^4-3x+1$$
 We would say that one of the possible fixed points is:

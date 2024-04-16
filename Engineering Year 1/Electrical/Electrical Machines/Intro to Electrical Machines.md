@@ -6,6 +6,5 @@ They all rely on the same basic set of principals - they all exchange energy bet
 All electric machines have the capability of converting in both directions:
 - Mechanical to Electrical - Generator
 - Electrical to Mechanical - Motor
-### Machine Types
-#### Brushed Machines
+
 
