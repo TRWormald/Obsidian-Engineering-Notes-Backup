@@ -19,3 +19,5 @@ Hence:
 $$I=C_{e}\cdot \frac{d(V_{2}-V_{1})}{dt}$$
 And again $\frac{dV_{1}}{dt}=0$ so:
 $$I=C_{e}\cdot \frac{dV_{2}}{dt}$$
+So what we can see is that the two situations are equivalent as all of the equations are the same and the components and properties have equivalents the other:
+![[Pasted image 20240416103048.png|center]]
