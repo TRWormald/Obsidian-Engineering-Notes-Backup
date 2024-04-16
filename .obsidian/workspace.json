@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad8492ab9834eb24",
+            "id": "367559be45e9fd12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f61352105eb39049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md"
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md"
               }
             }
           }
@@ -142,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
+                "file": "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,14 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad8492ab9834eb24",
+  "active": "367559be45e9fd12",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
+    "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
+    "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Images & Attachments/Pasted image 20240416110516.png",
     "Images & Attachments/Pasted image 20240416110320.png",
     "Images & Attachments/Pasted image 20240416110052.png",
     "Images & Attachments/Pasted image 20240416105651.png",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
-    "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Images & Attachments/Pasted image 20240416103048.png",
     "Images & Attachments/Pasted image 20240416102534.png",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Pressure.md",
@@ -217,13 +231,10 @@
     "Engineering Year 1/Electrical/Induction.md",
     "Engineering Year 1/Electrical/Lorentz Force.md",
     "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
-    "Images & Attachments/Pasted image 20240416091531.png",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
     "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
-    "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
-    "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
     "Engineering Year 1/AVDASI/Engineering/System Safety.md",
     "Engineering Year 1/AVDASI/Engineering/Propulsion.md",
     "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
