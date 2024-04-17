@@ -11,5 +11,12 @@ We can also represent this using an 'equivalent height' or pressure head in the 
 $$\Delta p+\rho g\Delta z=\rho g \Delta h$$
 Where $\Delta h$ is the change in height relative to a fixed point, allowing us to show how the viscous effects have changed.
 This leads into the idea of the 'grade line', GL.
-For inviscid flow the grade line is flat as there is no loss in pressure and dyn
+For inviscid flow we get the following:
+![[Pasted image 20240417093641.png]]
+Note how there is the energy grade line which is in line with the top of the fluid in the tank (this is equal to the sum of static, hydrostatic, and dynamic pressures) and also the **hydraulic grade line** which varies from the energy GL as it is only the sum of the static and hydrostatic pressures, resulting in a difference of $\frac{1}{2}\rho V^{2}$.
+\
+If we no longer assume that the fluid is inviscid we get the following grade line:
 ![[Pasted image 20240417092931.png|center]]
+The grade line decreases along the length as the viscous losses increase with distance.
+Note the presence of the $\Delta h_{ent}$ (sometimes called 'minor losses'), this is the change in height of the grade line due to the viscous effects of the entry to the pipe along with the losses associated with going from a static fluid to one with velocity.
+As we move along the pipe we see a greater decrease in height \Delta
