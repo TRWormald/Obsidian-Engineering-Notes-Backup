@@ -19,4 +19,15 @@ If we no longer assume that the fluid is inviscid we get the following grade lin
 ![[Pasted image 20240417092931.png|center]]
 The grade line decreases along the length as the viscous losses increase with distance.
 Note the presence of the $\Delta h_{ent}$ (sometimes called 'minor losses'), this is the change in height of the grade line due to the viscous effects of the entry to the pipe along with the losses associated with going from a static fluid to one with velocity.
-As we move along the pipe we see a greater decrease in height \Delta
+As we move along the pipe we see a greater decrease in height $\Delta h$ which is a result of the viscous effects. 
+### Finding the Friction Factor
+This year we will be given a single value or a formula to calculate it in the question.
+\
+For laminar flow in pipes:
+$$f_{D}=64 Re_{D}^{-1}$$
+For turbulent flow in smooth pipes:
+$$f_{D}\approx0.316 Re_{D}^{-0.25}$$
+In general cases, if the Reynold's Number is less than two thousand ($Re_{D}<2000$) then the flow is laminar, and if it is greater than or equal to two thousand ($Re_{D}\ge 2000$) then the flow is turbulent.
+\
+Note that for non circular pipes $D$ is replaced by the hydraulic diameter $D=4\cdot \frac{\text{Area}}{\text{Diameter}}$.
+### Minor Losses
