@@ -48,5 +48,11 @@ $$Q=A_{1}V_{1}=A_{2}V_{2}$$
 $$p_{1}+ \frac{1}{2}\rho V_{1}^{2}=p_{2}+ \frac{1}{2}\rho V^{2}_{2}+\Delta p_{loss}$$
 **Using the steady flow momentum equation in the x-direction:**
 $$p_{1}A_{1}+p_{1}(A_{2}-A_{1})-p_{2}A_{2}=\rho Q(V_{2}-V_{1})$$
-$$\Rightarrow (p_{1}-l)$$
+$$\Rightarrow (p_{1}-p_{2})A_{2}=\rho Q(V_{2}-V_{1})$$
+$$ \begin{align*}
+\Rightarrow (p_{1}-p_{2})A_{2}&= \rho V_{1}A_{1}\left(V_{1} \frac{A_{1}}{A_{2}}-V_{1}\right)\\
+&= \rho V_{1}^{2}A_{1}\left(\frac{A_{1}}{A_{2}}-1\right)\\
+&= \frac{1}{2}\rho V_{1}^{2}\cdot 2\left(\frac{A_{1}^{2}}{A_{2}}-A_{1}\right)\\
+&= \frac{1}{2}\rho V^{2}_{1}\left(2 \frac{A_{1}}{A_{2}}(A_{1}-A_{2})\right)
+\end{align*}$$
 #### Example 2 - Loss at an abrupt contraction
