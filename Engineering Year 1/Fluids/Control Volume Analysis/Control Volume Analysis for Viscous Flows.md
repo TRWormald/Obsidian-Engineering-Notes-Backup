@@ -37,3 +37,16 @@ $$\boxed{\text{Loss Coefficient}=k=  \frac{{\Delta p_{loss}}}{\frac{1}{2}\rho V^
 If there is more than one local dynamic pressure, then use the highest value.
 The values of loss coefficient are found from testing, however we can derive some from control volume analysis.
 ![[Pasted image 20240417105527.png|center|400]]
+#### Example 1 - Loss at an abrupt enlargement
+**Assumptions -** Straight streamlines at inlet and outlet, so uniform conditions at 1 and 2. The flow is steady, frictionless, and incompressible. We also assume that there is low curvature at the enlargement and that there is low velocity flow in the recirculation regions.
+![[Pasted image 20240417190352.png|center|450]]
+From our assumptions we know that:
+$$p_{C}=p_{B}\approx p_{1}$$
+**Applying the continuity equation:**
+$$Q=A_{1}V_{1}=A_{2}V_{2}$$
+**Applying Bernoulli's Equation Between 1 and 2:**
+$$p_{1}+ \frac{1}{2}\rho V_{1}^{2}=p_{2}+ \frac{1}{2}\rho V^{2}_{2}+\Delta p_{loss}$$
+**Using the steady flow momentum equation in the x-direction:**
+$$p_{1}A_{1}+p_{1}(A_{2}-A_{1})-p_{2}A_{2}=\rho Q(V_{2}-V_{1})$$
+$$\Rightarrow (p_{1}-l)$$
+#### Example 2 - Loss at an abrupt contraction
