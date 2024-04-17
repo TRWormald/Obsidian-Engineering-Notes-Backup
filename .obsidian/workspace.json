@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "fbc128b23d4730c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Electrical/Piezoelectrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "272d0817c548539a",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Piezoelectrics.md",
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Piezoelectrics.md",
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Electrical/Piezoelectrics.md"
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md"
               }
             }
           }
@@ -179,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Piezoelectrics.md",
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,11 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbc128b23d4730c3",
+  "active": "f4f19002c45cdcf2",
   "lastOpenFiles": [
-    "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
+    "Engineering Year 1/Electrical/Piezoelectrics.md",
+    "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Images & Attachments/Pasted image 20240417105527.png",
     "Images & Attachments/Pasted image 20240417093641.png",
     "Images & Attachments/Pasted image 20240417093423.png",
@@ -251,7 +240,6 @@
     "Images & Attachments/Pasted image 20240416103048.png",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Pressure.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
-    "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits",
     "Engineering Year 1/Electrical/Untitled.canvas",
     "Engineering Year 1/Electrical/Electrical Machines/The Equivalent Circuit for a brushed DC Machine.md",
