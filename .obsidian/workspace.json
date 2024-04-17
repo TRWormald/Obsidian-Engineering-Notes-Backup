@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md"
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
+                "file": "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,10 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "272d0817c548539a",
+  "active": "f4f19002c45cdcf2",
   "lastOpenFiles": [
-    "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
+    "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
     "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Images & Attachments/Pasted image 20240417105527.png",
