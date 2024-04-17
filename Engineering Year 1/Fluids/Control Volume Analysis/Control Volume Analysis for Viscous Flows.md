@@ -31,3 +31,9 @@ In general cases, if the Reynold's Number is less than two thousand ($Re_{D}<200
 \
 Note that for non circular pipes $D$ is replaced by the hydraulic diameter $D=4\cdot \frac{\text{Area}}{\text{Diameter}}$.
 ### Minor Losses
+These are the losses associated with junctions, expansions, contractions, and bends - despite their name they can be very large.
+They are defined in terns of the local dynamic pressure and a loss coefficient $k$:
+$$\boxed{\text{Loss Coefficient}=k=  \frac{{\Delta p_{loss}}}{\frac{1}{2}\rho V^{2}}}$$
+If there is more than one local dynamic pressure, then use the highest value.
+The values of loss coefficient are found from testing, however we can derive some from control volume analysis.
+![[Pasted image 20240417105527.png|center|400]]
