@@ -49,4 +49,8 @@ As we are considering a square beam we know that:
 $$\sigma_{y}\ge \frac{M}{Z_{e}}=\frac{6M}{bh^{2}}=\frac{6M}{h^{3}}$$
 The objective and constraint equations are coupled by the area so we can eliminate this free variable:
 $$h=\left(\frac{6M}{\sigma_{y}}\right)^\frac{1}{3}$$
-$$A=h^{2}=$$
+$$A=h^{2}=\left(\frac{6M}{\sigma_{y}}\right)^\frac{2}{3}$$
+$$m=L_{0}(6M)^{\frac{2}{3}} \left(\frac{\rho}{\sigma_{y}^{\frac{2}{3}}}\right)$$
+We can then extract the material properties to get the index and reciprocal index:
+$$M=\frac{\rho}{\sigma_{y}^{\frac{2}{3}}}~~~\text{or}~~~M=\frac{\sigma_{y}^{\frac{2}{3}}}{\rho} $$
+With the latter being very similar to the specific strength.
