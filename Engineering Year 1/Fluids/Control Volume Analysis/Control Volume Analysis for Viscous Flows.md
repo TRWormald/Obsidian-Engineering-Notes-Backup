@@ -57,7 +57,15 @@ $$\Rightarrow(p_{1}-p_{2})=\rho V_{1}^{2} \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{
 **Substituting this into Bernoulli's Equation solved for $\Delta p_{loss}$ we get:**
 $$\begin{align*}
 \Delta p_{loss}&= \rho V_{1}^{2} \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{A_{2}}-1\right)+ \frac{1}{2}\rho V_{1}^{2}\left(1-\left(\frac{A_{1}}{A_{2}}\right)^{2}\right)\\
-&= \frac{1}{2}\rho V_{1}^{2}\left[2 \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{A_{2}}-1\right)\right]
-\end{align*}$$
+&= \frac{1}{2}\rho V_{1}^{2}\left[2 \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{A_{2}}-1\right)+\left(1-\frac{A_{1}}{A_{2}}\right)\left(1+\frac{A_{1}}{A_{2}}\right)\right]\\
+&= \frac{1}{2}\rho V_{1}^{2}\left(1- \frac{A_{1}}{A_{2}}\right)^{2}
+\end{align*}$$**Hence:**
+$$\text{Loss Coefficient}= \frac{\Delta p_{loss}}{\frac{1}{2}\rho V_{1}^{2}}=\left(1- \frac{A_{1}}{A_{2}}\right)^{2}$$
+
 
 #### Example 2 - Loss at an abrupt contraction
+For a contraction we apply the same method as above, but this time between the Vena-Contracta and 2:
+![[Pasted image 20240418143808.png|center|450]]
+This results in:
+$$\Delta p_{loss}=\frac{1}{2}\rho V_{2}^{~2}\left(1- \frac{A_{2}}{A_{c}}\right)^{2}=\frac{1}{2}\rho V_{2}^{~2}k$$
+And therefore $A_{c}$ and the loss coefficient $k$ are functions of the area ratio $A_{2}/A_{1}$.
