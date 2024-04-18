@@ -21,3 +21,16 @@ $$
 And as a result the material index is therefore:
 $$M=\frac{\rho}{\sigma_{f}} ~\text{or } M=\frac{\sigma_{f}}{\rho} =\text{Reciprocal merit index (to minimise m)}$$
 Note that the reciprocal merit index is the specific strength of the material.
+### Example: Strong Light Beams
+
+|                    | Translation Table                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| **Function**       | Beam in bending                                                                        |
+| **Constraints**    | Support moment $M$ without any yield<br>Length specified<br>Square cross-section (b=h) |
+| **Objectives**     | Minimise mass                                                                          |
+| **Free Variables** | Choice of material<br>Cross-sectional area $A$                                         |
+Just like with the tie the mass objective equation is the same:
+$$m=\rho AL_{0}$$
+However we have to now consider the yield strength of the beam. This is related to [[Longitudinal Stresses in Beams#The Euler-Bernoulli Beam Theory|Euler-Bernoulli Beam Theory]]:
+$$\frac{M}{I}=\frac{\sigma}{y}=\frac{E}{R}$$
+In this instance we only want to compare the bending moment $M$
