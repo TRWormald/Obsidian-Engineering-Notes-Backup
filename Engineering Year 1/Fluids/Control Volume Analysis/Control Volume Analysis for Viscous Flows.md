@@ -36,6 +36,7 @@ They are defined in terns of the local dynamic pressure and a loss coefficient $
 $$\boxed{\text{Loss Coefficient}=k=  \frac{{\Delta p_{loss}}}{\frac{1}{2}\rho V^{2}}}$$
 If there is more than one local dynamic pressure, then use the highest value.
 The values of loss coefficient are found from testing, however we can derive some from control volume analysis.
+Below we can see some of the losses experienced in a pipe system:
 ![[Pasted image 20240417105527.png|center|400]]
 #### Example 1 - Loss at an abrupt enlargement
 **Assumptions -** Straight streamlines at inlet and outlet, so uniform conditions at 1 and 2. The flow is steady, frictionless, and incompressible. We also assume that there is low curvature at the enlargement and that there is low velocity flow in the recirculation regions.
