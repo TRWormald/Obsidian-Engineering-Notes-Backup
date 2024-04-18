@@ -54,6 +54,10 @@ $$\begin{align*}
 &= \rho V_{1}A_{1}\left(V_{1} \frac{A_{1}}{A_{2}}-V_{1}\right)\\
 \end{align*}$$
 $$\Rightarrow(p_{1}-p_{2})=\rho V_{1}^{2} \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{A_{2}}-1\right)$$
-
+**Substituting this into Bernoulli's Equation solved for $\Delta p_{loss}$ we get:**
+$$\begin{align*}
+\Delta p_{loss}&= \rho V_{1}^{2} \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{A_{2}}-1\right)+ \frac{1}{2}\rho V_{1}^{2}\left(1-\left(\frac{A_{1}}{A_{2}}\right)^{2}\right)\\
+&= \frac{1}{2}\rho V_{1}^{2}\left[2 \frac{A_{1}}{A_{2}}\left(\frac{A_{1}}{A_{2}}-1\right)\right]
+\end{align*}$$
 
 #### Example 2 - Loss at an abrupt contraction
