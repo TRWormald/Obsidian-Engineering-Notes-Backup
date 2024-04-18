@@ -7,3 +7,4 @@ $$c_p=\frac{p-p_\infty}{\frac{1}{2}\rho U_\infty^2}=\frac{\frac{1}{2}\rho U_\inf
 So:
 \
 $$c_p = \frac{U_\infty^2-V^2}{U_\infty^2}$$
+$$c_{p}=1-\frac{V^{2}}{U_{\infty}^{2}}$$
