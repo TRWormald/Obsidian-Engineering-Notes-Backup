@@ -54,3 +54,4 @@ $$m=L_{0}(6M)^{\frac{2}{3}} \left(\frac{\rho}{\sigma_{y}^{\frac{2}{3}}}\right)$$
 We can then extract the material properties to get the index and reciprocal index:
 $$M=\frac{\rho}{\sigma_{y}^{\frac{2}{3}}}~~~\text{or}~~~M=\frac{\sigma_{y}^{\frac{2}{3}}}{\rho} $$
 With the latter being very similar to the specific strength.
+
