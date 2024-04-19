@@ -9,14 +9,6 @@
       }
     },
     {
-      "prefix": "",
-      "suffix": "words in vault",
-      "metric": {
-        "type": 2,
-        "counter": 0
-      }
-    },
-    {
       "prefix": " ",
       "suffix": " characters",
       "metric": {
@@ -32,6 +24,14 @@
       "metric": {
         "type": 2,
         "counter": 6
+      }
+    },
+    {
+      "prefix": " ",
+      "suffix": " words in Vault",
+      "metric": {
+        "type": 2,
+        "counter": 0
       }
     }
   ],
