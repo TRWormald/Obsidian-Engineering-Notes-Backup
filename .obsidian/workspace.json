@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
-                "mode": "preview",
+                "file": "To Do.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md"
+                "file": "To Do.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
+                "file": "To Do.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,6 +190,9 @@
   },
   "active": "f749f35ac6cb1b7d",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
+    "Untitled 1",
+    "Untitled",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
     "Images & Attachments/Pasted image 20240418160427.png",
@@ -235,8 +238,6 @@
     "Engineering Year 1/Structures/Untitled",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths",
-    "Everything You Need to Know",
-    "Engineering Year 1/Electrical/Electrical Machines",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Equation Sheets/Structures/Untitled.canvas"
