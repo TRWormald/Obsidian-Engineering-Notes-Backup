@@ -42,8 +42,18 @@ We then put this into the table and read off the result.
 ### The Uniform Distribution
 The uniform distribution is rather simple, the probability of any given observation is constant:
 ![[Pasted image 20240420161536.png|center|400]]
-The probability density function is a composite function:
-$$f_{X}(x)=\left{$$
+The probability density function is:
+$$f_{X}(x)=\left\{\begin{align*}
+& \frac{1}{u-l} \text{ if } l<x<u\\
+& 0 \text{ otherwise}
+\end{align*}\right.$$
+And the cumulative distribution function is:
+$$F(x)=\left\{\begin{align*}
+& 0, \text{ if } x<l\\
+& \frac{x-l}{u-l} \text{ if } l\le x\le u\\
+& 1, \text{ if } x>u 
+\end{align*}\right.$$
+The mean is simply the midpoint
 ### The Exponential Distribution
 
 ## Discrete Probability Distributions
