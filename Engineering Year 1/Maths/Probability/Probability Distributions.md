@@ -9,5 +9,20 @@ The distribution is symmetric (so 50% of data is below the mean and 50% is great
 ![[Pasted image 20240420151546.png|center|400]]
 ![[Pasted image 20240420151601.png|center|400]]
 The equation for the normal distribution is:
-$$f_{X}(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{[- \frac{1}{2\sigma^{2}}]}$$
+$$f_{X}(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{- \frac{1}{2\sigma^{2}}(x-\mu)^{2}}$$
+Where $f_X(x)$ is the **probability density function** of the normal distribution.
+\
+When we define our normal distribution we do it in the following way:
+$$X\sim N(\mu,\sigma^{2})$$
+Where $\mu$ is the mean $\sigma^{2}$ is the variance (and $\sigma$ is the standard deviation).
+#### Example of finding the probability:
+Take the normal distribution:
+$$X\sim N(75,8.7^{2})$$
+And say we want to find $P(X>75)$:
+$$P(X>75)=\int^{\infty}_{75}f_{X}(x)\cdot dx$$
+This integral produces the **cumulative distribution function**:
+$$\text {Cumulative Distribution Function}=\int\text{Probability density function}$$
+However the integral for the normal distribution is impossible to do using standard methods so instead we use software or tables of values to evaluate the **CDF**.
+### The Standard Normal Distribution
+The standard normal is a normal distribution wi
 ## Discrete Probability Distributions
