@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
+                "file": "Engineering Year 1/Maths/Probability/Probability Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
+                "file": "Engineering Year 1/Maths/Probability/Probability Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
+                "file": "Engineering Year 1/Maths/Probability/Probability Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Untitled.md"
+                "file": "Engineering Year 1/Maths/Probability/Probability Basics.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
+                "file": "Engineering Year 1/Maths/Probability/Probability Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,10 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b95dd422a16e9ac4",
+  "active": "76ad3b8cbd3db5c5",
   "lastOpenFiles": [
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
-    "Engineering Year 1/Maths/Probability/Untitled.md",
+    "Engineering Year 1/Maths/Probability/Probability Basics.md",
     "Engineering Year 1/Maths/Probability",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Propellor Driven Aircraft.md",
