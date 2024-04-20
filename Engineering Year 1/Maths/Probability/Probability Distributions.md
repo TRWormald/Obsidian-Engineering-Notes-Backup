@@ -53,7 +53,18 @@ $$F(x)=\left\{\begin{align*}
 & \frac{x-l}{u-l} \text{ if } l\le x\le u\\
 & 1, \text{ if } x>u 
 \end{align*}\right.$$
-The mean is simply the midpoint
+The mean is simply the midpoint:
+$$\mu =\frac{u+l}{2}$$
+And the variance is calculated as follows:
+$$\sigma^{2}=\frac{(u-l)^{2}}{12}$$
 ### The Exponential Distribution
+$$f_{X}(x)=\left\{\begin{align*}
+& \lambda e^{-\lambda x }\text{ if } x\ge0\\
+& 0 \text{ otherwise}
+\end{align*}\right.$$
+$$F(x)=\left\{\begin{align*}
+& 0,\text{ if } x<0\\
+& 1-e^{-\lambda x} \text{ i}
+\end{align*}\right.$$
 
 ## Discrete Probability Distributions
