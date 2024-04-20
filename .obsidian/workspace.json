@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
+                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
+                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
+                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md"
+                "file": "Engineering Year 1/Maths/Probability/Untitled.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
+                "file": "Engineering Year 1/Maths/Probability/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,10 +189,12 @@
   },
   "active": "b95dd422a16e9ac4",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
+    "Engineering Year 1/Maths/Probability/Untitled.md",
+    "Engineering Year 1/Maths/Probability",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Propellor Driven Aircraft.md",
     "Engineering Year 1/AVDASI/Aeronautics/Payload-Range Diagrams.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
@@ -220,7 +222,6 @@
     "Images & Attachments/Pasted image 20240417190352.png",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Conductivity.md",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
-    "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Images & Attachments/Pasted image 20240417105527.png",
     "Images & Attachments/Pasted image 20240417093641.png",
     "Images & Attachments/Pasted image 20240417093423.png",
@@ -236,7 +237,6 @@
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory",
     "Engineering Year 1/Structures/Untitled",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
-    "Everything You Need to Know/Maths",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Equation Sheets/Structures/Untitled.canvas"
