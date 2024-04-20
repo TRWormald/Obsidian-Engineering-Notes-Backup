@@ -6,3 +6,5 @@ Where $N$ is the number of data points.
 Standard deviation is a measure of how the data varies around the mean, with a larger standard deviation representing a greater spread of values.
 It is calculated in the following way:
 $$\text{Standard Deviation}=\sigma=\sqrt{\frac{\sum\limits_{i=1}^{N}x^{2}_{i}}{N}-\left(\frac{\sum\limits_{i=1}^{N}x_{i}}{N}\right)^{2}}$$
+One way to remember the equation is that it is the *"Square root of the mean of the squares minus the square of the mean"*.
+
