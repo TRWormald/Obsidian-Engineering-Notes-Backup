@@ -40,7 +40,10 @@ $$P(X\le6.7)=P\left(Z=\frac{X-4}{2}\le \frac{6.7-4}{2}=1.35\right)=P(Z\le1.35)$$
 We then put this into the table and read off the result.
 
 ### The Uniform Distribution
-
+The uniform distribution is rather simple, the probability of any given observation is constant:
+![[Pasted image 20240420161536.png|center|400]]
+The probability density function is a composite function:
+$$f_{X}(x)=\left{$$
 ### The Exponential Distribution
 
 ## Discrete Probability Distributions
