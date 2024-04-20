@@ -58,13 +58,16 @@ $$\mu =\frac{u+l}{2}$$
 And the variance is calculated as follows:
 $$\sigma^{2}=\frac{(u-l)^{2}}{12}$$
 ### The Exponential Distribution
+The exponential distribution $e^\lambda$ is a continuous distribution with mean $\mu=1/\lambda$ and variance $\sigma^{2}=1/\lambda^{2}$, below is a graph of its PDF:
+![[Pasted image 20240420165042.png|center|400]]
+Which is represented by the equation:
 $$f_{X}(x)=\left\{\begin{align*}
 & \lambda e^{-\lambda x }\text{ if } x\ge0\\
 & 0 \text{ otherwise}
 \end{align*}\right.$$
+And the CDF is as follows:
 $$F(x)=\left\{\begin{align*}
 & 0,\text{ if } x<0\\
-& 1-e^{-\lambda x} \text{ i}
+& 1-e^{-\lambda x} \text{, if } x\le0
 \end{align*}\right.$$
-
 ## Discrete Probability Distributions
