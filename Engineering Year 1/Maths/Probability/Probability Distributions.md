@@ -24,5 +24,23 @@ This integral produces the **cumulative distribution function**:
 $$\text {Cumulative Distribution Function}=\int\text{Probability density function}$$
 However the integral for the normal distribution is impossible to do using standard methods so instead we use software or tables of values to evaluate the **CDF**.
 ### The Standard Normal Distribution
-The standard normal is a normal distribution wi
+The standard normal is a normal distribution with a mean of zero and a standard deviation of one:
+$$Z\sim N(0,1)$$
+It is used because it would be difficult to have a table of the CDF for each $\mu$ and $\sigma^{2}$ value - so those values are standardized to make things simpler.
+This is done by subtracting the mean from every original observation and then dividing by the standard deviation.
+So if you have a data point $x$ and you want to convert it to the standard normal $z$ you do:
+$$z=\frac{x-\mu}{\sigma}$$
+#### Example of using the Standard Normal
+Taking the normal distribution below find $P(X\le 6.7)$.
+$$X\sim N(4,2^{2})$$
+We would first normalise:
+$$Z=\frac{X-4}{2}$$
+So:
+$$P(X\le6.7)=P\left(Z=\frac{X-4}{2}\le \frac{6.7-4}{2}=1.35\right)=P(Z\le1.35)$$
+We then put this into the table and read off the result.
+
+### The Uniform Distribution
+
+### The Exponential Distribution
+
 ## Discrete Probability Distributions
