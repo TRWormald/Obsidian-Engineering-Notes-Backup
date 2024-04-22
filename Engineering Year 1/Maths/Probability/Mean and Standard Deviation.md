@@ -11,7 +11,7 @@ So we are integrating over all possible values that $X$ can take and multiplying
 ### Standard Deviation
 Standard deviation is a measure of how the data varies around the mean, with a larger standard deviation representing a greater spread of values.
 It is calculated in the following way:
-$$\text{Standard Deviation}=\sigma=\sqrt{\frac{\sum\limits_{i=1}^{N}x^{2}_{i}}{N}-\left(\frac{\sum\limits_{i=1}^{N}x_{i}}{N}\right)^{2}}$$
+$$\text{Standard Deviation}=\sigma=\sqrt{\dfrac{\sum\limits_{i=1}^{N}x^{2}_{i}}{N}-\left(\dfrac{\sum\limits_{i=1}^{N}x_{i}}{N}\right)^{2}}$$
 One way to remember the equation is that it is the *"Square root of the mean of the squares minus the square of the mean"*.
 \
 The standard deviation is also the square root of the variance $\sigma^{2}$ - sometimes called $\text{Var(X)}$ which is a measure of how a distribution deviates from its mean. It is equal to:
