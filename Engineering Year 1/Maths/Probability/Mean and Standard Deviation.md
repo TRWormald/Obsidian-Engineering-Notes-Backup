@@ -14,4 +14,11 @@ It is calculated in the following way:
 $$\text{Standard Deviation}=\sigma=\sqrt{\frac{\sum\limits_{i=1}^{N}x^{2}_{i}}{N}-\left(\frac{\sum\limits_{i=1}^{N}x_{i}}{N}\right)^{2}}$$
 One way to remember the equation is that it is the *"Square root of the mean of the squares minus the square of the mean"*.
 \
-The standard deviation is also the square root of the variance $\sigma^{2}$ - sometimes called $\text{Var(X)}$ which is a  
+The standard deviation is also the square root of the variance $\sigma^{2}$ - sometimes called $\text{Var(X)}$ which is a measure of how a distribution deviates from its mean. It is equal to:
+$$\sigma^{2}=E[(X-\mu)^{2}]$$
+So for continuous distributions:
+$$\begin{align*}
+E[(X-\mu^{2}):&= \int_{-\infty}^{\infty}(\tilde{x}-\mu)^{2}f_{X}(\tilde{x})\cdot d\tilde{x}\\
+&= \int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x}-2\mu\underbracket{\int_{-\infty}^{\infty}\tilde{x}f_{X}(\tilde{x})\cdot d\tilde{x}}_{=\mu}+\mu^{2}\underbracket{\int_{-\infty}^{\infty}f_{X}(\tilde{x})\cdot d\tilde{x}}_{=1}\\
+&= \int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x} -2\mu^{2}+\mu^{2}
+\end{align*}$$
