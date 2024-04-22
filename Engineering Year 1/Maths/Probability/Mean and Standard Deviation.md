@@ -18,7 +18,13 @@ The standard deviation is also the square root of the variance $\sigma^{2}$ - so
 $$\sigma^{2}=E[(X-\mu)^{2}]$$
 So for continuous distributions:
 $$\begin{align*}
-E[(X-\mu^{2}):&= \int_{-\infty}^{\infty}(\tilde{x}-\mu)^{2}f_{X}(\tilde{x})\cdot d\tilde{x}\\
+E[(X-\mu^{2})]:&= \int_{-\infty}^{\infty}(\tilde{x}-\mu)^{2}f_{X}(\tilde{x})\cdot d\tilde{x}\\
 &= \int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x}-2\mu\underbracket{\int_{-\infty}^{\infty}\tilde{x}f_{X}(\tilde{x})\cdot d\tilde{x}}_{=\mu}+\mu^{2}\underbracket{\int_{-\infty}^{\infty}f_{X}(\tilde{x})\cdot d\tilde{x}}_{=1}\\
-&= \int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x} -2\mu^{2}+\mu^{2}
+&= \int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x} -2\mu^{2}+\mu^{2}\\
+&= \int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x} -\mu^{2}\\
+&= E(X^{2})-\mu^{2}
 \end{align*}$$
+If we think about what's happened here, all we've really done is rewritten the equation for standard deviation in continuous form.
+As:
+$$\int_{-\infty}^{\infty} \tilde{x}^{2}f_{X}(\tilde{x})\cdot d\tilde{x}$$
+Is the mean of the $\tilde{x}$ values, or "the mean of the squares", and then we subtract the "square of the mean".
