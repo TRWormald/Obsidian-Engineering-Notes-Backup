@@ -93,5 +93,21 @@ Hence we can use the formulae for a cantilever beam with an end load and a canti
 $$\delta_{end~load}=\frac{PL^{3}}{3EI}$$
 $$\delta_{distributed}=\frac{wL^{4}}{8EI}$$
 Hence for the nose the deflection is just $\delta_{distributed}$ whilst for the tail it is $\delta_{end~load}+\delta_{distributed}$ due to the principle of [[Deflections in Beams#Superposition|superposition]].
-
+#### Loading in Gusts
+Symmetric gusts can be treated in a similar way to manoeuvre loading by using an appropriate load factor. Both positive (up) and negative (down) gusts have to be considered. However positive gusts are generally more critical because they add to the 1g level flight loading.
+#### Loading During Landing
+You have to consider various different cases due to the different ways aircraft might land. For example for an aircraft with a nose and two main undercarriages:
+- Three point landing
+- Tail down landing
+- Touchdown on one wheel/bogie
+There is also significant fore-aft loading which arises due to:
+- Braking
+- Attitude of the aircraft in tail down landing
+#### Unbalanced Pitching Moments
+For cases where there are net pitching moments on the aircraft, the inertia loading also includes a rotational acceleration about the centre of gravity. In such cases the load factor n is no longer constant. It varies linearly with distance from the centre of gravity.
+#### Loading in Asymmetric Cases
+This occurs when a gust is not uniform across the entire aircraft, take for example this case with a lateral gust on the rear of the aircraft:
+![[Pasted image 20240423110123.png|center|400]]
+##### Calculating Stresses in an Asymmetric Case
+First we need to calculate the tor
 
