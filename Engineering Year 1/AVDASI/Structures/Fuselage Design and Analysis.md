@@ -69,4 +69,6 @@ For simple illustration lets assume:
 This leads to:
 ![[Pasted image 20240423101119.png|center|400]]
 #### Loading in Symmetric Manoeuvre
-A simple manoeuvre
+A simple manoeuvre such as steady pull out from a dive gives the same basic type of loading. However the aerodynamic forces are higher, causing an upwards acceleration. **For steady state conditions this can be treated statically by applying inertia loads in the opposite direction. These are the normal loads due to weight multiplied by the load factor.** (See [[Manoeuvring Flight#Load Factor|here]] for more information about the load factor, and [[Airframe Loads#Aerodynamic and Inertia Loads|here]] for the typical load factor limits for various aircraft)
+This results in:
+![[Pasted image 20240423101557.png|center|400]]
