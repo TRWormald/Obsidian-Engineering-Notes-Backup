@@ -89,4 +89,9 @@ We can now calculate the vertical deflections, but first we need to determine wh
 If we consider the force diagram for the airframe:
 ![[Pasted image 20240423101557.png|center|400]]
 We can see that forwards of the datum there is a simple distributed load, and aft of the datum there is a distributed load with an end load.
-Hence we can use the formulae for a cantilever beam with an end load and a cantilever 
+Hence we can use the formulae for a cantilever beam with an end load and a cantilever beam with a distributed load (see [[Deflections in Beams#Deflection Formulae]]):
+$$\delta_{end~load}=\frac{PL^{3}}{3EI}$$
+$$\delta_{distributed}=\frac{wL^{4}}{8EI}$$
+Hence for the nose the deflection is just $\delta_{distributed}$ whilst for the tail it is $\delta_{end~load}+\delta_{distributed}$ due to the principle of [[Deflections in Beams#Superposition|superposition]].
+
+
