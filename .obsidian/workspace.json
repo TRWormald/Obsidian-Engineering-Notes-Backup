@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e5b8bedc5eeb843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -189,8 +201,9 @@
   },
   "active": "b95dd422a16e9ac4",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
+    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
     "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
@@ -226,7 +239,6 @@
     "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Electrical Properties.md",
     "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
     "Images & Attachments/Pasted image 20240418143808.png",
     "Images & Attachments/Pasted image 20240417190352.png",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits",
