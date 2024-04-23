@@ -14,11 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2dde8c85fa7b20e4",
+        "type": "tabs",
+        "children": [
           {
             "id": "2b68c84cec616fdb",
             "type": "leaf",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md"
+                "file": "Engineering Year 1/AVDASI/Structures/Airframe Loads.md"
               }
             }
           }
@@ -154,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b68c84cec616fdb",
+  "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
     "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
