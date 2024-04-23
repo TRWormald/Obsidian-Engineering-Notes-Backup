@@ -20,4 +20,19 @@ Bending can be carried by tensile and compressive members separated in space. An
 \
 **Bending With Shear**
 The web of an I-beam carries the shear that is not present in pure bending. A warren truss is an efficient arrangement for carrying bending within shear. Compression members need to be larger section than tension members to resist bucking. Ties can carry tension loads. But if the direction of loading reverses, all members need to be able to resist both tension and compression.
-Diagonal cross-bracing canbb
+Diagonal cross-bracing can be used if both directions of loading need to be considered - two ties which only have to carry tension may be lighter than a single compression member.
+\
+**Torsion**
+Torsion is a twisting moment acting about the axis of the structure. It is most effectively carried by shear forces around a closed structure. A box or tube within a continuous skin is very efficient. Alternatively the shear can be carried by cross braced members.
+### Types of Airframe Construction
+There are several different types of airframe types:
+#### Frame with non-structural Covering
+This can be seen in many early bi- and tri-planes:
+![[Pasted image 20240423094627.png|center|400]]
+In this configuration all loads are carried by the frame structure, with the skin assumed not to carry any load except air pressure. This could be used for early aircraft due to the fact that the aerodynamic loads were very low.
+#### Monocoque
+This is where there is a single skin with no supporting frame, so all loads have to be carried by the skin. True monocoque was problematic for large scale use due to problems with buckling.
+![[Screenshot 2024-04-23 094852.png|center|450]]
+Sandwich structures can be used without supporting members - this is where you have two layers of skin separated with a core material.
+#### Stressed Skin
+This is where you have a 'stressed' (loaded) skin supported by an internal frame. This is ver
