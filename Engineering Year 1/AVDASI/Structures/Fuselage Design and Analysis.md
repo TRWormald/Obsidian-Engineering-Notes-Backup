@@ -106,8 +106,19 @@ There is also significant fore-aft loading which arises due to:
 #### Unbalanced Pitching Moments
 For cases where there are net pitching moments on the aircraft, the inertia loading also includes a rotational acceleration about the centre of gravity. In such cases the load factor n is no longer constant. It varies linearly with distance from the centre of gravity.
 #### Loading in Asymmetric Cases
-This occurs when a gust is not uniform across the entire aircraft, take for example this case with a lateral gust on the rear of the aircraft:
+This occurs when a gust is not uniform across the entire aircraft, take for example this case with a lateral gust on the tailfin of the aircraft:
 ![[Pasted image 20240423110123.png|center|400]]
 ##### Calculating Stresses in an Asymmetric Case
-First we need to calculate the tor
-
+First we need to calculate the torque generated:
+$$T=Fd$$
+We then need to find the [[Polar Second Moment of Area]] of area for a thin walled cylinder:
+$$J=2\pi r^{3}t$$
+The shear stress on the fuselage skin can therefore be calculated using:
+$$\frac{T}{J}=\tau/r$$
+See [[Torsion of Shafts]] for more information about torsion, however we are using a thin walled cylinder rather than a solid one.
+We can then use:
+$$\frac{T}{J}=\frac{G\phi}{L}$$
+To find $\phi$ and hence find our deflection simply using:
+$$\phi r=d$$
+**Note that this equation only gives the deflection due to the torsion of the fuselage, the tailfin will also experience bending due to the gust which would result in a greater deflection.**
+#### Loading Due to Cabin Pressurisation
