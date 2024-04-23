@@ -6,4 +6,4 @@ The various ways in which you might screen your materials would be:
 - Whether the method can achieve the desired shape
 - Whether the method can achieve the desired finish
 - Whether the method can produce a suitable number of whatever it is you are making
-- Whether the method can work with 
+- Whether the method can work with the material you are planning on using
