@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2dde8c85fa7b20e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b68c84cec616fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md"
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md"
               }
             }
           }
@@ -159,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,13 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b68c84cec616fdb",
+  "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
+    "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
     "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
-    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
-    "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
     "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
