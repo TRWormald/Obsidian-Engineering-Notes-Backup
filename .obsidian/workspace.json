@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md"
+                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,17 +189,22 @@
   },
   "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
+    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
+    "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+    "Engineering Year 1/Structures/Torsion of Shafts.md",
+    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+    "Engineering Year 1/Structures/Members in Compression/Eccentric Loading.md",
+    "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
+    "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
+    "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
+    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
     "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
-    "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
-    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
-    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
-    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
     "Engineering Year 1/Maths/Probability/Probability Distributions.md",
-    "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Images & Attachments/Pasted image 20240423111416.png",
     "Images & Attachments/Pasted image 20240423110123.png",
     "Images & Attachments/Pasted image 20240423110108.png",
@@ -223,11 +228,6 @@
     "To Do.md",
     "Untitled 1",
     "Untitled",
-    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
-    "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
-    "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Thermal Conductivity.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Specific Heat Capacity and Thermal Diffusivity.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design",
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits",
     "Engineering Year 1/Electrical/Untitled.canvas",
