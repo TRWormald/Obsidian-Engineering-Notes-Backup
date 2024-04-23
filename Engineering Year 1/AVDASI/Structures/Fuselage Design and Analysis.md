@@ -72,3 +72,9 @@ This leads to:
 A simple manoeuvre such as steady pull out from a dive gives the same basic type of loading. However the aerodynamic forces are higher, causing an upwards acceleration. **For steady state conditions this can be treated statically by applying inertia loads in the opposite direction. These are the normal loads due to weight multiplied by the load factor.** (See [[Manoeuvring Flight#Load Factor|here]] for more information about the load factor, and [[Airframe Loads#Aerodynamic and Inertia Loads|here]] for the typical load factor limits for various aircraft)
 This results in:
 ![[Pasted image 20240423101557.png|center|400]]
+From this you can calculate the shear force and bending moment diagrams for the aircraft.
+#### Calculating the Fuselage Stresses and Deflections
+Once we calculate the shear forces and bending moments we can calculate the fuselage stresses and deflections.
+For an aircraft's skin which has been stiffened using stringers we have to estimate the second moment of area, this can be done by calculating the equivalent thickness of a hollow tube of the same radius, without the stringers:
+$$t_{e}=t\cdot \frac{A_{t}}{A_{s}}$$
+Where $t$ is the initial thickness of the fuselage, $A_{t}$ is 
