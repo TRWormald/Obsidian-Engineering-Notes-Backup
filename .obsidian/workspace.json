@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
-                "mode": "preview",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md"
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+                "file": "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +189,16 @@
   },
   "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
-    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
+    "Engineering Year 1/Materials/Selection/Thin Walled Tubes.md",
+    "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
+    "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
+    "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Electrical Properties.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Specific Heat Capacity and Thermal Diffusivity.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Thermal Conductivity.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Thermal Expansion Coefficient.md",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Engineering Year 1/Structures/Members in Compression/Eccentric Loading.md",
@@ -218,14 +226,6 @@
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
     "Engineering Year 1/Maths/Probability",
     "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Jet.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Breguet Range - Propellor Driven Aircraft.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Payload-Range Diagrams.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Banked Turns.md",
-    "To Do.md",
     "Untitled 1",
     "Untitled",
     "Engineering Year 1/Materials/Selection/Strength Limited Design",
