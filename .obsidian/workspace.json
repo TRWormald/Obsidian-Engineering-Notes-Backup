@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Materials/Untitled.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Materials/Untitled.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Materials/Untitled.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Materials/Untitled.md"
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Materials/Untitled.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +189,13 @@
   },
   "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
+    "Images & Attachments/Screenshot 2024-04-23 141827.png",
+    "Images & Attachments/Pasted image 20240423142347.png",
+    "Engineering Year 1/Materials/Selection/The Selection Process.md",
+    "Images & Attachments/Pasted image 20240423142230.png",
+    "Images & Attachments/Pasted image 20240423142036.png",
+    "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
-    "Engineering Year 1/Materials/Untitled.md",
     "Engineering Year 1/Materials/Selection/Thin Walled Tubes.md",
     "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
     "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
@@ -213,7 +218,6 @@
     "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
-    "Engineering Year 1/Maths/Probability/Probability Distributions.md",
     "Images & Attachments/Pasted image 20240423111416.png",
     "Images & Attachments/Pasted image 20240423110123.png",
     "Images & Attachments/Pasted image 20240423110108.png",
@@ -221,10 +225,6 @@
     "Images & Attachments/Pasted image 20240423101557.png",
     "Images & Attachments/Pasted image 20240423101119.png",
     "Images & Attachments/Pasted image 20240423101039.png",
-    "Images & Attachments/Pasted image 20240423100042.png",
-    "Images & Attachments/Pasted image 20240423095536.png",
-    "Images & Attachments/Pasted image 20240423095454.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvring Flight.md",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
     "Untitled",
