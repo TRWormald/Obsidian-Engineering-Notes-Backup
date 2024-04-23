@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6e5b8bedc5eeb843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -201,8 +189,10 @@
   },
   "active": "b95dd422a16e9ac4",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
+    "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
+    "Engineering Year 1/AVDASI/Structures/Airframe Loads.md",
     "Images & Attachments/Pasted image 20240423101557.png",
     "Images & Attachments/Pasted image 20240423101119.png",
     "Images & Attachments/Pasted image 20240423101039.png",
@@ -231,7 +221,6 @@
     "To Do.md",
     "Untitled 1",
     "Untitled",
-    "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
     "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
     "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",

@@ -74,7 +74,19 @@ This results in:
 ![[Pasted image 20240423101557.png|center|400]]
 From this you can calculate the shear force and bending moment diagrams for the aircraft.
 #### Calculating the Fuselage Stresses and Deflections
+##### Calculating Stresses
 Once we calculate the shear forces and bending moments we can calculate the fuselage stresses and deflections.
 For an aircraft's skin which has been stiffened using stringers we have to estimate the second moment of area, this can be done by calculating the equivalent thickness of a hollow tube of the same radius, without the stringers:
 $$t_{e}=t\cdot \frac{A_{t}}{A_{s}}$$
-Where $t$ is the initial thickness of the fuselage, $A_{t}$ is 
+Where $t$ is the initial thickness of the skin, $A_{t}$ is the total area of the cross section, and $A_{s}$ is the area of the skin.
+This equivalent thickness can then be used in the equation for finding the [[Second Moment of Area]] of a thin walled tube:
+$$I_{xx}=I_{yy}=\pi r^{3}t_{e},~~~~t<<r$$
+The bending stress can therefore be calculated to be:
+$$\sigma=\frac{My}{I}$$
+Where $y=r$ (see more about this in [[Longitudinal Stresses in Beams#The Euler-Bernoulli Beam Theory|the Euler-Bernoulli Beam Theory]])
+##### Calculating Deflections
+We can now calculate the vertical deflections, but first we need to determine where our datum will be. The most logical place to put it is at the wing connection point as there will be zero displacement and rotation there.
+If we consider the force diagram for the airframe:
+![[Pasted image 20240423101557.png|center|400]]
+We can see that forwards of the datum there is a simple distributed load, and aft of the datum there is a distributed load with an end load.
+Hence we can use the formulae for a cantilever beam with an end load and a cantilever 
