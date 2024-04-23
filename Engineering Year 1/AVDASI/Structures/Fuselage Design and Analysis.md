@@ -122,3 +122,8 @@ To find $\phi$ and hence find our deflection simply using:
 $$\phi r=d$$
 **Note that this equation only gives the deflection due to the torsion of the fuselage, the tailfin will also experience bending due to the gust which would result in a greater deflection.**
 #### Loading Due to Cabin Pressurisation
+The pressure inside the cabin obviously results in stress due to the pressure differential:
+![[Pasted image 20240423111416.png|center|400]]
+We can calculate the two stresses in the following ways:
+$$\text{Hoop Stress}=\sigma_{hoop}=\frac{Pr}{t}$$
+$$\text{Axial Stress}=\sigma_{axial}=\frac{Pr}{2}\cdot t_e$$
