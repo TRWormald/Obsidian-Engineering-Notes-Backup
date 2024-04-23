@@ -35,4 +35,17 @@ This is where there is a single skin with no supporting frame, so all loads have
 ![[Screenshot 2024-04-23 094852.png|center|450]]
 Sandwich structures can be used without supporting members - this is where you have two layers of skin separated with a core material.
 #### Stressed Skin
-This is where you have a 'stressed' (loaded) skin supported by an internal frame. This is ver
+This is where you have a 'stressed' (loaded) skin supported by an internal frame. This is very much the classic arrangement for aircraft load carrying.
+The load is divided by the skin and the stringers, with the stringers and frames (or ribs) dividing the skin into small panels to provide resistance to buckling.
+![[Pasted image 20240423095536.png|center|250]]
+#### Shear Resistant Structures
+In this method stiffeners divide up panels to prevent buckling, however this can result in a heavy design in some cases.
+It is important to consider the different circumstances of each case and to choose the correct loading type for each - as the same method that might work well for a high AR wing might not work as well for a low one.
+#### Tension Field Structures
+When the panels buckle in this configuration they carry diagonal tension only - the 'diagonal tension field'
+![[Pasted image 20240423100042.png|center|300]]
+Stiffeners carry compressive loads - this is generally more efficient for thin skin structures.
+Effectively what is happening here is the panels are being allowed to buckle deliberately and they then act as a tensile connector effectively creating a pseudo-truss structure as they carry the required tensile loads to hold the structure in place.
+### Functions of basic structural members in a stressed skin construction
+#### Skin
+The
