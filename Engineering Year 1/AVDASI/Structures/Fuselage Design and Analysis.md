@@ -48,4 +48,25 @@ Stiffeners carry compressive loads - this is generally more efficient for thin s
 Effectively what is happening here is the panels are being allowed to buckle deliberately and they then act as a tensile connector effectively creating a pseudo-truss structure as they carry the required tensile loads to hold the structure in place.
 ### Functions of basic structural members in a stressed skin construction
 #### Skin
-The
+The skin carries tensile loads as well as compressive loads - however the effectiveness depends on the level of stiffening.
+It also carries shear loads associated with bending and torsion.
+It also provides a smooth aerodynamic surface as well as a sealed enclosure.
+#### Stringers
+These are the stiffening members within the wing. They carry tensile and compressive loads; add stiffness to the skin to enable it to resist bucking and carry higher compressive stresses. They also provide bending stiffness to resist distortion of skin due to local loads and divide up the skin into small panels to reduce bucking due to shear and/or compression.
+#### Frames and Ribs
+Frames are normally associated with the fuselage structure whilst Ribs are normally associated with the wing or box structure.
+They are used to:
+- Support stringers against compressive buckling
+- To divide the skin into panels to reduce shear buckling
+- To distribute discrete loads into the rest of the structure
+- To maintain cross-sectional shape
+### Fuselage Structures Loading
+#### Loading in Level Flight
+For simple illustration lets assume:
+- Uniform distribution of mass along the length
+- Wings and tail loads act at single points
+- Thrust and drag are ignored
+This leads to:
+![[Pasted image 20240423101119.png|center|400]]
+#### Loading in Symmetric Manoeuvre
+A simple manoeuvre
