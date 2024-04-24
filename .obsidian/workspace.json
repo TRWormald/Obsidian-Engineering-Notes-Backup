@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "df40ff75690194d6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md"
+              }
             }
           }
         ]
@@ -146,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df40ff75690194d6",
+  "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
     "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
