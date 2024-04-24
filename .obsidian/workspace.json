@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md"
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
+                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,6 +189,7 @@
   },
   "active": "e5b43a636f67fd95",
   "lastOpenFiles": [
+    "Engineering Year 1/Materials/Selection/The Selection Process.md",
     "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
@@ -199,7 +200,6 @@
     "Engineering Year 1/Electrical/Batteries",
     "Images & Attachments/Screenshot 2024-04-23 141827.png",
     "Images & Attachments/Pasted image 20240423142347.png",
-    "Engineering Year 1/Materials/Selection/The Selection Process.md",
     "Images & Attachments/Pasted image 20240423142230.png",
     "Images & Attachments/Pasted image 20240423142036.png",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
