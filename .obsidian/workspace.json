@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df40ff75690194d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Batteries.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,13 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b43a636f67fd95",
+  "active": "df40ff75690194d6",
   "lastOpenFiles": [
+    "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vertex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
-    "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
     "Engineering Year 1/Electrical/Batteries",
