@@ -6,4 +6,6 @@ In general:
 
 Higher voltage battery packs are ideal as the power lost in a component is related to the current passing through it:
 $$P_{loss}=I^{2}R$$
-As higher voltage means lower current - according to Ohms Law
+As higher voltage means lower current - according to Ohms Law:
+$$V=IR$$
+This means that higher voltage battery packs are more efficient.
