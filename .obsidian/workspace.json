@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5b43a636f67fd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c3573bcf5c01813",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,6 +189,9 @@
   },
   "active": "4c3573bcf5c01813",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20240425100139.png",
+    "Images & Attachments/Pasted image 20240425095933.png",
+    "Images & Attachments/Pasted image 20240425095603.png",
     "Images & Attachments/Pasted image 20240424110937.png",
     "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/Electrical/Batteries/Single Cell Voltage Source.md",
@@ -236,9 +226,6 @@
     "Images & Attachments/Pasted image 20240423111416.png",
     "Images & Attachments/Pasted image 20240423110123.png",
     "Images & Attachments/Pasted image 20240423110108.png",
-    "Images & Attachments/Pasted image 20240423110043.png",
-    "Images & Attachments/Pasted image 20240423101557.png",
-    "Images & Attachments/Pasted image 20240423101119.png",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
     "Untitled",
