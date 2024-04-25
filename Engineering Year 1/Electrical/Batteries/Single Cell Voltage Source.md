@@ -19,4 +19,5 @@ The Nominal Voltage will be defined on the cell datasheet.
 ### Overpotential
 Due to the fact that batteries have internal resistance, there is a difference between their open circuit voltage and their terminal voltage.
 ![[Pasted image 20240425100139.png|center]]
-In discharge this results in a lower voltage as some energy is lost to the resistor (as it effectively operates as a potential divider) whilst when chargine
+In discharge this results in a lower voltage as some energy is lost to the resistor (as it effectively operates as a potential divider) whilst when charging it results in a greater time to charge as energy is lost to resistance.
+In both cases the lost energy goes to heat.
