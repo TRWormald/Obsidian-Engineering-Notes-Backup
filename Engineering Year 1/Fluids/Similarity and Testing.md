@@ -35,6 +35,7 @@ The fundamental dimensions are:
 The dimensions on each side of an equation must be the same - however this means that non-dimensional numbers provide a means of scaling test results.
 ### The Coefficient of Pressure
 $$C_{P}=\frac{\Delta p}{\frac{1}{2}\rho V^{2}}$$
+Unless there is a change of state the pressure coefficient doesn't become a similarity parameter - it just happens naturally.
 ### The Reynolds Number
 $$Re= \frac{\rho VL}{\mu}= \frac{VL}{v}=\frac{\text{inertia force}}{{\text{viscous force}}}$$
 When the Reynolds Number is low viscous effects are important, whilst when it is high they are confined to a thin region near the body.
