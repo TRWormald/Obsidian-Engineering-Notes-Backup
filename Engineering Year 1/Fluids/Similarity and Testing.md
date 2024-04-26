@@ -10,5 +10,15 @@ We can replicate this by imagining the aircraft stationary in a wind tunnel. The
 If the wind tunnel is large enough for the streamlines to be unaffected by the tunnel walls then the flow speed relative to the aircraft and the pressure would be identical in both cases.
 This is due to us performing a [[The Galilean Transform|Galilean Transform]] on the first scenario to achieve the second.
 **These are referred to as similar flows.**
-
+\
+However if the fluid starts from atmospheric pressure, when it is accelerated the static pressure will decrease - meaning that the pressure isn't the same in both cases - and if the pressures are different how can the speeds be the same.
+This is usually ok as it is the pressure gradients that define the flow rather than the absolute values - so if the upstream static pressure isn't so different such that a change of state results, the relative flow speeds will be the same and change from upstream pressure will be the same.
+### Flow Similarity
+**Similar flows** produce the same force coefficients ($C_{p},C_{L},C_{D}$)
+Two flows over different bodies are similar if:
+- The streamlines are the same
+- Values of flow quantities ($u,p,t$), are the same relative to some reference values throughout the flow field.
+This requires that:
+- Bodies are geometrically similar (but can be different sizes)
+- The cross sectional area of the body is smaller compared to the wind tunnel
 
