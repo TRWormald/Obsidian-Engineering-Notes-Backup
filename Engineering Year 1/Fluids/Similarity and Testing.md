@@ -21,6 +21,7 @@ Two flows over different bodies are similar if:
 This requires that:
 - Bodies are geometrically similar (but can be different sizes)
 - The cross sectional area of the body is smaller compared to the wind tunnel
+	- If the CSA is less than or equal to 10% of the CSA of your wind tunnel then you are fine
 - Similarity parameters are the same for both flows
 ### Dimensional Analysis
 Dimensions are measurable properties used to describe the physical state of a system.
