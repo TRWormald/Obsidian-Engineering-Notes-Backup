@@ -21,4 +21,23 @@ Two flows over different bodies are similar if:
 This requires that:
 - Bodies are geometrically similar (but can be different sizes)
 - The cross sectional area of the body is smaller compared to the wind tunnel
-
+- Similarity parameters are the same for both flows
+### Dimensional Analysis
+Dimensions are measurable properties used to describe the physical state of a system.
+\
+The fundamental dimensions are:
+- Length
+- Mass 
+- Time
+- Temperature
+\
+The dimensions on each side of an equation must be the same - however this means that non-dimensional numbers provide a means of scaling test results.
+### The Coefficient of Pressure
+$$C_{P}=\frac{\Delta p}{\frac{1}{2}\rho V^{2}}$$
+### The Reynolds Number
+$$Re= \frac{\rho VL}{\mu}= \frac{VL}{v}=\frac{\text{inertia force}}{{\text{viscous force}}}$$
+When the Reynolds Number is low viscous effects are important, whilst when it is high they are confined to a thin region near the body.
+### Mach Number
+$$M=\frac{V}{a}=\frac{\text{inertia force}}{\text{elastic force}}$$
+This is the compressibility parameter, where $a$ is the speed of sound.
+Transitions from subsonic to supersonic have profound impact on flow phenomen
