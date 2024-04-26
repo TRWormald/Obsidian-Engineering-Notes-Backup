@@ -40,4 +40,5 @@ When the Reynolds Number is low viscous effects are important, whilst when it is
 ### Mach Number
 $$M=\frac{V}{a}=\frac{\text{inertia force}}{\text{elastic force}}$$
 This is the compressibility parameter, where $a$ is the speed of sound.
-Transitions from subsonic to supersonic have profound impact on flow phenomen
+Transitions from subsonic to supersonic have profound impact on flow phenomena.
+For low Mach numbers compressibility effects can usually be neglected.

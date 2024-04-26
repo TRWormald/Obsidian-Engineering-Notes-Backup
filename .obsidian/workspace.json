@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37c0c27f17e3d32a",
+        "id": "0a3582e39fa4862a",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3573bcf5c01813",
+            "id": "e27900733ff2d59c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5719627df899553b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Aircraft Requirements and Fatigue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e471c33ba5140b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Structures/Wing Design and Analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,11 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c3573bcf5c01813",
+  "active": "e27900733ff2d59c",
   "lastOpenFiles": [
+    "Engineering Year 1/Fluids/Similarity and Testing.md",
     "Engineering Year 1/AVDASI/Structures/Aircraft Requirements and Fatigue.md",
     "Engineering Year 1/AVDASI/Structures/Wing Design and Analysis.md",
-    "Engineering Year 1/Fluids/Similarity and Testing.md",
     "Images & Attachments/Pasted image 20240426104742.png",
     "Images & Attachments/Pasted image 20240426104622.png",
     "Images & Attachments/Pasted image 20240425192945.png",
