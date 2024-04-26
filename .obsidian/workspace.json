@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Re",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,7 +147,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Fluids/Similarity and Testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3bd7b19e10f3f01",
+  "active": "5719627df899553b",
   "lastOpenFiles": [
     "Engineering Year 1/Fluids/Similarity and Testing.md",
     "Images & Attachments/Pasted image 20240426104742.png",

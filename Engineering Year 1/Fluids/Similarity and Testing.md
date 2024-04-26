@@ -9,5 +9,6 @@ We can replicate this by imagining the aircraft stationary in a wind tunnel. The
 ![[Pasted image 20240426104742.png|center]]
 If the wind tunnel is large enough for the streamlines to be unaffected by the tunnel walls then the flow speed relative to the aircraft and the pressure would be identical in both cases.
 This is due to us performing a [[The Galilean Transform|Galilean Transform]] on the first scenario to achieve the second.
-However it is important to note that you would also need to match the Reynold's Number if you want viscous effects to be the same.
+**These are referred to as similar flows.**
+
 
