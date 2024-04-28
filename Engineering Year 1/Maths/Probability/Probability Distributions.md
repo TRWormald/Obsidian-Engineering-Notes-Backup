@@ -71,3 +71,18 @@ $$F(x)=\left\{\begin{align*}
 & 1-e^{-\lambda x} \text{, if } x\le0
 \end{align*}\right.$$
 ## Discrete Probability Distributions
+We can also have random variables $X$ that take on discrete values, like with a coin toss (binary) or a dice roll (1,2,3,4,5,6)
+The set $S$ must be countable - i.e. it must be able to be labelled by a subset of the natural numbers.
+Each outcome must have a finite probability $P(X=x)$
+##### Fair Dice Example
+Consider a fair six sided dice, we will define a probability mass function (PMF - as opposed to the PDF of a continuous distribution)
+For it to be valid:
+$$\sum\limits_{x\in S}P_{X}(x)=1$$
+So for our die:
+$$P_{X}(x)=\left\{\begin{align*}
+& \frac{1}{6},\text{ if } x\in S=[1,2,3,4,5,6]\\
+& 0 \text{, otherwise }
+\end{align*}\right.$$
+### CDF, Mean (Expectation) and Variance
+The CDF, Mean, and Variance of discrete distributions are very similar to their continuous counterparts.
+The CDF 
