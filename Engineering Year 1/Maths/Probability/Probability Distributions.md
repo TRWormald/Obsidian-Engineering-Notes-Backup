@@ -122,4 +122,5 @@ $$\begin{align*}
 \end{align*}$$
 A similar method gets us the CDF:
 $$F_{X}(n)=P(X\le n)=1-(1-p)^{n}$$
+### The Binomial Distribution
 
