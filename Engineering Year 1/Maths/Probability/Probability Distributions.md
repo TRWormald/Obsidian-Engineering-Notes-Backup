@@ -132,5 +132,7 @@ It has mean and variance of:
 $$\mu=np,~~~~~~\sigma^2=np(1-p)$$
 ### The Poisson Distribution
 The Poisson Distribution is a way of approximating the binomial when there are a large number of trials and a small chance of success, this can be important as the $^{n}C_{r}$ can get very large and become difficult to perform calculations with.
-So $n\rightarrow\infty$ ,$p\rightarrow 0$ but $np=\lambda=O(1)$ 
-Hence the 
+So $n\rightarrow\infty$, $p\rightarrow 0$ but $np=\lambda=O(1)$ 
+Hence the PMF is:
+$$P(Y=k)=\frac{\lambda^{k}}{k!}e^{-\lambda}$$
+The mean and variance of the Poisson Distribution are both equal to $\lambda$. 
