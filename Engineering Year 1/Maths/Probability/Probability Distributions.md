@@ -85,4 +85,26 @@ $$P_{X}(x)=\left\{\begin{align*}
 \end{align*}\right.$$
 ### CDF, Mean (Expectation) and Variance
 The CDF, Mean, and Variance of discrete distributions are very similar to their continuous counterparts.
-The CDF 
+The CDF is the same as the continuous case but replaces the $\int$ with a $\sum$:
+$$F_{X}(x)=P(X\le x)=\sum\limits_{k=1}^{x}P(X=k)$$
+The mean (expectation) is the same:
+$$\mu=E(X)=\sum\limits_{x\in S}xP_{X}(x)$$
+And the same is again true of the variance:
+$$\begin{align*}
+\sigma^{2}=E[(X-\mu)^{2}]&= \sum\limits_{x\in S}(x^{2}-2\mu x+\mu^{2})P_{X}(x)\\
+&= \sum\limits_{x\in S}x^{2}P_X(x)-2\mu\sum\limits_{x\in S}xP_X(x)+\mu^{2}\sum\limits_{x\in S}P_X(x)\\
+&= E(X^{2})-2\mu^{2}+\mu^{2}\\
+&\boxed{= E(X^{2})-\mu^{2}}
+\end{align*}$$
+### The Bernoulli Distribution
+In the Bernoulli Distribution we denote the success probability as $p$ and therefore the failure probability must be $1-p$.
+Let $X$ be the random variable that equals one if the outcome is a success, and 0 if it is a failure.
+Therefore the probability function is:
+$$P_{X}(1)=P(X=1)=p$$
+$$P_{X}(0)=P(X=0)=1-p$$
+This is the simplest possible probability distribution to a truly random experiment.
+### The Geometric Distribution
+Let the random variable $X$ be the number of trials until (and including) the first success.
+If $X=n$, then we must have $(n-1)$ failures followed by 1 success.
+All trails are independent so we can multiply probabilities:
+$$P(X=n)$$
