@@ -123,4 +123,14 @@ $$\begin{align*}
 A similar method gets us the CDF:
 $$F_{X}(n)=P(X\le n)=1-(1-p)^{n}$$
 ### The Binomial Distribution
-
+The binomial distribution is effectively a combination of the Bernoulli and Geometric Distributions, it is a way of predicting the number of successes in a number of trials.
+The binomial distribution's Probability Mass Function (PMF) is:
+$$P(Y=k)=\begin{pmatrix}n\\k\end{pmatrix}p^{k}(1-p)^{n-k}$$
+Where:
+$$\begin{pmatrix}n\\k\end{pmatrix}=\frac{n!}{k!(n-k)!}$$
+It has mean and variance of:
+$$\mu=np,~~~~~~\sigma^2=np(1-p)$$
+### The Poisson Distribution
+The Poisson Distribution is a way of approximating the binomial when there are a large number of trials and a small chance of success, this can be important as the $^{n}C_{r}$ can get very large and become difficult to perform calculations with.
+So $n\rightarrow\infty$ ,$p\rightarrow 0$ but $np=\lambda=O(1)$ 
+Hence the 
