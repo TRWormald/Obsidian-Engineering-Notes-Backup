@@ -107,4 +107,19 @@ This is the simplest possible probability distribution to a truly random experim
 Let the random variable $X$ be the number of trials until (and including) the first success.
 If $X=n$, then we must have $(n-1)$ failures followed by 1 success.
 All trails are independent so we can multiply probabilities:
-$$P(X=n)$$
+$$\begin{align*}
+P(X=n)&= \underbrace{(1-p)\times(1-p)\times...\times(1-p)}_{n-1\text{ times}}\times p\\
+&= (1-p)^{n-1}p
+\end{align*}$$
+We can show that the mean is given by $\frac{1}{p}$:
+$$\begin{align*}
+\mu=E(X)&= \sum\limits_{n=1}^{\infty}[nP_{X}(n)]=\sum\limits_{n=1}^{\infty}np(1-p)^{n-1}\\
+&= p\sum\limits_{n=1}^{\infty}n(1-p)^{n-1}\\
+&= p\left(\sum\limits_{n=1}^{\infty}n(1-p)^{n-1}+\sum\limits_{n=2}^{\infty}n(1-p)^{n-1}+...\right) \\
+&= p\left(\frac{1}{p}+\frac{1-p}{p} + \frac{(1-p)^{2}}{p}+...\right)\\
+&= p(1+(1-p)+(1-p)^{2}+...)\\
+&= \frac{1}{1-(1-p)}=\frac{1}{p}
+\end{align*}$$
+A similar method gets us the CDF:
+$$F_{X}(n)=P(X\le n)=1-(1-p)^{n}$$
+
