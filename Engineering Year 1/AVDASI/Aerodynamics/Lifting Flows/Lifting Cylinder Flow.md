@@ -27,4 +27,12 @@ $$C_{p}=1-\frac{V^{2}}{U_{\infty}^{2}}$$
 So:
 $$c_{p}=1-\frac{u^{2}+v^{2}}{U_{\infty}^{2}}$$
 Which when substituted and simplified fully gives:
-$$c_{p}=\underbrace{1-4\sin^{2}\theta}_{\text{basic cylinder}\par\text{}}- \frac{2\Gamma\sin\theta}{U_{\infty}\pi R}-\left(\frac{\Gamma}{2U_{\infty}\pi R}\right)^{2}$$
+$$c_{p}=\underbrace{1-4\sin^{2}\theta}_{\text{basic cylinder flow}}- \underbrace{\frac{2\Gamma\sin\theta}{U_{\infty}\pi R}}_{\text{asymmetric swirl}}-\underbrace{\left(\frac{\Gamma}{2U_{\infty}\pi R}\right)^{2}}_{\text{constant swirl}}$$
+The three terms of this equation can be seen in the following diagrams:
+![[Pasted image 20240429113334.png|center]]
+![[Pasted image 20240429113407.png|center]]
+![[Pasted image 20240429113516.png|center]]
+**Note that if the pressure distribution on a cylinder is symmetrical top to bottom then the lift coefficient is zero.
+Whilst if the pressure distribution is symmetrical left to right the drag coefficient is equal to zero.**
+This is because the pressure distributions being symmetrical means that there is no net force acting on the object.
+### Finding the Stagnation Points
