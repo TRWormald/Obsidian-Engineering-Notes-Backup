@@ -1,0 +1,1 @@
+To evaluate lift it is easiest to work it out from first principl

@@ -36,3 +36,22 @@ The three terms of this equation can be seen in the following diagrams:
 Whilst if the pressure distribution is symmetrical left to right the drag coefficient is equal to zero.**
 This is because the pressure distributions being symmetrical means that there is no net force acting on the object.
 ### Finding the Stagnation Points
+From the equations for the flow velocity we can rearrange both to get:
+$$\sin\theta=- \frac{\Gamma}{4U_{\infty}\pi R}$$
+This results in three possible cases:
+\
+**1) There are two symmetric values of $\theta$ :**
+This occurs when:
+$$\frac{\Gamma}{4U_{\infty}\pi R}<1$$
+Which can be seen in the following diagram:
+![[Pasted image 20240429114253.png|center|250]]
+**2) There is a single stagnation point at -90 degrees:**
+This occurs when:
+$$\frac{\Gamma}{4U_{\infty}\pi R}=1 ~~~\rightarrow~~~\sin\theta=-1$$
+Which can be seen in the following diagram:
+![[Pasted image 20240429114509.png|center|250]]
+**3) There is a single stagnation point below the cylinder:**
+This occurs when:
+$$\frac{\Gamma}{4U_{\infty}\pi R}>1$$
+Which can be seen in the following diagram:
+![[Pasted image 20240429114636.png|center|250]]
