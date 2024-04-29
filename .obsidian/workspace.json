@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md"
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md"
               }
             }
           }
@@ -142,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,11 +189,14 @@
   },
   "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
+    "Images & Attachments/Screenshot 2024-04-29 143450.png",
+    "Engineering Year 1/AVDASI/Aeronautics/Drag/Types of Drag.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
     "Images & Attachments/Pasted image 20240429142755.png",
     "Images & Attachments/Pasted image 20240429142514.png",
     "Images & Attachments/Pasted image 20240429142256.png",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
     "Images & Attachments/Pasted image 20240429141957.png",
     "Engineering Year 1/Fluids/Similarity and Testing.md",
     "Images & Attachments/Pasted image 20240429141139.png",
@@ -203,8 +205,6 @@
     "Images & Attachments/Pasted image 20240429140426.png",
     "Images & Attachments/Pasted image 20240429140404.png",
     "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
-    "Images & Attachments/Pasted image 20240429134632.png",
-    "Images & Attachments/Pasted image 20240429134332.png",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md",
@@ -227,8 +227,6 @@
     "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
     "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
-    "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
-    "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Electrical/Batteries",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
