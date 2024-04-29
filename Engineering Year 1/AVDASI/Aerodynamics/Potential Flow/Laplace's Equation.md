@@ -1,5 +1,5 @@
 Kelvin's Theorem:
-"*In the absence of viscous forces and discontinuities the flow till remain irrotational*"
+"*In the absence of viscous forces and discontinuities the flow will remain irrotational*"
 \
 We know how [[Irrotational Flow]] is defined, and discontinuities come from free surfaces (multi-phase flows) or shock waves (only present in compressible flows). Inviscid incompressible flows are always irrotational.
 \
