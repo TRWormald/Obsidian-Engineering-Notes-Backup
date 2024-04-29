@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf600eb7107c93b",
+        "id": "364c96d6eaf88036",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9f5a2a455083f8",
+            "id": "f48d87a0abbff9d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f963f9e38c5f85c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,12 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f963f9e38c5f85c3",
+  "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aeronautics/Power.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
+    "Images & Attachments/Screenshot 2024-04-29 123039.png",
     "Images & Attachments/Screenshot 2024-04-29 122829.png",
     "Images & Attachments/Pasted image 20240429122222.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Payload-Range Diagrams.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag",
@@ -226,8 +205,6 @@
     "Images & Attachments/Pasted image 20240429114509.png",
     "Untitled.md",
     "Images & Attachments/Pasted image 20240429114253.png",
-    "Images & Attachments/Pasted image 20240429113516.png",
-    "Images & Attachments/Pasted image 20240429113407.png",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",

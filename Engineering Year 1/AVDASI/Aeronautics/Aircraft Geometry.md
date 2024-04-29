@@ -12,3 +12,11 @@ These have different effects:
 Many aircraft have different configurations of their wings for various performance related reasons, the following diagram shows some of the possible configurations:
 ![[Screenshot 2024-04-29 122829.png|center|400]]
 ### Wing Geometry
+There are many different wing designs, however the most common/simple of them is the **Trapezoidal Wing**:
+![[Screenshot 2024-04-29 123039.png|center|400]]
+\
+There are several important parameters that need to be considered:
+- The **Wing Taper Ratio** - $\lambda= \frac{c_{t}}{c_{r}}$
+- The **Standard Mean Chord** - $\bar{c}=\frac{S}{b}$
+- The **Aspect Ratio** - $AR=\dfrac{b}{\bar{c}}=\dfrac{b^{2}}{S}$
+- The **Mean Aerodynamic Chord** - $\bar{\bar{d}}=\frac{1}{S}\int_{-\frac{b}{2}}^{+\frac{b}{2}}c^{2}(y)\cdot dy$
