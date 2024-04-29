@@ -26,3 +26,4 @@ Hence lift is a function of the speed squared, the angle of attack, and the air 
 This is what allows us to derive the equation for the coefficient of lift:
 $$L=\frac{1}{2}\rho V^{2}SC_{L}$$
 $$C_{L}=\frac{L}{\frac{1}{2}\rho_{\infty} V_{\infty}^{2}S}$$
+Note the fact that we have included $S$ and $\frac{1}{2}$, this is so that we can normalise it for any sized aircraft and the bottom resembles the dynamic pressure respectively. 

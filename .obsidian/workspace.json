@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md"
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,10 +189,14 @@
   },
   "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
+    "Images & Attachments/Screenshot 2024-04-29 140558.png",
+    "Images & Attachments/Pasted image 20240429140426.png",
+    "Images & Attachments/Pasted image 20240429140404.png",
+    "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
     "Images & Attachments/Pasted image 20240429134632.png",
     "Images & Attachments/Pasted image 20240429134332.png",
     "Images & Attachments/Pasted image 20240429134127.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
     "Images & Attachments/Screenshot 2024-04-29 123039.png",
@@ -212,9 +216,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
     "Images & Attachments/Pasted image 20240429120928.png",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
-    "Images & Attachments/Pasted image 20240429115228.png",
-    "Images & Attachments/Pasted image 20240429115004.png",
-    "Images & Attachments/Pasted image 20240429114636.png",
     "Untitled.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
@@ -227,7 +228,6 @@
     "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Resonant Case.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
-    "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
     "Engineering Year 1/Electrical/Batteries",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
