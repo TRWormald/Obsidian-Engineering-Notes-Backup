@@ -13,5 +13,18 @@ v&=-2U_{\infty}\cos\theta\sin\theta
 \end{align*}$$
 The velocities for vortex flow are:
 $$\begin{align*}
-u=\frac{\Gamma}{2\pi} y/x^{2} 
+u&= \frac{\Gamma}{2\pi} \frac{y}{x^{2}+y^{2}}\\
+&=\frac{\Gamma}{2\pi} \frac{R\sin\theta}{R^{2}}\\
+&= \frac{\Gamma\sin\theta}{2\pi R}\\
+&\text{And similarly:}   \\
+v&=\frac{-\Gamma\cos\theta}{2\pi R}
 \end{align*}$$
+Hence adding the components:
+$$u=2U_{\infty}\sin^{2}\theta+\frac{\Gamma\sin\theta}{2\pi R}$$
+$$v=2U_{\infty}\cos\theta\sin\theta-\frac{\Gamma\cos\theta}{2\pi R}$$
+We know that the [[The Coefficient of Pressure - From Bernoulli's Equation|coefficient of pressure]] can be found using:
+$$C_{p}=1-\frac{V^{2}}{U_{\infty}^{2}}$$
+So:
+$$c_{p}=1-\frac{u^{2}+v^{2}}{U_{\infty}^{2}}$$
+Which when substituted and simplified fully gives:
+$$c_{p}=\underbrace{1-4\sin^{2}\theta}_{\text{basic cylinder}\par\text{}}- \frac{2\Gamma\sin\theta}{U_{\infty}\pi R}-\left(\frac{\Gamma}{2U_{\infty}\pi R}\right)^{2}$$

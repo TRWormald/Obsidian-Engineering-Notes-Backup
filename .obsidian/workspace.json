@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7adcf99861ad09",
-        "type": "split",
+        "id": "71bc549ac97fceba",
+        "type": "tabs",
         "children": [
           {
-            "id": "71bc549ac97fceba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "795b049ea4229e02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "795b049ea4229e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "2b9c334692c48266",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "acdef8cfb40fe3f6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
