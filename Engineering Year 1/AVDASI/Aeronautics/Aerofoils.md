@@ -13,6 +13,17 @@ This is bad as lots of turbulence is created after the separation point; increas
 A sharper aerofoil/leading edge will result in earlier separation:
 ![[Pasted image 20240429141139.png|center|350]]
 ### Delaying Stall/Increasing $C_{L_{max}}$
-There are several ways of delaying stall, primarily through increasing the [[Reynold's Number]] or increasing the thickness to chord ratio:
-
-
+There are several ways of delaying stall, primarily through increasing the [[Reynolds Number]] or increasing the thickness to chord ratio:
+![[Pasted image 20240429141957.png|center]]
+Increasing the Reynold's Number increases the $C_{L_{max}}$ because it results in a reduction in viscosity. This means that the boundary layer is thinner and therefore less prone to separation.
+\
+Another way to increase $C_{L_{max}}$ is by increasing the **Camber** of the aerofoil:
+![[Pasted image 20240429142755.png|center]]
+### High Lift Devices
+#### Flaps
+Flaps are important devices on an aircraft which increase camber and effective angle of attack, which results in increased lift.
+![[Pasted image 20240429142256.png|center]]
+#### Slats
+Slats are used to increase the angle at which stall occurs, this can be seen in the diagram below:
+![[Pasted image 20240429142514.png|center]]
+We can see in **b** that the slat results in a later separation point due to the higher velocity air passing over the slat forcing the lower velocity air below it onto the aerofoil.

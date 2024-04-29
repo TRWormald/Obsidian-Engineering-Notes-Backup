@@ -27,7 +27,7 @@ For laminar flow in pipes:
 $$f_{D}=64 Re_{D}^{-1}$$
 For turbulent flow in smooth pipes:
 $$f_{D}\approx0.316 Re_{D}^{-0.25}$$
-In general cases, if the Reynold's Number is less than two thousand ($Re_{D}<2000$) then the flow is laminar, and if it is greater than or equal to two thousand ($Re_{D}\ge 2000$) then the flow is turbulent.
+In general cases, if the Reynolds Number is less than two thousand ($Re_{D}<2000$) then the flow is laminar, and if it is greater than or equal to two thousand ($Re_{D}\ge 2000$) then the flow is turbulent.
 \
 Note that for non circular pipes $D$ is replaced by the hydraulic diameter $D=4\cdot \frac{\text{Area}}{\text{Diameter}}$.
 ### Minor Losses
