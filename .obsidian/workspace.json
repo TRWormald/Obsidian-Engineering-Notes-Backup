@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "71bc549ac97fceba",
-        "type": "tabs",
+        "id": "2c7adcf99861ad09",
+        "type": "split",
         "children": [
           {
-            "id": "32ac7f401b42457e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
-                "mode": "source",
-                "source": false
+            "id": "71bc549ac97fceba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "795b049ea4229e02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "2b9c334692c48266",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "acdef8cfb40fe3f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md"
               }
             }
           }
@@ -142,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,8 +212,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ac7f401b42457e",
+  "active": "795b049ea4229e02",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
+    "Images & Attachments/Pasted image 20240429111320.png",
+    "Images & Attachments/Pasted image 20240429111301.png",
+    "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
     "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
     "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
@@ -218,14 +249,7 @@
     "Images & Attachments/Screenshot 2024-04-25 170850.png",
     "Images & Attachments/Pasted image 20240425170808.png",
     "Images & Attachments/Pasted image 20240425164037.png",
-    "Images & Attachments/Pasted image 20240425163223.png",
     "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
-    "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
-    "Images & Attachments/Pasted image 20240425102742.png",
-    "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
-    "Engineering Year 1/Electrical/Batteries/Single Cell Voltage Source.md",
     "Engineering Year 1/Electrical/Batteries",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
