@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dd47326e85b5cbb",
+            "id": "32ac7f401b42457e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "system",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md"
+              }
             }
           }
         ]
@@ -133,6 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,12 +188,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dd47326e85b5cbb",
+  "active": "32ac7f401b42457e",
   "lastOpenFiles": [
+    "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
+    "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
+    "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
+    "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
+    "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Resonant Case.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Method of Undetermined Coefficients.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Principal of Superposition.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Pure Imaginary Case.md",
     "Engineering Year 1/Maths/Probability/Probability Distributions.md",
     "Engineering Year 1/Maths/Probability/The Central Limit Theorem.md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
-    "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
     "Engineering Year 1/Fluids/Similarity and Testing.md",
     "Engineering Year 1/AVDASI/Structures/Aircraft Requirements and Fatigue.md",
@@ -204,19 +226,7 @@
     "Images & Attachments/Pasted image 20240425102742.png",
     "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
     "Engineering Year 1/Electrical/Batteries/Single Cell Voltage Source.md",
-    "Engineering Year 1/Electrical/Batteries/Batteries.md",
-    "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
-    "Engineering Year 1/Materials/Selection/The Selection Process.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vertex Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 1/Electrical/Batteries",
-    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
-    "Engineering Year 1/Materials/Selection/Thin Walled Tubes.md",
-    "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
-    "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
     "Untitled",
