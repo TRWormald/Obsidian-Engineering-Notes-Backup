@@ -11,8 +11,12 @@
             "id": "f48d87a0abbff9d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md"
+              }
             }
           }
         ]
@@ -133,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,6 +189,10 @@
   },
   "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20240429134632.png",
+    "Images & Attachments/Pasted image 20240429134332.png",
+    "Images & Attachments/Pasted image 20240429134127.png",
+    "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
     "Images & Attachments/Screenshot 2024-04-29 123039.png",
@@ -202,9 +215,7 @@
     "Images & Attachments/Pasted image 20240429115228.png",
     "Images & Attachments/Pasted image 20240429115004.png",
     "Images & Attachments/Pasted image 20240429114636.png",
-    "Images & Attachments/Pasted image 20240429114509.png",
     "Untitled.md",
-    "Images & Attachments/Pasted image 20240429114253.png",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
@@ -217,7 +228,6 @@
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Resonant Case.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
-    "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Method of Undetermined Coefficients.md",
     "Engineering Year 1/Electrical/Batteries",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
