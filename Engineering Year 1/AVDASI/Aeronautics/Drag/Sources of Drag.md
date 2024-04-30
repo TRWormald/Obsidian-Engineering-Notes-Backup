@@ -41,9 +41,8 @@ $$C_{D_{i}}=\frac{C_{L}^{2}}{\pi e AR}$$
 Where $e\le 1$ and is equal to the **span efficiency factor**.
 Note that $e=1$ is the most efficient planar wing, however it us usually less than one.
 ### Wave Drag
-
-
-
+As we approach the speed of sound we are also approaching the speed at which changes in air pressure propagate.
+This can lead to shock waves - violent changes in pressure, velocity, and temperature due to unsustainable conditions.
 ### Profile Drag
 Profile drag is the combination of Skin Friction and Form Drag:
 $$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
