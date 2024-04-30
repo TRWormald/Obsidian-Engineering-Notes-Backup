@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d01a208ebb334cee","type":"file","file":"Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md","x":-1960,"y":-1280,"width":643,"height":540},
+		{"id":"c1f6c86790aa39ac","x":-80,"y":-360,"width":250,"height":60,"type":"text","text":"[[Cruise]]"},
+		{"id":"09fe5d787c5d424c","x":520,"y":-360,"width":250,"height":60,"type":"text","text":"[[Power]]"},
+		{"id":"edc8a88f841d954c","x":-1835,"y":-420,"width":250,"height":60,"type":"text","text":"Range"},
+		{"id":"59f066ddb3b08f3f","x":-2085,"y":-202,"width":250,"height":60,"type":"text","text":"[[Breguet Range - Jet|Jet Range]]"},
+		{"id":"d06e3d1a0e6069a6","x":-1585,"y":-202,"width":250,"height":60,"type":"text","text":"[[Breguet Range - Propellor Driven Aircraft|Prop Range]]"},
+		{"id":"d107b7e77d9b41f6","x":-720,"y":-880,"width":250,"height":60,"type":"text","text":"[[Climb and Glide]]"},
+		{"id":"690615544aa8c2d6","x":-720,"y":-1200,"width":250,"height":60,"type":"text","text":"# Glide"},
+		{"id":"4e43c4b8caddfcdc","x":-720,"y":-560,"width":250,"height":60,"type":"text","text":"# Climb"}
+	],
+	"edges":[
+		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
+		{"id":"565707a2a3adf139","fromNode":"d107b7e77d9b41f6","fromSide":"bottom","toNode":"4e43c4b8caddfcdc","toSide":"top"},
+		{"id":"e8fb1774717ddaa2","fromNode":"edc8a88f841d954c","fromSide":"bottom","toNode":"59f066ddb3b08f3f","toSide":"top"},
+		{"id":"9b46ea9ec00f2fa9","fromNode":"edc8a88f841d954c","fromSide":"bottom","toNode":"d06e3d1a0e6069a6","toSide":"top"}
+	]
+}

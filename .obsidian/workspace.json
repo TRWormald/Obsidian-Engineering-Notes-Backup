@@ -13,11 +13,26 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
                   "x": -616.3902068857321,
                   "y": -484.3529311293889,
-                  "zoom": -1.2826662899352057
+                  "zoom": -1.3159596722619675
+                }
+              }
+            }
+          },
+          {
+            "id": "7a8d5b2fd140bd43",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
+                "viewState": {
+                  "x": -44.13678082348733,
+                  "y": -1064.5437384361471,
+                  "zoom": -0.9367840348492472
                 }
               }
             }
@@ -88,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas"
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
               }
             }
           }
@@ -144,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,9 +207,9 @@
   },
   "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Untitled.md",
     "Images & Attachments/Pasted image 20240430110931.png",
