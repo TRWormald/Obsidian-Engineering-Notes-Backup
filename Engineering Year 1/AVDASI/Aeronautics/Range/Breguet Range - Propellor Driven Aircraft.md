@@ -31,3 +31,4 @@ For a Jet:
 For a Propellor Driven Aircraft:
 ![[Pasted image 20240327135009.png|center]]
 Note that the max range for a prop is governed by the same ratio as the max endurance for a jet aircraft, showing that the max range of a propellor aircraft will always be lower than that of a jet (given that they are the same in all other aspects).
+
