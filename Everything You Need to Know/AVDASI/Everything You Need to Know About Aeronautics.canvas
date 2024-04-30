@@ -3,17 +3,23 @@
 		{"id":"d01a208ebb334cee","type":"file","file":"Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md","x":-1960,"y":-1280,"width":643,"height":540},
 		{"id":"c1f6c86790aa39ac","x":-80,"y":-360,"width":250,"height":60,"type":"text","text":"[[Cruise]]"},
 		{"id":"09fe5d787c5d424c","x":520,"y":-360,"width":250,"height":60,"type":"text","text":"[[Power]]"},
-		{"id":"edc8a88f841d954c","x":-1835,"y":-420,"width":250,"height":60,"type":"text","text":"Range"},
-		{"id":"59f066ddb3b08f3f","x":-2085,"y":-202,"width":250,"height":60,"type":"text","text":"[[Breguet Range - Jet|Jet Range]]"},
-		{"id":"d06e3d1a0e6069a6","x":-1585,"y":-202,"width":250,"height":60,"type":"text","text":"[[Breguet Range - Propellor Driven Aircraft|Prop Range]]"},
 		{"id":"d107b7e77d9b41f6","x":-720,"y":-880,"width":250,"height":60,"type":"text","text":"[[Climb and Glide]]"},
 		{"id":"690615544aa8c2d6","x":-720,"y":-1200,"width":250,"height":60,"type":"text","text":"# Glide"},
-		{"id":"4e43c4b8caddfcdc","x":-720,"y":-560,"width":250,"height":60,"type":"text","text":"# Climb"}
+		{"id":"4e43c4b8caddfcdc","x":-720,"y":-560,"width":250,"height":60,"type":"text","text":"# Climb"},
+		{"id":"59f066ddb3b08f3f","x":-2085,"y":258,"width":250,"height":60,"type":"text","text":"[[Breguet Range - Jet|Jet Range]]"},
+		{"id":"d06e3d1a0e6069a6","x":-1585,"y":258,"width":250,"height":60,"type":"text","text":"[[Breguet Range - Propellor Driven Aircraft|Prop Range]]"},
+		{"id":"367e1a554163575d","x":-1920,"y":-260,"width":420,"height":106,"type":"text","text":"# The Breguet Range Equation"},
+		{"id":"616e473cb129198f","x":-1213,"y":-222,"width":533,"height":262,"type":"text","text":"The Breguet range equation is based entirely off the fact that the rate of mass loss is equal can be fully explained by the burning of fuel:\n$$\\Huge \\underbrace{\\frac{dW}{dt}}_\\text{Rate of change of mass}=-\\underbrace{f\\cdot g\\cdot T}_{\\text{TSFC}\\times 9.81\\times\\text{Thrust}}$$"},
+		{"id":"0d8028e7fb8d5ffc","x":-1213,"y":194,"width":533,"height":366,"type":"text","text":"This equation can then be rearranged and then integrated to give the Endurance of the aircraft:\n$$\\Huge $$"},
+		{"id":"edc8a88f841d954c","x":-1835,"y":-20,"width":250,"height":60,"type":"text","text":"Range"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
 		{"id":"565707a2a3adf139","fromNode":"d107b7e77d9b41f6","fromSide":"bottom","toNode":"4e43c4b8caddfcdc","toSide":"top"},
 		{"id":"e8fb1774717ddaa2","fromNode":"edc8a88f841d954c","fromSide":"bottom","toNode":"59f066ddb3b08f3f","toSide":"top"},
-		{"id":"9b46ea9ec00f2fa9","fromNode":"edc8a88f841d954c","fromSide":"bottom","toNode":"d06e3d1a0e6069a6","toSide":"top"}
+		{"id":"9b46ea9ec00f2fa9","fromNode":"edc8a88f841d954c","fromSide":"bottom","toNode":"d06e3d1a0e6069a6","toSide":"top"},
+		{"id":"73d89fab59f5cf0e","fromNode":"367e1a554163575d","fromSide":"right","toNode":"616e473cb129198f","toSide":"left"},
+		{"id":"aff5fcd1cac7be64","fromNode":"616e473cb129198f","fromSide":"bottom","toNode":"0d8028e7fb8d5ffc","toSide":"top"},
+		{"id":"5df945ace7f48134","fromNode":"367e1a554163575d","fromSide":"bottom","toNode":"edc8a88f841d954c","toSide":"top"}
 	]
 }

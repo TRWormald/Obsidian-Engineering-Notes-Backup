@@ -15,10 +15,22 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": -616.3902068857321,
-                  "y": -484.3529311293889,
-                  "zoom": -1.3159596722619675
+                  "x": -1347.7418163801306,
+                  "y": 246.96606579265307,
+                  "zoom": -1
                 }
+              }
+            }
+          },
+          {
+            "id": "7927097afeb19936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -37,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md"
               }
             }
           }
@@ -159,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,10 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f48d87a0abbff9d2",
+  "active": "7927097afeb19936",
   "lastOpenFiles": [
-    "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
+    "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Untitled.md",
@@ -247,7 +261,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
-    "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
     "Engineering Year 1/Electrical/Batteries",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
