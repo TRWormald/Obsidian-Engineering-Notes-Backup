@@ -36,8 +36,19 @@ This is driven by pressure differences between the upper and lower surface of th
 The Wake Roll-Up diagram below shows how these vortices are formed:
 ![[Screenshot 2024-04-30 100509.png|center]]
 #### Downwash
-Tip vortices induce **downwash**, a downward flow component ($w$) over the wing span. This rotates the local velocity vector downwards by a small angle ($\alteta$) which reduces the AoA to $\alpha_{\text{eff}}$ and hence reduces lift to $L_{\text{eff}}$.
+Tip vortices induce **downwash**, a downward flow component ($w$) over the wing span. This rotates the local velocity vector downwards by a small angle ($\varepsilon$) which reduces the AoA to $\alpha_{\text{eff}}$ and hence reduces lift to $L_{\text{eff}}$.
 This means that the lift vector now has an induced drag component:
 ![[Screenshot 2024-04-30 101147.png|center]]
 #### Span Efficiency
-Induced incidence
+Induced incidence $\varepsilon$ is proportional to $C_{L}$ and therefore tip vortex strength is related directly to lift:
+$$D_{i}=L\sin\varepsilon\approx L\varepsilon \Rightarrow C_{D_{i}}\approx C_{L}\varepsilon$$
+Induced incidence also depends on wing aspect ratio (AR):
+$$\varepsilon=\frac{C_{L}}{\pi AR}$$
+So the closer the tips are together the greater the downwash.
+Using this equation along with the approximation we get:
+$$C_{D_{i}}=\frac{C_{L}^{2}}{\pi e AR}$$
+Where $e\le 1$ and is equal to the **span efficiency factor**.
+### The Drag Polar $C_D$ vs $C_L$
+![[Pasted image 20240430102519.png|center]]
+Before stall (in the 'well behaved region) $C_{D}\propto C_{L}^{2}$, so:
+$$C_{D}=\underbrace{C_{D_{0}}}_{\text{Profile Drag}}+\underbrace{KC_{L}^{2}}_{\text{Indu}}$$
