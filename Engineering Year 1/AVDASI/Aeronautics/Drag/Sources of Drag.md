@@ -43,6 +43,22 @@ Note that $e=1$ is the most efficient planar wing, however it us usually less th
 ### Wave Drag
 As we approach the speed of sound we are also approaching the speed at which changes in air pressure propagate.
 This can lead to shock waves - violent changes in pressure, velocity, and temperature due to unsustainable conditions.
+**Critical Mach Number**
+The critical Mach number ($M_{cr}$) is the lowest free stream Mach number ($M_{\infty}$) at which the airflow over any part of the aerofoil reaches the speed of sound.
+#### Aerofoil at Critical Mach
+![[Pasted image 20240430110059.png|center]]
+#### Aerofoil Above Critical Mach
+![[Pasted image 20240430110128.png|center]]
+#### Drag Divergence
+The **Drag Divergence Mach Number** ($M_{dd}$) is the free-stream Mach number where $C_{D}$ begins to increase rapidly due to **wave drag** caused by shockwaves:
+![[Pasted image 20240430110429.png|center]]
+There are two common solutions to increasing $M_{dd}$:
+- Supercritical aerofoil design
+- Wing sweep
+#### Supercritical Aerofoils
+These are Aerofoils specifically designed to allow efficient flight at higher speeds.
+![[Pasted image 20240430110655.png|center]]
+
 ### Profile Drag
 Profile drag is the combination of Skin Friction and Form Drag:
 $$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
