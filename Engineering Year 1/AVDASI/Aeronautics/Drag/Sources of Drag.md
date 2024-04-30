@@ -42,6 +42,8 @@ Where $e\le 1$ and is equal to the **span efficiency factor**.
 Note that $e=1$ is the most efficient planar wing, however it us usually less than one.
 ### Wave Drag
 
+
+
 ### Profile Drag
 Profile drag is the combination of Skin Friction and Form Drag:
 $$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
