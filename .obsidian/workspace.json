@@ -15,13 +15,19 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": -2542.748150490236,
-                  "y": 1148.857251557517,
-                  "zoom": -0.9126225208922052
+                  "x": -1603.7471948303787,
+                  "y": 824.3116143703472,
+                  "zoom": -1.4989944271246594
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c0b18b3033cbae66",
+        "type": "tabs",
+        "children": [
           {
             "id": "69e995807138df55",
             "type": "leaf",
@@ -46,7 +52,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cruise climb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,14 +224,14 @@
   },
   "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Climb and Glide.md",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Untitled.md",
