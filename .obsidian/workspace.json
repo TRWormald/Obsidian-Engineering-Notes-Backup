@@ -11,14 +11,11 @@
             "id": "f48d87a0abbff9d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
-                "viewState": {
-                  "x": -695.286788129192,
-                  "y": -431.1591217733761,
-                  "zoom": 0.2843011474609127
-                }
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas"
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md"
               }
             }
           }
@@ -144,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,10 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "f48d87a0abbff9d2",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know For Aeronautics.canvas",
+    "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Untitled.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Images & Attachments/Pasted image 20240430110931.png",
