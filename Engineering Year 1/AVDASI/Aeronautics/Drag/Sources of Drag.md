@@ -58,7 +58,12 @@ There are two common solutions to increasing $M_{dd}$:
 #### Supercritical Aerofoils
 These are Aerofoils specifically designed to allow efficient flight at higher speeds.
 ![[Pasted image 20240430110655.png|center]]
-
+#### Swept Wings
+Swept wings delay the onset of $M_{dd}$:
+![[Screenshot 2024-04-30 110749.png|center]]
+They do this by reducing the amount of velocity an aerofoil cross section 'sees'.
+It can very consistently decrease the drag at higher Mach numbers:
+![[Pasted image 20240430110931.png|center]]
 ### Profile Drag
 Profile drag is the combination of Skin Friction and Form Drag:
 $$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
