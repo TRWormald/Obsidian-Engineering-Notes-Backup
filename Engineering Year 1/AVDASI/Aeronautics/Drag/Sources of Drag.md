@@ -21,15 +21,6 @@ The friction drag coefficient reduces with Reynolds number and is greater for tu
 Front to rear asymmetry in surface pressure distribution generates **Form Drag**; it is sometimes referred to as pressure drag. The form drag coefficient increases with increasing wake size.
 ![[Pasted image 20240429144843.png|center|300]]
 ![[Pasted image 20240429144859.png|center|300]]
-### Profile Drag
-Profile drag is the combination of Skin Friction and Form Drag:
-$$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
-Low form drag and low skin friction drag tend not to go together:
-- Form drag can be reduced by fairing off the aft part of the body
-- But this increases the surface area and hence the skin friction drag.
-\
-As a result the minimum profile drag is often a compromise:
-![[Pasted image 20240430100123.png|center]]
 ### Induced Drag
 In 2D flow we only have profile drag, however in 3D flow we have an additional drag component that appears which is proportional to $\text{lift}^{2}$.
 This is driven by pressure differences between the upper and lower surface of the wing - creating vortices.
@@ -48,7 +39,21 @@ So the closer the tips are together the greater the downwash.
 Using this equation along with the approximation we get:
 $$C_{D_{i}}=\frac{C_{L}^{2}}{\pi e AR}$$
 Where $e\le 1$ and is equal to the **span efficiency factor**.
+Note that $e=1$ is the most efficient planar wing, however it us usually less than one.
+### Wave Drag
+
+### Profile Drag
+Profile drag is the combination of Skin Friction and Form Drag:
+$$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
+Low form drag and low skin friction drag tend not to go together:
+- Form drag can be reduced by fairing off the aft part of the body
+- But this increases the surface area and hence the skin friction drag.
+\
+As a result the minimum profile drag is often a compromise:
+![[Pasted image 20240430100123.png|center]]
 ### The Drag Polar $C_D$ vs $C_L$
 ![[Pasted image 20240430102519.png|center]]
 Before stall (in the 'well behaved region) $C_{D}\propto C_{L}^{2}$, so:
-$$C_{D}=\underbrace{C_{D_{0}}}_{\text{Profile Drag}}+\underbrace{KC_{L}^{2}}_{\text{Indu}}$$
+$$C_{D}=\underbrace{C_{D_{0}}}_{\text{Profile Drag}}+\underbrace{KC_{L}^{2}}_{\text{Induced Drag}}$$
+$K$ is related to the span through the aspect ratio resulting in:
+$$\boxed{C_{D}=C_{D_{0}}+\frac{C_{L}^{2}}{\pi e AR}}$$
