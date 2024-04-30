@@ -24,3 +24,14 @@ Front to rear asymmetry in surface pressure distribution generates **Form Drag**
 ### Profile Drag
 Profile drag is the combination of Skin Friction and Form Drag:
 $$\text{Profile Drag = Skin Friction Drag + Form Drag}$$
+Low form drag and low skin friction drag tend not to go together:
+- Form drag can be reduced by fairing off the aft part of the body
+- But this increases the surface area and hence the skin friction drag.
+\
+As a result the minimum profile drag is often a compromise:
+![[Pasted image 20240430100123.png|center]]
+### Induced Drag
+In 2D flow we only have profile drag, however in 3D flow we have an additional drag component that appears which is proportional to $\text{lift}^{2}$.
+This is driven by pressure differences between the upper and lower surface of the wing - creating vortices.
+The Wake Roll-Up diagram below shows how these vortices are formed:
+![[Screenshot 2024-04-30 100509.png|center]]
