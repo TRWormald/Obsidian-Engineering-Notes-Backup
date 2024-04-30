@@ -1,4 +1,4 @@
-### Gliding Flight
+## Gliding Flight
 #### Forces in Gliding and Glide Angle
 When gliding $T=0$ however $D\neq0$, as a result you cannot maintain equilibrium in straight and level flight.
 Therefore the aircraft descends at **glide angle** $\theta$
