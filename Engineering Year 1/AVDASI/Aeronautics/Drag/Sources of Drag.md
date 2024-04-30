@@ -35,3 +35,9 @@ In 2D flow we only have profile drag, however in 3D flow we have an additional d
 This is driven by pressure differences between the upper and lower surface of the wing - creating vortices.
 The Wake Roll-Up diagram below shows how these vortices are formed:
 ![[Screenshot 2024-04-30 100509.png|center]]
+#### Downwash
+Tip vortices induce **downwash**, a downward flow component ($w$) over the wing span. This rotates the local velocity vector downwards by a small angle ($\alteta$) which reduces the AoA to $\alpha_{\text{eff}}$ and hence reduces lift to $L_{\text{eff}}$.
+This means that the lift vector now has an induced drag component:
+![[Screenshot 2024-04-30 101147.png|center]]
+#### Span Efficiency
+Induced incidence
