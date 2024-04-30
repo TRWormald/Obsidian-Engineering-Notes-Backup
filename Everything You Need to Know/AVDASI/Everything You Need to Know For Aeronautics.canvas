@@ -1,6 +1,14 @@
 {
 	"nodes":[
-		{"id":"d01a208ebb334cee","x":-1080,"y":-720,"width":643,"height":540,"type":"file","file":"Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md"}
+		{"id":"09fe5d787c5d424c","x":696,"y":-283,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d01a208ebb334cee","type":"file","file":"Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md","x":-1960,"y":-1280,"width":643,"height":540},
+		{"id":"d107b7e77d9b41f6","x":-800,"y":-360,"width":250,"height":60,"type":"text","text":"[[Climb and Glide]]"},
+		{"id":"690615544aa8c2d6","x":-800,"y":-680,"width":250,"height":60,"type":"text","text":"# Glide"},
+		{"id":"4e43c4b8caddfcdc","x":-800,"y":-40,"width":250,"height":60,"type":"text","text":"# Climb"},
+		{"id":"c1f6c86790aa39ac","x":-80,"y":-360,"width":250,"height":60,"type":"text","text":"[[Cruise]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
+		{"id":"565707a2a3adf139","fromNode":"d107b7e77d9b41f6","fromSide":"bottom","toNode":"4e43c4b8caddfcdc","toSide":"top"}
+	]
 }
