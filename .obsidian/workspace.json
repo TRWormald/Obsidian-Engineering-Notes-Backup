@@ -15,9 +15,9 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": 1768.7531733951196,
-                  "y": -1062.2701924880269,
-                  "zoom": -0.9500516092777256
+                  "x": 1873.2109924306903,
+                  "y": -227.6698420752994,
+                  "zoom": -0.22756840805212697
                 }
               }
             }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -210,8 +211,9 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Images & Attachments/Drag vs EAS Polar Showing Variation with Weight.png",
+    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Images & Attachments/Drag vs EAS Polar Showing Variation with Weight.png",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
     "Images & Attachments/Total Drag vs EAS Polar.png",
     "Images & Attachments/Total Drag at Altitude Polar.png",
@@ -220,7 +222,6 @@
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Untitled.md",
     "Images & Attachments/Aircraft Level Flight Diagram.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Images & Attachments/Aircraft Gliding Diagram.png",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
@@ -243,7 +244,6 @@
     "Everything You Need to Know/AVDASI/Untitled.md",
     "Images & Attachments/Pasted image 20240430110931.png",
     "Images & Attachments/Screenshot 2024-04-30 110749.png",
-    "Images & Attachments/Pasted image 20240430110655.png",
     "Everything You Need to Know/AVDASI",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Types of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
