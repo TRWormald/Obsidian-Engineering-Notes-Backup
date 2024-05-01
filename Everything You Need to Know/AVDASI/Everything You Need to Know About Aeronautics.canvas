@@ -30,7 +30,10 @@
 		{"id":"43a5d2bc79dd2ec7","type":"text","text":"# [[Level Flight]]","x":3160,"y":-415,"width":250,"height":61},
 		{"id":"0f44c21ca2175ade","type":"file","file":"Images & Attachments/Aircraft Level Flight Diagram.png","x":3009,"y":-1254,"width":552,"height":274},
 		{"id":"e540d69a7ec65f77","x":3009,"y":-980,"width":552,"height":140,"type":"text","text":"When an aircraft is in level flight we make several key assumptions:\n**1) The Weight is equal to the Lift**\n**2) The Thrust is equal to the Drag**\n"},
-		{"id":"268fdee1b7a0724a","x":3880,"y":-1400,"width":560,"height":560,"type":"text","text":"# Lift and Speed in Level Flight\nAs Lift is equal to the Weight we can rewrite the equation for the coefficient of lift as:\n$$\\Huge C_L=\\frac{L}{\\frac{1}{2}\\rho V^2 S}=\\frac{W}{\\frac{1}{2}\\rho V^2 S}$$\nThe corresponding flight speed $V$ is therefore:\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$\nThis means that the minimum possible level flight speed occurs at $C_{L_{max}}$ i.e. at stall.\nNote also that reducing density $\\rho$ increases flight speed (and this means that increasing altitude will do the same)."}
+		{"id":"268fdee1b7a0724a","x":3880,"y":-1400,"width":560,"height":560,"type":"text","text":"# Lift and Speed in Level Flight\nAs Lift is equal to the Weight we can rewrite the equation for the coefficient of lift as:\n$$\\Huge C_L=\\frac{L}{\\frac{1}{2}\\rho V^2 S}=\\frac{W}{\\frac{1}{2}\\rho V^2 S}$$\nThe corresponding flight speed $V$ is therefore:\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$\nThis means that the minimum possible level flight speed occurs at $C_{L_{max}}$ i.e. at stall.\nNote also that reducing density $\\rho$ increases flight speed (and this means that increasing altitude will do the same)."},
+		{"id":"e1f94ea11fe06b98","x":4600,"y":-1800,"width":560,"height":500,"type":"text","text":"# About Equivalent Air Speed\nOften we will use equivalent air speed instead of true air speed as it makes many calculations easier.\nThe EAS (Equivalent Air Speed) is the speed $V_E$ at standard sea level density $\\rho_0$ which will give the same aerodynamic loads.\nSo:\n$$\\Huge L=\\frac{1}{2}\\rho V^2 SC_L=\\frac{1}{2}\\rho_0 V_{E}^2 SC_L$$\nHence:\n$$\\Huge V_E = V\\sqrt{\\frac{\\rho}{\\rho_0}}$$"},
+		{"id":"0bccf609097705c5","x":4600,"y":-1120,"width":560,"height":280,"type":"text","text":"## The Applications of EAS\nStructural limits are typically defined in terms of EAS as otherwise they would have to take into account various different flight conditions and specify the limits for each of them.\nHowever most interestingly **stall will always occur at the same EAS**."},
+		{"id":"1d7a76e44956e067","x":3880,"y":-740,"width":560,"height":460,"type":"text","text":"# Drag on the Aircraft\nWith our aircraft in equilibrium the **Thrust is equal to the Drag**. Hence we can rewrite the Coefficient of Drag as:\n$$\\Huge"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -56,6 +59,9 @@
 		{"id":"d57659ab726f7edd","fromNode":"930f9dd0d70f50ec","fromSide":"top","toNode":"502dca34c2ea180f","toSide":"bottom"},
 		{"id":"7291524334ffd46e","fromNode":"690615544aa8c2d6","fromSide":"top","toNode":"4371e4dd44581664","toSide":"bottom"},
 		{"id":"e2c6d5313c5a2139","fromNode":"e540d69a7ec65f77","fromSide":"right","toNode":"268fdee1b7a0724a","toSide":"left"},
-		{"id":"3aba9cb8da5b3486","fromNode":"43a5d2bc79dd2ec7","fromSide":"top","toNode":"e540d69a7ec65f77","toSide":"bottom"}
+		{"id":"3aba9cb8da5b3486","fromNode":"43a5d2bc79dd2ec7","fromSide":"top","toNode":"e540d69a7ec65f77","toSide":"bottom"},
+		{"id":"af471ae7ef1ed8df","fromNode":"268fdee1b7a0724a","fromSide":"right","toNode":"e1f94ea11fe06b98","toSide":"left"},
+		{"id":"1b97eed5efe8a0a1","fromNode":"e1f94ea11fe06b98","fromSide":"bottom","toNode":"0bccf609097705c5","toSide":"top"},
+		{"id":"558642e4a211d91d","fromNode":"e540d69a7ec65f77","fromSide":"right","toNode":"1d7a76e44956e067","toSide":"left"}
 	]
 }
