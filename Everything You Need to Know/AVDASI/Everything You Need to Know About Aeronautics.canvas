@@ -1,7 +1,5 @@
 {
 	"nodes":[
-		{"id":"c1f6c86790aa39ac","type":"text","text":"# [[Cruise]]","x":-80,"y":-360,"width":250,"height":60},
-		{"id":"09fe5d787c5d424c","type":"text","text":"# [[Power]]","x":520,"y":-360,"width":250,"height":60},
 		{"id":"edc8a88f841d954c","type":"text","text":"# Range","x":-1835,"y":-20,"width":250,"height":60},
 		{"id":"59f066ddb3b08f3f","type":"text","text":"# [[Breguet Range - Jet|Jet Range]]","x":-2085,"y":240,"width":250,"height":60},
 		{"id":"d06e3d1a0e6069a6","type":"text","text":"# [[Breguet Range - Propellor Driven Aircraft|Prop Range]]","x":-1585,"y":240,"width":250,"height":60},
@@ -20,9 +18,6 @@
 		{"id":"8ed23d9b464c8616","type":"text","text":"# Calculating Range - Jet @ Constant Altitude\nFor a jet at constant altitude if we hold $C_L$ constant then we must not have a constant speed, so:\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$\nWhich we then substitute into our $dS$ equation and integrate, giving:\n$$\\Huge \\boxed{R=\\sqrt{\\frac{8}{\\rho S}} \\frac{1}{fg} \\frac{C_{L}^{\\frac{1}{2}}}{C_{D}}\\left(W_{1}^{\\frac{1}{2}}-W_{2}^{\\frac{1}{2}}\\right)}$$\nMeaning that we have to maximise:\n$$\\Huge \\frac{C_L^{\\frac{1}{2}}}{C_D}$$\nMuch like with cruise-climb max range.","x":-3160,"y":1828,"width":533,"height":696},
 		{"id":"f4f96af7a3cc167b","type":"text","text":"We can rearrange this equation as follows:\n$$\\Huge dt=-\\frac{dW}{f\\cdot g\\cdot T}$$\nAnd if we assume steady level flight conditions (i.e. that **Thrust = Drag** and **Weight = Lift**):\n$$\\Huge T=\\frac{D}{L}W = \\frac{C_D}{C_L}W$$\nHence:\n$$\\Huge dt=-\\frac{1}{f\\cdot g}\\frac{C_L}{C_D}\\frac{dW}{W}$$","x":-3160,"y":240,"width":547,"height":480},
 		{"id":"811749326913c1f6","type":"file","file":"Images & Attachments/Drag Polar Relationships.png","x":-3160,"y":-1221,"width":1255,"height":743},
-		{"id":"4371e4dd44581664","type":"text","text":"When gliding the thrust (T) of an aircraft is equal to zero, however drag doesn't go away so to prevent stall (due to lack of velocity) there must be another force opposing the drag.\n**This is provided by a component of the weight force as you pitch the aircraft down.**","x":1240,"y":-1200,"width":552,"height":220},
-		{"id":"8daa30abdf638e22","type":"file","file":"Images & Attachments/Aircraft Gliding Diagram.png","x":1240,"y":-1480,"width":552,"height":280},
-		{"id":"502dca34c2ea180f","type":"text","text":"Hence the glide angle depends solely on the aerodynamic characteristics of the aircraft.","x":1960,"y":-1480,"width":360,"height":120},
 		{"id":"43a5d2bc79dd2ec7","type":"text","text":"# [[Level Flight]]","x":3160,"y":-415,"width":250,"height":61},
 		{"id":"0f44c21ca2175ade","type":"file","file":"Images & Attachments/Aircraft Level Flight Diagram.png","x":3009,"y":-1254,"width":552,"height":274},
 		{"id":"e540d69a7ec65f77","type":"text","text":"When an aircraft is in level flight we make several key assumptions:\n**1) The Weight is equal to the Lift**\n**2) The Thrust is equal to the Drag**\n","x":3009,"y":-980,"width":552,"height":140},
@@ -46,11 +41,17 @@
 		{"id":"b5d24524bcb2839c","type":"file","file":"Images & Attachments/Drag vs EAS Polar Showing Variation with Weight.png","x":3840,"y":1800,"width":640,"height":444},
 		{"id":"06f9534b2ec3016f","x":4480,"y":1800,"width":320,"height":444,"type":"text","text":"It is interesting to note that:\n- As weight increases the stall speed increases\n- As weight increases the induced drag increases at low speeds\n- There is only a minor increase in drag at higher speeds (i.e. when the total drag is dominated by the zero lift drag)"},
 		{"id":"dfbf039e39d89e24","type":"file","file":"Images & Attachments/Total Drag vs EAS Polar.png","x":4871,"y":1421,"width":535,"height":379},
-		{"id":"930f9dd0d70f50ec","type":"text","text":"We can calculate the glide angle as a function of lift and drag:\n$$\\Huge \\theta=\\arccos(L/W)$$\n$$\\Huge \\theta =\\arcsin(D/W)$$\nOr:\n$$\\Huge\\tan\\theta=\\frac{1}{C_L/C_D}=\\frac{C_D}{C_L}$$\nHence the minimum glide angle occurs when $\\frac{C_D}{C_L}$ is minimised.\nThis is at the minimum drag speed (as could probably be intuited).","x":1960,"y":-1300,"width":610,"height":420},
-		{"id":"690615544aa8c2d6","type":"text","text":"# Glide","x":1391,"y":-480,"width":250,"height":60},
-		{"id":"d107b7e77d9b41f6","type":"text","text":"# [[Climb and Glide]]","x":1391,"y":-210,"width":250,"height":110},
-		{"id":"4e43c4b8caddfcdc","type":"text","text":"# Climb","x":1391,"y":190,"width":250,"height":60},
-		{"id":"d6f01235a06df240","x":1960,"y":-800,"width":610,"height":350,"type":"text","text":"# Minimum Glide Angle\n**The minimum glide angle occurs at the minimum drag speed** or in other words, when $\\frac{C_D}{C_L}$ is minimised. This means that:\n$$\\Huge"}
+		{"id":"c1f6c86790aa39ac","type":"text","text":"# [[Cruise]]","x":-1291,"y":-1150,"width":250,"height":60},
+		{"id":"09fe5d787c5d424c","type":"text","text":"# [[Power]]","x":-691,"y":-1150,"width":250,"height":60},
+		{"id":"4371e4dd44581664","type":"text","text":"When gliding the thrust (T) of an aircraft is equal to zero, however drag doesn't go away so to prevent stall (due to lack of velocity) there must be another force opposing the drag.\n**This is provided by a component of the weight force as you pitch the aircraft down.**","x":80,"y":-1210,"width":552,"height":220},
+		{"id":"502dca34c2ea180f","type":"text","text":"Hence the glide angle depends solely on the aerodynamic characteristics of the aircraft.","x":800,"y":-1490,"width":360,"height":120},
+		{"id":"8daa30abdf638e22","type":"file","file":"Images & Attachments/Aircraft Gliding Diagram.png","x":80,"y":-1490,"width":552,"height":280},
+		{"id":"930f9dd0d70f50ec","type":"text","text":"We can calculate the glide angle as a function of lift and drag:\n$$\\Huge \\theta=\\arccos(L/W)$$\n$$\\Huge \\theta =\\arcsin(D/W)$$\nOr:\n$$\\Huge\\tan\\theta=\\frac{1}{C_L/C_D}=\\frac{C_D}{C_L}$$\nHence the minimum glide angle occurs when $\\frac{C_D}{C_L}$ is minimised.\nThis is at the minimum drag condition (as could probably be intuited).","x":800,"y":-1310,"width":610,"height":420},
+		{"id":"690615544aa8c2d6","type":"text","text":"# Glide","x":231,"y":-490,"width":250,"height":60},
+		{"id":"d107b7e77d9b41f6","type":"text","text":"# [[Climb and Glide]]","x":231,"y":-220,"width":250,"height":110},
+		{"id":"4e43c4b8caddfcdc","type":"text","text":"# Climb","x":231,"y":180,"width":250,"height":60},
+		{"id":"d6f01235a06df240","x":800,"y":-790,"width":610,"height":470,"type":"text","text":"# Minimum Glide Angle\n**The minimum glide angle occurs at the minimum drag condition** or in other words, when $\\frac{C_D}{C_L}$ is minimised. This means that:\n$$\\Huge C_{D_{\\text{min glide angle}}}=C_{D_{min}}=2C_{D_0}=2KC_L^2$$\n$$\\Huge C_{L_{\\text{min glide angle}}}=C_{L_{MD}}=\\sqrt{\\frac{C_{D_0}}{K}}$$\nResulting in:\n$$\\boxed{\\Huge \\frac{C_{D_{min}}}{C_{L_{MD}}}=\\left(\\frac{C_D}{C_L}\\right)_\\text{min}=\\frac{2C_{D_0}}{\\sqrt{C_{D_0}/K}}}$$\n"},
+		{"id":"2611ffea0e3db582","x":1560,"y":-1310,"width":760,"height":470,"type":"text","text":"# Speed for the Minimum Glide Angle\nThe minimum glide angle occurs at the minimum drag condition and results in the maximum distance from a given start height. However the speed gliding aircraft depends on the glide angle:\n$$\\Huge V_{\\text{gliding}}=\\sqrt{\\frac{L}{\\frac{1}{2}\\rho SC_L}}=\\sqrt{\\frac{W\\cos\\theta}{\\frac{1}{2}\\rho SC_L}}=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}\\sqrt{\\cos\\theta}$$\nSo for a given $C_L$ speed is less than that of level flight by the factor $\\sqrt{\\cos\\theta}$. However if we use a small angle approximation then for any glide angle less than 10 degrees the error is less than 1%. Hence:\n$$"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -92,6 +93,7 @@
 		{"id":"731c6c1cd26999ac","fromNode":"1e1a7ec79703e2d9","fromSide":"bottom","toNode":"cd85feae04959d83","toSide":"top"},
 		{"id":"8e2a71df053399b0","fromNode":"cd85feae04959d83","fromSide":"right","toNode":"06f9534b2ec3016f","toSide":"top"},
 		{"id":"cadfe6a61ad0717b","fromNode":"028923a256b64727","fromSide":"bottom","toNode":"dfbf039e39d89e24","toSide":"top"},
-		{"id":"4aa8f9e63ce89ebc","fromNode":"930f9dd0d70f50ec","fromSide":"bottom","toNode":"d6f01235a06df240","toSide":"top"}
+		{"id":"4aa8f9e63ce89ebc","fromNode":"930f9dd0d70f50ec","fromSide":"bottom","toNode":"d6f01235a06df240","toSide":"top"},
+		{"id":"ec0aa8345918c539","fromNode":"d6f01235a06df240","fromSide":"right","toNode":"2611ffea0e3db582","toSide":"left"}
 	]
 }
