@@ -4,7 +4,6 @@
 		{"id":"598b00b1f20d6e6c","type":"group","x":400,"y":-1680,"width":2907,"height":4164,"label":"Range"},
 		{"id":"ea7245a777c0d415","type":"group","x":3760,"y":-1680,"width":2471,"height":4184,"label":"Level Flight"},
 		{"id":"ab234c3c3a87a7b2","type":"group","x":3751,"y":2716,"width":1532,"height":2076,"label":"Power"},
-		{"id":"c1f6c86790aa39ac","type":"text","text":"# [[Cruise]]","x":-1760,"y":-590,"width":280,"height":70},
 		{"id":"c5c4e8e0076a0de9","type":"text","text":"# Generating A Payload-Range Diagram\nThe steps for generating a payload-range diagram are:\n1) Finding the **maximum range given MZFW** - i.e. how far you can transport the maximum payload\n\t- So $W_{initial}=MTOW$\n\t- So $W_{final}=OEW+\\text{Reserve Fuel}+\\text{Payload}$\n2) Finding the **maximum range given maximum fuel**\n\t- So $\\text{Payload}=MTOW-OEW-\\text{Max Fuel}$\n\t- Hence $W_{final}=MTOW-\\text{Max Fuel}$ \n3) Find the **maximum range given maximum fuel and no payload**\n\t- So $W_{initial}=OEW+\\text{Max Fuel}$\n\t- So $W_{final}=OEW$\n\t- $\\text{Payload}=0$","x":2556,"y":1280,"width":644,"height":560},
 		{"id":"9b0467d35d701339","type":"file","file":"Images & Attachments/Alternate Payload-Range Diagram.png","x":2556,"y":1900,"width":644,"height":444},
 		{"id":"a0efa15b6d0801c6","type":"text","text":"# Max Range - Cruise-Climb\nTo maximise range in Cruise-Climb we have to maximise:\n$$\\Huge V\\frac{C_L}{C_D}$$\nAs the velocity is equal to:\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$\nHence we want to maximise:\n$$\\Huge\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}\\frac{C_L}{C_D}=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho S}}\\frac{C_L^\\frac{1}{2}}{C_D}$$\nOr in other words (due to the other factors being constant) we want to maximise:\n$$\\Huge\\frac{C_L^\\frac{1}{2}}{C_D}$$\n","x":2023,"y":354,"width":533,"height":760},
@@ -96,7 +95,9 @@
 		{"id":"e863fee31ef743bc","type":"file","file":"Images & Attachments/Thrust and Power Variation with TAS (Propeller).png","x":1411,"y":5672,"width":613,"height":326},
 		{"id":"bf448615fdc800af","type":"file","file":"Images & Attachments/Prop Aircraft Climb Excess Power (Climb Rate) Polar.png","x":-575,"y":5808,"width":568,"height":425},
 		{"id":"490fffd1cf15ab05","type":"text","text":"# Climb Rate for a Prop Aircraft","x":-576,"y":5717,"width":569,"height":91},
-		{"id":"a1334e266848559e","type":"text","text":"Simply:\n- For Jet Aircraft - thrust remains constant with speed whilst power increases linearly.\n- For Prop Aircraft - thrust reduces with speed whilst power output remains constant.","x":1090,"y":5998,"width":641,"height":214}
+		{"id":"a1334e266848559e","type":"text","text":"Simply:\n- For Jet Aircraft - thrust remains constant with speed whilst power increases linearly.\n- For Prop Aircraft - thrust reduces with speed whilst power output remains constant.","x":1090,"y":5998,"width":641,"height":214},
+		{"id":"c1f6c86790aa39ac","type":"text","text":"# [[Cruise]]","x":-1760,"y":-590,"width":280,"height":70},
+		{"id":"15bdb6eccef4d90c","x":-1360,"y":-325,"width":680,"height":405,"type":"text","text":"# Considerations For Cruise\nWe need to consider several things with regards to cruise:\n- Density will decrease with altitude\n\t- So lift will also decrease so we need to speed up to compensate\n\t- Drag decreases with density, but grows with increased speed to maintain lift\n\t- Engine power decreases with density - which limits the maximum altitude, however fuel consumption also decreases\n- Is there a point where power required = maximum power available"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -166,6 +167,7 @@
 		{"id":"8a3a578c9a922333","fromNode":"8315cd4e1e289ebc","fromSide":"bottom","toNode":"7c3935dad947dc62","toSide":"right"},
 		{"id":"75be7ba08acf18b9","fromNode":"8315cd4e1e289ebc","fromSide":"right","toNode":"0319bec66427e19c","toSide":"left"},
 		{"id":"ae9cbc67dd947485","fromNode":"0319bec66427e19c","fromSide":"right","toNode":"c5c4e8e0076a0de9","toSide":"left"},
-		{"id":"1b0dc4c74f411e35","fromNode":"c5c4e8e0076a0de9","fromSide":"bottom","toNode":"9b0467d35d701339","toSide":"top"}
+		{"id":"1b0dc4c74f411e35","fromNode":"c5c4e8e0076a0de9","fromSide":"bottom","toNode":"9b0467d35d701339","toSide":"top"},
+		{"id":"3d084ab25a846aed","fromNode":"c1f6c86790aa39ac","fromSide":"bottom","toNode":"15bdb6eccef4d90c","toSide":"top"}
 	]
 }
