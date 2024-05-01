@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "364c96d6eaf88036",
+        "id": "5549b081e681d922",
         "type": "tabs",
         "children": [
           {
-            "id": "f48d87a0abbff9d2",
+            "id": "86e580fdb092ddcd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-                "viewState": {
-                  "x": -1674.7221154456377,
-                  "y": 1335.2962466730528,
-                  "zoom": -1.8559723771502847
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,10 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f48d87a0abbff9d2",
+  "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
+    "Engineering Year 1/Maths/Probability/Probability Basics.md",
+    "Engineering Year 1/Maths/Probability/Probability Distributions.md",
+    "Engineering Year 1/Maths/Probability/The Central Limit Theorem.md",
+    "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Images & Attachments/Drag Polar Relationships.png",
@@ -224,15 +220,8 @@
     "Engineering Year 1/AVDASI/Aeronautics/Aircraft Geometry.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Payload-Range Diagrams.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag",
-    "Engineering Year 1/AVDASI/Aeronautics/Untitled/Untitled.md",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres",
     "Engineering Year 1/AVDASI/Aeronautics/Range",
-    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Engineering Year 1/Electrical/Batteries",
     "Engineering Year 1/Maths/Probability",
     "Untitled 1",
