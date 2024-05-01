@@ -19,7 +19,7 @@ $$W_{initial}=W_{final}+Trip~Fuel~Weight$$
 Hence:
 $$\frac{W_{initial}}{W_{final}}=\frac{W_{final}+Trip~Fuel~Weight}{OEW+Payload+Reserve~Fuel~Weight}$$
 ### Sample Payload-Range Diagram
-![[Exemplar Payload-Weight Diagram.png|center]]
+![[Exemplar Payload-Range Diagram.png|center]]
 Note how as payload decreases the range increases, with the maximum range occurring with zero payload. Maximum payload is limited by MZFW. The bounded area represents the sum total of all possible combinations of payload and range.
 ### Generating A Payload-Range Diagram
 The steps for generating a payload-range diagram are:
