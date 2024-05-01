@@ -69,12 +69,12 @@ In simple terms:
 - Power output remains constant with speed.
 ![[Thrust and Power Variation with TAS (Propeller).png|center|300]]
 #### Climb Angle for a Jet
-![[Pasted image 20240308161011.png|center]]
+![[Jet Climb Excess Thrust (Climb Angle) Polar.png|center]]
 #### Rate of Climb for a Jet
-![[Screenshot 2024-03-08 161047.png|center]]
+![[Jet Climb Excess Power (Climb Rate) Polar.png|center]]
 #### Climb Angle for a Prop Powered Aircraft
-![[Pasted image 20240308161144.png|center]]
+![[Prop Aircraft Climb Excess Thrust (Climb Angle) Polar.png|center]]
 #### Rate of Climb for a Prop Powered Aircraft
-![[Pasted image 20240308161210.png|center]]
+![[Prop Aircraft Climb Excess Power (Climb Rate) Polar.png|center]]
 ### Climb Performance Summary
 ![[Pasted image 20240308161435.png|center]]
