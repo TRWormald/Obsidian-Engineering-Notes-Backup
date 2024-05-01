@@ -20,13 +20,9 @@
 		{"id":"8ed23d9b464c8616","type":"text","text":"# Calculating Range - Jet @ Constant Altitude\nFor a jet at constant altitude if we hold $C_L$ constant then we must not have a constant speed, so:\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$\nWhich we then substitute into our $dS$ equation and integrate, giving:\n$$\\Huge \\boxed{R=\\sqrt{\\frac{8}{\\rho S}} \\frac{1}{fg} \\frac{C_{L}^{\\frac{1}{2}}}{C_{D}}\\left(W_{1}^{\\frac{1}{2}}-W_{2}^{\\frac{1}{2}}\\right)}$$\nMeaning that we have to maximise:\n$$\\Huge \\frac{C_L^{\\frac{1}{2}}}{C_D}$$\nMuch like with cruise-climb max range.","x":-3160,"y":1828,"width":533,"height":696},
 		{"id":"f4f96af7a3cc167b","type":"text","text":"We can rearrange this equation as follows:\n$$\\Huge dt=-\\frac{dW}{f\\cdot g\\cdot T}$$\nAnd if we assume steady level flight conditions (i.e. that **Thrust = Drag** and **Weight = Lift**):\n$$\\Huge T=\\frac{D}{L}W = \\frac{C_D}{C_L}W$$\nHence:\n$$\\Huge dt=-\\frac{1}{f\\cdot g}\\frac{C_L}{C_D}\\frac{dW}{W}$$","x":-3160,"y":240,"width":547,"height":480},
 		{"id":"811749326913c1f6","type":"file","file":"Images & Attachments/Drag Polar Relationships.png","x":-3160,"y":-1221,"width":1255,"height":743},
-		{"id":"690615544aa8c2d6","type":"text","text":"# Glide","x":2320,"y":-710,"width":250,"height":60},
 		{"id":"4371e4dd44581664","type":"text","text":"When gliding the thrust (T) of an aircraft is equal to zero, however drag doesn't go away so to prevent stall (due to lack of velocity) there must be another force opposing the drag.\n**This is provided by a component of the weight force as you pitch the aircraft down.**","x":1240,"y":-1200,"width":552,"height":220},
 		{"id":"8daa30abdf638e22","type":"file","file":"Images & Attachments/Aircraft Gliding Diagram.png","x":1240,"y":-1480,"width":552,"height":280},
-		{"id":"930f9dd0d70f50ec","type":"text","text":"We can calculate the glide angle as a function of lift and drag:\n$$\\Huge \\theta=\\arccos(L/W)$$\n$$\\Huge \\theta =\\arcsin(D/W)$$\nOr:\n$$\\Huge\\tan\\theta=\\frac{1}{C_L/C_D}$$\n","x":1960,"y":-1320,"width":360,"height":340},
 		{"id":"502dca34c2ea180f","type":"text","text":"Hence the glide angle depends solely on the aerodynamic characteristics of the aircraft.","x":1960,"y":-1480,"width":360,"height":120},
-		{"id":"4e43c4b8caddfcdc","type":"text","text":"# Climb","x":2320,"y":-40,"width":250,"height":60},
-		{"id":"d107b7e77d9b41f6","type":"text","text":"# [[Climb and Glide]]","x":2320,"y":-440,"width":250,"height":110},
 		{"id":"43a5d2bc79dd2ec7","type":"text","text":"# [[Level Flight]]","x":3160,"y":-415,"width":250,"height":61},
 		{"id":"0f44c21ca2175ade","type":"file","file":"Images & Attachments/Aircraft Level Flight Diagram.png","x":3009,"y":-1254,"width":552,"height":274},
 		{"id":"e540d69a7ec65f77","type":"text","text":"When an aircraft is in level flight we make several key assumptions:\n**1) The Weight is equal to the Lift**\n**2) The Thrust is equal to the Drag**\n","x":3009,"y":-980,"width":552,"height":140},
@@ -49,7 +45,12 @@
 		{"id":"cd85feae04959d83","x":3840,"y":1631,"width":640,"height":169,"type":"text","text":"# The Effect of Weight On Drag\nThe following polar shows the relationship between Drag and EAS with differing weight values. "},
 		{"id":"b5d24524bcb2839c","type":"file","file":"Images & Attachments/Drag vs EAS Polar Showing Variation with Weight.png","x":3840,"y":1800,"width":640,"height":444},
 		{"id":"06f9534b2ec3016f","x":4480,"y":1800,"width":320,"height":444,"type":"text","text":"It is interesting to note that:\n- As weight increases the stall speed increases\n- As weight increases the induced drag increases at low speeds\n- There is only a minor increase in drag at higher speeds (i.e. when the total drag is dominated by the zero lift drag)"},
-		{"id":"dfbf039e39d89e24","type":"file","file":"Images & Attachments/Total Drag vs EAS Polar.png","x":4871,"y":1421,"width":535,"height":379}
+		{"id":"dfbf039e39d89e24","type":"file","file":"Images & Attachments/Total Drag vs EAS Polar.png","x":4871,"y":1421,"width":535,"height":379},
+		{"id":"930f9dd0d70f50ec","type":"text","text":"We can calculate the glide angle as a function of lift and drag:\n$$\\Huge \\theta=\\arccos(L/W)$$\n$$\\Huge \\theta =\\arcsin(D/W)$$\nOr:\n$$\\Huge\\tan\\theta=\\frac{1}{C_L/C_D}=\\frac{C_D}{C_L}$$\nHence the minimum glide angle occurs when $\\frac{C_D}{C_L}$ is minimised.\nThis is at the minimum drag speed (as could probably be intuited).","x":1960,"y":-1300,"width":610,"height":420},
+		{"id":"690615544aa8c2d6","type":"text","text":"# Glide","x":1391,"y":-480,"width":250,"height":60},
+		{"id":"d107b7e77d9b41f6","type":"text","text":"# [[Climb and Glide]]","x":1391,"y":-210,"width":250,"height":110},
+		{"id":"4e43c4b8caddfcdc","type":"text","text":"# Climb","x":1391,"y":190,"width":250,"height":60},
+		{"id":"d6f01235a06df240","x":1960,"y":-800,"width":610,"height":350,"type":"text","text":"# Minimum Glide Angle\n**The minimum glide angle occurs at the minimum drag speed** or in other words, when $\\frac{C_D}{C_L}$ is minimised. This means that:\n$$\\Huge"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -90,6 +91,7 @@
 		{"id":"52aa85ecc2c2a0d0","fromNode":"b9cb94147d628ddf","fromSide":"bottom","toNode":"1e1a7ec79703e2d9","toSide":"top"},
 		{"id":"731c6c1cd26999ac","fromNode":"1e1a7ec79703e2d9","fromSide":"bottom","toNode":"cd85feae04959d83","toSide":"top"},
 		{"id":"8e2a71df053399b0","fromNode":"cd85feae04959d83","fromSide":"right","toNode":"06f9534b2ec3016f","toSide":"top"},
-		{"id":"cadfe6a61ad0717b","fromNode":"028923a256b64727","fromSide":"bottom","toNode":"dfbf039e39d89e24","toSide":"top"}
+		{"id":"cadfe6a61ad0717b","fromNode":"028923a256b64727","fromSide":"bottom","toNode":"dfbf039e39d89e24","toSide":"top"},
+		{"id":"4aa8f9e63ce89ebc","fromNode":"930f9dd0d70f50ec","fromSide":"bottom","toNode":"d6f01235a06df240","toSide":"top"}
 	]
 }
