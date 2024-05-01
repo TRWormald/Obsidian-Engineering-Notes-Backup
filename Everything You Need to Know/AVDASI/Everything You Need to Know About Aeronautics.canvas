@@ -39,8 +39,14 @@
 		{"id":"b9cb94147d628ddf","type":"text","text":"# Expanding on the Drag Equation\nTaking the basic lift and drag equations and rearranging them to obtain an equation for velocity and drag:\n$$\\Huge D= \\left(\\frac{1}{2}C_{D_0}\\rho S\\right)V^2 + \\left(\\frac{KW^2 }{\\frac{1}{2} \\rho S}\\right)\\cdot \\frac{1}{V^2}$$\n","x":3880,"y":-40,"width":560,"height":320},
 		{"id":"14981788af392710","type":"text","text":"The zero lift drag can be calculated to be:\n$$\\Huge D_0=\\frac{1}{2}C_{D_0}\\rho S$$","x":3160,"y":-121,"width":351,"height":163},
 		{"id":"2797998d05f9fba9","type":"text","text":"Rearranging the coefficient of lift gives us:\n$$\\Huge C_L=\\frac{W}{\\frac{1}{2}\\rho V^2 S} $$","x":3160,"y":177,"width":351,"height":207},
-		{"id":"524413f0cc679cfa","type":"file","file":"Images & Attachments/Total Drag Polar.png","x":4600,"y":80,"width":538,"height":400},
-		{"id":"d37f559c0a7145ce","x":4600,"y":480,"width":538,"height":200,"type":"text","text":""}
+		{"id":"524413f0cc679cfa","type":"file","file":"Images & Attachments/Total Drag Polar.png","x":4600,"y":40,"width":538,"height":400},
+		{"id":"d37f559c0a7145ce","type":"text","text":"Plotting this relationship on a graph gives the above figure. What we can see from it is quite interesting:\n- At **low speeds** the **induced drag dominates**\n- At **high speeds** the **profile drag dominates**\n\n","x":4600,"y":440,"width":538,"height":200},
+		{"id":"028923a256b64727","type":"text","text":"Note that the stall speed (the lowest $V_{TAS}$) and the minimum drag speed (where the curves touch the $D_{min}$ line) increase as altitude increases, whilst the minimum drag stays constant.\nIf we plot in terms of EAS then the variation with altitude disappears.","x":5138,"y":960,"width":302,"height":379},
+		{"id":"dfbf039e39d89e24","type":"file","file":"Images & Attachments/Total Drag vs EAS Polar.png","x":5560,"y":960,"width":535,"height":379},
+		{"id":"8268f6e12af049ca","type":"text","text":"# Drag At Altitude\nAs drag is influenced by the density of the air the greater your altitude the lower the drag you experience at a given speed, this results in the polar below:","x":4600,"y":760,"width":538,"height":200},
+		{"id":"0a87e3df6253eaf0","type":"file","file":"Images & Attachments/Total Drag at Altitude Polar.png","x":4600,"y":960,"width":538,"height":371},
+		{"id":"dfbfcc42a04a045e","x":3160,"y":720,"width":562,"height":283,"type":"text","text":"# Minimum Drag"},
+		{"id":"1e1a7ec79703e2d9","x":3880,"y":720,"width":562,"height":283,"type":"text","text":"# Minimum Drag Speed"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -74,7 +80,11 @@
 		{"id":"e7d94ba3c959ceb7","fromNode":"1d7a76e44956e067","fromSide":"bottom","toNode":"b9cb94147d628ddf","toSide":"top"},
 		{"id":"3cfbcf5006ac6b82","fromNode":"14981788af392710","fromSide":"right","toNode":"b9cb94147d628ddf","toSide":"left"},
 		{"id":"341d97ce0d8081dd","fromNode":"2797998d05f9fba9","fromSide":"right","toNode":"b9cb94147d628ddf","toSide":"left"},
-		{"id":"b40727cc05f001db","fromNode":"b9cb94147d628ddf","fromSide":"right","toNode":"524413f0cc679cfa","toSide":"left"},
-		{"id":"c7f001cb3483d658","fromNode":"b9cb94147d628ddf","fromSide":"right","toNode":"d37f559c0a7145ce","toSide":"left"}
+		{"id":"c7f001cb3483d658","fromNode":"b9cb94147d628ddf","fromSide":"right","toNode":"d37f559c0a7145ce","toSide":"left"},
+		{"id":"d8f202cbea17b511","fromNode":"d37f559c0a7145ce","fromSide":"bottom","toNode":"8268f6e12af049ca","toSide":"top"},
+		{"id":"236c444d78cd8b1d","fromNode":"8268f6e12af049ca","fromSide":"right","toNode":"028923a256b64727","toSide":"top"},
+		{"id":"f3e4c6aecb1b3ae3","fromNode":"028923a256b64727","fromSide":"right","toNode":"dfbf039e39d89e24","toSide":"left"},
+		{"id":"422a0218faf714b0","fromNode":"b9cb94147d628ddf","fromSide":"bottom","toNode":"dfbfcc42a04a045e","toSide":"top"},
+		{"id":"52aa85ecc2c2a0d0","fromNode":"b9cb94147d628ddf","fromSide":"bottom","toNode":"1e1a7ec79703e2d9","toSide":"top"}
 	]
 }

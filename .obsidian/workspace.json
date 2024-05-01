@@ -16,9 +16,9 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": 4237.0863065771455,
-                  "y": 347.42454492912265,
-                  "zoom": -1
+                  "x": 3619.7205141936383,
+                  "y": 683.5935433831935,
+                  "zoom": -1.5
                 }
               }
             }
@@ -236,9 +236,11 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Images & Attachments/Total Drag Polar.png",
+    "Images & Attachments/Total Drag vs EAS Polar.png",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
+    "Images & Attachments/Total Drag at Altitude Polar.png",
+    "Images & Attachments/Total Drag Polar.png",
     "Images & Attachments/Coefficient of Lift vs Drag Polar.png",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Untitled.md",
@@ -268,8 +270,6 @@
     "Images & Attachments/Screenshot 2024-04-30 110749.png",
     "Images & Attachments/Pasted image 20240430110655.png",
     "Images & Attachments/Pasted image 20240430110429.png",
-    "Images & Attachments/Pasted image 20240430110128.png",
-    "Images & Attachments/Pasted image 20240430110059.png",
     "Everything You Need to Know/AVDASI",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Types of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",

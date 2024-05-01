@@ -92,7 +92,7 @@ We can see that:
 - At high speeds the profile drag dominates
 ### Drag at Altitude
 Due to the fact that the drag is influenced by the density of the air the greater your altitude the lower the drag you experience at a given speed:
-![[Pasted image 20240307151457.png|center|400]]
+![[Total Drag at Altitude Polar.png|center|400]]
 Note that the stall speed and minimum drag speed ($V_{stall}$ and $V_{MD}$) increase with altitude, whilst the minimum drag remains constant.
 Also if plotted in terms of equivalent air speed (EAS) then the variation with altitude disappears.
 We can see this in the fact that if we substitute $V_{E}$ and $\rho_0$ into the drag equation:
@@ -101,7 +101,7 @@ Where $A$ and $B$ are now constants:
 $$A_1=\frac{1}{2}C_{D_0}\rho_0 S~~~,~~~ B_1=\frac{KW^2}{\frac{1}{2}\rho_0S}$$
 As $\rho_0$ is a constant.
 Resulting in the graph below:
-![[Pasted image 20240307152627.png|center|400]]
+![[Total Drag vs EAS Polar.png|center|400]]
 ### Minimum Drag
 The drag is given by:
 $$D=L\times\left(\frac{D}{L}\right)=W\times\left(\frac{C_D}{C_L}\right)$$
