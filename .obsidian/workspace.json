@@ -6,7 +6,6 @@
       {
         "id": "5549b081e681d922",
         "type": "tabs",
-        "dimension": 54.5662100456621,
         "children": [
           {
             "id": "86e580fdb092ddcd",
@@ -16,13 +15,19 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": 3678.1669973578437,
-                  "y": 516.7448067284686,
-                  "zoom": -3.5
+                  "x": 2660.5486077971896,
+                  "y": 2.420944633940735,
+                  "zoom": -2
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "bfc4acca2d9241ac",
+        "type": "tabs",
+        "children": [
           {
             "id": "9e0b44b6dc399bfd",
             "type": "leaf",
@@ -30,37 +35,6 @@
               "type": "markdown",
               "state": {
                 "file": "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "33ecf90aff222a07",
-        "type": "tabs",
-        "dimension": 45.4337899543379,
-        "children": [
-          {
-            "id": "39251b022948dfc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e0614059dce0909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "mode": "source",
                 "source": false
               }
