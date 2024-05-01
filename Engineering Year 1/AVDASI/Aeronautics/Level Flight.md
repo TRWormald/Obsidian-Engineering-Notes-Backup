@@ -120,7 +120,7 @@ Which when substituted into the speed equation gives us the speed we need to be 
 $$\boxed{V_{MD}=\left(\frac{2W}{\rho S}\right)^{\frac{1}{2}}\left(\frac{K}{C_{D_0}}\right)^{\frac{1}{4}}}$$
 ### Effect of Weight on Drag
 The following graph shows the relationship between drag and equivalent air speed with differing weight values:
-![[Pasted image 20240307154125.png]]
+![[Drag vs EAS Polar Showing Variation with Weight.png]]
 An increase in weight increases the stall speed, and also the induced drag at low speeds, however it results in a very minor increase in drag at higher speeds (i.e. when the total drag is dominated by zero lift drag).
 ## Summary
 The absolute key things to know are:
