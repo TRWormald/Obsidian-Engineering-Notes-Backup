@@ -32,7 +32,7 @@ Which is the same as the minimum power condition from [[Power#Minimum Power Requ
 $$\boxed{V_{min~sink}\approx V_{MP}=\left(\frac{2W}{\rho S}\right)^{\frac{1}{2}}\left(\frac{K}{3C_{D_0}}\right)^{\frac{1}{4}}}$$
 #### Glider Polar Diagram
 Glider performance is represented by the graph of sink speed $v$ vs forward speed $V$. The gradient indicates the variation of $D/L$ with speed.
-![[Pasted image 20240308134425.png|center|400]]
+![[Glide Polar (Sink Speed vs Airspeed).png|center|400]]
 
 
 ### Climbing Flight
