@@ -34,7 +34,7 @@ We have just described the 'ceiling' of the aircraft.
 At a constant speed we know that drag is equal to thrust.
 #### Drag (Thrust) at Sea Level
 We have seen the graph of drag verses true air speed (at sea level) before [[Level Flight#Expanding on the Drag Equation|when considering Drag in Level Flight]], if we remind ourselves:
-![[Pasted image 20240307151203.png|center|500]]
+![[Total Drag Polar.png|center|500]]
 The total drag (the black line) has a minimum value where the zero lift drag and induced drag lines intersect.
 #### Thrust at Altitude (for a Jet)
 If we plot a graph of drag/thrust against equivalent air speed (remembering that equivalent air speed is independent of altitude):

@@ -85,7 +85,7 @@ $$\boxed{A=\frac{1}{2}C_{D_0}\rho S}$$
 $B$ is the induced drag term:
 $$\boxed{B=\frac{KW^2}{\frac{1}{2}\rho S}}$$
 Plotting this relationship on a graph gives:
-![[Pasted image 20240307151203.png|center|400]]
+![[Total Drag Polar.png|center|400]]
 With the black line representing the total drag.
 We can see that:
 - At low speeds the induced drag dominates

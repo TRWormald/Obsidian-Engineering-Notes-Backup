@@ -34,7 +34,13 @@
 		{"id":"e1f94ea11fe06b98","type":"text","text":"# About Equivalent Air Speed\nOften we will use equivalent air speed instead of true air speed as it makes many calculations easier.\nThe EAS (Equivalent Air Speed) is the speed $V_E$ at standard sea level density $\\rho_0$ which will give the same aerodynamic loads.\nSo:\n$$\\Huge L=\\frac{1}{2}\\rho V^2 SC_L=\\frac{1}{2}\\rho_0 V_{E}^2 SC_L$$\nHence:\n$$\\Huge V_E = V\\sqrt{\\frac{\\rho}{\\rho_0}}$$","x":4600,"y":-1800,"width":560,"height":500},
 		{"id":"0bccf609097705c5","type":"text","text":"## The Applications of EAS\nStructural limits are typically defined in terms of EAS as otherwise they would have to take into account various different flight conditions and specify the limits for each of them.\nHowever most interestingly **stall will always occur at the same EAS**.","x":4600,"y":-1120,"width":560,"height":280},
 		{"id":"1d7a76e44956e067","type":"text","text":"# Drag on the Aircraft\nWith our aircraft in equilibrium the **Thrust is equal to the Drag**. Hence we can rewrite the Coefficient of Drag as:\n$$\\Huge C_D=\\frac{D}{\\frac{1}{2}\\rho V^2 S}=\\frac{T}{\\frac{1}{2}\\rho V^2 S}$$\nThe drag is made up of two components - the zero lift drag and a part proportional to $C_L^2$ (i.e. the induced drag)  so we can formulate the following:\n$$\\Huge C_D=C_{D_0}+KC_L^2$$\nOr:\n$$\\Huge C_D=C_{D_0}+\\frac{1}{\\pi e AR}C_L^2$$\n","x":3880,"y":-800,"width":560,"height":540},
-		{"id":"c5dc2e76311eb8a9","type":"file","file":"Images & Attachments/Coefficient of Lift vs Drag Polar.png","x":4600,"y":-800,"width":538,"height":540}
+		{"id":"c5dc2e76311eb8a9","type":"file","file":"Images & Attachments/Coefficient of Lift vs Drag Polar.png","x":4600,"y":-800,"width":538,"height":540},
+		{"id":"1e5c3321c7d4c35a","type":"text","text":"The slope of a line connecting any point on the curve and the origin gives the lift to drag ratio at those conditions.\n**The maximum lift to drag ratio is found at the point on the curve through which the tangent line passing through the origin passes.**","x":4600,"y":-260,"width":538,"height":220},
+		{"id":"b9cb94147d628ddf","type":"text","text":"# Expanding on the Drag Equation\nTaking the basic lift and drag equations and rearranging them to obtain an equation for velocity and drag:\n$$\\Huge D= \\left(\\frac{1}{2}C_{D_0}\\rho S\\right)V^2 + \\left(\\frac{KW^2 }{\\frac{1}{2} \\rho S}\\right)\\cdot \\frac{1}{V^2}$$\n","x":3880,"y":-40,"width":560,"height":320},
+		{"id":"14981788af392710","type":"text","text":"The zero lift drag can be calculated to be:\n$$\\Huge D_0=\\frac{1}{2}C_{D_0}\\rho S$$","x":3160,"y":-121,"width":351,"height":163},
+		{"id":"2797998d05f9fba9","type":"text","text":"Rearranging the coefficient of lift gives us:\n$$\\Huge C_L=\\frac{W}{\\frac{1}{2}\\rho V^2 S} $$","x":3160,"y":177,"width":351,"height":207},
+		{"id":"524413f0cc679cfa","type":"file","file":"Images & Attachments/Total Drag Polar.png","x":4600,"y":80,"width":538,"height":400},
+		{"id":"d37f559c0a7145ce","x":4600,"y":480,"width":538,"height":200,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -64,6 +70,11 @@
 		{"id":"af471ae7ef1ed8df","fromNode":"268fdee1b7a0724a","fromSide":"right","toNode":"e1f94ea11fe06b98","toSide":"left"},
 		{"id":"1b97eed5efe8a0a1","fromNode":"e1f94ea11fe06b98","fromSide":"bottom","toNode":"0bccf609097705c5","toSide":"top"},
 		{"id":"558642e4a211d91d","fromNode":"e540d69a7ec65f77","fromSide":"right","toNode":"1d7a76e44956e067","toSide":"left"},
-		{"id":"9858adfd6254830d","fromNode":"1d7a76e44956e067","fromSide":"right","toNode":"c5dc2e76311eb8a9","toSide":"left"}
+		{"id":"9858adfd6254830d","fromNode":"1d7a76e44956e067","fromSide":"right","toNode":"c5dc2e76311eb8a9","toSide":"left"},
+		{"id":"e7d94ba3c959ceb7","fromNode":"1d7a76e44956e067","fromSide":"bottom","toNode":"b9cb94147d628ddf","toSide":"top"},
+		{"id":"3cfbcf5006ac6b82","fromNode":"14981788af392710","fromSide":"right","toNode":"b9cb94147d628ddf","toSide":"left"},
+		{"id":"341d97ce0d8081dd","fromNode":"2797998d05f9fba9","fromSide":"right","toNode":"b9cb94147d628ddf","toSide":"left"},
+		{"id":"b40727cc05f001db","fromNode":"b9cb94147d628ddf","fromSide":"right","toNode":"524413f0cc679cfa","toSide":"left"},
+		{"id":"c7f001cb3483d658","fromNode":"b9cb94147d628ddf","fromSide":"right","toNode":"d37f559c0a7145ce","toSide":"left"}
 	]
 }
