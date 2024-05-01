@@ -23,7 +23,7 @@ We know that, in simple terms, when thrust/power is plotted against speed:
 ![[Thrust and Power Variation with TAS (Propeller).png|center|300]]
 #### Power at Altitude
 If we plot power against true air speed for a jet engine:
-![[Pasted image 20240314145255.png|center|500]]
+![[Power vs TAS (For a Jet Engine).png|center|500]]
 We can see that increasing altitude reduces the slope of the power available at any given air speed. However as we increase altitude the power required for any given air speed is generally lower - however when flying at lower speeds the power required is actually higher when flying at altitude.
 #### Power At Ceiling
 If we continue to increase the altitude the line showing the amount of power required at that altitude will continue moving up and to the right until it intersects with the maximum power available line only once:
