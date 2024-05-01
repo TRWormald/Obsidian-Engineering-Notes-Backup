@@ -15,26 +15,38 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": 637.1162556081202,
-                  "y": 4277.9217909068075,
+                  "x": -810.8920091062473,
+                  "y": 392.0509094130324,
                   "zoom": -1.5
                 }
+              }
+            }
+          },
+          {
+            "id": "10499c7c223e2df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Range/Payload-Range Diagrams.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "70d74646fc39c605",
+        "id": "c63e67915c0b0cd4",
         "type": "tabs",
         "children": [
           {
-            "id": "9e0b44b6dc399bfd",
+            "id": "8a0cb4bb8e9f2aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 211.50152587890625
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -211,8 +222,10 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/AVDASI/Aeronautics/Range/Payload-Range Diagrams.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Images & Attachments/Prop Aircraft Climb Excess Power (Climb Rate) Polar.png",
     "Images & Attachments/Prop Aircraft Climb Excess Thrust (Climb Angle) Polar.png",
     "Images & Attachments/Jet Climb Excess Power (Climb Rate) Polar.png",
@@ -241,14 +254,12 @@
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Climb and Glide.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Untitled.md",
     "Everything You Need to Know/AVDASI",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Types of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
-    "Engineering Year 1/Fluids/Similarity and Testing.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres",
     "Engineering Year 1/AVDASI/Aeronautics/Range",
