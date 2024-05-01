@@ -70,7 +70,7 @@ Note that this looks similar to the equation for the drag of a wing, however $e$
 For a general aircraft with a cambered wing, minimum drag no longer necessarily occurs at zero lift. So the drag equation becomes:
 $$C_D=C_{D_{min}}+K(C_L-C_{L_0})^2$$
 Which is sometimes plotted as $C_L$ vs $C_D$:
-![[Screenshot 2024-03-07 150049.png|center|400]]
+![[Coefficient of Lift vs Drag Polar.png|center|400]]
 Where the slope of a line connecting any point on the curve and the origin gives the lift/drag ratio at those conditions.
 The maximum lift to drag ratio is found as the point on the curve which a tangent to the curve passing through the origin passes through.
 ### Expanding on the Drag Equation

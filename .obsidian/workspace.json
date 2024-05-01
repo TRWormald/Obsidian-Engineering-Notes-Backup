@@ -6,6 +6,7 @@
       {
         "id": "5549b081e681d922",
         "type": "tabs",
+        "dimension": 54.5662100456621,
         "children": [
           {
             "id": "86e580fdb092ddcd",
@@ -15,8 +16,8 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": 4037.514528218223,
-                  "y": -618.9102640873798,
+                  "x": 4869.904817011503,
+                  "y": -382.8408640402513,
                   "zoom": -1.5
                 }
               }
@@ -39,6 +40,7 @@
       {
         "id": "33ecf90aff222a07",
         "type": "tabs",
+        "dimension": 45.4337899543379,
         "children": [
           {
             "id": "39251b022948dfc8",
@@ -47,6 +49,18 @@
               "type": "markdown",
               "state": {
                 "file": "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e0614059dce0909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -223,10 +236,12 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-    "Images & Attachments/Aircraft Level Flight Diagram.png",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Images & Attachments/Coefficient of Lift vs Drag Polar.png",
+    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
+    "Untitled.md",
+    "Images & Attachments/Aircraft Level Flight Diagram.png",
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Images & Attachments/Aircraft Gliding Diagram.png",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
@@ -246,7 +261,6 @@
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Climb and Glide.md",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI/Untitled.md",
     "Images & Attachments/Pasted image 20240430110931.png",
@@ -256,7 +270,6 @@
     "Images & Attachments/Pasted image 20240430110128.png",
     "Images & Attachments/Pasted image 20240430110059.png",
     "Everything You Need to Know/AVDASI",
-    "Images & Attachments/Pasted image 20240430102519.png",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Types of Drag.md",
     "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
