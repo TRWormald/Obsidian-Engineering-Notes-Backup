@@ -38,7 +38,7 @@ Glider performance is represented by the graph of sink speed $v$ vs forward spee
 ### Climbing Flight
 In climbing flight $T>D$, so the aircraft cannot maintain equilibrium in straight and level flight, hence the aircraft ascends at climb angle $\theta$.
 The horizontal component of the weight opposes thrust:
-![[Pasted image 20240308144354.png|center|500]]
+![[Aircraft Climbing Flight Diagram.png|center|500]]
 #### Force Balance in a Climb
 If we resolve forces parallel and perpendicular to the aircraft we get:
 $$\boxed{L=W~cos\theta}$$
