@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"c1f6c86790aa39ac","type":"text","text":"[[Cruise]]","x":-80,"y":-360,"width":250,"height":60},
-		{"id":"09fe5d787c5d424c","type":"text","text":"[[Power]]","x":520,"y":-360,"width":250,"height":60},
-		{"id":"edc8a88f841d954c","type":"text","text":"Range","x":-1835,"y":-20,"width":250,"height":60},
-		{"id":"59f066ddb3b08f3f","type":"text","text":"[[Breguet Range - Jet|Jet Range]]","x":-2085,"y":240,"width":250,"height":60},
-		{"id":"d06e3d1a0e6069a6","type":"text","text":"[[Breguet Range - Propellor Driven Aircraft|Prop Range]]","x":-1585,"y":240,"width":250,"height":60},
+		{"id":"c1f6c86790aa39ac","type":"text","text":"# [[Cruise]]","x":-80,"y":-360,"width":250,"height":60},
+		{"id":"09fe5d787c5d424c","type":"text","text":"# [[Power]]","x":520,"y":-360,"width":250,"height":60},
+		{"id":"edc8a88f841d954c","type":"text","text":"# Range","x":-1835,"y":-20,"width":250,"height":60},
+		{"id":"59f066ddb3b08f3f","type":"text","text":"# [[Breguet Range - Jet|Jet Range]]","x":-2085,"y":240,"width":250,"height":60},
+		{"id":"d06e3d1a0e6069a6","type":"text","text":"# [[Breguet Range - Propellor Driven Aircraft|Prop Range]]","x":-1585,"y":240,"width":250,"height":60},
 		{"id":"236588159d1bc69a","type":"text","text":"The Breguet range equation (for propellor planes) is based entirely off the fact that the rate of mass loss is equal can be fully explained by the burning of fuel:\n$$\\Huge \\underbrace{\\frac{dW}{dt}}_\\text{Rate of change of mass}=-\\underbrace{f\\cdot g\\cdot P}_{\\text{TSFC}\\times 9.81\\times\\text{Power}}$$\nNote that in the case of prop planes we are using power, this is because props produce constant power no matter the speed they are travelling at.","x":-1557,"y":620,"width":533,"height":360},
 		{"id":"616e473cb129198f","type":"text","text":"The Breguet range equation (for jets) is based entirely off the fact that the rate of mass loss is equal can be fully explained by the burning of fuel:\n$$\\Huge \\underbrace{\\frac{dW}{dt}}_\\text{Rate of change of mass}=-\\underbrace{f\\cdot g\\cdot T}_{\\text{TSFC}\\times 9.81\\times\\text{Thrust}}$$\nNote that in the case of Jets we are using thrust, this is because jets produce constant thrust no matter the speed they are travelling at.","x":-2396,"y":620,"width":533,"height":360},
 		{"id":"367e1a554163575d","type":"text","text":"# The Breguet Range Equation","x":-1920,"y":-200,"width":420,"height":106},
@@ -21,12 +21,16 @@
 		{"id":"f4f96af7a3cc167b","type":"text","text":"We can rearrange this equation as follows:\n$$\\Huge dt=-\\frac{dW}{f\\cdot g\\cdot T}$$\nAnd if we assume steady level flight conditions (i.e. that **Thrust = Drag** and **Weight = Lift**):\n$$\\Huge T=\\frac{D}{L}W = \\frac{C_D}{C_L}W$$\nHence:\n$$\\Huge dt=-\\frac{1}{f\\cdot g}\\frac{C_L}{C_D}\\frac{dW}{W}$$","x":-3160,"y":240,"width":547,"height":480},
 		{"id":"811749326913c1f6","type":"file","file":"Images & Attachments/Drag Polar Relationships.png","x":-3160,"y":-1221,"width":1255,"height":743},
 		{"id":"690615544aa8c2d6","type":"text","text":"# Glide","x":2320,"y":-710,"width":250,"height":60},
-		{"id":"d107b7e77d9b41f6","type":"text","text":"[[Climb and Glide]]","x":2320,"y":-390,"width":250,"height":60},
-		{"id":"4e43c4b8caddfcdc","type":"text","text":"# Climb","x":2320,"y":-70,"width":250,"height":60},
 		{"id":"4371e4dd44581664","type":"text","text":"When gliding the thrust (T) of an aircraft is equal to zero, however drag doesn't go away so to prevent stall (due to lack of velocity) there must be another force opposing the drag.\n**This is provided by a component of the weight force as you pitch the aircraft down.**","x":1240,"y":-1200,"width":552,"height":220},
 		{"id":"8daa30abdf638e22","type":"file","file":"Images & Attachments/Aircraft Gliding Diagram.png","x":1240,"y":-1480,"width":552,"height":280},
 		{"id":"930f9dd0d70f50ec","type":"text","text":"We can calculate the glide angle as a function of lift and drag:\n$$\\Huge \\theta=\\arccos(L/W)$$\n$$\\Huge \\theta =\\arcsin(D/W)$$\nOr:\n$$\\Huge\\tan\\theta=\\frac{1}{C_L/C_D}$$\n","x":1960,"y":-1320,"width":360,"height":340},
-		{"id":"502dca34c2ea180f","x":2015,"y":-1449,"width":250,"height":60,"type":"text","text":"Hence the glide angle depends solely on the aerodynamic characteristics of the a"}
+		{"id":"502dca34c2ea180f","type":"text","text":"Hence the glide angle depends solely on the aerodynamic characteristics of the aircraft.","x":1960,"y":-1480,"width":360,"height":120},
+		{"id":"4e43c4b8caddfcdc","type":"text","text":"# Climb","x":2320,"y":-40,"width":250,"height":60},
+		{"id":"d107b7e77d9b41f6","type":"text","text":"# [[Climb and Glide]]","x":2320,"y":-440,"width":250,"height":110},
+		{"id":"43a5d2bc79dd2ec7","type":"text","text":"# [[Level Flight]]","x":3160,"y":-415,"width":250,"height":61},
+		{"id":"0f44c21ca2175ade","type":"file","file":"Images & Attachments/Aircraft Level Flight Diagram.png","x":3009,"y":-1254,"width":552,"height":274},
+		{"id":"e540d69a7ec65f77","x":3009,"y":-980,"width":552,"height":140,"type":"text","text":"When an aircraft is in level flight we make several key assumptions:\n**1) The Weight is equal to the Lift**\n**2) The Thrust is equal to the Drag**\n"},
+		{"id":"268fdee1b7a0724a","x":3880,"y":-1400,"width":560,"height":560,"type":"text","text":"# Lift and Speed in Level Flight\nAs Lift is equal to the Weight we can rewrite the equation for the coefficient of lift as:\n$$\\Huge C_L=\\frac{L}{\\frac{1}{2}\\rho V^2 S}=\\frac{W}{\\frac{1}{2}\\rho V^2 S}$$\nThe corresponding flight speed $V$ is therefore:\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$\nThis means that the minimum possible level flight speed occurs at $C_{L_{max}}$ i.e. at stall.\nNote also that reducing density $\\rho$ increases flight speed (and this means that increasing altitude will do the same)."}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -49,6 +53,9 @@
 		{"id":"76c4a8ef8386243e","fromNode":"6b0f6870a83d8b18","fromSide":"left","toNode":"8ed23d9b464c8616","toSide":"right"},
 		{"id":"2f81d62e7036a08c","fromNode":"6b0f6870a83d8b18","fromSide":"bottom","toNode":"a0efa15b6d0801c6","toSide":"bottom"},
 		{"id":"f08019ba73790b17","fromNode":"4371e4dd44581664","fromSide":"right","toNode":"930f9dd0d70f50ec","toSide":"left"},
-		{"id":"d57659ab726f7edd","fromNode":"930f9dd0d70f50ec","fromSide":"top","toNode":"502dca34c2ea180f","toSide":"bottom"}
+		{"id":"d57659ab726f7edd","fromNode":"930f9dd0d70f50ec","fromSide":"top","toNode":"502dca34c2ea180f","toSide":"bottom"},
+		{"id":"7291524334ffd46e","fromNode":"690615544aa8c2d6","fromSide":"top","toNode":"4371e4dd44581664","toSide":"bottom"},
+		{"id":"e2c6d5313c5a2139","fromNode":"e540d69a7ec65f77","fromSide":"right","toNode":"268fdee1b7a0724a","toSide":"left"},
+		{"id":"3aba9cb8da5b3486","fromNode":"43a5d2bc79dd2ec7","fromSide":"top","toNode":"e540d69a7ec65f77","toSide":"bottom"}
 	]
 }

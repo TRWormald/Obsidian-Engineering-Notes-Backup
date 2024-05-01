@@ -1,7 +1,7 @@
 **NOTE - The equations in boxes (like this: $\boxed{F=ma}$) may be required to be derived in the exam**
 \
 There are four main forces that act on an aircraft:
-![[Pasted image 20240305105231.png|center|400]]
+![[Aircraft Level Flight Diagram.png|center|400]]
 These are:
 $W$ - weight $[N]$ (Level flight so also perpendicular to motion)
 $L$ - lift $[N]$ (Perpendicular to the motion)
