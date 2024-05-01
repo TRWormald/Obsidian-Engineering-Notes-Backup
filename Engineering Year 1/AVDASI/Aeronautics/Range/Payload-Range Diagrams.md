@@ -35,5 +35,5 @@ The steps for generating a payload-range diagram are:
 	- $Payload=0$
 
 This generates a diagram that looks like this:
-![[Screenshot 2024-03-27 143715.png|center]]
+![[Alternate Payload-Range Diagram.png|center]]
 Note how each line is defined by some maximum value (Max Payload, Trading Payload For Fuel, and Max Fuel Capacity).
