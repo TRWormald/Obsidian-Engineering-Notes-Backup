@@ -9,7 +9,7 @@ So the range of an aircraft is a function of:
 - Structural efficiency through $(W_{initial}/W_{final})$
 ### Aircraft Weight
 There are many components within the aircraft weight, it is not just a single number:
-![[Pasted image 20240327140535.png|center]]
+![[Aircraft Weight Breakdown.png|center]]
 \
 **Maximum Take-off Weight (MTOW)** - Maximum authorized weight for take-off due to strength and airworthiness requirements
 **Operational Empty Weight (OEW)** - Basic weight of aircraft including all equipment and supplies needed for standard operation.
@@ -19,7 +19,7 @@ $$W_{initial}=W_{final}+Trip~Fuel~Weight$$
 Hence:
 $$\frac{W_{initial}}{W_{final}}=\frac{W_{final}+Trip~Fuel~Weight}{OEW+Payload+Reserve~Fuel~Weight}$$
 ### Sample Payload-Range Diagram
-![[Screenshot 2024-03-27 141206.png|center]]
+![[Exemplar Payload-Weight Diagram.png|center]]
 Note how as payload decreases the range increases, with the maximum range occurring with zero payload. Maximum payload is limited by MZFW. The bounded area represents the sum total of all possible combinations of payload and range.
 ### Generating A Payload-Range Diagram
 The steps for generating a payload-range diagram are:
