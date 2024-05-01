@@ -45,8 +45,8 @@
 		{"id":"dfbf039e39d89e24","type":"file","file":"Images & Attachments/Total Drag vs EAS Polar.png","x":5560,"y":960,"width":535,"height":379},
 		{"id":"8268f6e12af049ca","type":"text","text":"# Drag At Altitude\nAs drag is influenced by the density of the air the greater your altitude the lower the drag you experience at a given speed, this results in the polar below:","x":4600,"y":760,"width":538,"height":200},
 		{"id":"0a87e3df6253eaf0","type":"file","file":"Images & Attachments/Total Drag at Altitude Polar.png","x":4600,"y":960,"width":538,"height":371},
-		{"id":"dfbfcc42a04a045e","x":3160,"y":720,"width":562,"height":283,"type":"text","text":"# Minimum Drag"},
-		{"id":"1e1a7ec79703e2d9","x":3880,"y":720,"width":562,"height":283,"type":"text","text":"# Minimum Drag Speed"}
+		{"id":"1e1a7ec79703e2d9","x":3880,"y":720,"width":562,"height":283,"type":"text","text":"# Minimum Drag Speed"},
+		{"id":"dfbfcc42a04a045e","x":3160,"y":720,"width":562,"height":580,"type":"text","text":"# Minimum Drag\nThe drag can be given by:\n$$\\Huge D=L\\times\\left(\\frac{D}{L}\\right)=W\\times\\left(\\frac{C_D}{C_L}\\right)$$\nSo the minimum drag occurs at the minimum $\\frac{C_D}{C_L}$, leading to:\n$$\\Huge \\frac{C_D}{C_L}=\\frac{\\Huge C_{D_0}+KC_L^2}{C_L}=\\frac{C_{D_0}}{C_L}+KC_L$$\n$$\\huge\\frac{d\\left(\\frac{C_D}{C_L}\\right)}{dC_L}=-\\frac{C_{D_0}}{C_L^2}+K$$\n"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
