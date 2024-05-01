@@ -63,11 +63,11 @@ In simple terms:
 **Jet Aircraft**
 - Thrust remains constant with speed
 - Power increases linearly with speed ($P=TV$)
-![[Pasted image 20240308160134.png|center|300]]
+![[Thrust and Power Variation with TAS (Jet).png|center|300]]
 **Propeller Aircraft**
 - Thrust reduces with speed ($T=P/V$)
 - Power output remains constant with speed.
-![[Screenshot 2024-03-08 160151.png|center|300]]
+![[Thrust and Power Variation with TAS (Propeller).png|center|300]]
 #### Climb Angle for a Jet
 ![[Pasted image 20240308161011.png|center]]
 #### Rate of Climb for a Jet

@@ -16,11 +16,11 @@ We know that, in simple terms, when thrust/power is plotted against speed:
 **For Jet Aircraft**
 - Thrust remains constant with speed
 - Power increases linearly with speed ($P=TV$)
-![[Pasted image 20240308160134.png|center|300]]
+![[Thrust and Power Variation with TAS (Jet).png|center|300]]
 **For Propeller Aircraft**
 - Thrust reduces with speed ($T=P/V$)
 - Power output remains constant with speed.
-![[Screenshot 2024-03-08 160151.png|center|300]]
+![[Thrust and Power Variation with TAS (Propeller).png|center|300]]
 #### Power at Altitude
 If we plot power against true air speed for a jet engine:
 ![[Pasted image 20240314145255.png|center|500]]

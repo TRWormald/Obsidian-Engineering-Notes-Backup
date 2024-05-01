@@ -15,13 +15,19 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": 2022.4285743042956,
-                  "y": 2951.512407807414,
-                  "zoom": -1.5
+                  "x": 639.4790996258521,
+                  "y": 3645.6101112087,
+                  "zoom": -1.3918892189376004
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "70d74646fc39c605",
+        "type": "tabs",
+        "children": [
           {
             "id": "9e0b44b6dc399bfd",
             "type": "leaf",
@@ -205,9 +211,11 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Images & Attachments/Aircraft Climbing Flight Diagram.png",
+    "Images & Attachments/Thrust and Power Variation with TAS (Jet).png",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Images & Attachments/Thrust and Power Variation with TAS (Propeller).png",
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
+    "Images & Attachments/Aircraft Climbing Flight Diagram.png",
     "Images & Attachments/Glide Polar (Sink Speed vs Airspeed).png",
     "Images & Attachments/Drag vs EAS Polar Showing Variation with Weight.png",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
@@ -229,7 +237,6 @@
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
-    "Images & Attachments/Drag Polar Relationships.png",
     "Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
