@@ -3,7 +3,7 @@
 When gliding $T=0$ however $D\neq0$, as a result you cannot maintain equilibrium in straight and level flight.
 Therefore the aircraft descends at **glide angle** $\theta$
 The component of weight along the flight path replaces thrust:
-![[Pasted image 20240308132416.png|center|500]]
+![[Aircraft Gliding Diagram.png|center|500]]
 We can then calculate the **force balance**:
 $$\boxed{L=W~cos\theta}$$
 $$\boxed{D=W~sin\theta}$$
