@@ -4,6 +4,7 @@
 		{"id":"598b00b1f20d6e6c","type":"group","x":-640,"y":432,"width":2907,"height":4164,"label":"Range"},
 		{"id":"ea7245a777c0d415","type":"group","x":-7840,"y":412,"width":2471,"height":4184,"label":"Level Flight"},
 		{"id":"b9caf0b4eff83753","type":"group","x":-3840,"y":4800,"width":3598,"height":2664,"label":"Cruise"},
+		{"id":"0f72bb35235d1410","x":-2532,"y":-1760,"width":3152,"height":1906,"type":"group","label":"Solving Aeronautics Problems"},
 		{"id":"ab234c3c3a87a7b2","type":"group","x":-5718,"y":5094,"width":1532,"height":2076,"label":"Power"},
 		{"id":"0bccf609097705c5","type":"text","text":"## The Applications of EAS\nStructural limits are typically defined in terms of EAS as otherwise they would have to take into account various different flight conditions and specify the limits for each of them.\nHowever most interestingly **stall will always occur at the same EAS**.","x":-6229,"y":1212,"width":560,"height":280},
 		{"id":"c5dc2e76311eb8a9","type":"file","file":"Images & Attachments/Coefficient of Lift vs Drag Polar.png","x":-6229,"y":1532,"width":538,"height":540},
@@ -62,7 +63,6 @@
 		{"id":"7c3935dad947dc62","type":"text","text":"We can represent this mathematically:\n$$\\large W_{final}=OEW+\\text{Payload}+\\text{Reserve Fuel Weight}$$\n$$\\large W_{initial}=W_{final}+\\text{Trip Fuel Weight}$$\nHence:\n$$\\large \\frac{W_{inital}}{W_{final}}=\\frac{W_{final}+\\text{Trip Fuel Weight}}{OEW+\\text{Payload}+\\text{Reserve Fuel Weight}}$$","x":-620,"y":4238,"width":620,"height":314},
 		{"id":"8315cd4e1e289ebc","type":"text","text":"# Aircraft Weight\nThere are several main components within the aircraft weight:\n**Maximum Take-off Weight (MTOW)** - This is the maximum authorized weight for take-off due to strength and airworthiness requirements.\n**Operational Empty Weight (OEW)** - This is the basic weight of the aircraft including all equipment and supplies needed for standard operation.\n**Maximum Zero Fuel Weight (MZFW)** - Maximum weight allowed before fuel is loaded due to strength and airworthiness requirements.","x":40,"y":3730,"width":456,"height":508},
 		{"id":"0319bec66427e19c","type":"text","text":"# Payload-Range Diagrams\nUsing payload-range diagrams we can show the range of an aircraft in various different configurations.\nNote how as we decrease payload the range increases, with the maximum range occurring with zero payload.","x":677,"y":3392,"width":523,"height":240},
-		{"id":"811749326913c1f6","type":"file","file":"Images & Attachments/Drag Polar Relationships.png","x":-4690,"y":-1760,"width":3490,"height":2066},
 		{"id":"67da65534763312a","type":"text","text":"We can rearrange this equation as follows:\n$$\\Huge dt=-\\frac{dW}{f\\cdot g\\cdot P}$$\nThe power delivered by the propellor must be related in the following equation:\n$$\\Huge\\eta P=DV$$\nWhere $\\eta$ is the propellor efficiency.\nHence:\n$$\\Huge \\frac{dW}{dt}=-fg\\frac{DV}{\\eta}$$\nAnd as **Lift = Weight** $\\frac{L}{W}=1$ allowing us to formulate:\n$$\\Huge dt=-\\frac{\\eta}{fgV}\\frac{C_L}{C_D}\\frac{dW}{W}$$","x":1700,"y":942,"width":547,"height":580},
 		{"id":"c94337f572ca6899","type":"text","text":"# Maximum Endurance - Jet\nFrom the equation for endurance:\n$$\\Huge\\boxed{E=\\frac{1}{fg}\\frac{C_L}{C_D}\\ln\\left(\\frac{W_1}{W_2}\\right)}$$\nIt is pretty obvious that we need to maximise:\n$$\\Huge \\frac{C_L}{C_D}$$\nTo maximise the endurance, this is the **minimum drag speed for Jet Aircraft**\n","x":144,"y":1782,"width":533,"height":520},
 		{"id":"edc8a88f841d954c","type":"text","text":"# Range","x":705,"y":682,"width":250,"height":60},
@@ -120,9 +120,16 @@
 		{"id":"61f6b79786878d53","type":"text","text":"# Power vs Altitude","x":-2871,"y":6084,"width":769,"height":50},
 		{"id":"e66bd6275556f879","type":"file","file":"Images & Attachments/Speed Stability in Cruise Example.png","x":-2603,"y":5031,"width":756,"height":597},
 		{"id":"441e08aa350afd5f","type":"text","text":"# Power Required At Sea Level\nThe power required at sea level for a given speed (TAS) can be seen on the polar below:","x":-3820,"y":5684,"width":745,"height":160},
-		{"id":"5906cd2874c991eb","x":1727,"y":5828,"width":353,"height":252,"type":"text","text":"## The Speed Equation from $C_L$\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$"},
-		{"id":"eddf0bddb3d26331","x":920,"y":5360,"width":250,"height":98,"type":"text","text":"## Minimum Power Speed"},
-		{"id":"c2cd098ef818c10c","x":1240,"y":5600,"width":250,"height":228,"type":"text","text":"## Minimum Power $C_L$\n$$\\Huge \\sqrt{\\frac{3C_{D_0}}{K}}$$"}
+		{"id":"811749326913c1f6","type":"file","file":"Images & Attachments/Drag Polar Relationships.png","x":-6561,"y":-1920,"width":3490,"height":2066},
+		{"id":"eddf0bddb3d26331","x":-2512,"y":-1740,"width":250,"height":98,"type":"text","text":"## Minimum Power Speed"},
+		{"id":"c2cd098ef818c10c","x":-2152,"y":-1580,"width":250,"height":228,"type":"text","text":"## Minimum Power $C_{L_{MP}}$\n$$\\Huge \\sqrt{\\frac{3C_{D_0}}{K}}$$"},
+		{"id":"5906cd2874c991eb","x":-1665,"y":-1352,"width":353,"height":252,"type":"text","text":"## The Speed Equation from $C_L$\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$"},
+		{"id":"281f36822cda96e3","type":"text","text":"## Minimum Drag $C_{L_{MD}}$\n$$\\Huge \\sqrt{\\frac{C_{D_0}}{K}}$$","x":-2152,"y":-1166,"width":250,"height":228},
+		{"id":"8f5545dd20bfbe9e","type":"text","text":"## Minimum Drag Speed","x":-2472,"y":-900,"width":250,"height":98},
+		{"id":"fb3730fe6ef4fc9d","x":-1072,"y":-1515,"width":250,"height":98,"type":"text","text":"## Drag on Aircraft"},
+		{"id":"389b0e5aad9a25c5","type":"text","text":"## Thrust Required","x":-440,"y":-1515,"width":250,"height":98},
+		{"id":"ad683d375f74a0fa","x":-515,"y":-1288,"width":400,"height":60,"type":"text","text":"### Thrust Required at Cruise"},
+		{"id":"947d25d41683c831","x":-1072,"y":-1288,"width":250,"height":60,"type":"text","text":"### Drag at Cruise"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -203,7 +210,13 @@
 		{"id":"b5732c5fd7945e8b","fromNode":"4ee0a5dfe9a1a0f9","fromSide":"bottom","toNode":"7a987c156e62d5ac","toSide":"top"},
 		{"id":"97ca12f117a90330","fromNode":"61f6b79786878d53","fromSide":"left","toNode":"441e08aa350afd5f","toSide":"right"},
 		{"id":"8864ccaf936139e2","fromNode":"c1f6c86790aa39ac","fromSide":"left","toNode":"e66bd6275556f879","toSide":"right"},
-		{"id":"ed555ac95935358f","fromNode":"eddf0bddb3d26331","fromSide":"bottom","toNode":"c2cd098ef818c10c","toSide":"top","label":"Needs"},
-		{"id":"cb6fdde9a13d4f29","fromNode":"c2cd098ef818c10c","fromSide":"right","toNode":"5906cd2874c991eb","toSide":"left","label":"Substitute\ninto"}
+		{"id":"ed555ac95935358f","fromNode":"eddf0bddb3d26331","fromSide":"bottom","toNode":"c2cd098ef818c10c","toSide":"left","label":"Needs"},
+		{"id":"cb6fdde9a13d4f29","fromNode":"c2cd098ef818c10c","fromSide":"right","toNode":"5906cd2874c991eb","toSide":"left","label":"Substitute\ninto"},
+		{"id":"2021b4f21fb13601","fromNode":"8f5545dd20bfbe9e","fromSide":"top","toNode":"281f36822cda96e3","toSide":"left","label":"Needs"},
+		{"id":"c1dfddf4134bee38","fromNode":"281f36822cda96e3","fromSide":"right","toNode":"5906cd2874c991eb","toSide":"left","label":"Substitute\ninto"},
+		{"id":"0a1237fcb166b9df","fromNode":"fb3730fe6ef4fc9d","fromSide":"right","toNode":"389b0e5aad9a25c5","toSide":"left","fromEnd":"arrow","label":"The same as"},
+		{"id":"6e42f517b468a385","fromNode":"389b0e5aad9a25c5","fromSide":"bottom","toNode":"ad683d375f74a0fa","toSide":"top"},
+		{"id":"574eb230aee006c5","fromNode":"fb3730fe6ef4fc9d","fromSide":"bottom","toNode":"947d25d41683c831","toSide":"top"},
+		{"id":"2c52196c09b82468","fromNode":"947d25d41683c831","fromSide":"right","toNode":"ad683d375f74a0fa","toSide":"left","fromEnd":"arrow","label":"The same as"}
 	]
 }
