@@ -4,7 +4,7 @@
 		{"id":"598b00b1f20d6e6c","type":"group","x":-640,"y":432,"width":2907,"height":4164,"label":"Range"},
 		{"id":"ea7245a777c0d415","type":"group","x":-7840,"y":412,"width":2471,"height":4184,"label":"Level Flight"},
 		{"id":"b9caf0b4eff83753","type":"group","x":-3840,"y":4800,"width":3598,"height":2664,"label":"Cruise"},
-		{"id":"0f72bb35235d1410","x":-2532,"y":-1760,"width":3152,"height":1906,"type":"group","label":"Solving Aeronautics Problems"},
+		{"id":"0f72bb35235d1410","x":-2532,"y":-1760,"width":3412,"height":1906,"type":"group","label":"Solving Aeronautics Problems"},
 		{"id":"ab234c3c3a87a7b2","type":"group","x":-5718,"y":5094,"width":1532,"height":2076,"label":"Power"},
 		{"id":"0bccf609097705c5","type":"text","text":"## The Applications of EAS\nStructural limits are typically defined in terms of EAS as otherwise they would have to take into account various different flight conditions and specify the limits for each of them.\nHowever most interestingly **stall will always occur at the same EAS**.","x":-6229,"y":1212,"width":560,"height":280},
 		{"id":"c5dc2e76311eb8a9","type":"file","file":"Images & Attachments/Coefficient of Lift vs Drag Polar.png","x":-6229,"y":1532,"width":538,"height":540},
@@ -124,12 +124,21 @@
 		{"id":"eddf0bddb3d26331","x":-2512,"y":-1740,"width":250,"height":98,"type":"text","text":"## Minimum Power Speed"},
 		{"id":"c2cd098ef818c10c","x":-2152,"y":-1580,"width":250,"height":228,"type":"text","text":"## Minimum Power $C_{L_{MP}}$\n$$\\Huge \\sqrt{\\frac{3C_{D_0}}{K}}$$"},
 		{"id":"5906cd2874c991eb","x":-1665,"y":-1352,"width":353,"height":252,"type":"text","text":"## The Speed Equation from $C_L$\n$$\\Huge V=\\sqrt{\\frac{W}{\\frac{1}{2}\\rho SC_L}}$$"},
-		{"id":"281f36822cda96e3","type":"text","text":"## Minimum Drag $C_{L_{MD}}$\n$$\\Huge \\sqrt{\\frac{C_{D_0}}{K}}$$","x":-2152,"y":-1166,"width":250,"height":228},
-		{"id":"8f5545dd20bfbe9e","type":"text","text":"## Minimum Drag Speed","x":-2472,"y":-900,"width":250,"height":98},
 		{"id":"fb3730fe6ef4fc9d","x":-1072,"y":-1515,"width":250,"height":98,"type":"text","text":"## Drag on Aircraft"},
 		{"id":"389b0e5aad9a25c5","type":"text","text":"## Thrust Required","x":-440,"y":-1515,"width":250,"height":98},
-		{"id":"ad683d375f74a0fa","x":-515,"y":-1288,"width":400,"height":60,"type":"text","text":"### Thrust Required at Cruise"},
-		{"id":"947d25d41683c831","x":-1072,"y":-1288,"width":250,"height":60,"type":"text","text":"### Drag at Cruise"}
+		{"id":"947d25d41683c831","x":-1072,"y":-1288,"width":250,"height":60,"type":"text","text":"### Drag at Cruise"},
+		{"id":"ad683d375f74a0fa","x":-440,"y":-1288,"width":400,"height":60,"type":"text","text":"### Thrust Required at Cruise"},
+		{"id":"53db1b15a820a708","x":360,"y":-1720,"width":250,"height":117,"type":"text","text":"# It is good to know:"},
+		{"id":"e40e834d5e485bc3","x":485,"y":-1493,"width":347,"height":410,"type":"text","text":"## Equivalent Airspeed Equation\n$$\\Huge V_{EAS}=V_{TAS}\\cdot\\sqrt{\\sigma}$$\nWhere:\n$$\\Huge \\sigma = \\frac{\\rho}{\\rho_0}\\approx\\frac{20-H}{20+H}$$\nWhere $H$ is the altitude in kilometres, and $\\rho_0$ is the atmospheric density at sea level."},
+		{"id":"3290ada16c1301e7","x":-1087,"y":-985,"width":280,"height":65,"type":"text","text":"## Power Required"},
+		{"id":"5c29c1600310b91d","type":"text","text":"## Drag on Aircraft $\\times$ Velocity","x":-440,"y":-985,"width":445,"height":65},
+		{"id":"8f5545dd20bfbe9e","type":"text","text":"## Minimum Drag Speed","x":-2512,"y":-920,"width":250,"height":98},
+		{"id":"281f36822cda96e3","type":"text","text":"## Minimum Drag $C_{L_{MD}}$\n$$\\Huge \\sqrt{\\frac{C_{D_0}}{K}}$$","x":-2152,"y":-1166,"width":250,"height":228},
+		{"id":"d608b26f6f7d03b8","x":-2140,"y":-544,"width":300,"height":120,"type":"text","text":"## Minimum Glide Angle"},
+		{"id":"df86f46a9548be41","x":-2140,"y":-280,"width":300,"height":120,"type":"text","text":"## Minimum Glide Angle Airspeed"},
+		{"id":"e4b8c40377e0b748","x":-1720,"y":-280,"width":300,"height":120,"type":"text","text":"## $C_L$ at Minimum Glide Angle"},
+		{"id":"ae1aec6a7d65d884","x":-1222,"y":-544,"width":300,"height":120,"type":"text","text":"## Glider Range"},
+		{"id":"d5e8fc7a95673695","x":-1652,"y":-621,"width":250,"height":60,"type":"text","text":"$$\\tan\\theta=\\frac{1}{\\frac{L}{D}}$$"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -217,6 +226,9 @@
 		{"id":"0a1237fcb166b9df","fromNode":"fb3730fe6ef4fc9d","fromSide":"right","toNode":"389b0e5aad9a25c5","toSide":"left","fromEnd":"arrow","label":"The same as"},
 		{"id":"6e42f517b468a385","fromNode":"389b0e5aad9a25c5","fromSide":"bottom","toNode":"ad683d375f74a0fa","toSide":"top"},
 		{"id":"574eb230aee006c5","fromNode":"fb3730fe6ef4fc9d","fromSide":"bottom","toNode":"947d25d41683c831","toSide":"top"},
-		{"id":"2c52196c09b82468","fromNode":"947d25d41683c831","fromSide":"right","toNode":"ad683d375f74a0fa","toSide":"left","fromEnd":"arrow","label":"The same as"}
+		{"id":"2c52196c09b82468","fromNode":"947d25d41683c831","fromSide":"right","toNode":"ad683d375f74a0fa","toSide":"left","fromEnd":"arrow","label":"The same as"},
+		{"id":"ef3289fe77be0417","fromNode":"53db1b15a820a708","fromSide":"bottom","toNode":"e40e834d5e485bc3","toSide":"top"},
+		{"id":"8bc321ec84ede252","fromNode":"3290ada16c1301e7","fromSide":"right","toNode":"5c29c1600310b91d","toSide":"left","fromEnd":"arrow","label":"The same as"},
+		{"id":"d8ca3a1cc986f4fb","fromNode":"d608b26f6f7d03b8","fromSide":"right","toNode":"d5e8fc7a95673695","toSide":"left"}
 	]
 }
