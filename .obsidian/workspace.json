@@ -15,13 +15,19 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": -1386.39895324177,
-                  "y": 305.5211711898527,
+                  "x": -1973.07082824177,
+                  "y": 1330.3709026351653,
                   "zoom": -2
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f92f6949f79dd5dd",
+        "type": "tabs",
+        "children": [
           {
             "id": "7a35995e6eebb331",
             "type": "leaf",
