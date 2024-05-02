@@ -139,9 +139,18 @@
 		{"id":"d5e8fc7a95673695","x":-1942,"y":-438,"width":250,"height":197,"type":"text","text":"$$\\Huge\\tan\\theta=\\frac{1}{\\frac{L}{D}}$$\nWhere $\\theta$ is the glide angle"},
 		{"id":"df86f46a9548be41","x":-1638,"y":-822,"width":300,"height":88,"type":"text","text":"## Minimum Glide Angle Airspeed"},
 		{"id":"316e594abe58a6dd","x":-1942,"y":-605,"width":250,"height":50,"type":"text","text":"## $C_L = C_{L_{MD}}$"},
-		{"id":"3e3ac0072fdcfe7f","x":-957,"y":-680,"width":385,"height":80,"type":"text","text":"## Max (Jet) Endurance"},
-		{"id":"0ef13fc0a0e7890d","type":"text","text":"## Max (Prop) Endurance","x":-957,"y":-520,"width":385,"height":80},
-		{"id":"7623a1c08575f29b","x":-100,"y":-560,"width":371,"height":160,"type":"text","text":"$$\\Huge\\boxed{E=\\frac{\\eta}{fgV}\\frac{C_L}{C_D}\\ln\\left(\\frac{W_1}{W_2}\\right)}$$"}
+		{"id":"3e3ac0072fdcfe7f","x":-1240,"y":-685,"width":385,"height":80,"type":"text","text":"## Max (Jet) Endurance"},
+		{"id":"536402ecd7c88d88","x":5,"y":-725,"width":371,"height":160,"type":"text","text":"$$\\Huge\\boxed{E=\\frac{1}{fg}\\frac{C_L}{C_D}\\ln\\left(\\frac{W_1}{W_2}\\right)}$$"},
+		{"id":"5e7544e5e6a29f10","type":"text","text":"## Max (Prop) Range","x":-1240,"y":-40,"width":385,"height":80},
+		{"id":"91b155a7f2a92f6c","x":-520,"y":-732,"width":250,"height":174,"type":"text","text":"$$\\Huge C_L=\\sqrt{\\frac{C_{D_0}}{K}}$$\n$$\\Huge C_D=2C_{D_0}$$"},
+		{"id":"ce9aa24b2d9fe6f2","type":"text","text":"$$\\Huge C_L=\\sqrt{\\frac{C_{D_0}}{K}}$$\n$$\\Huge C_D=2C_{D_0}$$","x":-520,"y":-92,"width":250,"height":184},
+		{"id":"895549fc85289dfe","x":5,"y":-80,"width":395,"height":160,"type":"text","text":"$$\\Huge R_{prop}=\\frac{\\eta}{fg}\\left(\\frac{C_L}{C_D}\\right)\\ln\\left(\\frac{W_1}{W_2}\\right)$$"},
+		{"id":"b8e6b3fa91559bde","x":-520,"y":-533,"width":250,"height":190,"type":"text","text":"$$\\Huge C_L=\\sqrt{\\frac{3C_{D_0}}{K}}$$\n$$\\Huge C_D=4C_{D_0}$$"},
+		{"id":"7623a1c08575f29b","x":5,"y":-518,"width":371,"height":160,"type":"text","text":"$$\\Huge\\boxed{E=\\frac{\\eta}{fgV}\\frac{C_L}{C_D}\\ln\\left(\\frac{W_1}{W_2}\\right)}$$"},
+		{"id":"0ef13fc0a0e7890d","type":"text","text":"## Max (Prop) Endurance","x":-1240,"y":-478,"width":385,"height":80},
+		{"id":"b47c5e40b0ebb337","type":"text","text":"$$\\Huge C_L=\\sqrt{\\frac{C_{D_0}}{3K}}$$\n$$\\Huge C_D=\\frac{4}{3}C_{D_0}$$","x":-520,"y":-320,"width":250,"height":201},
+		{"id":"2e5043baff521779","type":"text","text":"$$\\Huge R_{prop}=\\frac{V}{fg}\\left(\\frac{C_L}{C_D}\\right)\\ln\\left(\\frac{W_1}{W_2}\\right)$$","x":5,"y":-300,"width":395,"height":160},
+		{"id":"8f42e1a45e8b3512","type":"text","text":"## Max (Jet) Range","x":-1240,"y":-260,"width":385,"height":80}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -238,6 +247,14 @@
 		{"id":"9889c068417f31eb","fromNode":"e4b8c40377e0b748","fromSide":"right","toNode":"316e594abe58a6dd","toSide":"left"},
 		{"id":"62b4c0d4552fcdaa","fromNode":"316e594abe58a6dd","fromSide":"top","toNode":"281f36822cda96e3","toSide":"bottom","label":"Calculated\nwith"},
 		{"id":"27cf4ea709874149","fromNode":"316e594abe58a6dd","fromSide":"right","toNode":"df86f46a9548be41","toSide":"bottom","label":"Using\nthis"},
-		{"id":"714825d4207ddea3","fromNode":"df86f46a9548be41","fromSide":"top","toNode":"5906cd2874c991eb","toSide":"bottom","label":"Substitute into"}
+		{"id":"714825d4207ddea3","fromNode":"df86f46a9548be41","fromSide":"top","toNode":"5906cd2874c991eb","toSide":"bottom","label":"Substitute into"},
+		{"id":"1b342a69cf135e99","fromNode":"0ef13fc0a0e7890d","fromSide":"right","toNode":"b8e6b3fa91559bde","toSide":"left","label":"Occurs When"},
+		{"id":"fc087ba94a6a519c","fromNode":"b8e6b3fa91559bde","fromSide":"right","toNode":"7623a1c08575f29b","toSide":"left","label":"Substitute\ninto"},
+		{"id":"27e4834be8d50b1e","fromNode":"3e3ac0072fdcfe7f","fromSide":"right","toNode":"91b155a7f2a92f6c","toSide":"left","label":"Occurs When"},
+		{"id":"3380ff2872153b3f","fromNode":"91b155a7f2a92f6c","fromSide":"right","toNode":"536402ecd7c88d88","toSide":"left","label":"Substitute\ninto"},
+		{"id":"1e051fb09f6ea9b9","fromNode":"5e7544e5e6a29f10","fromSide":"right","toNode":"ce9aa24b2d9fe6f2","toSide":"left","label":"Occurs When"},
+		{"id":"0c767f6eadf0b589","fromNode":"ce9aa24b2d9fe6f2","fromSide":"right","toNode":"895549fc85289dfe","toSide":"left","label":"Substitute\ninto"},
+		{"id":"18f5aa13761bcec3","fromNode":"8f42e1a45e8b3512","fromSide":"right","toNode":"b47c5e40b0ebb337","toSide":"left","label":"Occurs When"},
+		{"id":"908c3f123f3d091a","fromNode":"b47c5e40b0ebb337","fromSide":"right","toNode":"2e5043baff521779","toSide":"left","label":"Substitute\ninto"}
 	]
 }
