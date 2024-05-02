@@ -134,11 +134,14 @@
 		{"id":"5c29c1600310b91d","type":"text","text":"## Drag on Aircraft $\\times$ Velocity","x":-440,"y":-985,"width":445,"height":65},
 		{"id":"8f5545dd20bfbe9e","type":"text","text":"## Minimum Drag Speed","x":-2512,"y":-920,"width":250,"height":98},
 		{"id":"281f36822cda96e3","type":"text","text":"## Minimum Drag $C_{L_{MD}}$\n$$\\Huge \\sqrt{\\frac{C_{D_0}}{K}}$$","x":-2152,"y":-1166,"width":250,"height":228},
-		{"id":"d608b26f6f7d03b8","x":-2140,"y":-544,"width":300,"height":120,"type":"text","text":"## Minimum Glide Angle"},
-		{"id":"df86f46a9548be41","x":-2140,"y":-280,"width":300,"height":120,"type":"text","text":"## Minimum Glide Angle Airspeed"},
-		{"id":"e4b8c40377e0b748","x":-1720,"y":-280,"width":300,"height":120,"type":"text","text":"## $C_L$ at Minimum Glide Angle"},
-		{"id":"ae1aec6a7d65d884","x":-1222,"y":-544,"width":300,"height":120,"type":"text","text":"## Glider Range"},
-		{"id":"d5e8fc7a95673695","x":-1652,"y":-621,"width":250,"height":60,"type":"text","text":"$$\\tan\\theta=\\frac{1}{\\frac{L}{D}}$$"}
+		{"id":"e4b8c40377e0b748","x":-2512,"y":-640,"width":300,"height":120,"type":"text","text":"## $C_L$ at Minimum Glide Angle"},
+		{"id":"d608b26f6f7d03b8","x":-2512,"y":-400,"width":300,"height":120,"type":"text","text":"## Minimum Glide Angle"},
+		{"id":"d5e8fc7a95673695","x":-1942,"y":-438,"width":250,"height":197,"type":"text","text":"$$\\Huge\\tan\\theta=\\frac{1}{\\frac{L}{D}}$$\nWhere $\\theta$ is the glide angle"},
+		{"id":"df86f46a9548be41","x":-1638,"y":-822,"width":300,"height":88,"type":"text","text":"## Minimum Glide Angle Airspeed"},
+		{"id":"316e594abe58a6dd","x":-1942,"y":-605,"width":250,"height":50,"type":"text","text":"## $C_L = C_{L_{MD}}$"},
+		{"id":"3e3ac0072fdcfe7f","x":-957,"y":-680,"width":385,"height":80,"type":"text","text":"## Max (Jet) Endurance"},
+		{"id":"0ef13fc0a0e7890d","type":"text","text":"## Max (Prop) Endurance","x":-957,"y":-520,"width":385,"height":80},
+		{"id":"7623a1c08575f29b","x":-100,"y":-560,"width":371,"height":160,"type":"text","text":"$$\\Huge\\boxed{E=\\frac{\\eta}{fgV}\\frac{C_L}{C_D}\\ln\\left(\\frac{W_1}{W_2}\\right)}$$"}
 	],
 	"edges":[
 		{"id":"86e49de83667cfac","fromNode":"d107b7e77d9b41f6","fromSide":"top","toNode":"690615544aa8c2d6","toSide":"bottom"},
@@ -229,6 +232,12 @@
 		{"id":"2c52196c09b82468","fromNode":"947d25d41683c831","fromSide":"right","toNode":"ad683d375f74a0fa","toSide":"left","fromEnd":"arrow","label":"The same as"},
 		{"id":"ef3289fe77be0417","fromNode":"53db1b15a820a708","fromSide":"bottom","toNode":"e40e834d5e485bc3","toSide":"top"},
 		{"id":"8bc321ec84ede252","fromNode":"3290ada16c1301e7","fromSide":"right","toNode":"5c29c1600310b91d","toSide":"left","fromEnd":"arrow","label":"The same as"},
-		{"id":"d8ca3a1cc986f4fb","fromNode":"d608b26f6f7d03b8","fromSide":"right","toNode":"d5e8fc7a95673695","toSide":"left"}
+		{"id":"d8ca3a1cc986f4fb","fromNode":"d608b26f6f7d03b8","fromSide":"right","toNode":"d5e8fc7a95673695","toSide":"left","label":"Calculated\nwith"},
+		{"id":"0708d156e6c428ff","fromNode":"d608b26f6f7d03b8","fromSide":"top","toNode":"e4b8c40377e0b748","toSide":"bottom"},
+		{"id":"6cc1806def74dace","fromNode":"d608b26f6f7d03b8","fromSide":"top","toNode":"316e594abe58a6dd","toSide":"bottom","label":"Occurs When"},
+		{"id":"9889c068417f31eb","fromNode":"e4b8c40377e0b748","fromSide":"right","toNode":"316e594abe58a6dd","toSide":"left"},
+		{"id":"62b4c0d4552fcdaa","fromNode":"316e594abe58a6dd","fromSide":"top","toNode":"281f36822cda96e3","toSide":"bottom","label":"Calculated\nwith"},
+		{"id":"27cf4ea709874149","fromNode":"316e594abe58a6dd","fromSide":"right","toNode":"df86f46a9548be41","toSide":"bottom","label":"Using\nthis"},
+		{"id":"714825d4207ddea3","fromNode":"df86f46a9548be41","fromSide":"top","toNode":"5906cd2874c991eb","toSide":"bottom","label":"Substitute into"}
 	]
 }
