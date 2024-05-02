@@ -69,7 +69,7 @@ So:
 	- In theory should be unaffected by altitude (since $D_{min}$ is constant) but at low altitudes the engine would need to be throttled back. This results in reduced thermodynamic efficiency and hence increased fuel burn.
 ### Speed Stability in Cruise
 Lets consider an aircraft with throttle adjusted to cruise at points 1, 2, and 3:
-![[Screenshot 2024-03-14 154840.png|center|500]]
+![[Speed Stability in Cruise Example.png|center|500]]
 Let us consider: what is the effect of a small fluctuation in velocity (e.g. due to gusts)?
 1) Speed increase = increase in drag, however the throttle hasn't increased so the thrust available is the same resulting in the aircraft decelerating returning to the cruise speed. **The same is true of a speed decrease as the thrust would then be greater than the drag and hence the aircraft would accelerate back up to the cruise speed.**
 2) Speed increase = reduction in drag, this results in an acceleration as the thrust is now greater than the drag, and as the aircraft continues to accelerate the drag decreases further resulting in even more excess thrust until we adjust the throttle. **Again this is the same when the aircraft slows down, there will be insufficient thrust which will result in a deceleration resulting in an even greater lack of thrust.** Hence the aircraft is unstable!

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": -378.9359598309432,
-                  "y": 1842.4628922153993,
-                  "zoom": -1
+                  "x": 2555.5,
+                  "y": 2600,
+                  "zoom": -3.7942244830657885
                 }
               }
             }
@@ -210,9 +210,10 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
-    "Images & Attachments/Cruise Speed vs Altitude Polar.png",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Images & Attachments/Speed Stability in Cruise Example.png",
+    "Images & Attachments/Cruise Speed vs Altitude Polar.png",
     "Images & Attachments/Drag or Thrust against EAS at Different Altitudes.png",
     "Images & Attachments/Power vs TAS (at Ceiling - for a Jet).png",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Turbulent Flow.md",
@@ -230,8 +231,6 @@
     "Images & Attachments/Power Required against TAS Polar (Variation with Altitude & Steady Level Flight).png",
     "Images & Attachments/Power Required vs TAS Polar (For Steady Level Flight).png",
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
-    "Images & Attachments/Prop Aircraft Climb Excess Power (Climb Rate) Polar.png",
-    "Images & Attachments/Prop Aircraft Climb Excess Thrust (Climb Angle) Polar.png",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Untitled.md",
