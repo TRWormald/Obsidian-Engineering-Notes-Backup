@@ -56,7 +56,7 @@ Where $T_0$ is the maximum thrust at sea level, $k$ is the throttle setting (i.e
 - Increasing weight reduces cruise speed and lowers ceiling.
 ### Cruise Speed vs Altitude
 Plotting a graph of altitude against equivalent (blue)/true (black) air speed:
-![[Pasted image 20240314153447.png|center|500]]
+![[Cruise Speed vs Altitude Polar.png|center|500]]
 So:
 - Cruise speed in EAS reduces steadily as altitude increases (due to available power reductions)
 - However maximum cruise speed in TAS increases with altitude
