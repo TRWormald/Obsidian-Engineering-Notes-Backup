@@ -27,7 +27,7 @@ If we plot power against true air speed for a jet engine:
 We can see that increasing altitude reduces the slope of the power available at any given air speed. However as we increase altitude the power required for any given air speed is generally lower - however when flying at lower speeds the power required is actually higher when flying at altitude.
 #### Power At Ceiling
 If we continue to increase the altitude the line showing the amount of power required at that altitude will continue moving up and to the right until it intersects with the maximum power available line only once:
-![[Screenshot 2024-03-14 145844.png|center|500]]
+![[Power vs TAS (at Ceiling - for a Jet).png|center|500]]
 This represents the only equilibrium point, if we were to attempt to fly higher we wouldn't have enough power as the power required curve would be above the power available line.
 We have just described the 'ceiling' of the aircraft.
 ### Thrust vs Altitude
@@ -38,7 +38,7 @@ We have seen the graph of drag verses true air speed (at sea level) before [[Lev
 The total drag (the black line) has a minimum value where the zero lift drag and induced drag lines intersect.
 #### Thrust at Altitude (for a Jet)
 If we plot a graph of drag/thrust against equivalent air speed (remembering that equivalent air speed is independent of altitude):
-![[Pasted image 20240314151254.png|center|500]]
+![[Drag or Thrust against EAS at Different Altitudes.png|center|500]]
 Remembering that the stall boundary is the speed at which the lift coefficient required is equal to the maximum lift coefficient so at any speed lower than that we cannot produce enough lift to stay in the air.
 We can also see the ceiling of the aircraft on this graph as well, it occurs at the turning point of the curve.
 **Note that this occurs at the minimum drag speed!** (See [[Level Flight#Minimum Drag Speed]])

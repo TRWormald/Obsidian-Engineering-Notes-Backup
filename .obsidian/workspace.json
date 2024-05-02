@@ -15,9 +15,9 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": -1973.07082824177,
-                  "y": 1330.3709026351653,
-                  "zoom": -2
+                  "x": -1414.4951447547064,
+                  "y": 1818.8014554976894,
+                  "zoom": -1
                 }
               }
             }
@@ -210,12 +210,14 @@
   },
   "active": "86e580fdb092ddcd",
   "lastOpenFiles": [
+    "Images & Attachments/Drag or Thrust against EAS at Different Altitudes.png",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
+    "Images & Attachments/Power vs TAS (at Ceiling - for a Jet).png",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Turbulent Flow.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Streamlines.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Separation.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Laminar Flow.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Images & Attachments/Power vs TAS (For a Jet Engine).png",
     "Images & Attachments/Alternate Payload-Range Diagram.png",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Payload-Range Diagrams.md",
@@ -230,7 +232,6 @@
     "Images & Attachments/Prop Aircraft Climb Excess Power (Climb Rate) Polar.png",
     "Images & Attachments/Prop Aircraft Climb Excess Thrust (Climb Angle) Polar.png",
     "Images & Attachments/Jet Climb Excess Power (Climb Rate) Polar.png",
-    "Images & Attachments/Jet Climb Excess Thrust (Climb Angle) Polar.png",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
     "Untitled.md",
@@ -247,7 +248,6 @@
     "Engineering Year 1/AVDASI/Aeronautics/Drag Polar Relationships.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Climb and Glide.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
     "Everything You Need to Know/AVDASI",
     "Engineering Year 1/AVDASI/Aeronautics/Drag",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres",
