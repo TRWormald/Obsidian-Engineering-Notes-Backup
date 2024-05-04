@@ -21,21 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "b64560f31d2fd0b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md"
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
               }
             }
           }
@@ -157,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,10 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64560f31d2fd0b0",
+  "active": "b9d5a6ee6107eb97",
   "lastOpenFiles": [
-    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Vena Contracta.md",
+    "Engineering Year 1/Electrical/The Current Divider Equation.md",
+    "Images & Attachments/Pasted image 20240504185538.png",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
+    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Vena Contracta.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
     "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
     "Engineering Year 1/Thermodynamics/The Internal Energy of an Ideal Gas.md",
@@ -237,11 +226,8 @@
     "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
     "Engineering Year 1/AVDASI/Aeronautics/Power.md",
     "Images & Attachments/Power Required against TAS Polar (Variation with Altitude & Steady Level Flight).png",
-    "Images & Attachments/Power Required vs TAS Polar (For Steady Level Flight).png",
     "Engineering Year 1/AVDASI/Aeronautics/Climb and Glide.md",
     "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
-    "Untitled.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI",
     "Engineering Year 1/AVDASI/Aeronautics/Drag",
