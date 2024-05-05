@@ -11,14 +11,11 @@
             "id": "b9d5a6ee6107eb97",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-                "viewState": {
-                  "x": -4758.978009517545,
-                  "y": 4170.3888867787755,
-                  "zoom": -3.0689177534096
-                }
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md"
               }
             }
           }
@@ -144,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,6 +189,8 @@
   },
   "active": "b9d5a6ee6107eb97",
   "lastOpenFiles": [
+    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/Electrical/The Current Divider Equation.md",
     "Images & Attachments/Pasted image 20240504185538.png",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
@@ -207,7 +206,6 @@
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Energy Equation.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isochoric Process.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
     "Images & Attachments/Speed Stability in Cruise Example.png",
     "Images & Attachments/Cruise Speed vs Altitude Polar.png",
