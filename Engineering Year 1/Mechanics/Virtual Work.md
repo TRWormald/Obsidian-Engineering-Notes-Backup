@@ -8,3 +8,7 @@ $$\delta U=\vec{F}\cdot\delta \vec{r} =F\cos\beta\cdot\delta s$$ And similarly t
 \
 If we now consider a particle in equilibrium under multiple forces $\vec F_{i}$ and apply a virtual displacement $\delta\vec r$ to it:
 ![[Pasted image 20240506153823.png|center|250]]
+The total virtual work:
+$$\delta U=\vec F_{1}\cdot\delta\vec r+\vec F_{2}\cdot\delta\vec r+...+\sum \vec F_{i}\cdot \delta \vec r$$
+Must equal zero as:
+$$\sum \vec F_{i}=0$$
