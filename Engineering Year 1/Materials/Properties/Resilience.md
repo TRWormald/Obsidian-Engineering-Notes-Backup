@@ -15,4 +15,7 @@ Where $\sigma^{*}$ is the upper limit on stress and is different for brittle and
 - For **Brittle Materials** it is the **Elastic Limit** $\sigma_{el}$
 - For **Ductile Materials** it is the **Yield Strength** $\sigma_{y}$
 \
-What this means graphi
+What this means graphically is that the area under the linear portion of the stress-strain graph is equal to the resilience of the material.
+Or in other words - the resilience is the maximum amount of energy a material can absorb before it permanently deforms.
+\
+By observation of the equation it is clear that for a material to have a high resilience it needs to have a high strength and a low modulus.
