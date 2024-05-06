@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md"
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md"
               }
             }
           }
@@ -166,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,17 +211,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a15da8083053798",
+  "active": "b9d5a6ee6107eb97",
   "lastOpenFiles": [
+    "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
+    "Engineering Year 1/Mechanics/Linear Momentum/Linear Momentum of Particles.md",
+    "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Inertial Stresses.md",
+    "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Work Energy Equations.md",
+    "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Kinetic Energy of Particles and Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
     "Images & Attachments/Pasted image 20240506171923.png",
-    "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Engineering Year 1/Mechanics/Virtual Work.md",
     "Images & Attachments/Pasted image 20240506153823.png",
     "Images & Attachments/Pasted image 20240506153218.png",
@@ -241,12 +246,6 @@
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Vena Contracta.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
     "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
-    "Engineering Year 1/Thermodynamics/The Internal Energy of an Ideal Gas.md",
-    "Engineering Year 1/Thermodynamics/Info/Entropy.md",
-    "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
-    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isobaric Process.md",
-    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
-    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Images & Attachments/Speed Stability in Cruise Example.png",
     "Images & Attachments/Cruise Speed vs Altitude Polar.png",
     "Images & Attachments/Drag or Thrust against EAS at Different Altitudes.png",

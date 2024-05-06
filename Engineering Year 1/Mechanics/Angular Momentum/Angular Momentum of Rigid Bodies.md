@@ -7,4 +7,8 @@ Where $I_{G}$ is [[The Moment of Inertia]].
 \
 \
 Furthermore the **change in angular momentum** is equal to the moments applied about that point:
-$$\vec{M}_{O}=\dot{\vec{H}}_O$$
+$$\vec{M}_{O}=\dot{\vec{H}}_{O}=\frac{d}{dt}(I_{G}\omega+mv_{G}d)$$
+A fact that we can use to define the resultant moments about the centre of mass:
+$$M_{G}=I_{G}\ddot{\theta}$$
+And also a fixed axis of rotation $O$:
+$$M_{O}=I_{O}\ddot\theta$$
