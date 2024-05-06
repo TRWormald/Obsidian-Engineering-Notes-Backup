@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Materials/Properties/Toughness.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Materials/Properties/Toughness.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Materials/Properties/Toughness.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Materials/Properties/Toughness.md"
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Materials/Properties/Toughness.md",
+                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,11 +189,14 @@
   },
   "active": "b9d5a6ee6107eb97",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20240506153823.png",
+    "Images & Attachments/Pasted image 20240506153218.png",
+    "Engineering Year 1/Materials/Properties/Toughness.md",
+    "Engineering Year 1/Mechanics/Virtual Work.md",
     "Images & Attachments/Pasted image 20240506132141.png",
     "Engineering Year 1/Materials/Properties/Resilience.md",
     "Engineering Year 1/Materials/Properties/Strength.md",
     "Engineering Year 1/Materials/Properties/Ductility.md",
-    "Engineering Year 1/Materials/Properties/Toughness.md",
     "Engineering Year 1/Materials/Properties",
     "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
@@ -221,12 +224,9 @@
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Turbulent Flow.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Streamlines.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Separation.md",
-    "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Laminar Flow.md",
     "Images & Attachments/Power vs TAS (For a Jet Engine).png",
     "Images & Attachments/Alternate Payload-Range Diagram.png",
     "Images & Attachments/Exemplar Payload-Range Diagram.png",
-    "Images & Attachments/Aircraft Weight Breakdown.png",
-    "Images & Attachments/Power Required against TAS Polar (Variation with Altitude & Steady Level Flight).png",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI",
     "Engineering Year 1/AVDASI/Aeronautics/Drag",
