@@ -1,6 +1,5 @@
 >*Strength is the critical value of stress above which the material fails*
 
-\
 However 'failure' is ambiguous and can be different for the different types of materials that we are testing.
 Hence strength is defined by how we define failure:
 ### For Ductile Materials
