@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md"
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,9 +189,13 @@
   },
   "active": "903f4b81c3dfb161",
   "lastOpenFiles": [
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
     "Engineering Year 1/AVDASI - Copy/Structures/Wing Design and Analysis.md",
     "Engineering Year 1/AVDASI - Copy/Structures/Fuselage Design and Analysis.md",
     "Engineering Year 1/AVDASI - Copy/Structures/Airframe Loads.md",
@@ -213,12 +217,8 @@
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres/Banked Turns.md",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Drag/Sources of Drag.md",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Power.md",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Pitching Moments.md",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Lift.md",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Drag",
     "Engineering Year 1/AVDASI - Copy/Aeronautics",
     "Engineering Year 1/AVDASI - Copy/Aerodynamics/Potential Flow/Elementary Flow",
