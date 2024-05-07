@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +189,11 @@
   },
   "active": "aed4281197f66b3f",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
     "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
@@ -213,8 +217,6 @@
     "Engineering Year 1/AVDASI - Copy/Engineering/System Safety.md",
     "Engineering Year 1/AVDASI - Copy/Engineering/Pneumatic Systems.md",
     "Engineering Year 1/AVDASI - Copy/Engineering/Propulsion.md",
-    "Engineering Year 1/AVDASI - Copy/Engineering/PID Control.md",
-    "Engineering Year 1/AVDASI - Copy/Engineering/Hydraulic Systems.md",
     "Engineering Year 1/AVDASI - Copy/Engineering",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres",
