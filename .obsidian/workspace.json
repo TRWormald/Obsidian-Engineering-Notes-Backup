@@ -11,8 +11,12 @@
             "id": "aed4281197f66b3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md"
+              }
             }
           }
         ]
@@ -133,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +188,12 @@
   },
   "active": "aed4281197f66b3f",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
     "Engineering Year 1/AVDASI/Aeronautics/Lift.md",
     "Engineering Year 1/AVDASI/Aeronautics/Pitching Moments.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
