@@ -31,4 +31,3 @@ For a spoked wheel:   $k_G \approx R$
 #####
 This means that we can now calculate the angular acceleration around the centre of mass from only the linear forces applied to a rigid body.
 ![[Pasted image 20240229160042.png|center]]
-
