@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9d5a6ee6107eb97",
+            "id": "ee3c51eb87b7c1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a15da8083053798",
+            "id": "1737d6e206ec0bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d459caf6dd5fc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Virtual Work.md"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md"
               }
             }
           }
@@ -165,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Virtual Work.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,8 +199,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9d5a6ee6107eb97",
+  "active": "ee3c51eb87b7c1ff",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Why isn't Bernoulli's Equation Enough.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/AVDASI/Aeronautics/Drag/Sources of Drag.md",
+    "Engineering Year 1/Mechanics/Virtual Work.md",
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
@@ -228,7 +220,6 @@
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
     "Images & Attachments/Pasted image 20240506171923.png",
-    "Engineering Year 1/Mechanics/Virtual Work.md",
     "Images & Attachments/Pasted image 20240506153823.png",
     "Images & Attachments/Pasted image 20240506153218.png",
     "Engineering Year 1/Materials/Properties/Toughness.md",
@@ -239,13 +230,10 @@
     "Engineering Year 1/Materials/Properties",
     "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/Electrical/The Current Divider Equation.md",
     "Images & Attachments/Pasted image 20240504185538.png",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Vena Contracta.md",
-    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
-    "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
     "Images & Attachments/Speed Stability in Cruise Example.png",
     "Images & Attachments/Cruise Speed vs Altitude Polar.png",
     "Images & Attachments/Drag or Thrust against EAS at Different Altitudes.png",
