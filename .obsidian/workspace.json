@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,6 +189,12 @@
   },
   "active": "903f4b81c3dfb161",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
@@ -210,13 +216,7 @@
     "Engineering Year 1/AVDASI - Copy/Engineering/Military Aircraft Design.md",
     "Engineering Year 1/AVDASI - Copy/Engineering/Electrical Systems.md",
     "Engineering Year 1/AVDASI - Copy/Engineering/Civil Aircraft Design.md",
-    "Engineering Year 1/AVDASI - Copy/Engineering/Aircraft Loads.md",
     "Engineering Year 1/AVDASI - Copy/Engineering",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Range/Payload-Range Diagrams.md",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Range/Breguet Range - Jet.md",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
-    "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres/Banked Turns.md",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Drag",
