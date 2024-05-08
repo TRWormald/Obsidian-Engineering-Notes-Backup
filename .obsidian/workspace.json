@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cruise climb",
+                "query": "gust",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md"
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md"
               }
             }
           }
@@ -141,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +190,11 @@
   },
   "active": "aed4281197f66b3f",
   "lastOpenFiles": [
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
+    "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
+    "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
@@ -214,9 +218,6 @@
     "Engineering Year 1/AVDASI - Copy/Structures/Airframe Loads.md",
     "Engineering Year 1/AVDASI - Copy/Structures/Aircraft Requirements and Fatigue.md",
     "Engineering Year 1/AVDASI - Copy/Structures",
-    "Engineering Year 1/AVDASI - Copy/Engineering/System Safety.md",
-    "Engineering Year 1/AVDASI - Copy/Engineering/Pneumatic Systems.md",
-    "Engineering Year 1/AVDASI - Copy/Engineering/Propulsion.md",
     "Engineering Year 1/AVDASI - Copy/Engineering",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Manoeuvres",
