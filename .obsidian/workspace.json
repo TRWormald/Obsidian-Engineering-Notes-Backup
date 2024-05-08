@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba1941747a15888d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,7 +147,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aed4281197f66b3f",
+  "active": "ba1941747a15888d",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
     "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
@@ -216,7 +221,6 @@
     "Engineering Year 1/AVDASI - Copy/Structures/Wing Design and Analysis.md",
     "Engineering Year 1/AVDASI - Copy/Structures/Fuselage Design and Analysis.md",
     "Engineering Year 1/AVDASI - Copy/Structures/Airframe Loads.md",
-    "Engineering Year 1/AVDASI - Copy/Structures/Aircraft Requirements and Fatigue.md",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
