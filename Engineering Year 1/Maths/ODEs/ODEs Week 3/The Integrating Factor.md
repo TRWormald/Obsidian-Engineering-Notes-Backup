@@ -9,7 +9,7 @@ We would then integrate this after rearranging both sides and then solve for $x$
 ## The Theorem
 A general 1st order ODE can be written in the form:
 $$\frac{dx}{dt}+p(t)x=q(t)$$
-for some functions $p(t)$ and $q(t)$. The function $I(t)=e^{\int p(t)\cdot dt}$ is an integrating factor. The integrating factor satisfies $I'(t)=p(t)I(t)$ $ since:
+for some functions $p(t)$ and $q(t)$. The function $I(t)=e^{\int p(t)\cdot dt}$ is an integrating factor. The integrating factor satisfies $I'(t)=p(t)I(t)$ since:
 $$I'(t)=(e^{\int p(t)\cdot dt})'=\left(\int p(t)\cdot dt\right)'\cdot e^{\int p(t)\cdot dt}=I(t)p(t)$$
 Multiplying the ODE by $I(t)$ leads to the general solution:
 $$I(t)\frac{dx}{dt}+p(t)I(t)x=I(t)q(t)\Rightarrow \frac{d}{dt}(I(t)x)=I(t)q(t)$$
