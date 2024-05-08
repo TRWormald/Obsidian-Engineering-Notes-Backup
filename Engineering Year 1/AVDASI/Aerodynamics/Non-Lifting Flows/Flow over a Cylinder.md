@@ -25,6 +25,6 @@ Which gives the cylinder $R= x=\pm\sqrt{\frac{\kappa}{2\pi U_\infty}}$ (as the d
 \
 For a circle $x^2+y^2=R^2$ while $x=Rcos(\theta)$ and $y=Rsin(\theta$) so the velocities are:
 \
-$$u=U_\infty+\frac{-\kappa}{2\pi}\frac{cos^2\theta-sin^2\theta}{R^2}=U_\infty-U_infty(cos^2\theta-sin^2\theta)=2U_\infty sin^2(\theta)$$
+$$u=U_\infty+\frac{-\kappa}{2\pi}\frac{cos^2\theta-sin^2\theta}{R^2}=U_\infty-U_\infty(cos^2\theta-sin^2\theta)=2U_\infty sin^2(\theta)$$
 \
 $$v=\frac{\kappa}{2\pi}\frac{2cos\theta sin\theta}{R^2}=-2U_\infty ~cos\theta~sin\theta$$

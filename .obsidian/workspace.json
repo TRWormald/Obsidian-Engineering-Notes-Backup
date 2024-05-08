@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
-                "mode": "preview",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md"
               }
             }
           }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,13 +238,13 @@
   },
   "active": "b5890f7b52cde814",
   "lastOpenFiles": [
+    "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/Maths/Probability/Mean vs Mode vs Median (Fight!).md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
     "Engineering Year 1/Maths/Probability/Probability Distributions.md",
     "Engineering Year 1/Maths/Probability/The Central Limit Theorem.md",
     "Untitled.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
-    "Engineering Year 1/Maths/Probability/Mean and Standard Deviation.md",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
     "Engineering Year 1/AVDASI/Aeronautics/Cruise.md",
