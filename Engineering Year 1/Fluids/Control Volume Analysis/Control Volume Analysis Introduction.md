@@ -47,7 +47,7 @@ $$\textbf{f}_{tot_{x}}=\dot {\textbf{M}}_x=\dot{ \textbf{m}}(\textbf{V}_{ix}-\te
 $$\textbf{f}_{tot_{y}}=\dot {\textbf{M}}_y=\dot{ \textbf{m}}(\textbf{V}_{iy}-\textbf{V}_{ey})$$
 
 $$\textbf{f}_{tot_{z}}=\dot {\textbf{M}}_z=\dot{ \textbf{m}}(\textbf{V}_{iz}-\textbf{V}_{ez})$$
-This is the **force exerted by the control volume**, the total force exerted on a control volume is the negative of the above formulae (i.e. the exit and entry velocities switch places in the equation).
+This is the **force exerted by the control volume** (i.e. on objects in the flow), the total force exerted on a control volume is the negative of the above formulae (i.e. the exit and entry velocities switch places in the equation).
 
 ### Forces on the Control Volume
 Total/net force on the CV can be split into:
