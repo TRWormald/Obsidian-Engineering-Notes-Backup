@@ -48,7 +48,19 @@ $$\textbf{f}_{tot_{y}}=\dot {\textbf{M}}_y=\dot{ \textbf{m}}(\textbf{V}_{iy}-\te
 
 $$\textbf{f}_{tot_{z}}=\dot {\textbf{M}}_z=\dot{ \textbf{m}}(\textbf{V}_{iz}-\textbf{V}_{ez})$$
 This is the **force exerted by the control volume** (i.e. on objects in the flow), the total force exerted on a control volume is the negative of the above formulae (i.e. the exit and entry velocities switch places in the equation).
+**The force exerted on the control volume (i.e. on the fluid)** can be calculated using the following equations:
+$$
+\boxed{\large
+\begin{align*}
+f_{tot_{x}}&= \dot{m}(V_{ex}-V_{ix})\\\\
 
+f_{tot_{y}}&= \dot{m}(V_{ey}-V_{iy})\\
+\\
+
+f_{tot_{z}}&= \dot{m}(V_{ez}-V_{iz})
+\end{align*}}$$
+**Note that these are the equations that should be used in questions.**
+When using these equations refer to the section below with regards to $f_{tot_{n}}$ as it is not just equal to the force exerted by objects in the flow.
 ### Forces on the Control Volume
 Total/net force on the CV can be split into:
 - Pressure forces acting normally to the external CV boundary. Note, a constant pressure integrates to zero so we can subtract/add a constant from/to the pressure (e.g. subtract atmospheric pressure and integrate gauge pressures.)
