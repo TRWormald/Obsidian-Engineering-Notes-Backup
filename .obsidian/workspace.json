@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d196ac74cd18667a",
+        "id": "26c4fd691634432e",
         "type": "tabs",
         "children": [
           {
-            "id": "1f607efe94306627",
+            "id": "99125dbe8b9c3865",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-                "viewState": {
-                  "x": -3718.20252555268,
-                  "y": -525.1405178073666,
-                  "zoom": -1.4633036050282078
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,12 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f607efe94306627",
+  "active": "99125dbe8b9c3865",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
@@ -216,9 +206,6 @@
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Degenerate Case (Or repeated roots).md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Pure Imaginary Case.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Principal of Superposition.md",
-    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
-    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
