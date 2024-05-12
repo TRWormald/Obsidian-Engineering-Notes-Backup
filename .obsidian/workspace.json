@@ -11,14 +11,11 @@
             "id": "56bd8507d1bea0ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-                "viewState": {
-                  "x": -5101.772201168367,
-                  "y": -1140.2505605200568,
-                  "zoom": -1.9316292687368959
-                }
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md"
               }
             }
           }
@@ -144,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,9 +189,11 @@
   },
   "active": "56bd8507d1bea0ec",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
     "Engineering Year 1/AVDASI/Engineering/PID Control.md",
     "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
@@ -217,8 +216,6 @@
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Engineering Year 1/Maths/Probability/Probability Basics.md",
-    "Engineering Year 1/Maths/Probability/Probability Distributions.md",
-    "Engineering Year 1/Maths/Probability/The Central Limit Theorem.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
