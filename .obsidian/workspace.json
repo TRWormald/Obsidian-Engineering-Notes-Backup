@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "277db71a6d4e32de",
+        "id": "d196ac74cd18667a",
         "type": "tabs",
         "children": [
           {
-            "id": "56bd8507d1bea0ec",
+            "id": "1f607efe94306627",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
-                "mode": "source",
-                "source": false
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "viewState": {
+                  "x": -4361.642966930196,
+                  "y": -498.65408004444953,
+                  "zoom": -2.5169718040110705
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md"
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
               }
             }
           }
@@ -141,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,8 +190,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56bd8507d1bea0ec",
+  "active": "1f607efe94306627",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
@@ -215,7 +219,6 @@
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
-    "Engineering Year 1/Maths/Probability/Probability Basics.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
