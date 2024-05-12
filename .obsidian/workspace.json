@@ -11,11 +11,14 @@
             "id": "56bd8507d1bea0ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
-                "mode": "source",
-                "source": false
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "viewState": {
+                  "x": -3688.567776661762,
+                  "y": -445.95236828562673,
+                  "zoom": -2.525642951042708
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md"
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
               }
             }
           }
@@ -141,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,6 +192,7 @@
   },
   "active": "56bd8507d1bea0ec",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
     "Engineering Year 1/AVDASI/Engineering/PID Control.md",
     "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
     "Engineering Year 1/AVDASI/Engineering/Electrical Systems.md",
@@ -215,7 +219,6 @@
     "Untitled.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
-    "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
