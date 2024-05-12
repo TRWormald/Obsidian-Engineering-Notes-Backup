@@ -11,14 +11,11 @@
             "id": "56bd8507d1bea0ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-                "viewState": {
-                  "x": -6193.753500500265,
-                  "y": 2147.29299708178,
-                  "zoom": -0.5423642844570553
-                }
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md"
               }
             }
           }
@@ -144,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,6 +189,7 @@
   },
   "active": "56bd8507d1bea0ec",
   "lastOpenFiles": [
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
     "Engineering Year 1/AVDASI/Engineering/PID Control.md",
     "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
@@ -218,8 +216,6 @@
     "Engineering Year 1/Maths/Probability/The Central Limit Theorem.md",
     "Untitled.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
-    "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
