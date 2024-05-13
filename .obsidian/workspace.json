@@ -15,14 +15,39 @@
               "state": {
                 "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
                 "viewState": {
-                  "x": -3561.095025628394,
-                  "y": 1340.7961290374753,
-                  "zoom": -2.1312274627499344
+                  "x": -3441.374326837032,
+                  "y": 3594.387180740478,
+                  "zoom": -1.6397720730913243
                 }
               }
             }
+          },
+          {
+            "id": "938f244a36f60b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7081a3d0d77bb235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md"
               }
             }
           }
@@ -144,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99125dbe8b9c3865",
+  "active": "938f244a36f60b31",
   "lastOpenFiles": [
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Manoeuvring Flight.md",
     "Engineering Year 1/AVDASI/Aeronautics/Manoeuvres/Banked Turns.md",
