@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "26c4fd691634432e",
+        "id": "87c26177d660fc98",
         "type": "tabs",
         "children": [
           {
-            "id": "99125dbe8b9c3865",
+            "id": "2c1e4151a6980250",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
                 "viewState": {
-                  "x": -3441.374326837032,
-                  "y": 3594.387180740478,
-                  "zoom": -3.3892865718019576
+                  "x": 610.712273979112,
+                  "y": -61.15226494221433,
+                  "zoom": -0.6921274116772822
                 }
               }
             }
-          },
-          {
-            "id": "69fda7538002e4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md"
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md"
               }
             }
           }
@@ -157,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
+                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,12 +190,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69fda7538002e4bc",
+  "active": "2c1e4151a6980250",
   "lastOpenFiles": [
-    "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
-    "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
-    "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
+    "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
+    "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Engineering Year 1/Maths/Numerical Methods/Runge-Kutta Methods.md",
+    "Engineering Year 1/Maths/Numerical Methods/Converting to First Order Form.md",
+    "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+    "Engineering Year 1/Maths/Numerical Methods/Convergence and Stability.md",
     "Engineering Year 1/Maths/Numerical Methods/The Euler Method.md",
     "Engineering Year 1/Maths/Numerical Methods/The Numerical Method for Solving ODEs (The Basics).md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Resonant Case.md",
@@ -231,8 +220,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Engineering Year 1/AVDASI/Engineering/Pneumatic Systems.md",
     "Engineering Year 1/AVDASI/Engineering/PID Control.md",
-    "Engineering Year 1/AVDASI/Engineering/Aircraft Loads.md",
-    "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
@@ -253,7 +240,6 @@
     "Images & Attachments/Drag or Thrust against EAS at Different Altitudes.png",
     "Images & Attachments/Power vs TAS (at Ceiling - for a Jet).png",
     "Images & Attachments/Power vs TAS (For a Jet Engine).png",
-    "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
