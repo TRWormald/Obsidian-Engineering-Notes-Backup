@@ -12,4 +12,4 @@ $$\frac{dx}{dt}=v$$
 $$\frac{dv}{dt}=a$$
 We then use our standard method for [[The Euler Method For Systems of Differential Equations|solving systems of differential equations numerically using the Euler method]].
 \
-**Any ODE can be broken down in this way (into its first order components), and thus any ODE can be solved numercially.**
+**Any ODE can be broken down in this way (into its first order components), and thus any ODE can be solved numerically.**
