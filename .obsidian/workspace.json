@@ -15,9 +15,9 @@
               "state": {
                 "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
                 "viewState": {
-                  "x": 610.712273979112,
-                  "y": -61.15226494221433,
-                  "zoom": -0.6921274116772822
+                  "x": 568.5680773041215,
+                  "y": -873.1180033815165,
+                  "zoom": -0.8435164850591031
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md"
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Maths/Numerical Methods/The Euler Method For Systems of Differential Equations.md",
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
