@@ -13,43 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
-                "mode": "source",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "72d9a336ca655c92",
+            "id": "ffaaa9f312605838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Pressure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d324ee652a1dea89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "309c5f871f8f3e7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
+                "file": "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intensive",
+                "query": "Brayton",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md"
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md"
               }
             }
           }
@@ -177,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,9 +201,13 @@
   },
   "active": "2c1e4151a6980250",
   "lastOpenFiles": [
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Turbines and Compressors.md",
+    "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
+    "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
+    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
-    "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Pressure.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 1/Materials/Selection/The Selection Process.md",
@@ -247,10 +227,6 @@
     "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Engineering Year 1/Electrical/Capacitors.md",
     "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
-    "Engineering Year 1/Electrical/Inductors.md",
-    "Engineering Year 1/Electrical/The Current Divider Equation.md",
-    "Engineering Year 1/Electrical/AC Power.md",
-    "Engineering Year 1/Electrical/Batteries/Single Cell Voltage Source.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
