@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md"
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
+                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +202,7 @@
   "active": "2c1e4151a6980250",
   "lastOpenFiles": [
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Turbines and Compressors.md",
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
     "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
@@ -226,7 +227,6 @@
     "Engineering Year 1/Electrical/Electrical Machines/Intro to Electrical Machines.md",
     "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Engineering Year 1/Electrical/Capacitors.md",
-    "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
