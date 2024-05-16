@@ -1,12 +1,6 @@
 We can use the integrating factor to solve first-order linear nonhomogeneous differential equations without constant coefficients.
 This is done by leveraging the product rule, take for example the general ODE below:
 $$a_1(t)\frac{dx}{dt}+a_0(t)x=f(t)$$
-$$\frac{dx}{dt}+2tx=1$$
-$$e^{\int2t}=e^{t^{2}}$$
-$$e^{t^{2}}\frac{dx}{dt}+2te^{t^{2}}x=e^{t^{2}}$$
-$$\frac{d}{dt}uv=u \frac{dv}{dt}+v \frac{du}{dt}$$
-$$\frac{d}{dt}$$
-
 We can solve this by multiplying by a function of t so that the LHS looks like the product rule:
 $$a_1(t)g(t)\frac{dx}{dt}+a_0(t)g(t)x=f(t)g(t)$$
 Where $a_0(t)g(t)=\frac{d}{dt}a_1(t)g(t)$, meaning that by applying the product rule ($\frac{d}{dx}uv=u\frac{dv}{dx}+v\frac{du}{dx}$):
