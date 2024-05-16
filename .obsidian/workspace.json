@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md"
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +189,8 @@
   },
   "active": "7a98fd6e8445df61",
   "lastOpenFiles": [
-    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Complex Case.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Complex Case.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Degenerate Case (Or repeated roots).md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Pure Imaginary Case.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
