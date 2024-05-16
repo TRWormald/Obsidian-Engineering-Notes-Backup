@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c1e4151a6980250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a98fd6e8445df61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md"
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md"
               }
             }
           }
@@ -154,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +189,14 @@
   },
   "active": "7a98fd6e8445df61",
   "lastOpenFiles": [
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Complex Case.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Degenerate Case (Or repeated roots).md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Pure Imaginary Case.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Principal of Superposition.md",
+    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
@@ -214,20 +209,12 @@
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
     "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
-    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
     "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Pressure.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 1/Materials/Selection/The Selection Process.md",
     "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
     "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
-    "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
-    "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Specific Heat Capacity and Thermal Diffusivity.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Electrical Properties.md",
-    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
-    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
-    "Engineering Year 1/Materials/Properties/Ductility.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
