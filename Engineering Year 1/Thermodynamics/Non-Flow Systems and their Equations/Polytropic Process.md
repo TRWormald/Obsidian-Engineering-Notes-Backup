@@ -18,4 +18,5 @@ $$ C=Tp^{\frac{1-n}{n}}$$
 $$T=Cp^{\frac{n-1}{n}}$$
 $$\frac{T_1}{T_2}=\left(\frac{p_2}{p_1}\right)^{\frac{1-n}{n}}$$
 $$p=CT^{\frac{n}{n-1}}$$
+$$T_{2}=T_{1}\left(\frac{V_{1}}{V_{2}}\right)^{n-1}$$
 

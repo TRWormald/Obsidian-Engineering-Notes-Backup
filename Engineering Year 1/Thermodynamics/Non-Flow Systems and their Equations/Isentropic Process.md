@@ -18,3 +18,13 @@ $$\Delta U = -\frac{p_2 V_2 - p_1 V_1}{\gamma - 1}$$
 \
 Resulting in the conclusion that the change in the internal energy of the system is related to the difference between the products of its pressure and volume in each state.
 Sometimes the Isentropic process is called [[Adiabatic]], this is true however the reverse isn't. An Isentropic process is a **reversible** [[Adiabatic]] process.
+\
+###### Alternate Equations
+Using the [[State Postulate]] we know that if our system is in equilibrium then we can find any property of our system given two of the other properties. As a result we can derive the following:
+\
+$$ C=Tp^{\frac{1-\gamma}{\gamma}}$$
+$$T=Cp^{\frac{\gamma-1}{\gamma}}$$
+$$\frac{T_1}{T_2}=\left(\frac{p_2}{p_1}\right)^{\frac{1-\gamma}{\gamma}}$$
+$$p=CT^{\frac{\gamma}{\gamma-1}}$$
+$$T_{2}=T_{1}\left(\frac{V_{1}}{V_{2}}\right)^{\gamma-1}$$
+
