@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+                "file": "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Reynolds",
+                "query": "intensive",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+                "file": "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+                "file": "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md"
+                "file": "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+                "file": "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,11 +189,19 @@
   },
   "active": "2c1e4151a6980250",
   "lastOpenFiles": [
+    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Temperature-Entropy Diagrams (T-s).md",
+    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
+    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Equation for the Change In Entropy.md",
+    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Isentropic Efficiencies of Turbines and Compressors.md",
+    "Engineering Year 1/Thermodynamics/The Ideal Gas Law.md",
+    "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Energy Equation.md",
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Nozzles and Diffusers.md",
+    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Kinetic Energy of Particles and Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Inertial Stresses.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Work Energy Equations.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Linear Momentum/Linear Momentum of Particles.md",
     "Engineering Year 1/Mechanics/Virtual Work.md",
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
@@ -207,14 +215,6 @@
     "Engineering Year 1/AVDASI/Aeronautics/Aerofoils.md",
     "Engineering Year 1/Electrical/Inductors.md",
     "Engineering Year 1/Electrical/Induction.md",
-    "Engineering Year 1/Electrical/AC Power.md",
-    "Engineering Year 1/Electrical/Capacitors.md",
-    "Engineering Year 1/Electrical/The Current Divider Equation.md",
-    "Engineering Year 1/Electrical/Lorentz Force.md",
-    "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
-    "Engineering Year 1/Electrical/Electrical Machines/The Equivalent Circuit for a brushed DC Machine.md",
-    "Engineering Year 1/Electrical/Electrical Machines/The Fundamentals of DC Brushed Machines.md",
-    "Engineering Year 1/Electrical/Electrical Machines/Intro to Electrical Machines.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",

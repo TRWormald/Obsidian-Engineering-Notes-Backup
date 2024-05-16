@@ -4,11 +4,11 @@ According to the second law:
 \
 We often model processes as being reversible as they are easier to model than real processes and provide an ideal to compare real processes against. Irreversible processes include: heat transfer, friction, electrical resistance, mixing fluids, chemical reactions, and many more.
 ##### Considering Heat Transfer
-![[Screenshot 2024-02-25 123627.png|600]]
+![[Screenshot 2024-02-25 123627.png|450|center]]
 
 As we know from [[The Second Law of Thermodynamics]] we cant move heat from a cold [[Reservoir]] to a hot one without doing work, so the heat returned is greater than the initial amount of heat transferred, hence it is irreversible.
 ##### Friction
-![[Pasted image 20240225123904.png]]
+![[Pasted image 20240225123904.png|350|center]]
 Some work is done by the mixing arm, resulting in an increase in thermal energy. That thermal energy leaves the system as heat, and as we know heat transfer is an irreversible process - so friction is an irreversible process.
 ##### Friction in Gases
 ![[Pasted image 20240225124100.png]]
