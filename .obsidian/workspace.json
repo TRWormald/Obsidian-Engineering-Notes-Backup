@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
+                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
+                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
+                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Structures/Torsion of Shafts.md"
+                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
+                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,6 +189,11 @@
   },
   "active": "2c1e4151a6980250",
   "lastOpenFiles": [
+    "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
+    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+    "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
+    "Engineering Year 1/Materials/Properties/Ductility.md",
+    "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 1/Electrical/Induction.md",
     "Engineering Year 1/Electrical/Lorentz Force.md",
     "Engineering Year 1/Electrical/Electrical Machines/The Equivalent Circuit for a brushed DC Machine.md",
@@ -210,11 +215,6 @@
     "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Equation for the Change In Entropy.md",
     "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
     "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/The Clausius Inequality and Entropy.md",
-    "Engineering Year 1/Thermodynamics/The Ideal Gas Law.md",
-    "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Energy Equation.md",
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Nozzles and Diffusers.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
