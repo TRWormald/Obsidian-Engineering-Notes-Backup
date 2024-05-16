@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md"
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,9 +189,15 @@
   },
   "active": "2c1e4151a6980250",
   "lastOpenFiles": [
-    "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
-    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
+    "Engineering Year 1/Materials/Selection/The Selection Process.md",
+    "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
     "Engineering Year 1/Materials/Selection/Attributes vs Properties.md",
+    "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
+    "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Specific Heat Capacity and Thermal Diffusivity.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Electrical Properties.md",
+    "Engineering Year 1/Materials/Selection/Selecting for Physical Properties/Selecting for Physical Properties.md",
+    "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
     "Engineering Year 1/Materials/Properties/Ductility.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 1/Electrical/Induction.md",
@@ -209,12 +215,6 @@
     "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
     "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
-    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversible Cycles.md",
-    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Temperature-Entropy Diagrams (T-s).md",
-    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Isentropic Efficiencies of Turbines and Compressors.md",
-    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Equation for the Change In Entropy.md",
-    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversibility and the Second Law.md",
-    "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/The Clausius Inequality and Entropy.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
