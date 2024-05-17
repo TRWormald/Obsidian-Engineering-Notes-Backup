@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
+                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
+                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
+                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md"
+                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
+                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +189,13 @@
   },
   "active": "00729cad444052c1",
   "lastOpenFiles": [
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+    "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
+    "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
+    "Engineering Year 1/Electrical/Batteries/Single Cell Voltage Source.md",
+    "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
+    "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
@@ -210,11 +215,6 @@
     "Engineering Year 1/Materials/Properties/Ductility.md",
     "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
     "Engineering Year 1/Thermodynamics/The Internal Energy of an Ideal Gas.md",
-    "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Turbines and Compressors.md",
-    "Engineering Year 1/Electrical/AC Power.md",
-    "Engineering Year 1/Electrical/Capacitors.md",
-    "Engineering Year 1/Electrical/Induction.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
