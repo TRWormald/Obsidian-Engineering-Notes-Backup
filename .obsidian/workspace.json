@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+                "file": "Engineering Year 1/Electrical/Induction.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+                "file": "Engineering Year 1/Electrical/Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+                "file": "Engineering Year 1/Electrical/Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md"
+                "file": "Engineering Year 1/Electrical/Induction.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+                "file": "Engineering Year 1/Electrical/Induction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,13 +189,18 @@
   },
   "active": "00729cad444052c1",
   "lastOpenFiles": [
+    "Engineering Year 1/Electrical/Inductors.md",
+    "Engineering Year 1/Electrical/Induction.md",
+    "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
+    "Engineering Year 1/Electrical/Capacitors.md",
+    "Engineering Year 1/Electrical/AC Power.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Kinetic Energy of Particles and Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Inertial Stresses.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Work Energy Equations.md",
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
     "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
@@ -210,11 +215,6 @@
     "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
-    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
