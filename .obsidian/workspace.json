@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md"
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
+                "file": "Engineering Year 1/Structures/Torsion of Shafts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,11 +189,11 @@
   },
   "active": "00729cad444052c1",
   "lastOpenFiles": [
-    "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
     "Engineering Year 1/Electrical/Batteries/Battery Packs.md",
     "Engineering Year 1/Electrical/Batteries/Single Cell Voltage Source.md",
-    "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
+    "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
     "Engineering Year 1/Electrical/Batteries/Batteries.md",
+    "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
