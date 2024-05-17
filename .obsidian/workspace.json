@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Brayton",
+                "query": "second moment of area",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md"
+                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+                "file": "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,12 +189,22 @@
   },
   "active": "00729cad444052c1",
   "lastOpenFiles": [
+    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Linear Momentum/Linear Momentum of Particles.md",
+    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
+    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/The Clausius Inequality and Entropy.md",
     "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/The Second Law of Thermodynamics.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Integrating Factor.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Special Cases for Solving Linear Homogeneous ODEs with Constant Coefficients/The Complex Case.md",
@@ -203,18 +213,8 @@
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Principal of Superposition.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Velocity.md",
     "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Turbines and Compressors.md",
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Heat Exchangers.md",
-    "Engineering Year 1/Thermodynamics/Info/Enthalpy.md",
-    "Engineering Year 1/Thermodynamics/Info/Specific Gas Constant.md",
-    "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
-    "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Pressure.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
