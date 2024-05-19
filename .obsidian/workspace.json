@@ -11,12 +11,8 @@
             "id": "2fa540b8c3606f3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second moment of area",
+                "query": "[\"aliases\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +133,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "02a27b78e3287c7e",
@@ -153,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
