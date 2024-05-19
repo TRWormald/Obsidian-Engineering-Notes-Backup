@@ -128,6 +128,18 @@
                 "file": "Test.md"
               }
             }
+          },
+          {
+            "id": "270ef979256ad177",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       },
@@ -189,6 +201,8 @@
   },
   "active": "2fa540b8c3606f3f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Test.md",
     "Engineering Year 1/Electrical/Induction.md",
     "Engineering Year 1/Electrical/Inductors.md",
     "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
@@ -213,8 +227,6 @@
     "Engineering Year 1/Electrical/Batteries/Battery Capacity.md",
     "Engineering Year 1/Electrical/Batteries/Batteries.md",
     "Engineering Year 1/Electrical/Batteries/Battery Equivalent Circuits.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Pendula.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
