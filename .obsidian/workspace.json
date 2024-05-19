@@ -11,8 +11,12 @@
             "id": "2fa540b8c3606f3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md"
+                "file": "Test.md"
               }
             }
           }
@@ -137,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+                "file": "Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "2fa540b8c3606f3f",
   "lastOpenFiles": [
     "Engineering Year 1/Electrical/Induction.md",
     "Engineering Year 1/Electrical/Inductors.md",
