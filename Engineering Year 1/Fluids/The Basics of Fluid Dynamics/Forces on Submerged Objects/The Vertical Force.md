@@ -1,0 +1,1 @@
+The vertical force acting on an object submerged in a fluid is equal to
