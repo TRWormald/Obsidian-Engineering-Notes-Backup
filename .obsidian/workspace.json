@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md"
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
+                "file": "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,6 +215,7 @@
   },
   "active": "e95cbe0483132275",
   "lastOpenFiles": [
+    "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
@@ -245,7 +246,6 @@
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Kinetic Energy of Particles and Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Inertial Stresses.md",
-    "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Work Energy Equations.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
