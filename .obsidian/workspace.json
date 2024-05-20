@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
-                "mode": "source",
+                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isobaric Process.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
+                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isobaric Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
+                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isobaric Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md"
+                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isobaric Process.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
+                "file": "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isobaric Process.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,6 +215,9 @@
   },
   "active": "e95cbe0483132275",
   "lastOpenFiles": [
+    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
+    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isochoric Process.md",
+    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Kinetic Energy of Particles and Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Work Energy Equations.md",
@@ -243,9 +246,6 @@
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Vena Contracta.md",
     "Untitled.md",
     "Test.md",
-    "Engineering Year 1/Electrical/Induction.md",
-    "Engineering Year 1/Electrical/Inductors.md",
-    "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
