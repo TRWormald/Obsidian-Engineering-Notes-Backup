@@ -1,4 +1,4 @@
-Fluid **does work** on the turbine (shaft work) and the decrease in momentum gives thrust to the disk:
+ Fluid **does work** on the turbine (shaft work) and the decrease in momentum gives thrust to the disk:
 ![[Pasted image 20240317130400.png|center|350]]
 We make the assumptions that the flow is **frictionless** and **incompressible**, but the flow is also **steady** and **one dimensional** (and as a result we neglect the rotation and variation across the disc radius).
 We assume that the disc is infinitely thin, so $A_{2}=A_{3}=A_{d}$ and that the velocity of the disc over the propellor is constant, so $V_{2}=V_{3}=V_{d}$.
