@@ -18,6 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a66a4604574af3ff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "viewState": {
+                  "x": -6528.106375643661,
+                  "y": 2779.4081074836336,
+                  "zoom": -2.2341892260188865
+                }
+              }
+            }
           }
         ]
       }
@@ -202,9 +217,10 @@
   },
   "active": "1f9f37765af16ce1",
   "lastOpenFiles": [
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Windmills & Turbines).md",
     "Engineering Year 1/Thermodynamics/Reversible and Irreversible Cycles and Processes/Reversible Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Polytropic Process.md",
@@ -227,7 +243,6 @@
     "Engineering Year 1/Materials/Selection/The Selection Process.md",
     "Engineering Year 1/Materials/Selection/Strength Limited Design/Strength-Limited Design.md",
     "Engineering Year 1/Materials/Selection/Constraints vs Objectives.md",
-    "Engineering Year 1/Materials/Selection/Choosing Manufacturing Methods.md",
     "Images & Attachments/diagram-20240519 2.png",
     "Images & Attachments/diagram-20240519 1.png",
     "Images & Attachments/diagram-20240519.png",
@@ -235,7 +250,6 @@
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/The Line of Action",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/AVDASI - Copy/Structures",
     "Engineering Year 1/AVDASI - Copy/Engineering",
     "Engineering Year 1/AVDASI - Copy/Aeronautics/Range",
