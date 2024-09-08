@@ -9,6 +9,7 @@ The steps are:
 4) Since we have resistances and currents we can calculate the voltages using Ohm's Law.
 5) If we have voltage sources we need to create a super-node and use Kirchhoff's Voltage Law alongside Ohm's Law to calculate node voltages.
 #### Worked Example
+##### Example 1 (Using only KCL)
 ![[Pasted image 20240829121345.png|center|300]]
 Taking the example above we can calculate the currents at each node:
 1 - $I_{1}=60[mA]+20[mA]=80 [mA]$
@@ -19,10 +20,10 @@ Taking the example above we can calculate the currents at each node:
 
 We have five equations and 4 unknowns therefore it is simple to solve to get all of the currents:
 $I_{1}=80[mA]$
-$I_{1}=80[mA]$
-$I_{1}=80[mA]$
-$I_{1}=80[mA]$
-$I_{1}=80[mA]$
-
+$I_{5}=50[mA]$
+$I_{6}=-10[mA]$
+$I_{4}=70[mA]$
+##### Example 2 (With Current Source)
+##### Example 3 (With Voltage Source)
 
 ### Mesh Analysis
