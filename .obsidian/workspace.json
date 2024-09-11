@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reverse product",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md"
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md",
+                "file": "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,12 +201,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a66a4604574af3ff",
+  "active": "e3bd7b19e10f3f01",
   "lastOpenFiles": [
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Principal of Superposition.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/The Characteristic Polynomial.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 2/Classification of ODEs.md",
+    "Engineering Year 1/Maths/ODEs/ODEs Week 1/Solving First order ODEs by Separation.md",
+    "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md",
     "Engineering Year 1/Electrical/The Current Divider Equation.md",
     "Engineering Year 1/Electrical/Circuit Analysis Techniques (INCOMPLETE).md",
     "Images & Attachments/Pasted image 20240829121345.png",
-    "Engineering Year 1/Electrical/Maximising Power Transfer (INCOMPLETE).md",
     "Engineering Year 1/Electrical/Piezoelectrics.md",
     "Engineering Year 1/Electrical/Fleming's Left and Right Hand Rules.md",
     "Engineering Year 1/Electrical/Induction.md",
@@ -225,10 +230,7 @@
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Inertial Stresses.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
-    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
-    "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Streamlines.md",
-    "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Laminar Flow.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Images & Attachments/diagram-20240519 2.png",
     "Images & Attachments/diagram-20240519 1.png",
