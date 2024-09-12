@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/What is Systems Engineering.md",
+                "file": "Engineering Year 2/Space Systems/System Engineering Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/What is Systems Engineering.md",
+                "file": "Engineering Year 2/Space Systems/System Engineering Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/What is Systems Engineering.md",
+                "file": "Engineering Year 2/Space Systems/System Engineering Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/What is Systems Engineering.md"
+                "file": "Engineering Year 2/Space Systems/System Engineering Basics.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/What is Systems Engineering.md",
+                "file": "Engineering Year 2/Space Systems/System Engineering Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,8 +202,9 @@
   },
   "active": "a66a4604574af3ff",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20240912204330.png",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/Solution Structure for Nonhomogeneous ODEs.md",
-    "Engineering Year 2/Space Systems/What is Systems Engineering.md",
+    "Engineering Year 2/Space Systems/System Engineering Basics.md",
     "Engineering Year 2/Aerodynamics",
     "Engineering Year 2/Dynamics and Control of Linear Systems",
     "Engineering Year 2/AVDASI 2",
@@ -235,7 +236,6 @@
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Angular Acceleration.md",
     "Engineering Year 1/Mechanics/Linear Momentum/Linear Momentum of Particles.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Work Energy Equations.md",
-    "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Inertial Stresses.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Images & Attachments/diagram-20240519 2.png",
