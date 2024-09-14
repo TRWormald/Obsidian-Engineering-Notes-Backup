@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
+                "file": "Engineering Year 1/Maths/Volume of a Parrallelpiped.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverse product",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
+                "file": "Engineering Year 1/Maths/Volume of a Parrallelpiped.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
+                "file": "Engineering Year 1/Maths/Volume of a Parrallelpiped.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md"
+                "file": "Engineering Year 1/Maths/Volume of a Parrallelpiped.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
+                "file": "Engineering Year 1/Maths/Volume of a Parrallelpiped.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,9 +202,11 @@
   },
   "active": "a66a4604574af3ff",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20240914140131.png",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
+    "Engineering Year 1/Maths/Volume of a Parrallelpiped.md",
     "Images & Attachments/Pasted image 20240914134045.png",
     "Images & Attachments/Pasted image 20240914134041.png",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
     "Images & Attachments/Pasted image 20240914133821.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Functions.md",
@@ -243,12 +245,10 @@
     "Engineering Year 1/Electrical/Thermal Equivalent Circuits/Thermal Equivalent Circuits - Capacitance.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Inertial Stresses, Work, and Energy/Kinetic Energy of Particles and Rigid Bodies.md",
-    "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Images & Attachments/diagram-20240519 2.png",
     "Images & Attachments/diagram-20240519 1.png",
-    "Images & Attachments/diagram-20240519.png",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Forces on Submerged Objects",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
