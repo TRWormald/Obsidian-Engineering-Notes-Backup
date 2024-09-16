@@ -11,14 +11,11 @@
             "id": "a66a4604574af3ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-                "viewState": {
-                  "x": -3257.562526394895,
-                  "y": 2778.759890363761,
-                  "zoom": -2.80634124806648
-                }
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas"
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,6 +202,7 @@
   },
   "active": "a66a4604574af3ff",
   "lastOpenFiles": [
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Mass Flow Rate.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Pressure.md",
@@ -230,7 +228,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/How to solve Potential Flows.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/From Navier-Stokes to Bernoulli.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Functions.md",
     "Images & Attachments/Pasted image 20240914140131.png",
     "Images & Attachments/Pasted image 20240914134045.png",
     "Images & Attachments/Pasted image 20240914134041.png",
@@ -250,7 +247,6 @@
     "Engineering Year 2",
     "Images & Attachments/Pasted image 20240829121345.png",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Images & Attachments/diagram-20240519 2.png",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Forces on Submerged Objects",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
