@@ -7,3 +7,8 @@ $$m=\cos\beta$$
 $$n=\sin\beta $$
 Therefore the transformed coordinates are:
 $$x'=mx+ny$$
+$$y'=-nx+my$$
+![[Pasted image 20240916195820.png|centre|300]]
+*So what happens to 2nd moments of area upon axis transformation?*
+### Transformation of SMAs
+We now have transformed second moments of area
