@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+                "file": "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+                "file": "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+                "file": "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md"
+                "file": "Engineering Year 2/Structures & Materials/Mohr's Circle.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+                "file": "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,8 +202,10 @@
   },
   "active": "df40a2bb48a2bdf3",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Defining Axes.md",
+    "Images & Attachments/Pasted image 20240916220316.png",
     "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
+    "Engineering Year 2/Structures & Materials/Defining Axes.md",
     "Images & Attachments/Pasted image 20240916203428.png",
     "Images & Attachments/Pasted image 20240916203401.png",
     "Images & Attachments/Pasted image 20240916201920.png",
@@ -241,7 +243,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering",
     "Engineering Year 2/Aerodynamics",
