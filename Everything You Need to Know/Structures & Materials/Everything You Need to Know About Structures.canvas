@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"782f2194b42d0b0b","x":-87,"y":100,"width":250,"height":60,"type":"text","text":"# Structures"},
+		{"id":"0c55663b1a1fbbc6","x":-1160,"y":-880,"width":250,"height":101,"type":"text","text":"# Axis Definitions"},
+		{"id":"c7ca0c49141018f6","x":-1335,"y":-711,"width":600,"height":111,"type":"text","text":"There are three main types of axes that we need to consider when we are dealing with structures, all of which can be seen below:"},
+		{"id":"7f003d63f12530e6","x":-1776,"y":-462,"width":250,"height":60,"type":"text","text":""},
+		{"id":"873051e0e1ff2da4","x":-985,"y":-462,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d66ff5e6f1919743","x":-2360,"y":-462,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1c7bd4a0e56a5753","fromNode":"782f2194b42d0b0b","fromSide":"top","toNode":"0c55663b1a1fbbc6","toSide":"right"},
+		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
+		{"id":"325cb2da8c4ed571","fromNode":"c7ca0c49141018f6","fromSide":"bottom","toNode":"d66ff5e6f1919743","toSide":"top"},
+		{"id":"ff5376543f8f9f74","fromNode":"c7ca0c49141018f6","fromSide":"bottom","toNode":"7f003d63f12530e6","toSide":"top"},
+		{"id":"630fe7cc089e460d","fromNode":"c7ca0c49141018f6","fromSide":"bottom","toNode":"873051e0e1ff2da4","toSide":"top"}
+	]
+}

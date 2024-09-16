@@ -11,9 +11,24 @@
             "id": "df40a2bb48a2bdf3",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+                "viewState": {
+                  "x": -1424.9234571325362,
+                  "y": -401.2603765214453,
+                  "zoom": -1.433292184074719
+                }
+              }
+            }
+          },
+          {
+            "id": "ab869e1cfdf69c1d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
+                "file": "Engineering Year 2/Structures & Materials/Defining Axes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md"
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas"
               }
             }
           },
@@ -154,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,13 +217,18 @@
   },
   "active": "df40a2bb48a2bdf3",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Defining Axes.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
+    "Everything You Need to Know/Structures & Materials",
     "Images & Attachments/Screenshot 2024-09-16 163857.png",
     "Images & Attachments/Pasted image 20240916162250.png",
     "Images & Attachments/Screenshot 2024-09-16 161656.png",
     "Images & Attachments/Screenshot 2024-09-16 161356.png",
     "Images & Attachments/Screenshot 2024-09-16 161101.png",
     "Images & Attachments/Screenshot 2024-09-16 160707.png",
-    "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
     "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Young's Modulus.md",
     "Second Moment of Area.md",
@@ -220,12 +240,10 @@
     "Images & Attachments/Pasted image 20240916143338.png",
     "Images & Attachments/Pasted image 20240916143223.png",
     "Engineering Year 2/Space Systems/Payloads/Payload Basics.md",
-    "Images & Attachments/Pasted image 20240916142422.png",
     "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Space Systems/Payloads",
     "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Mass Flow Rate.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Pressure.md",
@@ -239,8 +257,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering",
     "Engineering Year 2/Aerodynamics",
@@ -248,7 +264,6 @@
     "Engineering Year 2/AVDASI 2",
     "Engineering Year 2/Structures & Materials",
     "Engineering Year 2/Space Systems",
-    "Engineering Year 2/Engineering Maths",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
