@@ -49,3 +49,19 @@ For compound sections we again re-write these as summations:
 $$Q_{XX}=\sum\limits^{n}_{i=1}\bar{Y}_{i}A_{i}$$
 $$Q_{YY}=\sum\limits^{n}_{i=1}\bar{X}_{i}A_{i}$$
 Where $\bar{X}_{i}$ and $\bar{Y}_{i}$ are the coordinates of the centroid of each component making the compound section.
+### Centroid Coordinates
+**By definition**:
+- An arbitrary axis $x$ crosses the centroid of the cross-section if $Q_{xx}=0$
+- An arbitrary axis $y$ crosses the centroid of the cross-section if $Q_{yy}=0$
+Therefore, the coordinates of the centroid ($\bar{X},\bar{Y}$) of a section are given by:
+$$\bar{X}=\frac{Q_{YY}}{A}$$
+$$\bar{Y}=\frac{Q_{XX}}{A}$$
+Once the centroid has been found, the centroid-based coordinate system becomes:
+$$x=X-\bar{X}~~~~~~~~y=Y-\bar{Y}$$
+From this point onwards all calculations must be done based on ($x,y$).
+### Second Moments of Area
+The second moments of area are usually taken about the centroid of a section:
+$$I_{xx}=\int_{A}y^{2}dA$$
+$$I_{yy}=\int_{A}x^{2}dA$$
+For compound sections, the **parallel axis theorems** must be used to accound for individual centroid offsets:
+$$I_{\bar{x}_{i}\bar{x}_{i}}=\int_{A_{i}}(y-y) $$
