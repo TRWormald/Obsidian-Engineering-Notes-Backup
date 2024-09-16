@@ -36,5 +36,12 @@ $$\begin{align*}
 \tan2\theta_{P}&= \frac{2I_{xy}}{I_{yy}-I_{xx}}\\
 \theta_{P}&=\frac{1}{2}\arctan\left(\frac{2I_{xy}}{I_{yy}-I_{xx}}\right) 
 \end{align*}$$
-Hence the angle $\theta_{P}$ rotates ($x,y$) into (1,2), while the angle $\beta_p$ rotates (1,2) into  
-
+Hence the angle $\theta_{P}$ rotates ($~x,y~$) into ($~1,2~$), while the angle $\beta_p$ rotates ($~1,2~$) into ($~x,y~$) :
+$$\beta_P=-\theta_{P}=\frac{1}{2}\arctan\left(\frac{2I_{xy}}{I_{xx}-I_{yy}}\right) $$
+### Off-Axis Loading
+When a beam is loaded along (or about) a direction which is not a principal axis (e.g. along $y$) it will deflect along two orthogonal directions i.e. along both $x$ and $y$.
+*This is also called 'bend-bend coupling' behaviour*
+All bending problems seen last year involved loading along, or about a principal axis, where $I_{12}=0$
+This year we focus on off-axis loading problems i.e. where beams are loaded off their principal axes, where $I_{xy}\neq 0$    
+![[Pasted image 20240916203401.png|centre]]
+![[Pasted image 20240916203428.png]]

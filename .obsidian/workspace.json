@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ab869e1cfdf69c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Defining Axes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -214,12 +202,14 @@
   },
   "active": "df40a2bb48a2bdf3",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Defining Axes.md",
+    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+    "Images & Attachments/Pasted image 20240916203428.png",
+    "Images & Attachments/Pasted image 20240916203401.png",
     "Images & Attachments/Pasted image 20240916201920.png",
     "Images & Attachments/Pasted image 20240916195820.png",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Defining Axes.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
     "Everything You Need to Know/Structures & Materials",
     "Images & Attachments/Screenshot 2024-09-16 163857.png",
@@ -234,9 +224,6 @@
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
     "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
     "Untitled.md",
-    "Images & Attachments/Pasted image 20240916143750.png",
-    "Images & Attachments/Pasted image 20240916143536.png",
-    "Images & Attachments/Pasted image 20240916143338.png",
     "Engineering Year 2/Space Systems/Payloads/Payload Basics.md",
     "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Space Systems/Payloads",
