@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea503bc2edc5d1c",
+        "id": "13880446ac16559c",
         "type": "tabs",
         "children": [
           {
-            "id": "a66a4604574af3ff",
+            "id": "df40a2bb48a2bdf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
+                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Second Moment ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
+                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
+                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md"
+                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
+                "file": "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,10 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a66a4604574af3ff",
+  "active": "df40a2bb48a2bdf3",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Images & Attachments/Screenshot 2024-09-16 160707.png",
+    "Engineering Year 2/Structures & Materials/Structures and Materials Intro & Revision.md",
+    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+    "Young's Modulus.md",
+    "Second Moment of Area.md",
+    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
     "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
+    "Untitled.md",
     "Images & Attachments/Pasted image 20240916143750.png",
     "Images & Attachments/Pasted image 20240916143536.png",
     "Images & Attachments/Pasted image 20240916143338.png",
@@ -223,7 +229,6 @@
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Turbulent Flow.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Separation.md",
     "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Laminar Flow.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
@@ -232,11 +237,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Why isn't Bernoulli's Equation Enough.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Galilean Transform.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Images & Attachments/Pasted image 20240914140131.png",
     "Images & Attachments/Pasted image 20240914134045.png",
     "Images & Attachments/Pasted image 20240914134041.png",

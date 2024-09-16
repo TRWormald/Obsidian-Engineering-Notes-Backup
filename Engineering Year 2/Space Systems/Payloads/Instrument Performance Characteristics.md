@@ -8,7 +8,6 @@ There are several different ways in which we can measure the performance of an i
 6) Coverage
 7) Scanning Modes
 8) Resolution
-
 #### Spectral Band
 This is just the area of the EM spectrum that the instrument is recording in, e.g. X-Ray, optical etc.
 ![[Pasted image 20240916143223.png|center|300]]
