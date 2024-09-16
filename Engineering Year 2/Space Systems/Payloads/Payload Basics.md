@@ -12,4 +12,13 @@ These receive and process data only.
 2) Active Payloads
 These provide their own means of sensing the subject, e.g. radar, and sensors then receive signals back to create data to analyse.
 ![[Pasted image 20240916142422.png|center]]
-
+### Instrument Performance
+There are several different ways in which we can measure the performance of an instrument:
+1) Storage/Transmission of Data
+2) Sensitivity or Signal/Noise
+3) Spectral Band
+4) Swath Width
+5) Field of View
+6) Coverage
+7) Scanning Modes
+8) Resolution
