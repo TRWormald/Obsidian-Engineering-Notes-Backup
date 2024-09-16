@@ -7,3 +7,6 @@ However now we are in Year 2 we will be considering bending in more than one dir
 $$\frac{M_{x}}{I_{xx}}=\frac{\sigma_{z}}{y}=\frac{E}{R_{x}}$$
 The linear stress distribution also becomes:
 $$\sigma_{z(y)}=\frac{M_{x}}{I_{xx}}y$$
+These relationships are much clearer when considered in 3D:
+![[Pasted image 20240916223856.png|centre]]
+### Combined Loading
