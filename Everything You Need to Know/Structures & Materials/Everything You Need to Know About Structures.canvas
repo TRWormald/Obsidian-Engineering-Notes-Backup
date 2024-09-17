@@ -26,10 +26,10 @@
 		{"id":"fb9a5bda8a8f4bb2","x":1240,"y":1043,"width":460,"height":319,"type":"file","file":"Images & Attachments/Pasted image 20240917130824.png"},
 		{"id":"782f2194b42d0b0b","type":"text","text":"# Basics","x":-87,"y":-615,"width":250,"height":75},
 		{"id":"d1867fd672d74353","x":834,"y":-645,"width":349,"height":135,"type":"text","text":"# Cross-Section Properties"},
-		{"id":"64f826c3c78153b2","x":207,"y":-1600,"width":627,"height":438,"type":"text","text":"# Cross-Sectional Area\nThe area of a cross-section can be written as an **area integral**.\n$$A=\\int_{A}dA$$\nFor compound cross sections we split the section into geometrical primitives indexed by the subscripts"},
-		{"id":"5635984210defdcd","x":1369,"y":-1192,"width":250,"height":60,"type":"text","text":""},
-		{"id":"864a421729486ce2","x":1741,"y":-625,"width":250,"height":60,"type":"text","text":""},
-		{"id":"412a8e18b54ff0ff","x":313,"y":-400,"width":1391,"height":94,"type":"text","text":"# The Second Moment of Area"}
+		{"id":"64f826c3c78153b2","x":207,"y":-1560,"width":627,"height":398,"type":"text","text":"# Cross-Sectional Area\nThe area of a cross-section can be written as an **area integral**.\n$$A=\\int_{A}dA$$\nFor compound cross sections we split the section into geometrical primitives indexed by the subscripts $i=1...n$ and write the integral as a summation:\n$$A=\\sum\\limits^{n}_{i=1}A_{i}$$"},
+		{"id":"412a8e18b54ff0ff","x":313,"y":-400,"width":1391,"height":94,"type":"text","text":"# The Second Moment of Area"},
+		{"id":"5635984210defdcd","x":1240,"y":-1840,"width":586,"height":678,"type":"text","text":"# First Moments of Area\nThe first moment of area of a shape, about a certain axis, equals the sum over all the infinitesimal parts of the shape of the area of that part times its distance from the axis.\n**It is a measure of the spatial (area) distribution of a shape in relation to an axis.** \nThe first moments of area about an arbitrary coordinate system $(X,Y)$ are:\n$$Q_{XX}=\\int_{A}Y~dA$$\n$$Q_{YY}=\\int_{A}X~dA$$\nFor compound sections we again re-write these as summations:\n$$Q_{XX}=\\sum\\limits^{n}_{i=1}\\bar{Y}_{i}A_{i}$$\n$$Q_{YY}=\\sum\\limits^{n}_{i=1}\\bar{X}_{i}A_{i}$$\n"},
+		{"id":"864a421729486ce2","x":2040,"y":-1080,"width":760,"height":570,"type":"text","text":"# Finding the Centroid's Coordinates\n**By definition**:\n- An arbitrary axis $x$ crosses the centroid of the cross-section if $Q_{xx}=0$\n- An arbitrary axis $x$ crosses the centroid of the cross-section if $Q_{xx}=0$"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},

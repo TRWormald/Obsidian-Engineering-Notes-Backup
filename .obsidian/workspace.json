@@ -6,7 +6,6 @@
       {
         "id": "1dcbe2ebedab214a",
         "type": "tabs",
-        "dimension": 42.53632760898283,
         "children": [
           {
             "id": "210de20fd2c9a3f6",
@@ -60,9 +59,8 @@
         "currentTab": 1
       },
       {
-        "id": "095a5085bdb16250",
+        "id": "910926d54c557556",
         "type": "tabs",
-        "dimension": 57.46367239101717,
         "children": [
           {
             "id": "cfc8aa2e52436517",
@@ -72,9 +70,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 1183.8582633571073,
-                  "y": -1468.7560949902872,
-                  "zoom": -1.7760673448899207
+                  "x": 2440.344068558828,
+                  "y": -1009.3353893787307,
+                  "zoom": -0.45753680263547303
                 }
               }
             }
@@ -129,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50152587890625,
-    "collapsed": true
+    "width": 237.50152587890625
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -146,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Cross-Section Properties.md"
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas"
               }
             }
           },
@@ -215,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,20 +258,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deffd2a686a363f3",
+  "active": "cfc8aa2e52436517",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
+    "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
+    "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
+    "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
+    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
+    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
+    "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 2/Structures & Materials/Defining Axes.md",
     "Images & Attachments/Pasted image 20240917130824.png",
     "Images & Attachments/Pasted image 20240917125648.png",
     "Images & Attachments/Screenshot 2024-09-16 160707.png",
     "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
-    "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
     "Images & Attachments/Pasted image 20240917123317.png",
-    "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
-    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
     "Images & Attachments/Pasted image 20240917104744.png",
@@ -287,7 +290,6 @@
     "Images & Attachments/Screenshot 2024-09-16 222821.png",
     "Images & Attachments/Pasted image 20240916220316.png",
     "Everything You Need to Know/Structures & Materials",
-    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Young's Modulus.md",
     "Second Moment of Area.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis Introduction.md",
@@ -300,11 +302,6 @@
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Mass Flow Rate.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Pressure.md",
-    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Vena Contracta INCOMPLETE.md",
-    "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Turbulent Flow.md",
-    "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Separation.md",
-    "Engineering Year 1/Fluids/Fluid Behaviour/Fluid Behaviour - Laminar Flow.md",
-    "Engineering Year 1/Fluids/Control Volume Analysis/Control Volume Analysis for Viscous Flows.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering",
     "Engineering Year 2/Aerodynamics",
