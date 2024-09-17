@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md"
+                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,10 +202,11 @@
   },
   "active": "56218561a61d2959",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
+    "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Images & Attachments/Parts-of-an-Ellipse.jpg",
     "Images & Attachments/Pasted image 20240917174909.png",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
-    "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
     "Engineering Year 2/Space Systems/Orbits",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf",
     "Images & Attachments/Pasted image 20240917171653.png",
@@ -237,7 +238,6 @@
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
     "Images & Attachments/Pasted image 20240917104744.png",
-    "Images & Attachments/Screenshot 2024-09-17 103855.png",
     "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
     "Engineering Year 2/AVDASI 2/Structures",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
