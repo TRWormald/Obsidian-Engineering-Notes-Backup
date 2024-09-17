@@ -34,7 +34,9 @@
 		{"id":"b44eef7a9710cbf2","x":313,"y":-246,"width":250,"height":206,"type":"text","text":"The Second Moment of Area (SMA) is a measure of how area is distributed **around** an axis."},
 		{"id":"e280350de2a7c736","x":313,"y":40,"width":250,"height":155,"type":"text","text":"In our case however it is a measurement of how resistant a cross-section is to bending."},
 		{"id":"c4ad545636646d05","x":563,"y":-306,"width":557,"height":60,"type":"text","text":"# How to Calculate?"},
-		{"id":"06ff6fd48d82bd00","x":563,"y":-246,"width":557,"height":646,"type":"text","text":"The SMA is usually taken about the centroid of a section:\n$$I_{xx}=\\int_{A}y^{2}~dA$$\n$$I_{yy}=\\int_{A}x^{2}~dA$$\nIn addition to the two above - which we saw in Year 1, we now have:\n$$I_{xy}=\\int_{A}x~y~dA$$\nWhich is the Product Second Moment of Area. This is a measure of 'asymmetry' of the section with respect to axes $(x,y)$.\n**NOTE: If at least one plane of symmetry exists and if axes $x$ or $y$ are parallel to this axis of symmetry then $I_{xy}=0$.**\n\\\nA non-zero Product Second Moment of Area (PSMA) means that the structure has a bend-bend coupling behaviour, i.e. it will deflect sideways if loaded vertically and vice versa."}
+		{"id":"06ff6fd48d82bd00","x":563,"y":-246,"width":557,"height":646,"type":"text","text":"The SMA is usually taken about the centroid of a section:\n$$I_{xx}=\\int_{A}y^{2}~dA$$\n$$I_{yy}=\\int_{A}x^{2}~dA$$\nIn addition to the two above - which we saw in Year 1, we now have:\n$$I_{xy}=\\int_{A}x~y~dA$$\nWhich is the Product Second Moment of Area. This is a measure of 'asymmetry' of the section with respect to axes $(x,y)$.\n**NOTE: If at least one plane of symmetry exists and if axes $x$ or $y$ are parallel to this axis of symmetry then $I_{xy}=0$.**\n\\\nA non-zero Product Second Moment of Area (PSMA) means that the structure has a bend-bend coupling behaviour, i.e. it will deflect sideways if loaded vertically and vice versa."},
+		{"id":"aefed425e094f294","x":1183,"y":-246,"width":517,"height":646,"type":"text","text":""},
+		{"id":"02bf10b224a03e88","x":1183,"y":-306,"width":517,"height":60,"type":"text","text":"# The Parallel Axis Theorem"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -51,6 +53,7 @@
 		{"id":"d2220d4a260a44f1","fromNode":"d1867fd672d74353","fromSide":"right","toNode":"864a421729486ce2","toSide":"left"},
 		{"id":"85a3c7c5d6b5c454","fromNode":"d1867fd672d74353","fromSide":"bottom","toNode":"412a8e18b54ff0ff","toSide":"top"},
 		{"id":"cbd33a6923de7fad","fromNode":"5635984210defdcd","fromSide":"right","toNode":"864a421729486ce2","toSide":"top","color":"1"},
-		{"id":"7ee0f4eeee936219","fromNode":"b44eef7a9710cbf2","fromSide":"bottom","toNode":"e280350de2a7c736","toSide":"top"}
+		{"id":"7ee0f4eeee936219","fromNode":"b44eef7a9710cbf2","fromSide":"bottom","toNode":"e280350de2a7c736","toSide":"top"},
+		{"id":"e9265c2ae983fb9a","fromNode":"06ff6fd48d82bd00","fromSide":"right","toNode":"aefed425e094f294","toSide":"left"}
 	]
 }
