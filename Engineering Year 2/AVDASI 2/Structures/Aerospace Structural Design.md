@@ -50,3 +50,5 @@ RF>1 implies a reserve of strength
 \
 Margin of safety = $\frac{\text{allowable stress}-\text{applied stress}}{\text{applied stress}}$
 MoS=RF-1
+
+![[Screenshot 2024-09-17 103855.png|centre]]
