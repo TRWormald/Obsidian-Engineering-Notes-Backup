@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md"
+                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +202,9 @@
   },
   "active": "df40a2bb48a2bdf3",
   "lastOpenFiles": [
+    "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
+    "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
+    "Engineering Year 2/AVDASI 2/Structures",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
@@ -229,7 +232,6 @@
     "Engineering Year 2/Space Systems/Payloads/Payload Basics.md",
     "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Space Systems/Payloads",
-    "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Mass Flow Rate.md",
@@ -248,7 +250,6 @@
     "Engineering Year 2/Dynamics and Control of Linear Systems",
     "Engineering Year 2/AVDASI 2",
     "Engineering Year 2/Structures & Materials",
-    "Engineering Year 2/Space Systems",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
