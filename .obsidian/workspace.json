@@ -56,11 +56,14 @@
             "id": "cfc8aa2e52436517",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+                "viewState": {
+                  "x": 121.77102676555856,
+                  "y": 3039.952534152008,
+                  "zoom": -0.8948578629441198
+                }
               }
             }
           }
@@ -130,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md"
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas"
               }
             }
           },
@@ -199,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,11 +250,11 @@
   },
   "active": "cfc8aa2e52436517",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Why do we need Systems Engineering.md",
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Why do we need Systems Engineering.md",
     "Images & Attachments/Pasted image 20240917143258.png",
     "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
@@ -289,7 +292,6 @@
     "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Space Systems/Payloads",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
-    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Mass Flow Rate.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering",
     "Engineering Year 2/Aerodynamics",
