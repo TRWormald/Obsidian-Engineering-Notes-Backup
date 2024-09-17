@@ -39,3 +39,8 @@ There are several different types of resolution:
 **Spectral Resolution** describes the ability of a sensor to define fine wavelength intervals and is measured in metres. The finer the spectral resolution, the narrower the wavelength range for a particular channel or band.
 **Radiometric Resolution** of an imaging system describes its ability to discriminate very slight differences in energy and is measured in bits. The finer the radiometric resolution of a sensor, the more sensitive it is to detecting small differences in reflected or emitted energy.
 **Temporal Resolution** of a sensor is the revisit frequency (the time it takes to return to the same view of Earth) and is measured in units of time.
+##### Resolution Calculations
+###### Spatial or Ground Resolution
+The spatial resolution is the size of the pixel on the ground 's' or ground resolution. $\theta$ is the required angle, $d$ is the range, and $s$ is the size of the object or 'ground resolution element'.
+![[Pasted image 20240917154359.png|centre]]
+$$s=d\sin\theta \approx d\cdot\theta~~~~~(\text{Due to the SAA.})\\ $$ 
