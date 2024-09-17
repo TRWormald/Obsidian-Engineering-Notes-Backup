@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"64db3ac6c9024833","x":-1100,"y":620,"width":2820,"height":1500,"type":"group","label":"Axes"},
+		{"id":"64db3ac6c9024833","x":-1100,"y":620,"width":2820,"height":1540,"type":"group","label":"Axes"},
 		{"id":"0c55663b1a1fbbc6","type":"text","text":"# Axis Definitions","x":-87,"y":640,"width":250,"height":101},
 		{"id":"c7ca0c49141018f6","type":"text","text":"There are several main types of axes that we need to consider when we are dealing with structures, all of which can be seen below:","x":-262,"y":809,"width":600,"height":111},
 		{"id":"a7fb37a0271e1cb0","type":"text","text":"# Centroid-Based Axes","x":-153,"y":1080,"width":383,"height":102},
@@ -35,8 +35,11 @@
 		{"id":"e280350de2a7c736","x":313,"y":40,"width":250,"height":155,"type":"text","text":"In our case however it is a measurement of how resistant a cross-section is to bending."},
 		{"id":"c4ad545636646d05","x":563,"y":-306,"width":557,"height":60,"type":"text","text":"# How to Calculate?"},
 		{"id":"06ff6fd48d82bd00","x":563,"y":-246,"width":557,"height":646,"type":"text","text":"The SMA is usually taken about the centroid of a section:\n$$I_{xx}=\\int_{A}y^{2}~dA$$\n$$I_{yy}=\\int_{A}x^{2}~dA$$\nIn addition to the two above - which we saw in Year 1, we now have:\n$$I_{xy}=\\int_{A}x~y~dA$$\nWhich is the Product Second Moment of Area. This is a measure of 'asymmetry' of the section with respect to axes $(x,y)$.\n**NOTE: If at least one plane of symmetry exists and if axes $x$ or $y$ are parallel to this axis of symmetry then $I_{xy}=0$.**\n\\\nA non-zero Product Second Moment of Area (PSMA) means that the structure has a bend-bend coupling behaviour, i.e. it will deflect sideways if loaded vertically and vice versa."},
-		{"id":"aefed425e094f294","x":1183,"y":-246,"width":517,"height":646,"type":"text","text":""},
-		{"id":"02bf10b224a03e88","x":1183,"y":-306,"width":517,"height":60,"type":"text","text":"# The Parallel Axis Theorem"}
+		{"id":"aefed425e094f294","x":1183,"y":-246,"width":517,"height":411,"type":"text","text":"When a section is composed of many elementary components we need to use the parallel axis theorem to calculate the second moment of area of the whole section. This is done by summing the component second moment of area's as seen below:\n$$I_{xx}=\\sum\\limits ^{n}_{i=1}I_{\\bar{x}_{i}\\bar{x}_{i}}+A_{i}\\cdot\\bar{y}_{i}^{2}$$\n$$I_{yy}=\\sum\\limits ^{n}_{i=1}I_{\\bar{y}_{i}\\bar{y}_{i}}+A_{i}\\cdot\\bar{x}_{i}^{2}$$\n$$I_{xy}=\\sum\\limits ^{n}_{i=1}I_{\\bar{x}_{i}\\bar{y}_{i}}+A_{i}\\cdot\\bar{x}_{i}\\bar{y}_{i}$$"},
+		{"id":"02bf10b224a03e88","x":1183,"y":-306,"width":517,"height":60,"type":"text","text":"# The Parallel Axis Theorem"},
+		{"id":"fcd6c25289ae0c57","x":1183,"y":165,"width":517,"height":202,"type":"file","file":"Images & Attachments/Pasted image 20240917143258.png"},
+		{"id":"a2cafff0ee53a287","x":1183,"y":367,"width":517,"height":93,"type":"text","text":"Above are some of the fundamental shapes with their second moments of area. "},
+		{"id":"9f737cc1fa9cf155","x":-99,"y":2613,"width":329,"height":107,"type":"text","text":"# Transformation of Axes"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
