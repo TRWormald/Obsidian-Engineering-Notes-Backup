@@ -34,6 +34,7 @@ When considering materials we are interested in their properties:
 Materials don't necessarily have the same properties - even if they are the same.
 Therefore we use 'knockdown factors' to move from the material mean characteristics to a design allowable:
 ![[Pasted image 20240917102657.png|centre|200]]
+![[Pasted image 20240917104744.png|centre|400]]
 ### Load Limits and Load Factors
 Ultimate design load - limit load x ultimate safety factor (1.5)
 Proof load - limit load x proof factor
