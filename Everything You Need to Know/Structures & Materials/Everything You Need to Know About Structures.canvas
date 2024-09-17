@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"64db3ac6c9024833","x":-1100,"y":620,"width":2820,"height":1500,"type":"group","label":"Axes"},
 		{"id":"782f2194b42d0b0b","type":"text","text":"# Structures","x":-87,"y":100,"width":250,"height":60},
 		{"id":"0c55663b1a1fbbc6","type":"text","text":"# Axis Definitions","x":-87,"y":640,"width":250,"height":101},
 		{"id":"c7ca0c49141018f6","type":"text","text":"There are several main types of axes that we need to consider when we are dealing with structures, all of which can be seen below:","x":-262,"y":809,"width":600,"height":111},
@@ -21,8 +22,9 @@
 		{"id":"d0616e2aed2c6c7b","x":320,"y":1340,"width":383,"height":271,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 161656.png"},
 		{"id":"d88286d852222d2b","x":320,"y":1611,"width":383,"height":489,"type":"text","text":"This axis is oriented in the $(x,y)$ plane and is rotated by an angle $\\theta_{L}$.\nNote that:\n- Shear loads are applied along the loading axis\n- Moments are applied about the loading axis\n\\\nMoment vectors can be operated on just like force vectors - *i.e.* resultant moments can be decomposed into orthogonal components and vice versa."},
 		{"id":"63eacbbdc9fdcd84","x":800,"y":1580,"width":383,"height":316,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 163857.png"},
-		{"id":"f984d00ea9a66c50","x":1240,"y":590,"width":460,"height":100,"type":"text","text":"# A Note on Rotation and Moments"},
-		{"id":"5b0c278fb2f4a111","x":1240,"y":691,"width":460,"height":299,"type":"text","text":"Rotations and moments are defined with respect to centroid-based axes ($x,y,z$) or global axes ($X,Y,Z$) by application of the **right hand rule** about each orthogonal axis.\nMoments are vectoral quantities represented by arrows with double arrowheads.\nTo find the positive direction of rotation, apply the RHR about each vector."}
+		{"id":"f984d00ea9a66c50","x":1240,"y":640,"width":460,"height":100,"type":"text","text":"# A Note on Rotation and Moments"},
+		{"id":"5b0c278fb2f4a111","x":1240,"y":741,"width":460,"height":299,"type":"text","text":"Rotations and moments are defined with respect to centroid-based axes ($x,y,z$) or global axes ($X,Y,Z$) by application of the **right hand rule** about each orthogonal axis.\nMoments are vectoral quantities represented by arrows with double arrowheads.\nTo find the positive direction of rotation, apply the RHR about each vector."},
+		{"id":"fb9a5bda8a8f4bb2","x":1240,"y":1043,"width":460,"height":319,"type":"file","file":"Images & Attachments/Pasted image 20240917130824.png"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
