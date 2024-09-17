@@ -29,7 +29,7 @@
 		{"id":"64f826c3c78153b2","x":207,"y":-1560,"width":627,"height":398,"type":"text","text":"# Cross-Sectional Area\nThe area of a cross-section can be written as an **area integral**.\n$$A=\\int_{A}dA$$\nFor compound cross sections we split the section into geometrical primitives indexed by the subscripts $i=1...n$ and write the integral as a summation:\n$$A=\\sum\\limits^{n}_{i=1}A_{i}$$"},
 		{"id":"412a8e18b54ff0ff","x":313,"y":-400,"width":1391,"height":94,"type":"text","text":"# The Second Moment of Area"},
 		{"id":"5635984210defdcd","x":1240,"y":-1840,"width":586,"height":678,"type":"text","text":"# First Moments of Area\nThe first moment of area of a shape, about a certain axis, equals the sum over all the infinitesimal parts of the shape of the area of that part times its distance from the axis.\n**It is a measure of the spatial (area) distribution of a shape in relation to an axis.** \nThe first moments of area about an arbitrary coordinate system $(X,Y)$ are:\n$$Q_{XX}=\\int_{A}Y~dA$$\n$$Q_{YY}=\\int_{A}X~dA$$\nFor compound sections we again re-write these as summations:\n$$Q_{XX}=\\sum\\limits^{n}_{i=1}\\bar{Y}_{i}A_{i}$$\n$$Q_{YY}=\\sum\\limits^{n}_{i=1}\\bar{X}_{i}A_{i}$$\n"},
-		{"id":"864a421729486ce2","x":2040,"y":-1080,"width":760,"height":570,"type":"text","text":"# Finding the Centroid's Coordinates\n**By definition**:\n- An arbitrary axis $x$ crosses the centroid of the cross-section if $Q_{xx}=0$\n- An arbitrary axis $x$ crosses the centroid of the cross-section if $Q_{xx}=0$"}
+		{"id":"864a421729486ce2","x":1880,"y":-1117,"width":760,"height":540,"type":"text","text":"# Finding the Centroid's Coordinates\n**By definition**:\n- An arbitrary axis $x$ crosses the centroid of the cross-section if $Q_{xx}=0$\n- An arbitrary axis $y$ crosses the centroid of the cross-section if $Q_{yy}=0$\nTherefore, the coordinates of the centroid $(\\bar{X},\\bar{Y})$ of a section are given by:\n$$\\bar{X}=\\frac{Q_{YY}}{A}$$\n$$\\bar{Y}=\\frac{Q_{XX}}{A}$$\n**Once the centroid has been found, the centroid-based coordinate system becomes:**\n$$x=X-\\bar{X}~~~~~~~~~~~~y=Y-\\bar{Y}$$\n**From this point onwards all calculations must be done based on $(x,y)$**"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -44,6 +44,7 @@
 		{"id":"79487765333fff42","fromNode":"d1867fd672d74353","fromSide":"top","toNode":"64f826c3c78153b2","toSide":"bottom"},
 		{"id":"7a9863a00fa90f16","fromNode":"d1867fd672d74353","fromSide":"top","toNode":"5635984210defdcd","toSide":"bottom"},
 		{"id":"d2220d4a260a44f1","fromNode":"d1867fd672d74353","fromSide":"right","toNode":"864a421729486ce2","toSide":"left"},
-		{"id":"85a3c7c5d6b5c454","fromNode":"d1867fd672d74353","fromSide":"bottom","toNode":"412a8e18b54ff0ff","toSide":"top"}
+		{"id":"85a3c7c5d6b5c454","fromNode":"d1867fd672d74353","fromSide":"bottom","toNode":"412a8e18b54ff0ff","toSide":"top"},
+		{"id":"cbd33a6923de7fad","fromNode":"5635984210defdcd","fromSide":"right","toNode":"864a421729486ce2","toSide":"top","color":"1"}
 	]
 }

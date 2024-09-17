@@ -6,6 +6,7 @@
       {
         "id": "1dcbe2ebedab214a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "210de20fd2c9a3f6",
@@ -61,6 +62,7 @@
       {
         "id": "910926d54c557556",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "cfc8aa2e52436517",
@@ -70,9 +72,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 2440.344068558828,
-                  "y": -1009.3353893787307,
-                  "zoom": -0.45753680263547303
+                  "x": 1263.3712966229352,
+                  "y": -295.4826856098143,
+                  "zoom": -1.6345251782735195
                 }
               }
             }
