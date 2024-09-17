@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcbe2ebedab214a",
+        "id": "d165b56d01ad17d0",
         "type": "tabs",
         "children": [
           {
-            "id": "d20f0461bf7b6f68",
+            "id": "56218561a61d2959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d20f0461bf7b6f68",
+  "active": "56218561a61d2959",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Payloads/Payload Basics.md",
     "Engineering Year 2/Space Systems/Payloads/Instrument Performance Characteristics.md",
+    "Engineering Year 2/Space Systems/Payloads/Payload Basics.md",
     "Images & Attachments/Pasted image 20240917154359.png",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
