@@ -43,4 +43,9 @@ There are several different types of resolution:
 ###### Spatial or Ground Resolution
 The spatial resolution is the size of the pixel on the ground 's' or ground resolution. $\theta$ is the required angle, $d$ is the range, and $s$ is the size of the object or 'ground resolution element'.
 ![[Pasted image 20240917154359.png|centre]]
-$$s=d\sin\theta \approx d\cdot\theta~~~~~(\text{Due to the SAA.})\\ $$ 
+$$s=d\sin\theta \approx d\cdot\theta~~~~~(\text{Due to the SAA.})$$
+###### Angular Resolution
+It is important not to confuse angular and spatial resolution. Spatial is measured at the target, whereas angular is measured at the lens.
+Rayleigh's Criterion gives is angular resolution $\theta$ in radians:
+$$\theta = \frac{1.22\lambda}{D}$$
+Where $D$ is the diameter of the lens (or 'aperture') whilst $\lambda$ is the wavelength.
