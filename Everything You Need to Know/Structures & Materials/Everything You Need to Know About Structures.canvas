@@ -4,20 +4,25 @@
 		{"id":"0c55663b1a1fbbc6","type":"text","text":"# Axis Definitions","x":-87,"y":640,"width":250,"height":101},
 		{"id":"c7ca0c49141018f6","type":"text","text":"There are several main types of axes that we need to consider when we are dealing with structures, all of which can be seen below:","x":-262,"y":809,"width":600,"height":111},
 		{"id":"a7fb37a0271e1cb0","type":"text","text":"# Centroid-Based Axes","x":-153,"y":1080,"width":383,"height":102},
-		{"id":"8c09b221aee15e2a","type":"text","text":"","x":-153,"y":1182,"width":383,"height":246},
+		{"id":"8c09b221aee15e2a","type":"text","text":"We use the lowercase roman letters $(x,y,z)$ to describe this local coordinate system. \nIt is defined with the origin **at the centroid** of the cross section, but parallel to the Global CS.","x":-153,"y":1182,"width":383,"height":246},
 		{"id":"d66ff5e6f1919743","type":"text","text":"# Global Axes","x":-1080,"y":1080,"width":383,"height":102},
 		{"id":"c9e2fdb0f52b4d22","x":-1080,"y":1182,"width":383,"height":246,"type":"text","text":"We use the uppercase roman letters $(X,Y,Z)$ to describe the **global coordinate system** (sometimes known as the Global CS or the structural coordinate system).\nThe orientation and origin of the Global CS are somewhat arbitrary."},
 		{"id":"7f003d63f12530e6","type":"text","text":"# Principal Axes","x":-600,"y":1080,"width":383,"height":102},
 		{"id":"87f63c800cdc8eae","type":"text","text":"We use the indicies $(1,2)$ to indicate the **principal axes**, i.e. the axes about which the [[Second Moment of Area]] is maximum or minimum.\nThe principal axes are rotated by an angle $\\theta_{P}$ to the **centroidal axes** and:\n- Have their origin at the centroid of the section.\n- Coincide with any axes of symmetry that the section may have","x":-600,"y":1182,"width":383,"height":389},
-		{"id":"ab55d0dace16553f","type":"text","text":"","x":320,"y":1182,"width":383,"height":60},
-		{"id":"873051e0e1ff2da4","type":"text","text":"# Loading Axes","x":320,"y":1080,"width":383,"height":102},
+		{"id":"ab55d0dace16553f","type":"text","text":"Loads will not always occur along the principal axes, and therefore we will be considering loads along or about an arbitrary loading axis.","x":320,"y":1182,"width":383,"height":158},
+		{"id":"873051e0e1ff2da4","type":"text","text":"# Loading Axis","x":320,"y":1080,"width":383,"height":102},
 		{"id":"bfe66b564101a2e7","type":"text","text":"# Neutral Axis","x":800,"y":1080,"width":383,"height":102},
-		{"id":"6aebf670e33ab74e","type":"text","text":"","x":800,"y":1182,"width":383,"height":60},
+		{"id":"6aebf670e33ab74e","type":"text","text":"We define the **neutral axis** as the axis along which the bending stresses are **zero** (and change sign above/below the axis). \nIt is rotated by an angle $\\alpha$ with respect to the **centroid-based** coordinate system $(x,y)$.\nThe orientation of the neutral axis depends on a combination of geometry **and** loading conditions, and therefore is not an intrinsic property of the cross-section.","x":800,"y":1182,"width":383,"height":398},
 		{"id":"ab8da6b1b60e18df","x":-1080,"y":1428,"width":383,"height":285,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 160707.png"},
 		{"id":"e841a80de1ac0044","x":-1080,"y":1713,"width":383,"height":146,"type":"text","text":"In the example above we have made the $Z$ the longitudinal (spanwise) direction, so that any cross-sectional plane will be parallel to the $XY$ plane."},
 		{"id":"f6763fb29e97dee4","x":-600,"y":1571,"width":383,"height":262,"type":"file","file":"Images & Attachments/Pasted image 20240917125648.png"},
 		{"id":"c0abdcd56e493cbc","x":-600,"y":1833,"width":383,"height":104,"type":"text","text":"*Note that we are using the Right Hand Rule and therefore counter clockwise (CCW) is positive.*"},
-		{"id":"841c4e959ea43fb4","x":-153,"y":1571,"width":383,"height":202,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 161101.png"}
+		{"id":"841c4e959ea43fb4","x":-153,"y":1428,"width":383,"height":202,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 161101.png"},
+		{"id":"d0616e2aed2c6c7b","x":320,"y":1340,"width":383,"height":271,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 161656.png"},
+		{"id":"d88286d852222d2b","x":320,"y":1611,"width":383,"height":489,"type":"text","text":"This axis is oriented in the $(x,y)$ plane and is rotated by an angle $\\theta_{L}$.\nNote that:\n- Shear loads are applied along the loading axis\n- Moments are applied about the loading axis\n\\\nMoment vectors can be operated on just like force vectors - *i.e.* resultant moments can be decomposed into orthogonal components and vice versa."},
+		{"id":"63eacbbdc9fdcd84","x":800,"y":1580,"width":383,"height":316,"type":"file","file":"Images & Attachments/Screenshot 2024-09-16 163857.png"},
+		{"id":"f984d00ea9a66c50","x":1240,"y":590,"width":460,"height":100,"type":"text","text":"# A Note on Rotation and Moments"},
+		{"id":"5b0c278fb2f4a111","x":1240,"y":691,"width":460,"height":299,"type":"text","text":"Rotations and moments are defined with respect to centroid-based axes ($x,y,z$) or global axes ($X,Y,Z$) by application of the **right hand rule** about each orthogonal axis.\nMoments are vectoral quantities represented by arrows with double arrowheads.\nTo find the positive direction of rotation, apply the RHR about each vector."}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -26,6 +31,7 @@
 		{"id":"46b86662dd9f879b","fromNode":"c7ca0c49141018f6","fromSide":"left","toNode":"d66ff5e6f1919743","toSide":"top"},
 		{"id":"76af275ac9f93ffd","fromNode":"c7ca0c49141018f6","fromSide":"bottom","toNode":"a7fb37a0271e1cb0","toSide":"top"},
 		{"id":"97bc07d07b9f8fa0","fromNode":"782f2194b42d0b0b","fromSide":"bottom","toNode":"0c55663b1a1fbbc6","toSide":"top"},
-		{"id":"e4fc36c5bdcae065","fromNode":"c7ca0c49141018f6","fromSide":"right","toNode":"bfe66b564101a2e7","toSide":"top"}
+		{"id":"e4fc36c5bdcae065","fromNode":"c7ca0c49141018f6","fromSide":"right","toNode":"bfe66b564101a2e7","toSide":"top"},
+		{"id":"36edd98947e6ea79","fromNode":"0c55663b1a1fbbc6","fromSide":"right","toNode":"f984d00ea9a66c50","toSide":"left"}
 	]
 }
