@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
+                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
+                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
+                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md"
+                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
+                "file": "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,14 +202,16 @@
   },
   "active": "210de20fd2c9a3f6",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
+    "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
     "Images & Attachments/Pasted image 20240917104744.png",
     "Images & Attachments/Screenshot 2024-09-17 103855.png",
     "Images & Attachments/Pasted image 20240917102657.png",
     "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
-    "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
     "Engineering Year 2/AVDASI 2/Structures",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
-    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
@@ -221,9 +223,7 @@
     "Images & Attachments/Pasted image 20240916203401.png",
     "Images & Attachments/Pasted image 20240916201920.png",
     "Images & Attachments/Pasted image 20240916195820.png",
-    "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
     "Everything You Need to Know/Structures & Materials",
-    "Images & Attachments/Screenshot 2024-09-16 163857.png",
     "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Young's Modulus.md",
     "Second Moment of Area.md",
@@ -249,7 +249,6 @@
     "Engineering Year 2/Aerodynamics",
     "Engineering Year 2/Dynamics and Control of Linear Systems",
     "Engineering Year 2/AVDASI 2",
-    "Engineering Year 2/Structures & Materials",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
