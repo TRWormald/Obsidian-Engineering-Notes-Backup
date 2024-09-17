@@ -39,7 +39,11 @@
 		{"id":"02bf10b224a03e88","x":1183,"y":-306,"width":517,"height":60,"type":"text","text":"# The Parallel Axis Theorem"},
 		{"id":"fcd6c25289ae0c57","x":1183,"y":165,"width":517,"height":202,"type":"file","file":"Images & Attachments/Pasted image 20240917143258.png"},
 		{"id":"a2cafff0ee53a287","x":1183,"y":367,"width":517,"height":93,"type":"text","text":"Above are some of the fundamental shapes with their second moments of area. "},
-		{"id":"9f737cc1fa9cf155","x":-99,"y":2613,"width":329,"height":107,"type":"text","text":"# Transformation of Axes"}
+		{"id":"9f737cc1fa9cf155","x":-126,"y":2360,"width":329,"height":107,"type":"text","text":"# Transformation of Axes"},
+		{"id":"b644472a34274eef","x":-822,"y":2600,"width":502,"height":80,"type":"text","text":"# The Basics"},
+		{"id":"d3509bfea80f3686","x":-821,"y":2680,"width":501,"height":420,"type":"text","text":"**2D orthogonal coordinates ($x,y$) can be rotated (transformed) by any angle $\\beta$ through:**\n$$\\begin{bmatrix}x'\\\\y'\\end{bmatrix}=\\begin{bmatrix}m&n\\\\-n&m\\end{bmatrix}\\begin{bmatrix}x\\\\y\\end{bmatrix}$$\nWhere:\n$$m=\\cos\\beta$$\n$$n=\\sin\\beta $$Resulting in transformed coordinates:\n$$x'=mx+ny$$\n$$y'=-nx+my$$"},
+		{"id":"57f3c70aaf6ce1f3","x":-822,"y":3100,"width":502,"height":409,"type":"file","file":"Images & Attachments/Pasted image 20240916195820.png"},
+		{"id":"eeae8752cd4b6edd","x":-822,"y":3509,"width":502,"height":70,"type":"text","text":"The diagram above shows a rotation by angle $\\theta$ of arbitrary axes $(x,y)$"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -57,6 +61,7 @@
 		{"id":"85a3c7c5d6b5c454","fromNode":"d1867fd672d74353","fromSide":"bottom","toNode":"412a8e18b54ff0ff","toSide":"top"},
 		{"id":"cbd33a6923de7fad","fromNode":"5635984210defdcd","fromSide":"right","toNode":"864a421729486ce2","toSide":"top","color":"1"},
 		{"id":"7ee0f4eeee936219","fromNode":"b44eef7a9710cbf2","fromSide":"bottom","toNode":"e280350de2a7c736","toSide":"top"},
-		{"id":"e9265c2ae983fb9a","fromNode":"06ff6fd48d82bd00","fromSide":"right","toNode":"aefed425e094f294","toSide":"left"}
+		{"id":"e9265c2ae983fb9a","fromNode":"06ff6fd48d82bd00","fromSide":"right","toNode":"aefed425e094f294","toSide":"left"},
+		{"id":"8fae7ed03804c4f6","fromNode":"9f737cc1fa9cf155","fromSide":"left","toNode":"b644472a34274eef","toSide":"top"}
 	]
 }

@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "deffd2a686a363f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f42dcb12fd95294c",
             "type": "leaf",
             "state": {
@@ -57,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "910926d54c557556",
@@ -68,14 +56,11 @@
             "id": "cfc8aa2e52436517",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-                "viewState": {
-                  "x": 452.8661300188992,
-                  "y": 2210.460923923372,
-                  "zoom": -1.6859258446252852
-                }
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -145,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas"
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md"
               }
             }
           },
@@ -214,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,9 +247,13 @@
   },
   "active": "cfc8aa2e52436517",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Why do we need Systems Engineering.md",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
     "Images & Attachments/Pasted image 20240917143258.png",
     "Engineering Year 2/Structures & Materials/Cross-Section Properties.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
     "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
     "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
@@ -278,7 +267,6 @@
     "Images & Attachments/Pasted image 20240917130824.png",
     "Images & Attachments/Pasted image 20240917125648.png",
     "Images & Attachments/Screenshot 2024-09-16 160707.png",
-    "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
     "Images & Attachments/Pasted image 20240917123317.png",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
@@ -291,7 +279,6 @@
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Images & Attachments/Pasted image 20240916223856.png",
     "Images & Attachments/Screenshot 2024-09-16 222821.png",
-    "Images & Attachments/Pasted image 20240916220316.png",
     "Everything You Need to Know/Structures & Materials",
     "Young's Modulus.md",
     "Second Moment of Area.md",
@@ -301,10 +288,8 @@
     "Engineering Year 2/Space Systems/Payloads/Payload Basics.md",
     "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Space Systems/Payloads",
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Mass Flow Rate.md",
-    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Pressure.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering",
     "Engineering Year 2/Aerodynamics",
