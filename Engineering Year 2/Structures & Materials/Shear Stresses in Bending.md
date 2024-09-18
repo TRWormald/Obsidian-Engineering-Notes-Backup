@@ -52,7 +52,7 @@ Take the below image as an example of a slender structure of solid cross section
 We want to find the shear stress at a certain point in the beam:
 ![[Pasted image 20240918211535.png|centre|200]]
 We want to find the shear stress at a height $y_{1}$ above the neutral axis.
-The shear force acting over the exposed area (at the height of $y_1$) is:
-$$S_{1}=\tau_{1}\cdot b_{1}\cdot dz$$
-However, translational equilibrium along $z$ requires the shear force $S_{1}$ to be equal to the difference between internal forces acting at $z$ and $z+dz$, so:
-$$S_{1}=^{z+dz}F_z-^{z}$$
+![[Pasted image 20240918212816.png|centre|300]]
+This is a side view of the beam, it is much clearer to see what forces are balancing each other out in this instance.
+The beam is in equilibrium so the horizontal forces acting on it must be equal, therefore:
+$$(\tau+d\tau-\tau)b\cdot dz=$$
