@@ -11,11 +11,9 @@
             "id": "56218561a61d2959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
+                "file": "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
+                "file": "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md"
+                "file": "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf"
               }
             }
           },
@@ -154,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
+                "file": "Engineering Year 2/AVDASI 2/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,9 +200,10 @@
   },
   "active": "56218561a61d2959",
   "lastOpenFiles": [
+    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
+    "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Images & Attachments/Pasted image 20240917181424.png",
     "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
-    "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Images & Attachments/Parts-of-an-Ellipse.jpg",
     "Images & Attachments/Pasted image 20240917174909.png",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
@@ -238,10 +237,8 @@
     "Images & Attachments/Pasted image 20240917123317.png",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
-    "Images & Attachments/Pasted image 20240917104744.png",
     "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
     "Engineering Year 2/AVDASI 2/Structures",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Everything You Need to Know/Structures & Materials",
     "Young's Modulus.md",
     "Second Moment of Area.md",
