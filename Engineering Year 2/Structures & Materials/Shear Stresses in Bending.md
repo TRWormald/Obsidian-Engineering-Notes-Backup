@@ -27,3 +27,23 @@ This is a material property, just like [[Young's Modulus]] or Poisson's Ratio.
 In fact, for isotropic materials these three properties obey a very simple relationship:
 $$G=\frac{E}{2(1+v)}$$
 #### Complementary Shear Stresses
+For equilibrium complementary shear stresses must exist to balance translational and rotational tendencies:
+![[Pasted image 20240918205114.png|centre]]
+![[Pasted image 20240918205158.png]]
+**This means that all four complementary shear stresses are equal in magnitude!!!**
+#### Shear Forces in Beams
+The most important thing to remember about shear forces in beams is that:
+*'The shear force distribution is the derivative of the bending moment distribution'*
+![[Pasted image 20240918205929.png|centre|300]]
+### Shear Stresses Nomenclature
+When talking about shear stresses we will from now on include two subscripts:
+- The first indicates the normal to the plane being considered
+- The second indicates the direction of the tangential force.
+![[Pasted image 20240918205349.png|centre]]
+In the example above the uppermost shear stress takes the form:
+$$\tau_{yz}$$
+This indicates the fact that the stress is normal to the $y$ plane and in the direction of $z$.
+If the stress was instead:
+$$\tau_{yx}$$
+The arrow would be pointing out of the page.
+
