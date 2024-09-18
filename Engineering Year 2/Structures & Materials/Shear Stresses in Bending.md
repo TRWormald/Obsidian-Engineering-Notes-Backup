@@ -47,5 +47,12 @@ If the stress was instead:
 $$\tau_{yx}$$
 The arrow would be pointing out of the page.
 ### Shear Stresses in Bending
-Take the below image as an example of a slender structure of solid cross section subjected to downward shear force $S$ along a principal axis (i.e. intersecting with a line of symmetry/maximum or).
+Take the below image as an example of a slender structure of solid cross section subjected to downward shear force $S$ along a principal axis (i.e. intersecting with a line of symmetry/maximum or minimum SMA).
 ![[Pasted image 20240918210259.png|centre]]
+We want to find the shear stress at a certain point in the beam:
+![[Pasted image 20240918211535.png|centre|200]]
+We want to find the shear stress at a height $y_{1}$ above the neutral axis.
+The shear force acting over the exposed area (at the height of $y_1$) is:
+$$S_{1}=\tau_{1}\cdot b_{1}\cdot dz$$
+However, translational equilibrium along $z$ requires the shear force $S_{1}$ to be equal to the difference between internal forces acting at $z$ and $z+dz$, so:
+$$S_{1}=^{z+dz}F_z-^{z}$$
