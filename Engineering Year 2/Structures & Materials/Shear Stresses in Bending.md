@@ -54,5 +54,18 @@ We want to find the shear stress at a certain point in the beam:
 We want to find the shear stress at a height $y_{1}$ above the neutral axis.
 ![[Pasted image 20240918212816.png|centre|300]]
 This is a side view of the beam, it is much clearer to see what forces are balancing each other out in this instance.
-The beam is in equilibrium so the horizontal forces acting on it must be equal, therefore:
-$$(\tau+d\tau-\tau)b\cdot dz=$$
+The beam is in equilibrium so the horizontal forces acting on it must sum to zero, therefore:
+$$(\tau+d\tau-\tau)(b\cdot dz)+(\sigma+d\sigma-\sigma)(b\cdot dy)=0$$
+In other terms:
+$$d\tau(b\cdot dz)=-d\sigma(b\cdot dy)$$
+**The total shear force at layer $y_{1}$ is the 'accumulation' of horizontal forces $d\sigma (b\cdot dy)$ above $y_{1}$, hence:**
+$$\tau_{1}(b_{1}\cdot dz)=\int_{y_{1}}^{h}(d\sigma\cdot b)~dy$$
+*Note that at the free surface ($y=h$ we must have $\tau_{1}=0$*.
+By rearranging and substituting we can get:
+$$\boxed{\tau_{1}=\frac{S}{Ib_{1}}\int_{y_{1}}^{h}y\cdot dA}$$
+**Note that the integral is the same as the first moment of area, hence:**
+$$\boxed{\tau_{1}=\frac{S}{Ib_{1}}Q_{x_{1}x_{1}}}$$
+#### Shear Stresses in a Rectangular Cross-Section
+For a rectangular cross-section we can calculate the first moment of area to be equal to:
+$$Q_{x_{1}x_{1}}=\frac{b}{2}(h^{2}-y_{1}^{2})$$
+Substituting this into our equation for she
