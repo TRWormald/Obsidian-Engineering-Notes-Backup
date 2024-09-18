@@ -46,4 +46,6 @@ This indicates the fact that the stress is normal to the $y$ plane and in the di
 If the stress was instead:
 $$\tau_{yx}$$
 The arrow would be pointing out of the page.
-
+### Shear Stresses in Bending
+Take the below image as an example of a slender structure of solid cross section subjected to downward shear force $S$ along a principal axis (i.e. intersecting with a line of symmetry/maximum or).
+![[Pasted image 20240918210259.png|centre]]
