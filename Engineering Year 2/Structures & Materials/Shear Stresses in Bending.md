@@ -7,6 +7,23 @@ This can be seen in the I-beam above, where the flanges have deformed differentl
 #### Shear Stress Definition
 The shear stress $\tau$ is a measure of 'tangential force per unit area'. It arises when we apply a 'sliding force' to the surface:
 ![[Pasted image 20240918203901.png|centre]]
-It is a field property, which means that it can vary continuously within a body and can be considered at a point.
+It is a field property (like direct stress $\sigma$), which means that it can vary continuously within a body and can be considered at a point.
 $$\tau=\lim_{\delta A\rightarrow0}\frac{\delta S}{\delta A}$$
-
+We use the same units as with direct stress:
+$$1~\text{Pa}=1\frac{\text{N}}{\text{m}^2}=10^{-6}\text{MPa}=10^{-6}\frac{\text{N}}{\text{mm}^2}$$
+#### Shear Strain Definition
+Shear strain $\gamma$ is the angular rotation in radians (non-dimensional).
+There are two primary cases, pure shear and simple shear:
+![[Pasted image 20240918204613.png|centre]]
+Element 'edges' (or 'shear planes') don't change length - but simply translate or rotate.
+However element 'diagonals' do change length:
+![[Pasted image 20240918204705.png|centre|300]]
+#### Shear Modulus
+For linear elastic behaviour shear stress is proportional to shear strain:
+$$\tau=G\gamma$$
+![[Pasted image 20240918204901.png|centre|300]]
+Where the constant of proportionality $G$ is the shear modulus.
+This is a material property, just like [[Young's Modulus]] or Poisson's Ratio.
+In fact, for isotropic materials these three properties obey a very simple relationship:
+$$G=\frac{E}{2(1+v)}$$
+#### Complementary Shear Stresses
