@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Loads (.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Loads (.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Loads (.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md"
+                "file": "Engineering Year 2/AVDASI 2/Structures/Loads (.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/Loads (.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,8 +202,10 @@
   },
   "active": "56218561a61d2959",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
+    "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
+    "Engineering Year 2/AVDASI 2/Structures/Loads (.md",
     "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
+    "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20240918214201.png",
     "Untitled.md",
     "Images & Attachments/Pasted image 20240918212816.png",
@@ -244,8 +246,6 @@
     "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
-    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
-    "Engineering Year 1/Structures/Members in Compression/Buckling of Columns and Struts.md",
     "Engineering Year 2/AVDASI 2/Structures",
     "Everything You Need to Know/Structures & Materials",
     "Engineering Year 2/Space Systems/Payloads",
