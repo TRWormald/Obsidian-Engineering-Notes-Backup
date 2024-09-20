@@ -69,7 +69,7 @@ $$\boxed{\tau_{1}=\frac{S}{Ib_{1}}Q_{x_{1}x_{1}}}$$
 For a rectangular cross-section we can calculate the first moment of area to be equal to:
 $$Q_{x_{1}x_{1}}=\frac{b}{2}(h^{2}-y_{1}^{2})$$
 Substituting this into our equation for shear stress we get:
-$$\tau_{1}=\frac{S}{2I_{xx}}(h^{2}-y_{1}^{2})$$
+$${\boxed{\tau_{1}=\frac{S}{2I_{xx}}(h^{2}-y_{1}^{2})}}$$
 Resulting in the following shear stress distribution:
 ![[Pasted image 20240918214201.png|centre|300]]
 Note how the shear stress is greatest at the neutral axis and zero at distance $h$ from it.
