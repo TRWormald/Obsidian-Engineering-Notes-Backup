@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
+                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
+                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
+                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md"
+                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
+                "file": "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,9 +202,9 @@
   },
   "active": "56715c6bab62af2f",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
     "Engineering Year 1/Structures/Young's Modulus.md",
     "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
-    "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Structures & Materials/Transformation of Axes and of Section Properties.md",
