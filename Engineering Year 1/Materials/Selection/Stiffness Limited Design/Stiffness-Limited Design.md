@@ -17,4 +17,4 @@ We can describe this via a *shape factor*:
 $$\Phi^{e}_{B}=\frac{I}{I_{square}}=\frac{12I}{A^{2}}$$
 Where $I_{square}$ is the second moment of area of a solid square beam of the same area as the shaped beam. The superscript on the $\Phi$ denotes elastic and the subscript denotes bending.
 As a result we can represent the fact that we are using a tube or I-beam by multiplying the young's modulus by the shape factor.
-Note that if we have $E^\frac{1}{2}$ in an equation and we apply a shape factor, we end up with $(\Phi E)^\frac{1}{2}$ as the shape factor is a component of the young's modulus.
+Note that if we have $E^\frac{1}{2}$ in an equation and we apply a shape factor, we end up with $(\Phi E)^\frac{1}{2}$ as the shape factor is a component of the [[Young's Modulus]].

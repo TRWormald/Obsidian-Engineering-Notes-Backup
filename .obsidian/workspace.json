@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Structures/Young's Modulus.md",
+                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Second Moment ",
+                "query": "modulus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 1/Structures/Young's Modulus.md",
+                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 1/Structures/Young's Modulus.md",
+                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 1/Structures/Young's Modulus.md"
+                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 1/Structures/Young's Modulus.md",
+                "file": "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +178,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.003703433106387,
+                  "scale": 0.9855606116808774,
                   "close": true
                 }
               }
@@ -202,6 +203,8 @@
   },
   "active": "56715c6bab62af2f",
   "lastOpenFiles": [
+    "Engineering Year 1/Structures/Young's Modulus.md",
+    "Engineering Year 1/Materials/Selection/Stiffness Limited Design/Stiffness-Limited Design.md",
     "Engineering Year 2/Structures & Materials/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Integration of Thin-Walled Open Sections.md",
@@ -226,7 +229,6 @@
     "Engineering Year 2/Structures & Materials/Mohr's Circle.md",
     "Engineering Year 1/Structures/Second Moment of Area.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
-    "Engineering Year 1/Structures/Young's Modulus.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron",
     "Engineering Year 2/AVDASI 2/Introduction to AVDASI-2.md",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
