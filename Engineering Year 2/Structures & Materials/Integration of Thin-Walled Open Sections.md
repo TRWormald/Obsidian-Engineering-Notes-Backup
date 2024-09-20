@@ -29,6 +29,43 @@ Arcs of Radius R are integrated in terms of the angle $\phi$ instead and:
 $$\boxed{ds=R~d\phi}$$
 Hence:
 $$\boxed{\underbrace{A=\int_{s}t_{(s)}~ds}_{\text{For Lines}}~~~~~~~~~~~~~~~~~\underbrace{A=\int_{\phi}t_{(\phi)}(R~d\phi)}_{\text{For Arcs}}}$$
-From this we can generate the first and second moments of area equations, along wi:
+From this we can generate the first moments of area calculations, along with the centroid-based coordinates, and the second moments of area equations:
 
+**First Moments of Area:**
+For lines we get:
+$$\begin{align*}
+Q_{XX}&= \int_{s}Y_{(s)}t_{(s)}~ds\\
+Q_{YY}&= \int_{s}X_{(s)}t_{(s)}~ds
+\end{align*}$$
+While for arcs:
+$$\begin{align*}
+Q_{XX}&= \int_{\phi}Y_{(\phi)}t_{(\phi)}~(R~d\phi)\\
+Q_{YY}&= \int_{\phi}X_{(\phi)}t_{(\phi)}~(R~d\phi)
+\end{align*}$$
+**Centroid-based Coordinates:**
+As before we know that:
+$$\bar{X}=\frac{Q_{YY}}{A} ~~~~~~~~\text{and}~~~~~~~~\bar{Y}=\frac{Q_{XX}}{A}$$
+Then, for lines:
+$$\begin{align*}
+x_{(s)}&= X_{(s)}-\bar{X}\\
+y_{(s)}&=Y_{(s)}-\bar{Y} 
+\end{align*}$$
+And for arcs:
+$$\begin{align*}
+x_{(\phi)}&= X_{(\phi)}-\bar{X}\\
+y_{(\phi)}&=Y_{(\phi)}-\bar{Y} 
+\end{align*}$$
+**Second Moments of Area**
+Simply, for lines:
+$$I_{xx}=\int_{s} {y_{(s)}}^{2}~t_{(s)}~ds$$
 
+$$I_{yy}=\int_{s} {x_{(s)}}^{2}~t_{(s)}~ds$$
+
+$$I_{xx}=\int_{s} x_{(s)}~y_{(s)}~t_{(s)}~ds$$
+And for arcs:
+
+$$I_{xx}=\int_{\phi} {y_{(\phi)}}^{2}~t_{(\phi)}~(R~d\phi)$$
+
+$$I_{yy}=\int_{\phi} {x_{(\phi)}}^{2}~t_{(\phi)}~ds$$
+
+$$I_{xx}=\int_{\phi} x_{(\phi)}~y_{(\phi)}~t_{(\phi)}~ds$$
