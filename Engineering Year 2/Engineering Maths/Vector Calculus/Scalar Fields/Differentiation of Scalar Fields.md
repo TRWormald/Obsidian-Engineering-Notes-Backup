@@ -13,3 +13,14 @@ $$D_{a}\phi(\vec{p})=\frac{d\phi(\vec{r}(t))}{dt},~~~~~~~~\vec{r}(t)=\vec{p}+t\v
 Doing some algebra gives us:
 $$D_{a}\phi=\vec{\hat{a}}\cdot \text{grad }\phi$$
 Or in other words the gradient in the direction of $\vec{a}$ is equal to the dot product of the unit vector in that direction and $\text{grad }\phi$. 
+**This leads us to:**
+$$\vec{\nabla}=\frac{\partial}{\partial x}\vec{i}+\frac{\partial}{\partial y}\vec{j}+\frac{\partial}{\partial z}\vec{k}$$
+Where $\vec{\nabla}$ 'del' is the **vector differential operator**, and $\text{grad }\phi =\vec{\nabla} \phi$.
+
+### Applications of Gradient
+#### Equation for the tangent plane to a surface.
+Consider a scalar field $f(x,y,z)$, $\vec{\nabla} f$ is perpendicular to the level surfaces of that field so therefore if we can write a surface as $f(x,y,z)=c$ then the normal is:
+$$\vec{n}=\vec{\nabla}f$$
+So that the equation for the tangent plane at a point $P$ with position vector $\vec{r}=\vec{r}_{0}$ is:
+$$(\vec{r}-\vec{r}_{0})\cdot \vec{n}=0 \Rightarrow (\vec{r}-\vec{r}_{0})\cdot\vec{\nabla}f|_{\vec{r}=\vec{r}_{0}}=0$$
+#### Temperature and 
