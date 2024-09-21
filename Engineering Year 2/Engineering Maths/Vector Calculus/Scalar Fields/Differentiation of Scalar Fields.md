@@ -23,4 +23,13 @@ Consider a scalar field $f(x,y,z)$, $\vec{\nabla} f$ is perpendicular to the lev
 $$\vec{n}=\vec{\nabla}f$$
 So that the equation for the tangent plane at a point $P$ with position vector $\vec{r}=\vec{r}_{0}$ is:
 $$(\vec{r}-\vec{r}_{0})\cdot \vec{n}=0 \Rightarrow (\vec{r}-\vec{r}_{0})\cdot\vec{\nabla}f|_{\vec{r}=\vec{r}_{0}}=0$$
-#### Temperature and 
+#### Temperature and Pressure
+If $\phi$ is a temperature field, then heat flows in the direction $-\vec{\nabla}\phi$. Similarly, if $\phi$ is a pressure field, the wind blows in the direction $-\vec{\nabla}\phi$ in which pressure decreases the most.
+#### Force and Potential Energy
+We know from 1D that '$F=\frac{dV}{dx}$' where $V$ is a potential (the work associated with moving against a potential energy $-V$). How does this apply in more dimensions?
+$$\vec{F}=\text{grad }V$$
+i.e. force is in the direction of maximum increase in potential.
+This applies quite generally, e.g.
+- In elasticity and stress analysis where $V$ is the strain energy and $\vec{F}$ the corresponding stress
+- To electrostatic force $\vec{E}$ between two particles of charge $Q_{1}$ and $Q_{2}$ being the gradient of the electrostatic potential $f$ (measured in volts)
+- To gravitational force $\vec{F}$ where $V \propto 1/r$ is the gravitational potential.
