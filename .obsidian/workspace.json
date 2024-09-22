@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md"
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,8 +202,9 @@
   },
   "active": "56715c6bab62af2f",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
