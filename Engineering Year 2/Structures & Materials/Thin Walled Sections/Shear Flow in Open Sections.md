@@ -17,4 +17,11 @@ We will consider a small element of the thin wall (within the $z-s$ plane)
 ![[Pasted image 20240922130726.png]]
 Two stress components exist: $\sigma_{z}$ and $\tau_{sz}$.
 Balancing the forces in the $z$ direction we get:
-$$d\tau$$
+$$[(\tau+d\tau)-\tau]\cdot (t~dz)~+[(\sigma+d\sigma)-\sigma]\cdot(t~ds)=0$$
+$$\tau\cdot(t~dz)+d\sigma\cdot(t~ds)=0$$
+Therefore rearranging gives:
+$$t\frac{d\sigma}{dz}+t\frac{d\tau}{ds}=0$$
+We know that $\tau=\frac{q}{t}$, hence:
+$$\boxed{-\frac{dq}{ds}=\frac{d\sigma}{dz}t}$$
+Substituting in the $\sigma_{z}$ from [[Direct Bending Stresses#Combined Loading|combined loading]] and going through several stages of rearranging gives:
+$$q_{(s)}=q_{0}-\underbrace{(\frac{S_{x}I_{xx}-S_{y}I_{xy}}{I_{xx}I_{yy}-I_{xy}^{2}})}_{C_{x}}\int_{0}^{s}x_{(s)}t_{(s)}ds-\underbrace{(\frac{S_{y}I_{xx}-S_{y}I_{xy}}{I_{xx}I_{yy}-I_{xy}^{2}})}_{C_{x}}$$
