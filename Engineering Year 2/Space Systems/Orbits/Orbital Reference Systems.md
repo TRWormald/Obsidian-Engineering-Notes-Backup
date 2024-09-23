@@ -22,4 +22,7 @@ $X$ is in a reference direction such as the First Point of Aries, $Z$ is normal 
 - $\hat{z}$ = Normal to fundamental plane of the equator
 
 ### Topocentric Horizon
-The topocentric horizon system is used with telescopes and typically 
+The topocentric horizon system is used with telescopes and typically anything Earth-bound as it uses a system which is local to the observer on the Earth. Imagine that the observer is on the surface of the Earth, if they look straight above them in the sky they see the zenith, if they look at the horizon and then up, then that is the altitude and the direction they look (N/S/E/W) is the azimuth:
+![[Pasted image 20240923144004.png|centre|300]]
+
+
