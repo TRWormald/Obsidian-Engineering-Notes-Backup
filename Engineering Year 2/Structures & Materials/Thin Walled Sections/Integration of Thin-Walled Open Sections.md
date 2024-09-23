@@ -63,9 +63,8 @@ I_{yy}&= \int_{s} {x_{(s)}}^{2}~t_{(s)}~ds
 \\I_{xy}&= \int_{s} x_{(s)}~y_{(s)}~t_{(s)}~ds
 \end{align*}}$$
 And for arcs:
-
-$$I_{xx}=\int_{\phi} {y_{(\phi)}}^{2}~t_{(\phi)}~(R~d\phi)$$
-
-$$I_{yy}=\int_{\phi} {x_{(\phi)}}^{2}~t_{(\phi)}~(R~d\phi)$$
-
-$$I_{xx}=\int_{\phi} x_{(\phi)}~y_{(\phi)}~t_{(\phi)}~(R~d\phi)$$
+$$\boxed{\begin{align*}
+I_{xx}&= \int_{\phi} {y_{(\phi)}}^{2}~t_{(\phi)}~(R~d\phi)\\
+I_{yy}&= \int_{\phi} {x_{(\phi)}}^{2}~t_{(\phi)}~(R~d\phi)\\
+I_{xy}&= \int_{\phi} x_{(\phi)}~y_{(\phi)}~t_{(\phi)}~(R~d\phi)
+\end{align*}}$$
