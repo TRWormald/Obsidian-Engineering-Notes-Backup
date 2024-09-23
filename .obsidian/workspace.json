@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ded81bf7c6b7bb8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56715c6bab62af2f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf"
               }
             }
           }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md"
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md"
               }
             }
           },
@@ -170,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,12 +202,14 @@
   },
   "active": "7d8c69b382c3cf06",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
+    "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
+    "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Why do we need Systems Engineering.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
@@ -259,7 +245,6 @@
     "Images & Attachments/Pasted image 20240920105504.png",
     "Images & Attachments/Pasted image 20240920105202.png",
     "Engineering Year 2/AVDASI 2/Structures/Loads (Lift and Inertia).md",
-    "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
     "Images & Attachments/Pasted image 20240918214201.png",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron",
