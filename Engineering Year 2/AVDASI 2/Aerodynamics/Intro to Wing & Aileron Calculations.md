@@ -10,4 +10,9 @@ Design a wing to give:
 
 Noting that:
 $$C_{roll}=\frac{M_{roll}}{\frac{1}{2}\rho V^{2}S b}$$
-Which is the rolling moment coefficient
+Which is the rolling moment coefficient.
+### Restrictions
+- Wing planform is fixed, so all wings have the same reference area
+- Movable surface layout is fixed
+- Can select aerofoil and control angles (subject to a maximum thickness to allow manufacture, otherwise you cant fit your hands inside)
+
