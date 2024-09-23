@@ -57,11 +57,11 @@ y_{(\phi)}&=Y_{(\phi)}-\bar{Y}
 \end{align*}$$
 **Second Moments of Area**
 Simply, for lines:
-$$I_{xx}=\int_{s} {y_{(s)}}^{2}~t_{(s)}~ds$$
-
-$$I_{yy}=\int_{s} {x_{(s)}}^{2}~t_{(s)}~ds$$
-
-$$I_{xx}=\int_{s} x_{(s)}~y_{(s)}~t_{(s)}~ds$$
+$$\boxed{\begin{align*}
+I_{xx}&= \int_{s} {y_{(s)}}^{2}~t_{(s)}~ds\\
+I_{yy}&= \int_{s} {x_{(s)}}^{2}~t_{(s)}~ds
+\\I_{xy}&= \int_{s} x_{(s)}~y_{(s)}~t_{(s)}~ds
+\end{align*}}$$
 And for arcs:
 
 $$I_{xx}=\int_{\phi} {y_{(\phi)}}^{2}~t_{(\phi)}~(R~d\phi)$$
