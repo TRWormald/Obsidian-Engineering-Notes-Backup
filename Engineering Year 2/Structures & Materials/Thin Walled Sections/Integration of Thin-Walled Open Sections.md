@@ -33,15 +33,15 @@ From this we can generate the first moments of area calculations, along with the
 
 **First Moments of Area:**
 For lines we get:
-$$\begin{align*}
+$$\boxed{\begin{align*}
 Q_{XX}&= \int_{s}Y_{(s)}t_{(s)}~ds\\
 Q_{YY}&= \int_{s}X_{(s)}t_{(s)}~ds
-\end{align*}$$
+\end{align*}}$$
 While for arcs:
-$$\begin{align*}
+$$\boxed{\begin{align*}
 Q_{XX}&= \int_{\phi}Y_{(\phi)}t_{(\phi)}~(R~d\phi)\\
 Q_{YY}&= \int_{\phi}X_{(\phi)}t_{(\phi)}~(R~d\phi)
-\end{align*}$$
+\end{align*}}$$
 **Centroid-based Coordinates:**
 As before we know that:
 $$\bar{X}=\frac{Q_{YY}}{A} ~~~~~~~~\text{and}~~~~~~~~\bar{Y}=\frac{Q_{XX}}{A}$$
