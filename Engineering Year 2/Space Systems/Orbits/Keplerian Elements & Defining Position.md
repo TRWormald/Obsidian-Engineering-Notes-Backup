@@ -19,4 +19,19 @@ It is the angle measured from a reference plane to the plane of orbit of the sat
 Orbits with zero inclination are equatorial
 Orbits with 90 degrees of inclination are polar orbits
 
-**Ground **
+**Ground Tracks or Traces**
+Any inclined orbits will experience orbital progression, i.e. the earth rotates underneath the satellite meaning that it doesn't always cover the same area.
+The only way to prevent this is through the use of a geostationary orbit - which by definition is equatorial.
+![[Pasted image 20240923145204.png|centre]]
+The ground track of this inclined orbit shows that the satellite is moving "west", this is because the earth is rotating "eastwards".
+###### Eccentricity
+Eccentricity is effectively a measure of how circular an orbit is - i.e. a perfectly circular orbit will have an eccentricity of 0 whilst a larger $e$ value will result in an elliptical orbit.
+*Note that an $e$ value equal to one results in a parabolic orbit (or more specifically a gravity assist) whilst if its more than one its a hyperbola.*
+###### Ascending Node
+The ascending node is the point where the spacecraft passes UP (ascends) through a reference plane.
+The descending node is where the spacecraft passes DOWN (descends) through a reference plane.
+**180 degrees after the ascending node the satellite has a descending node.** 
+\
+**The ascending node must be located using some non-moving reference point.**
+This is where we get the "Right Ascension of Ascending Node $\Omega$" from.
+It is also sometimes known as the "Longitude of"
