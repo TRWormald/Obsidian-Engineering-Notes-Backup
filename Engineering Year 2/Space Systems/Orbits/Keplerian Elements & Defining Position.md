@@ -34,4 +34,10 @@ The descending node is where the spacecraft passes DOWN (descends) through a ref
 \
 **The ascending node must be located using some non-moving reference point.**
 This is where we get the "Right Ascension of Ascending Node $\Omega$" from.
-It is also sometimes known as the "Longitude of"
+It is also sometimes known as the "Longitude of Ascending Node" and it is the angle from the Vernal equinox so the ascending node, measured in the anticlockwise direction.
+###### Argument of Perigee $\omega$ 
+The argument of perigee is measured anti-clockwise from the Ascending node to the perigee (in the orbital plane). It is the angle (measured in degrees) from the ascending node to perigee on the orbital plane.
+![[Pasted image 20240923150128.png|centre]]
+###### True Anomaly $v$ or also $\theta$
+We use true anomaly to tell us where we are in the orbit, it is measured from the periapsis, anticlockwise, in degrees:
+![[Pasted image 20240923150311.png|centre]]
