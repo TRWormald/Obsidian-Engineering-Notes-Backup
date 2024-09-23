@@ -25,3 +25,4 @@ If wall $i=1$ starts from a free edge, the constant $q_{0}=0$
 
 
 ### Shear Flow across Joints
+
