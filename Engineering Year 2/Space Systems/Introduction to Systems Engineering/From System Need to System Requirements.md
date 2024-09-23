@@ -16,3 +16,7 @@ There are several things that need to be present in a requirement for it to be c
 5) Traceable
 6) Achievable
 7) Language - Clear, Concise, and Unambiguous
+
+### Verification vs Validation
+When you *verify* a system you are checking to see if you have "built the system right" with regards to the requirements that we had at the start of the process.
+In contrast, *validation* is asking the question "have we built the right system", this leads us to consider the original goal that we had and evaluating whether our system achieves that goal.

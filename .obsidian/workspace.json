@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ded81bf7c6b7bb8e",
+        "id": "91fd92d600cbfe1a",
         "type": "tabs",
         "children": [
           {
-            "id": "56715c6bab62af2f",
+            "id": "7d8c69b382c3cf06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,22 @@
                 "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ded81bf7c6b7bb8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56715c6bab62af2f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf"
               }
             }
           }
@@ -200,12 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56715c6bab62af2f",
+  "active": "7d8c69b382c3cf06",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/From System Need to System Requirements.md",
-    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf",
+    "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Why do we need Systems Engineering.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
