@@ -21,4 +21,9 @@ All orbits evolve over time due to various factors, these can be:
 - Atmospheric drag (at LEO altitudes only)
 	- This is worse during increased solar activity, but insignificant over 800km
 - Non-sphericity of the Earth
-	- The gravity of the earth isn't a constant 9.81m/s, meaning th
+	- The gravity of the earth isn't a constant 9.81m/s, meaning that over certain locations satellites will experience more of a 'pull' which rotates the position of the ascending node of the orbit,
+	- This is called nodal regression, and in addition the periapsis also moves.
+- Other factors:
+	- Gravitational irregularities such as earth-axis wobbles, moon, sun, Jupiter gravity
+	- Solar photon pressure
+	- Irregular earth density (more prevalent in lunar orbits w.r.t lunar density)
