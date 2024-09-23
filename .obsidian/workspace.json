@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
+                "file": "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bf68153e0ddabec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md"
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,13 +213,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d8c69b382c3cf06",
+  "active": "3bf68153e0ddabec",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
+    "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
     "Images & Attachments/Pasted image 20240923151647.png",
     "Images & Attachments/Screenshot 2024-09-23 150933.png",
     "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Space Systems/Orbits/Orbital Reference Systems.md",
-    "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
     "Images & Attachments/Pasted image 20240923150311.png",
     "Images & Attachments/Pasted image 20240923150128.png",
     "Images & Attachments/Pasted image 20240923145204.png",
@@ -220,7 +235,6 @@
     "Images & Attachments/Pasted image 20240923114745.png",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
-    "Images & Attachments/Pasted image 20240923112145.png",
     "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
@@ -232,8 +246,6 @@
     "Engineering Year 2/Structures & Materials/Fundementals/Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections",
     "Engineering Year 2/Structures & Materials/Fundementals",
