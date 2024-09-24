@@ -33,4 +33,5 @@ The leftmost diagram shows the profile of the beam when it is undeformed, the se
 ### Shear Flow across Joints
 Shear flow is 'transferred' between thin-walled members, e.g. flanges and web:
 ![[Screenshot 2024-09-24 100826.png|centre]]
-
+![[Pasted image 20240924101234.png]]
+We can consider shear flow a lot like current - it is conserved, so if 15 units of shear flow goes into a joint all of that must come out.

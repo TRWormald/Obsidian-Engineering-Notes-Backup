@@ -13,7 +13,7 @@ $$\boxed{q_{(s)}=t_{(s)}\cdot\tau_{zs}}$$
 Its units are usually $\text{[N/mm]}$
 
 ### Calculating Shear flow in Open Thin-Walled Sections
-We will consider a small element of the thin wall (within the $z-s$ plane)
+We will consider a small element of the thin wall (within the $z - s$ plane)
 ![[Pasted image 20240922130726.png]]
 Two stress components exist: $\sigma_{z}$ and $\tau_{sz}$.
 Balancing the forces in the $z$ direction we get:
