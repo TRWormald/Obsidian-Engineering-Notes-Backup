@@ -13,19 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf"
-              }
-            }
-          },
-          {
-            "id": "baa1fe95f9ce65da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf",
+                "page": 1,
+                "left": -25,
+                "top": 846,
+                "zoom": 0.6098011678616306
               }
             }
           }
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf"
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf"
               }
             }
           },
@@ -164,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,16 +199,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "90a8e399a96da369",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Functions.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Functions.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
@@ -254,11 +252,9 @@
     "Engineering Year 2/Structures & Materials/Fundementals",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Introduction to Vector Calculus.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Introduction to Vector Calculus.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
-    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
