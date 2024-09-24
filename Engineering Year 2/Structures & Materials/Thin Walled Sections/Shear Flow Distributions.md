@@ -29,7 +29,7 @@ So when we consider a simply supported cantilever beam with an upwards shear for
 ![[Pasted image 20240924100440.png|centre]]
 Results in the following:
 ![[Screenshot 2024-09-24 100517.png|centre]]
-The leftmost diagram shows the profile of the beam when it is undeformed, the second only considers the strain, whilst the third considers only the shear strain. The final image shows the combination of the shear and engineering strain - which is the most realistic model of the beam.
+The leftmost diagram shows the profile of the beam when it is undeformed, the second only considers the direct strain, whilst the third considers only the shear strain. The final image shows the combination of the shear and direct strain - which is the most realistic model of the beam.
 ### Shear Flow across Joints
 Shear flow is 'transferred' between thin-walled members, e.g. flanges and web:
 ![[Screenshot 2024-09-24 100826.png|centre]]
