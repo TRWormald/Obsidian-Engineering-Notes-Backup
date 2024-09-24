@@ -19,10 +19,18 @@ If wall $i=1$ starts from a free edge, the constant $q_{0}=0$
 		- Webs - parabolic distribution of $q_{(s)}$
 		- Flanges - linear distribution of $q_{(s)}$
 ### Plotting Shear Flow in Thin-Walled Sections
-
-
+Shear flow being transmitted along the span for a vertical upwards shear force $S_y$:
+![[Pasted image 20240924100158.png]]
+Note how the flanges have linear distribution and the webs have parabolic distribution. While the shear stress is conserved at corners.
 ### Physical Interpretation of $q_{(s)}$ - Shear Strains
-
-
+Shear flow is proportional to shear strain $\gamma_{zs}$:
+$$q_{(s)}=t_{(s)}\tau_{zs}=(t~G)~\gamma_{zs}$$
+So when we consider a simply supported cantilever beam with an upwards shear force:
+![[Pasted image 20240924100440.png|centre]]
+Results in the following:
+![[Screenshot 2024-09-24 100517.png|centre]]
+The leftmost diagram shows the profile of the beam when it is undeformed, the second only considers the strain, whilst the third considers only the shear strain. The final image shows the combination of the shear and engineering strain - which is the most realistic model of the beam.
 ### Shear Flow across Joints
+Shear flow is 'transferred' between thin-walled members, e.g. flanges and web:
+![[Screenshot 2024-09-24 100826.png|centre]]
 
