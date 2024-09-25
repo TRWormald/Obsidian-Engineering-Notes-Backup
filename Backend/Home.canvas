@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0df973b9350b98bb","x":-200,"y":-85,"width":299,"height":50,"type":"text","text":"# Engineering"},
+		{"id":"81bcbdc2f9447b14","x":160,"y":-422,"width":406,"height":337,"type":"text","text":"# General To Do\n1) Consider flap designs for AVDASI-2\n2) Consider mounting locations for flaps and ailerons"},
+		{"id":"aa1eba7bdc8265c8","x":160,"y":-35,"width":406,"height":335,"type":"text","text":"# Prep Work\n1) Structures Example Sheet\n2) "},
+		{"id":"0df518e5e9b3d6fb","type":"text","text":"# Reminders\n1) 30th September - SEDS Welcome Lecture\n2) ","x":-680,"y":-422,"width":406,"height":337}
+	],
+	"edges":[
+		{"id":"995189c21c6b7f69","fromNode":"0df973b9350b98bb","fromSide":"right","toNode":"81bcbdc2f9447b14","toSide":"left"},
+		{"id":"f3a6256bd3955d20","fromNode":"0df973b9350b98bb","fromSide":"right","toNode":"aa1eba7bdc8265c8","toSide":"left"},
+		{"id":"25ac9abb0ddece52","fromNode":"0df973b9350b98bb","fromSide":"left","toNode":"0df518e5e9b3d6fb","toSide":"right"}
+	]
+}

@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91fd92d600cbfe1a",
+        "id": "fcf9add5a5239e82",
         "type": "tabs",
         "children": [
           {
-            "id": "ae099cb57eaf157c",
+            "id": "aa2ea9e5d032f3d2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
-                "page": 25,
-                "left": -6,
-                "top": 12,
-                "zoom": 2.3081140350877196
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -61,
+                  "zoom": -0.05974479259427224
+                }
               }
             }
           }
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+                "file": "Backend/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+                "file": "Backend/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf"
+                "file": "Backend/Home.canvas"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+                "file": "Backend/Home.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,21 +203,25 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "ae099cb57eaf157c",
+  "active": "aa2ea9e5d032f3d2",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
+    "Backend/Home.canvas",
+    "Backend/Home.md",
+    "Backend",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Fields.md",
     "General Interest/Rocket Propulsion",
     "General Interest",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Intro to Vector Calculus.pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Functions.md",
@@ -250,9 +255,7 @@
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/System Engineering Basics.md",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Why do we need Systems Engineering.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Mohr's Circle.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
