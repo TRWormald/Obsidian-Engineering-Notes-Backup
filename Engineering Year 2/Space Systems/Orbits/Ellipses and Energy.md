@@ -1,5 +1,5 @@
 ### Some Orbital Terminology
-Orbits have some specific terminology to describe certain parts of them. The furthest point from the orbited body is called the **Apoapsis** whilst the closes point is called the **Periapsis**.
+Orbits have some specific terminology to describe certain parts of them. The furthest point from the orbited body is called the **Apoapsis** whilst the closest point is called the **Periapsis**.
 These terms are the general - non specific - descriptors, however there are some for specific bodies:
 - Apogee/Perigee - Earth
 - Apolune/Perilune - Moon
