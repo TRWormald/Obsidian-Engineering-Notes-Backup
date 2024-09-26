@@ -10,7 +10,7 @@ We can define a position in 2 different ways:
 ![[Pasted image 20240923144352.png|centre]]
 **Lets explore what all of these are:**
 ###### Semi-Major Axis
-This is a measuure of the size of the orbit.
+This is a measure of the size of the orbit.
 ###### Inclination
 Inclination determines the northern and southern latitude limits.
 It is the angle measured from a reference plane to the plane of orbit of the satellite, measured at the ascending node (i.e. the location where the satellite transits from the Southern Hemisphere to the Northern Hemisphere) - hence its value will be between 0 and 180 degrees.
