@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f8e3ce461286441",
+            "id": "29c05011f35746f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f165c96451bcd955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4e5026d4c8e50e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md"
+              }
             }
           },
           {
@@ -146,6 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,8 +228,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f8e3ce461286441",
+  "active": "29c05011f35746f2",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
+    "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
     "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Space Systems/Orbits/Orbital Reference Systems.md",
@@ -204,7 +241,6 @@
     "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Mission and Functional Analysis",
     "Engineering Year 2/Space Systems/Introduction to Systems Engineering/Systems_Engineering_Handbook_Section_2_DRAFT(1).pdf",
-    "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
     "Backend/Home.md",
     "Backend",
@@ -220,9 +256,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Functions.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20240924101234.png",
     "Images & Attachments/Screenshot 2024-09-24 100826.png",
