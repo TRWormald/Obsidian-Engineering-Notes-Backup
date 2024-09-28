@@ -9,6 +9,13 @@ Within complicated programmes we use FFBDs. To create them we need to define our
 Just like requirements, a functional block only shows a single function. For example:
 ![[Pasted image 20240928113636.png|centre|200]]
 This might be an example of a functional block for HLS.
-We can now create a FFBD for this functional block:
+We can now create a FFBD with this functional block using other inputs and outputs:
 ![[Pasted image 20240928113804.png|centre]]
-Note how the *action* words are underlined in these blocks to help identify the steps and
+Note how the *action* words are underlined in these blocks to help identify the steps and make sure only one thing is occurring per block.
+Each of these blocks can itself be decomposed into its own FFBD:
+![[Pasted image 20240928114008.png|centre]]
+### Techniques we can use in FFBDs
+1) Gateways - We can capture the outcomes of tests we need to pass in order for the system to continue nominal operations (GO/NO-GO)
+2) Parallel Function Paths - In a complex engineering system multiple things will need to happen at the same time. We can show this using an AND block.
+3) Conditional Function Paths - Sometimes in nominal operation our system will get to a decision point, were it can respond in more than one way. We can show this using an OR block.
+4) Feedback - Sometimes we will need to constantly pass data back so that we know that we are operating nominally, for example a guidance system keeping you on the right track.
