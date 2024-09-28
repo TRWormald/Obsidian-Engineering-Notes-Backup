@@ -12,4 +12,12 @@ The function depends on the chosen reference point, i.e. the origin of the $X-Y$
 - If the section contains a radius then the centre of this radius must be taken as the reference point.
 
 ### Shear Centre - Point of Zero Stress-Resultant Torque
-There is a point within the $X-Y$ plane where the stress-resultant torque for a section will always be zero
+There is a point within the $X-Y$ plane where the stress-resultant torque for a section will always be zero, for any combination of orthogonal shear forces $S_{X}$ and $S_{Y}$.
+This point is called the **shear centre**, and is an intrinsic property of the section.
+The coordinate system with origin at the shear centre is $(\hat{X},\hat{Y},\hat{Z})$ and the new moment arm function is $\hat{r}_{(s)}$, and the stress-resultant torque becomes:
+$$^{q_{(s)}}M_{\hat{Z}}=\int_{s}q_{(s)}\hat{r}_{(s)}~ds=0$$
+### External Torque about $\hat{Z}$
+If two orthogonal shear forces $S_{X}$ and $S_{Y}$ are applied along lines that do not cross the shear centre, then the section will not only deflect but also twist.
+This is because the shear forces will generate a torque about $\hat{Z}$, proportional to the orthogonal distances between the loading axes and the shear centre, $e_{x}$ and $e_{y}$:
+$$M_{\hat{Z}}=S_{x}e_{Y}-S_{Y}e_{X}$$
+### External Torque that cancels out $M_{Z}$
