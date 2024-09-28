@@ -20,4 +20,13 @@ $$^{q_{(s)}}M_{\hat{Z}}=\int_{s}q_{(s)}\hat{r}_{(s)}~ds=0$$
 If two orthogonal shear forces $S_{X}$ and $S_{Y}$ are applied along lines that do not cross the shear centre, then the section will not only deflect but also twist.
 This is because the shear forces will generate a torque about $\hat{Z}$, proportional to the orthogonal distances between the loading axes and the shear centre, $e_{x}$ and $e_{y}$:
 $$M_{\hat{Z}}=S_{x}e_{Y}-S_{Y}e_{X}$$
+![[Screenshot 2024-09-28 133813.png|centre|250]]
 ### External Torque that cancels out $M_{Z}$
+To find the shear centre coordinates we find the external torque about the shear centre, $M_{\hat{Z}}$, required to cancel out the stress-resultant torque about the loading point, $M_{Z}$:
+$$M_\hat{Z}=-M_{Z}$$
+This is finally written as:
+$$\underbrace{S_{Y}e_{X}-S_{X}e_{Y}}_{-M_{\hat{Z}}}=\underbrace{\int_{s}q_{(s)}r_{(s)}~ds}_{M_Z}$$
+### Torsion Centre
+The shear centre also provides a favourable axis for torsion.
+Torsion about axis $\hat{Z}$ that passes through the shear centre will generate minimum stresses over the section for any given applied torque, hence providing a configuration of lowest potential energy.
+Therefore the shear centre is also sometimes called the torsion centre.
