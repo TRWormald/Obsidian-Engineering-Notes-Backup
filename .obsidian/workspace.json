@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md"
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +206,11 @@
   },
   "active": "e07d8f6d62f2f5b3",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Mission Analysis.md",
+    "Images & Attachments/Pasted image 20240928113804.png",
+    "Images & Attachments/Pasted image 20240928113636.png",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
+    "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
+    "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Mission Analysis.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Systems Engineering",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
@@ -248,12 +251,9 @@
     "Images & Attachments/Screenshot 2024-09-23 150933.png",
     "Images & Attachments/Pasted image 20240923150311.png",
     "Images & Attachments/Pasted image 20240923150128.png",
-    "Images & Attachments/Pasted image 20240923145204.png",
     "Engineering Year 2/AVDASI 2/Aerodynamics/Intro to Wing & Aileron Calculations.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Introduction to Systems Engineering/From System Need to System Requirements.md",
-    "Engineering Year 2/Space Systems/Systems Engineering/Introduction to Systems Engineering/How do we carry out Systems Engineering.md",
-    "Engineering Year 2/Space Systems/Systems Engineering/Introduction to Systems Engineering/System Engineering Basics.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",

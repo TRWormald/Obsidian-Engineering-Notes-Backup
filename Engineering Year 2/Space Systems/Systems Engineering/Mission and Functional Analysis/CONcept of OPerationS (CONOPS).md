@@ -1,2 +1,2 @@
 A CONcept of OPerationS (CONOPS) is a visual representation of the entire mission cycle for the system.
-CONOPS are not static across the development of a system, 
+CONOPS are not static across the development of a system; they can change over time as different requirements/solutions are identified.
