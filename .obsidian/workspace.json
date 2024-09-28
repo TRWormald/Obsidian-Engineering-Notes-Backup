@@ -4,49 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6055c23ee00ccb89",
+        "id": "084c82faa546e368",
         "type": "tabs",
         "children": [
           {
-            "id": "29c05011f35746f2",
+            "id": "e07d8f6d62f2f5b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f165c96451bcd955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4e5026d4c8e50e8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 846,
-                "zoom": 1.5912786673744619
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -0.08578848720577972
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+                "file": "Backend/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+                "file": "Backend/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf"
+                "file": "Backend/Home.canvas"
               }
             }
           },
@@ -181,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+                "file": "Backend/Home.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +207,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b4e5026d4c8e50e8",
+  "active": "e07d8f6d62f2f5b3",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
