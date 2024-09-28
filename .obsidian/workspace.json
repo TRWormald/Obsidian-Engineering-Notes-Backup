@@ -11,11 +11,13 @@
             "id": "e07d8f6d62f2f5b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "page": 31,
+                "left": -10,
+                "top": 123,
+                "zoom": 1.5477941176470589
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md"
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf"
               }
             }
           },
@@ -154,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,10 +208,15 @@
   },
   "active": "e07d8f6d62f2f5b3",
   "lastOpenFiles": [
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
+    "Images & Attachments/Screenshot 2024-09-28 134459.png",
+    "Images & Attachments/Pasted image 20240928134345.png",
+    "Images & Attachments/Screenshot 2024-09-28 134129.png",
     "Images & Attachments/Screenshot 2024-09-28 133813.png",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Images & Attachments/Screenshot 2024-09-28 130945.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity",
@@ -239,19 +246,14 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Fields.md",
-    "General Interest/Rocket Propulsion",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Functions.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20240924101234.png",
     "Images & Attachments/Screenshot 2024-09-24 100826.png",
-    "Images & Attachments/Screenshot 2024-09-24 100517.png",
-    "Images & Attachments/Pasted image 20240924100440.png",
-    "Images & Attachments/Pasted image 20240924100158.png",
     "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
-    "Images & Attachments/Pasted image 20240923151647.png",
     "Engineering Year 2/AVDASI 2/Aerodynamics/Intro to Wing & Aileron Calculations.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",

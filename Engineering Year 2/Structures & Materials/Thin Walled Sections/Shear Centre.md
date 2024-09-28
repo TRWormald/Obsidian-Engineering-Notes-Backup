@@ -30,3 +30,11 @@ $$\underbrace{S_{Y}e_{X}-S_{X}e_{Y}}_{-M_{\hat{Z}}}=\underbrace{\int_{s}q_{(s)}r
 The shear centre also provides a favourable axis for torsion.
 Torsion about axis $\hat{Z}$ that passes through the shear centre will generate minimum stresses over the section for any given applied torque, hence providing a configuration of lowest potential energy.
 Therefore the shear centre is also sometimes called the torsion centre.
+![[Screenshot 2024-09-28 134129.png|centre|200]]
+### End Cap or Flange
+Loads can be applied at different points along the $X-Y$ plane using end caps of connector flanges attached to the ends of the structure.
+For simplicity we usually omit these in our drawings.![[Pasted image 20240928134345.png|centre|200]]
+### Shear Centre and Symmetries
+The shear centre will lie on **any line of symmetry** that may exist, so for doubly-symmetric sections the shear centre is the centroid:
+![[Screenshot 2024-09-28 134459.png|centre]]
+
