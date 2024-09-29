@@ -11,14 +11,11 @@
             "id": "0928b15371ce2dcd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -1.3464504140214315
-                }
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Home.canvas"
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,17 +206,27 @@
   },
   "active": "0928b15371ce2dcd",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20240929111555.png",
+    "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Mohr's Circle.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
+    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+    "Images & Attachments/Pasted image 20240929111311.png",
+    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Images & Attachments/Screenshot 2024-09-28 134459.png",
     "Images & Attachments/Pasted image 20240928134345.png",
     "Images & Attachments/Screenshot 2024-09-28 134129.png",
     "Images & Attachments/Screenshot 2024-09-28 133813.png",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Images & Attachments/Screenshot 2024-09-28 130945.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
@@ -228,7 +235,6 @@
     "Images & Attachments/Pasted image 20240928113636.png",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Mission Analysis.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Systems Engineering",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
     "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
@@ -242,21 +248,12 @@
     "Backend/Home.md",
     "Backend",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
-    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Functions.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20240924101234.png",
-    "Images & Attachments/Screenshot 2024-09-24 100826.png",
-    "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
-    "Engineering Year 2/AVDASI 2/Aerodynamics/Intro to Wing & Aileron Calculations.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
