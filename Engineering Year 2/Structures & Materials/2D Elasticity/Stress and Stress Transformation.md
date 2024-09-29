@@ -10,3 +10,12 @@ As the elements we will be considering are in equilibrium the shear stresses are
 ![[Pasted image 20240929111555.png|centre|300]]
 If we consider moment equilibrium about the centre of this infinitesimal element:
 $$\tau_{xy}=\tau_{yx}$$
+As a result of this we can express our 3D stress state in 6 components:
+$$\bar{\sigma}=\begin{bmatrix}\sigma_{xx}&\tau_{xy}&\tau_{xz}\\\tau_{xy}&\sigma_{yy}&\tau_{yz}\\\tau_{xz}&\tau_{yz}&\sigma_{zz}\end{bmatrix}$$
+This formulation is known as the Cauchy stress tensor.
+### Plane Stress
+A common simplification is plane stress, with no out of plane stresses:
+$$\sigma_{zz}=\tau_{xz}=\tau_{yz}=0$$
+So the 3D stress state is reduced to three independent variables: $\sigma_{xx}$, $\sigma_{yy}$, and $\tau_{xy}$.
+![[Pasted image 20240929112423.png|centre]]
+### Stress Transformations
