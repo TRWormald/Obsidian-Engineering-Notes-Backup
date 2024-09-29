@@ -19,3 +19,12 @@ $$\sigma_{zz}=\tau_{xz}=\tau_{yz}=0$$
 So the 3D stress state is reduced to three independent variables: $\sigma_{xx}$, $\sigma_{yy}$, and $\tau_{xy}$.
 ![[Pasted image 20240929112423.png|centre]]
 ### Stress Transformations
+Stress is defined in a convenient but arbitrary coordinate system $XY$. But what are the stresses in the coordinate system $X'Y'$, at angle $\theta$ to the original $XY$ coordinate system?
+![[Pasted image 20240929113128.png|centre|300]]
+To find the stresses at the new coordinate system, consider the equilibrium of an infinitesimal element (with unit depth) cut at an angle $\theta$ (measured CCW from the Y-axis) on which a normal stress $\sigma_{x'x'}$ and shear stress $\tau_{x'y'}$ act:
+![[Pasted image 20240929113250.png|centre|400]]
+Resolving forces perpendicular and parallel to the cut plane:
+$$\sigma_{x'x'}=(\sigma_{xx}\cos\theta+\tau_{xy}\sin\theta)\cos\theta+(\sigma_{yy}\sin\theta+\tau_{xy}\cos\theta)\sin\theta$$
+$$\tau_{x'y'}=-(\sigma_{xx}\cos\theta+\tau_{xy}\sin\theta)\sin\theta+(\sigma_{yy}\sin\theta+\tau_{xy}\cos\theta)\cos\theta$$
+We can reshuffle and combine into a transformation matrix $\textbf{T}$:
+$$\begin{bmatrix}\sigma_{x'x'}\\\sigma_{y'y}\\\tau_{x'y'}\end{bmatrix}=\begin{bmatrix}\cos^{2}\theta&\sin^{2}\theta&2\sin\theta\cos\theta\\\sin^{2}\theta&\cos^{2}\theta&-2\sin\theta\cos\theta\\-\sin\theta\cos\theta&\sin\theta\cos\theta&\cos^{2}\end{bmatrix}$$
