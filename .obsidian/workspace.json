@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md"
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,6 +206,10 @@
   },
   "active": "0928b15371ce2dcd",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
+    "Images & Attachments/Pasted image 20240929122738.png",
     "Images & Attachments/Pasted image 20240929114152.png",
     "Images & Attachments/Pasted image 20240929113250.png",
     "Images & Attachments/Pasted image 20240929113128.png",
@@ -214,14 +218,12 @@
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Images & Attachments/Pasted image 20240929111311.png",
     "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
@@ -230,8 +232,6 @@
     "Images & Attachments/Screenshot 2024-09-28 134459.png",
     "Images & Attachments/Pasted image 20240928134345.png",
     "Images & Attachments/Screenshot 2024-09-28 134129.png",
-    "Images & Attachments/Screenshot 2024-09-28 133813.png",
-    "Images & Attachments/Screenshot 2024-09-28 130945.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
@@ -252,7 +252,6 @@
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Intro to Vector Calculus/Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
