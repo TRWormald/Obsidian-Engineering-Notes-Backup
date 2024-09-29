@@ -27,4 +27,10 @@ Resolving forces perpendicular and parallel to the cut plane:
 $$\sigma_{x'x'}=(\sigma_{xx}\cos\theta+\tau_{xy}\sin\theta)\cos\theta+(\sigma_{yy}\sin\theta+\tau_{xy}\cos\theta)\sin\theta$$
 $$\tau_{x'y'}=-(\sigma_{xx}\cos\theta+\tau_{xy}\sin\theta)\sin\theta+(\sigma_{yy}\sin\theta+\tau_{xy}\cos\theta)\cos\theta$$
 We can reshuffle and combine into a transformation matrix $\textbf{T}$:
-$$\begin{bmatrix}\sigma_{x'x'}\\\sigma_{y'y}\\\tau_{x'y'}\end{bmatrix}=\begin{bmatrix}\cos^{2}\theta&\sin^{2}\theta&2\sin\theta\cos\theta\\\sin^{2}\theta&\cos^{2}\theta&-2\sin\theta\cos\theta\\-\sin\theta\cos\theta&\sin\theta\cos\theta&\cos^{2}\end{bmatrix}$$
+$$\begin{bmatrix}\sigma_{x'x'}\\\sigma_{y'y}\\\tau_{x'y'}\end{bmatrix}=\begin{bmatrix}\cos^{2}\theta&\sin^{2}\theta&2\sin\theta\cos\theta\\\sin^{2}\theta&\cos^{2}\theta&-2\sin\theta\cos\theta\\-\sin\theta\cos\theta&\sin\theta\cos\theta&\cos^{2}\theta-\sin^{2}\theta\end{bmatrix}\begin{bmatrix}\sigma_{xx}\\\sigma_{yy}\\\tau_{xy}\end{bmatrix}$$
+Where $\sigma_{y'y'}$ is found using $\theta_{y'}=\theta_{x'}+ \frac{\pi}{2}$ 
+\
+Theses stress transformation equations will enable us to calculate the stresses in any given direction, and form the core of 2D stress analysis.
+### Properties of Plane Stresses
+The stress transformation equations enable us to calculate the stresses in any direction. As we rotate through different angles the direct stresses vary periodically:
+![[Pasted image 20240929114152.png|centre]]
