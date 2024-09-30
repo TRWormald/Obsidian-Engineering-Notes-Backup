@@ -16,8 +16,8 @@
               "state": {
                 "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
                 "page": 10,
-                "left": -7,
-                "top": 566,
+                "left": 2,
+                "top": 24,
                 "zoom": 1.1912372147915027
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
+                "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
+                "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md"
+                "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
+                "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,10 +227,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "59b430a0a5b99672",
+  "active": "60ff9111503a3df9",
   "lastOpenFiles": [
-    "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
+    "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion Elements.md",
