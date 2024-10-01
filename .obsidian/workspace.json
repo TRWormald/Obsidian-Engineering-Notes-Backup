@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md"
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,9 +221,11 @@
   },
   "active": "20f31114782e7100",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Images & Attachments/Pasted image 20241001150250.png",
     "Images & Attachments/Pasted image 20241001150235.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
@@ -265,8 +267,6 @@
     "Engineering Year 2/Space Systems/Systems Engineering",
     "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
     "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbital Reference Systems.md",
-    "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",

@@ -15,5 +15,7 @@ $$\begin{align*}
 ### Calculating $\text{curl }\vec{v}$
 We can calculate curl using the equation:
 $$\begin{align*}
-\text{curl }\vec
-\end{align*}$$
+\text{curl }\vec{v}&= \vec\nabla\times\vec{v}=\left|\begin{matrix}\vec{i}&\vec{j}&\vec{k}\\ \frac{\partial}{\partial x}&\frac{\partial}{\partial y}&\frac{\partial}{\partial z}\\v_{1}&v_{2}&v_{3}\end{matrix}\right| \\
+&= \left(\frac{\partial v_{3}}{\partial y}-\frac{\partial v_{2}}{\partial z}\right)\vec{i}+\left(\frac{\partial v_{1}}{\partial z}-\frac{\partial v_{3}}{\partial x}\right)\vec{j}+\left(\frac{\partial v_{2}}{\partial x}-\frac{\partial v_{1}}{\partial y}\right)\vec{k}\end{align*}
+$$
+*Note how this is a vector value!*
