@@ -5,3 +5,18 @@ Then we can show that:
 $$\text{div }\vec{v}=0,~~~~\text{curl }\vec{v}=2\vec\omega$$
 that is, the curl of the velocity field has the direction of the axis of rotation and magnitude that is twice the angular speed of rotation
 ### Fluid mechanics
+Let $\vec{v}$ be the velocity vector field of a fluid flow. Consider the following situations:
+#### Example A
+The below diagram shows linear simple shear flow between two plates in relative motion:
+![[Pasted image 20241001153144.png|centre|400]]
+$$\vec{v}=\left(\frac{Vy}{d},0,0\right)$$
+$$\Rightarrow\text{ curl }\vec{v}=\left(0,0,-\frac{V}{d}\right)$$
+$$\Rightarrow\text{ div }\vec{v}=0$$
+This si a rotational ($\text{curl }\vec{v}\ne 0$), incompressible ($\text{div }\vec{v}=0$) flow. The rotation is perpendicular to the ($x,y$)-plane.
+### Example B
+Consider vortex flow:
+![[Pasted image 20241001153545.png|centre|300]]
+$$\vec{v}=\left(-\frac{y}{x^{2}+y^{2}},\frac{x}{x^{2}+y^{2}},0\right)=\frac{\hat{\vec\theta}}{r}$$
+$$\Right$$
+
+
