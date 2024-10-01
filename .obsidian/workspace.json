@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad5bf794db8fa23",
+        "id": "a54997f69ae9016a",
         "type": "tabs",
-        "dimension": 67.37120211360634,
         "children": [
           {
-            "id": "60ff9111503a3df9",
+            "id": "b27c3a083daeedba",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
-                "page": 10,
-                "left": 2,
-                "top": 24,
-                "zoom": 1.1912372147915027
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6f737b1532214947",
-        "type": "tabs",
-        "dimension": 32.628797886393656,
-        "children": [
-          {
-            "id": "59b430a0a5b99672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
-                "mode": "source",
-                "source": false
+                "page": 11,
+                "left": -5,
+                "top": 724,
+                "zoom": 1.4065840846016855
               }
             }
           }
@@ -91,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -227,25 +206,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "60ff9111503a3df9",
+  "active": "b27c3a083daeedba",
   "lastOpenFiles": [
+    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
     "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
-    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion Elements.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Mission Analysis.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Images & Attachments/Pasted image 20240929135756.png",
     "Images & Attachments/Pasted image 20240929135734.png",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
