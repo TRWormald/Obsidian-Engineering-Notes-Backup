@@ -17,6 +17,17 @@ This si a rotational ($\text{curl }\vec{v}\ne 0$), incompressible ($\text{div }\
 Consider vortex flow:
 ![[Pasted image 20241001153545.png|centre|300]]
 $$\vec{v}=\left(-\frac{y}{x^{2}+y^{2}},\frac{x}{x^{2}+y^{2}},0\right)=\frac{\hat{\vec\theta}}{r}$$
-$$\Right$$
+$$\Rightarrow\text{ curl }\vec{v}=\vec{0}$$
+$$\Rightarrow\text{ div }\vec{v}=0$$
+This is an irrotational, incompressible flow.
+### Definitions
+A vector field is said to be **incompressible** if:
+$$\text{div } \vec{v}=0$$
+A flow whose velocity field $\vec{v}$ is **curl free**, is called **irrotational**:
+$$\text{curl } \vec{v}=\vec{0}$$
+A force field $\vec{F}$ that satisfies $\text{curl }\vec{F}=\vec{0}$ is said to be **conservative.**
+\
+More generally it can be shown that $\text{curl } \vec{v}=\vec{0}$ if and only if:
+$$\vec{v}=\text{grad }\phi, \text{ for some scalar field }\phi$$
 
 

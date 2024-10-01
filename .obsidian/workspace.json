@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md"
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,13 +221,14 @@
   },
   "active": "20f31114782e7100",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
+    "Images & Attachments/Pasted image 20241001154022.png",
     "Images & Attachments/Pasted image 20241001153545.png",
     "Images & Attachments/Pasted image 20241001153533.png",
     "Images & Attachments/Pasted image 20241001153532.png",
     "Images & Attachments/Pasted image 20241001153144.png",
     "Images & Attachments/Pasted image 20241001153127.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
@@ -257,8 +258,6 @@
     "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
-    "Images & Attachments/Pasted image 20240929122738.png",
-    "Images & Attachments/Pasted image 20240929114152.png",
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
