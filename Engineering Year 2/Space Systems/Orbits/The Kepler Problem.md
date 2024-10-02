@@ -24,4 +24,5 @@ $$\vec{h}=\vec{r}\times\vec{v}$$
 ![[Pasted image 20241002200044.png|centre|400]]
 The magnitude of $\vec{h}$ can be calculated to be:
 $$h=|\vec{r}||\vec{v}|\sin\alpha$$
-Where \apha
+Where $\alpha$ is the angle between $r$ and $v$:
+![[Pasted image 20241002200211.png|centre|300]]
