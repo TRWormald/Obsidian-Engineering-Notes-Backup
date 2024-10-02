@@ -18,3 +18,10 @@ $$\vec{\dot{L}}=\vec{r}\times m \vec{\ddot{r}}=\vec{r}\times\vec{F}$$
 However as $\vec{r}$ and $\vec{F}$ are also parallel, so:
 $$\vec{\dot{L}}=0$$
 Therefore the motion of $m$ is planar.
+#### Specific Angular Momentum
+We can obtain specific angular momentum by dividing $L$ by $m$, to obtain:
+$$\vec{h}=\vec{r}\times\vec{v}$$
+![[Pasted image 20241002200044.png|centre|400]]
+The magnitude of $\vec{h}$ can be calculated to be:
+$$h=|\vec{r}||\vec{v}|\sin\alpha$$
+Where \apha
