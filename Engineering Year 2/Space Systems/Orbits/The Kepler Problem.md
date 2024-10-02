@@ -26,3 +26,20 @@ The magnitude of $\vec{h}$ can be calculated to be:
 $$h=|\vec{r}||\vec{v}|\sin\alpha$$
 Where $\alpha$ is the angle between $r$ and $v$:
 ![[Pasted image 20241002200211.png|centre|300]]
+We can also calculate it based on $\gamma$:
+![[Screenshot 2024-10-02 201532.png|centre|300]]
+Which is the "flight path angle" i.e. how much the velocity vector deviates from the tangent to the orbit:
+$$h=|\vec{r}||\vec{v}|\cos\gamma$$
+**Conservation of Momentum** means that for any point on an orbit:
+$$r_{1}v_{1}\cos\gamma_{1}=r_{2}v_{2}\cos\gamma_{2}$$
+Note that $\gamma=0$ at the periapsis and apoapsis.
+\
+##### Considering Circular Motion
+When we consider circular motion:
+$$v_{\theta}=r\omega=r \frac{d\theta}{dt}=r\dot{\theta}$$
+As:
+$$v_{\theta}=v\cos\gamma$$
+Then:
+$$h=rv\cos\gamma=rv_{\theta}=r\left(r\frac{d\theta}{dt}\right)=r^{2}\dot{\theta}$$
+### Equation of Motion for 2 body system:
+If we take the cross product of:
