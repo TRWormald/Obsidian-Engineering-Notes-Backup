@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "28791d5dd0124aa6",
+        "id": "7c6aae93b2530f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "dbb9856fe35cf765",
+            "id": "c7cee11fe8062aa5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
-                "page": 90,
-                "left": 47,
-                "top": 308,
-                "zoom": 1.37
-              }
-            }
-          },
-          {
-            "id": "20f31114782e7100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -0.08578848720577972
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
+                "file": "Backend/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
+                "file": "Backend/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md"
+                "file": "Backend/Home.canvas"
               }
             }
           },
@@ -169,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
+                "file": "Backend/Home.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,8 +207,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "20f31114782e7100",
+  "active": "c7cee11fe8062aa5",
   "lastOpenFiles": [
+    "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
+    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+    "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
     "Images & Attachments/Pasted image 20241001154022.png",
     "Images & Attachments/Pasted image 20241001153545.png",
@@ -230,17 +223,12 @@
     "Images & Attachments/Pasted image 20241001153127.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Images & Attachments/Pasted image 20241001150250.png",
     "Images & Attachments/Pasted image 20241001150235.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
-    "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
-    "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
     "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
-    "Backend/Home.canvas",
-    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
