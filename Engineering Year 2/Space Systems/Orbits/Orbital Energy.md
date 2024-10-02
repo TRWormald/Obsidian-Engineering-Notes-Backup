@@ -34,3 +34,11 @@ We can now say that:
 $$\vec{\ddot{r}}=\vec{\ddot{r}}_{1}-\vec{\ddot{r}}_{2}=\left(-\frac{G\bcancel{M_{1}}m_{2}}{\bcancel{M_{1}}r^{2}}\hat{r}_{12}\right)-\left(\frac{G\bcancel{m_{2}}M_{1}}{\bcancel{m_{2}}r^{2}}\hat{r}_{12}\right)$$
 So:
 $$\vec{\ddot{r}}=-\frac{Gm_{2}}{r^{2}}\hat{r}_{12}-\frac{GM_{1}}{r^{2}}\hat{r}_{12}=-\frac{G(M_{1}+m_{2})}{r^{2}}\hat{r}_{12}$$
+We often call $G(M_{1}+m_{2})$ the gravitational parameter and ascribe it to the variable $\mu$. Note that if $M_{1}\gg m_{2}$ then $\mu\approx GM_{1}$.
+\
+**Hence we have found the expressions for the acceleration of $M_1$ and $m_2$**:
+$$\vec{\ddot{r}}_{1}=-\frac{Gm_{2}}{r^{2}}\hat{r}_{12}$$
+$$\vec{\ddot{r}}_{2}=-\frac{GM_{1}}{r^{2}}\hat{r}_{21}$$
+With both objects orbiting around the barycentre (the centre of mass of both of the bodies)
+The **position** of the **barycentre** can be found by calculating:
+$$\vec{r}_{0}=\frac{M_{1}\vec{r}_{1}+m_{2}\vec{r}_{2}}{M_{1}+m_{2}}$$
