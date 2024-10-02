@@ -42,3 +42,7 @@ $$\vec{\ddot{r}}_{2}=-\frac{GM_{1}}{r^{2}}\hat{r}_{21}$$
 With both objects orbiting around the barycentre (the centre of mass of both of the bodies)
 The **position** of the **barycentre** can be found by calculating:
 $$\vec{r}_{0}=\frac{M_{1}\vec{r}_{1}+m_{2}\vec{r}_{2}}{M_{1}+m_{2}}$$
+Note that:
+- If $M_{1}\gg m_{2}$, then $\vec{r}_{0}\approx\vec{r}_{1}$
+- $\vec{\dot{r}}_{0}=constant$ i.e. no net force acts on it
+- $\vec{\ddot{r}}_{0}=0$, therefore, the CoM can be found from initial conditions.
