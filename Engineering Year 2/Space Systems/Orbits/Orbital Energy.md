@@ -24,3 +24,13 @@ Also where $\hat{r}_{21}$ is the unit vector pointing from $m_{2}$ to $M_{1}$
 And $r=|\vec{r}|$ is the magnitude of $\vec{r}$.
 ![[Pasted image 20241002174737.png|centre|400]]
 Note how we also have $\vec{r}_{0}$ which is the vector from the origin to the Centre of Mass.
+\
+We can define the forces between the two objects as:
+$$\vec{F}_{12}=M_{1}\vec{\ddot{r}_{1}}=-\frac{GM_{1}m_{2}}{r^{2}}\hat{r}_{12}$$
+$$\vec{F}_{21}=m_{2}\vec{\ddot{r}_{2}}=-\frac{GM_{1}m_{2}}{r^{2}}\hat{r}_{21}=\frac{GM_{1}m_{2}}{r^{2}}\hat{r}_{12}$$
+Due to the fact that $\hat{r}_{21}=-\hat{r}_{12}\Rightarrow$ $\vec{F}_{12}=-\vec{F}_{21}$.
+\
+We can now say that:
+$$\vec{\ddot{r}}=\vec{\ddot{r}}_{1}-\vec{\ddot{r}}_{2}=\left(-\frac{G\bcancel{M_{1}}m_{2}}{\bcancel{M_{1}}r^{2}}\hat{r}_{12}\right)-\left(\frac{G\bcancel{m_{2}}M_{1}}{\bcancel{m_{2}}r^{2}}\hat{r}_{12}\right)$$
+So:
+$$\vec{\ddot{r}}=-\frac{Gm_{2}}{r^{2}}\hat{r}_{12}-\frac{GM_{1}}{r^{2}}\hat{r}_{12}=-\frac{G(M_{1}+m_{2})}{r^{2}}\hat{r}_{12}$$
