@@ -1,4 +1,4 @@
-[[CONcept of OPerationS (CONOPS)|CONOPS]] provide us a high-level view of the system mission, but this doesn't provide enough detail to actually define it. We therefore need a mechanism to help us to go from the top-level CONOPS to a detailed step of steps that our system must carry out.
+ [[CONcept of OPerationS (CONOPS)|CONOPS]] provide us a high-level view of the system mission, but this doesn't provide enough detail to actually define it. We therefore need a mechanism to help us to go from the top-level CONOPS to a detailed step of steps that our system must carry out.
 One method is using **functions** which are *"A characteristic task, action or activity that must be performed to achieve a desired outcome"*. They can be generated using the steps below:
 1) Start with the outputs you are trying to achieve
 2) Find other system(s) you need to interact with
