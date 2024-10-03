@@ -53,5 +53,10 @@ Where:
 - $e$ is the eccentricity
 - $(\theta-\omega)$ is the true anomaly (note that usually the $\omega$ term isn't included)
 - $\omega$ is the argument of periapsis
-
-
+### A Mathematical Representation of Kepler's Laws
+#### Kepler's 1st Law
+$$r=\frac{a(1-e^{2})}{1+e\cos(\theta-\theta_{0})}$$
+#### Kepler's 2nd Law
+$$\frac{dA}{dt}=\frac{h}{2}$$
+#### Kepler's 3rd Law
+$$T=\frac{2\pi}{\sqrt{\mu}}a^\frac{3}{2}$$
