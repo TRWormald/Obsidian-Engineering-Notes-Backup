@@ -43,3 +43,15 @@ Then:
 $$h=rv\cos\gamma=rv_{\theta}=r\left(r\frac{d\theta}{dt}\right)=r^{2}\dot{\theta}$$
 ### Equation of Motion for 2 body system:
 If we take the cross product of:
+$$\vec{\ddot{r}}=-\frac{\mu}{r^{2}}\hat{r}$$
+and $\vec{h}$, we get:
+$$r=\frac{h^{2}/\mu}{1+e\cos(\theta-\omega)}$$
+Where:
+- $r$ is the orbital radius
+- $h$ is specific angular momentum
+- $\mu$ is the gravitational parameter
+- $e$ is the eccentricity
+- $(\theta-\omega)$ is the true anomaly (note that usually the $\omega$ term isn't included)
+- $\omega$ is the argument of periapsis
+
+
