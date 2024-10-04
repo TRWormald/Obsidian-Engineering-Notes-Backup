@@ -8,7 +8,7 @@ There are two key types of differentials of a vector field:
 ### Calculating $\text{div} ~\vec{v}$
 We can calculate divergence using the equation:
 $$\begin{align*}
-\text{div }\vec{v}&= \vec{\nabla}\cdot\vec{v}=\left(\frac{\partial}{\partial y},\frac{\partial}{\partial x},\frac{\partial}{\partial z}\right)\cdot(v_{1},v_{2},v_{3})\\
+\text{div }\vec{v}&= \vec{\nabla}\cdot\vec{v}=\left(\frac{\partial}{\partial x},\frac{\partial}{\partial y},\frac{\partial}{\partial z}\right)\cdot(v_{1},v_{2},v_{3})\\
 &= \frac{\partial}{\partial x}v_{1}+\frac{\partial}{\partial y}v_{2}+\frac{\partial}{\partial z}v_{3}
 \end{align*}$$
 *Note how this is a scalar value!*
