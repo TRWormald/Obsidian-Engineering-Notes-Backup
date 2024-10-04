@@ -33,21 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "caa79facfe756f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md"
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md"
               }
             }
           },
@@ -182,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,15 +220,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "caa79facfe756f8d",
+  "active": "2a9709890093dde4",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
+    "Images & Attachments/Pasted image 20241004152752.png",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
     "Images & Attachments/Pasted image 20241004150934.png",
     "Images & Attachments/Pasted image 20241004150909.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
     "Backend/Home.canvas",
@@ -263,9 +255,6 @@
     "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Images & Attachments/Pasted image 20241001154022.png",
-    "Images & Attachments/Pasted image 20241001153545.png",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
     "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
@@ -274,13 +263,11 @@
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion Elements.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
-    "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/CONcept of OPerationS (CONOPS).md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Structures & Materials/2D Elasticity",
     "Engineering Year 2/Space Systems/Systems Engineering",
-    "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
