@@ -36,7 +36,27 @@ The **internal strain energy** for the small element of depth $dz$ and arclength
 $$dU_{int}=\frac{1}{2}\times\text{force}\times\text{displacement}$$
 $$dU_{int}=\frac{1}{2}(q_{(s)}~ds)(\gamma~dz)$$
 If we assume linear elasticity, i.e:
-$$\gamma=\frac{\tau}{G}=\frac{q_{s}}{GT}$$
+$$\gamma=\frac{\tau}{G}=\frac{q_{s}}{Gt}$$
 Then the global energy balance is:
 $$U_{ext}=U_{int}$$
-$$\cancel{}$$
+$$\cancel{\frac{1}{2}}T\theta'\cancel{dz}=\oint \frac{1}{2}(q_{(s)}~ds)(\gamma \cancel{dz})$$
+$$T\theta'=\oint\gamma\bar{q}~ds$$
+$$T\theta'=\oint\frac{\bar{q}^{2}}{Gt}ds$$
+Hence:
+$$\boxed{\frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{\bar{q}}{Gt}ds}$$
+### The Torsional Constant
+If the shear modulus $G$ is constant then:
+$$T=\theta'G\left(\frac{4\bar{A}}{\oint\frac{ds}{t}}\right)$$
+And since:
+$$\theta'=\frac{T}{GJ}$$
+$$\boxed{J=\frac{4\bar{A}}{\oint \frac{ds}{t}}}$$
+Or in discrete form:
+$$J=\frac{4\bar{A}^{2}}{\sum\left(\frac{b_{i}}{t_{i}}\right)}$$
+### Closed Sections Under Transverse Shear
+Remembering the shear flow expression for open sections:
+$$q_{(s)}^{open}=q_{0}-C_{x}\int_{0}^{s}x_{(s)}t_{(s)}ds-C_{y}\int_{0}^{s}y_{(s)}t_{(s)}ds$$
+This equation is based on 1st moment of area relationships, so it must also hold for closed sections - i.e. it gives the correct "rate of change" of the shear flow around closed sections.
+However closed sections no longer have a free edge where $q_{(s)}=0$.
+Therefore, one needs to find this nonzero constant of integration, now called $\bar{q}$ which reveals the true shear flow $q_{(s)}^{closed}$.
+$$\boxed{q_{(s)}^{closed}=q_{(s)}^open}$$
+
