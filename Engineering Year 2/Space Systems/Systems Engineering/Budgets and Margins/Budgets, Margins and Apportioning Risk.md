@@ -23,3 +23,8 @@ The reason why we do this is multi-faceted:
 \
 We can calculate the margin using the following equation:
 $$\text{Margin \%}=\frac{\text{Constraint Value - Current System Estimate}}{\text{Current System Estimate}}\times 100\%$$
+### Timelines
+Timeline analysis is where functional analysis and budgets combine - it is very important when, for example, you have 100W of power generation but you want to complete an experiment that requires 900W of power (as is the case for some of Perseverance's  experiments) this requires careful use of the rover's batteries.
+### Managing Risk
+Budgeting can also be applied to the safety of our system and any risks that we may face 
+#### Failure Modes
