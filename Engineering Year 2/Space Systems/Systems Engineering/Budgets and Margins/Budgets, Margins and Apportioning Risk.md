@@ -21,4 +21,5 @@ The reason why we do this is multi-faceted:
 2) System development can take years - and stakeholders may wish to add more features on top as time goes on, so having additional bandwidth or power budget may prove useful
 3) When dealing with safety critical systems we must account for "known unknowns" and "unknown unknowns" - safety factors are frequently used to provide additional margin to stop us ever observing failure.
 \
-We can calculate the margin 
+We can calculate the margin using the following equation:
+$$\text{Margin \%}=\frac{\text{Constraint Value - Current System Estimate}}{\text{Current System Estimate}}\times 100\%$$
