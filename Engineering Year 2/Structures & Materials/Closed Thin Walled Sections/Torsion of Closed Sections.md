@@ -73,4 +73,8 @@ $$\boxed{\bar{q}=-\frac{1}{2\bar{A}}\oint q_{(s)}^{open}r_{(s)}ds}$$
 #### Finding the Closed-cell Constant: Unknown Shear Centre
 If the location of the shear centre is unknown, we cannot find the 'local radius' $r_{(s)}$ directly.
 Instead, we can derive an expression for $\bar{q}$ based on deformation:
-$$ \frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{\bar{q}}{Gt}$$
+$$ \frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{\bar{q}}{Gt}ds$$
+This relation also applied when the shear flow varies, therefore:
+$$\boxed{\frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{q_{(s)}^{closed}}{Gt}ds}$$
+Assuming that the closed section is loaded through the shear centre, $\frac{d\theta}{dz}=0$ and for constant $G$ and $t$ we get:
+$$\bar{q}=-\frac{\oint q_{(s)}^{open}ds}{\oint ds}$$
