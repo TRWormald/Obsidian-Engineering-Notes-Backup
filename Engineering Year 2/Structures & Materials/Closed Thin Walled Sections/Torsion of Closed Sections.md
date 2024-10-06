@@ -57,6 +57,7 @@ Remembering the shear flow expression for open sections:
 $$q_{(s)}^{open}=q_{0}-C_{x}\int_{0}^{s}x_{(s)}t_{(s)}ds-C_{y}\int_{0}^{s}y_{(s)}t_{(s)}ds$$
 This equation is based on 1st moment of area relationships, so it must also hold for closed sections - i.e. it gives the correct "rate of change" of the shear flow around closed sections.
 However closed sections no longer have a free edge where $q_{(s)}=0$.
-Therefore, one needs to find this nonzero constant of integration, now called $\bar{q}$ which reveals the true shear flow $q_{(s)}^{closed}$.
-$$\boxed{q_{(s)}^{closed}=q_{(s)}^open}$$
+Therefore, one needs to find this nonzero constant of integration, now called $\bar{q}$ which reveals the true shear flow $q_{(s)}^{closed}$:
+$$\boxed{q_{(s)}^{closed}=q_{(s)}^{open}+\bar{q}}$$
+
 
