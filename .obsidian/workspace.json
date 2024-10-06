@@ -11,14 +11,11 @@
             "id": "275025058f907831",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.08578848720577972
-                }
+                "file": "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Home.canvas"
+                "file": "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,12 +204,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "275025058f907831",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20241006141126.png",
+    "Images & Attachments/Pasted image 20241006140604.png",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_4.pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
@@ -245,17 +245,14 @@
     "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
     "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
-    "Images & Attachments/Pasted image 20241001154022.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
     "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-    "General Interest/Rocket Propulsion/Comments for Rocket Propulsion Elements.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
