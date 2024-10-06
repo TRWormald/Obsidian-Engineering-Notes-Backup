@@ -26,5 +26,15 @@ $$\text{Margin \%}=\frac{\text{Constraint Value - Current System Estimate}}{\tex
 ### Timelines
 Timeline analysis is where functional analysis and budgets combine - it is very important when, for example, you have 100W of power generation but you want to complete an experiment that requires 900W of power (as is the case for some of Perseverance's  experiments) this requires careful use of the rover's batteries.
 ### Managing Risk
-Budgeting can also be applied to the safety of our system and any risks that we may face 
-#### Failure Modes
+Budgeting can also be applied to the safety of our system and any risks that we may face on an engineering programme and project.
+Let's define some key terms:
+**Hazard -** a state or set of conditions, known as a failure mode, internal or external to the system/project that has the potential to cause negative effects.
+**Risk -** The potential for shortfalls, which may be realised in the future, with respect to achieving an intended outcome.
+**Occurrence -** The likelihood of a hazard occurring.
+**Severity -** The impact on the system/project of the hazard.
+\
+The first stage of prioritising risk is to think carefully about our failure mode, to establish the probability it will occur (occurrence), the impact it would have on the system (severity) but also whether we would have any warning or be able to know where the failure mode had come from (detectability).
+For each identified Hazard, the scores for occurrence (O), severity (S) and detectability (R) will be defined.
+We then combine the O, S, and D values into a Risk Priority Number (RPN) using:
+$$RPN=O\times S\times D$$
+If the RPN is too high then we have to take action to rectify it.
