@@ -60,4 +60,17 @@ However closed sections no longer have a free edge where $q_{(s)}=0$.
 Therefore, one needs to find this nonzero constant of integration, now called $\bar{q}$ which reveals the true shear flow $q_{(s)}^{closed}$:
 $$\boxed{q_{(s)}^{closed}=q_{(s)}^{open}+\bar{q}}$$
 
-
+The shear flow $\bar{q}$ can be interpreted in different ways:
+1) A constant which must be added to the open shear flow to give the closed shear flow (as above)
+2) The actual shear flow at the assumed notional cut
+3) Constant shear flow required to counteract externally applied torque, effectively moving the shear centre to its correct location.
+![[Pasted image 20241006144839.png|centre]]
+#### Finding the Closed-cell Constant: Known Shear Centre
+The torque is given by the shear centre offset $e_{x}$:
+$$T=S_{y}e_{x}=\oint q_{(s)}^{open}r_{(s)}ds$$
+So when loading the closed section through its shear centre we get:
+$$\boxed{\bar{q}=-\frac{1}{2\bar{A}}\oint q_{(s)}^{open}r_{(s)}ds}$$
+#### Finding the Closed-cell Constant: Unknown Shear Centre
+If the location of the shear centre is unknown, we cannot find the 'local radius' $r_{(s)}$ directly.
+Instead, we can derive an expression for $\bar{q}$ based on deformation:
+$$ \frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{\bar{q}}{Gt}$$
