@@ -4,21 +4,38 @@
     "type": "split",
     "children": [
       {
+        "id": "7d1049f5c5477093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ace56db8c894f53",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_4.pdf",
+                "page": 22,
+                "left": -20,
+                "top": 58,
+                "zoom": 0.7635113795953474
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "7dcf196919915af2",
         "type": "tabs",
         "children": [
           {
-            "id": "410372adedcc6a57",
+            "id": "7a78af509ca06703",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 23.655058476086822,
-                  "y": -133.85445634463548,
-                  "zoom": -1.2430289376743318
-                }
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Home.canvas"
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md"
               }
             }
           },
@@ -157,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,8 +224,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "410372adedcc6a57",
+  "active": "7a78af509ca06703",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_4.pdf",
+    "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
@@ -223,7 +244,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Orbits/The Kepler Problem.md",
     "Engineering Year 2/Space Systems/Orbits/Orbital Energy.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
@@ -248,13 +268,10 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "General Interest/Rocket Propulsion/Comments for Rocket Propulsion Elements.md",
-    "Engineering Year 2/Structures & Materials/Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
-    "Engineering Year 2/Structures & Materials/2D Elasticity",
-    "Engineering Year 2/Space Systems/Systems Engineering",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
