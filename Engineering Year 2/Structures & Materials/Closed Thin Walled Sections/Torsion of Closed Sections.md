@@ -77,4 +77,4 @@ $$ \frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{\bar{q}}{Gt}ds$$
 This relation also applied when the shear flow varies, therefore:
 $$\boxed{\frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{q_{(s)}^{closed}}{Gt}ds}$$
 Assuming that the closed section is loaded through the shear centre, $\frac{d\theta}{dz}=0$ and for constant $G$ and $t$ we get:
-$$\bar{q}=-\frac{\oint q_{(s)}^{open}ds}{\oint ds}$$
+$$\boxed{\bar{q}=-\frac{\oint q_{(s)}^{open}ds}{\oint ds}}$$
