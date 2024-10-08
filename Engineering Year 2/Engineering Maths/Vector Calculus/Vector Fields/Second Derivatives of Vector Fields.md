@@ -4,3 +4,5 @@ The following make no sense:
 However the next two are identically zero:
 $$\text{curl grad }\phi=\vec{\nabla}\times(\vec{\nabla}\phi)\equiv 0 $$
 $$\text{div curl }\vec{v}=\vec{\nabla}\cdot(\vec{\nabla}\times\vec{v})\equiv 0 $$
+And the following are non-zero:
+$$\text{div grad}=\vec{\nabla}\cdot\vec\nabla$$
