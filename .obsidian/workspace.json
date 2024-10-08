@@ -11,14 +11,11 @@
             "id": "9e961e5d18318241",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Home.canvas"
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,8 +206,13 @@
   },
   "active": "9e961e5d18318241",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+    "Images & Attachments/Pasted image 20241008110640.png",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
     "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Images & Attachments/Pasted image 20241006144839.png",
     "Images & Attachments/Screenshot 2024-10-06 142018.png",
     "Images & Attachments/Pasted image 20241006141908.png",
@@ -241,7 +243,6 @@
     "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Space Systems/Orbits/Orbital Reference Systems.md",
     "Images & Attachments/Screenshot 2024-10-02 201532.png",
-    "Images & Attachments/Pasted image 20241002200211.png",
     "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
     "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
@@ -249,9 +250,6 @@
     "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
     "General Interest/Rocket Propulsion/Notes on Design of Liquid Propellant Rocket Engines.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
