@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md"
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,10 +206,10 @@
   },
   "active": "9e961e5d18318241",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Images & Attachments/Pasted image 20241008111337.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Images & Attachments/Pasted image 20241008110640.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
     "Backend/Home.canvas",
@@ -243,7 +243,6 @@
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Mission Analysis.md",
     "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Space Systems/Orbits/Orbital Reference Systems.md",
-    "Images & Attachments/Screenshot 2024-10-02 201532.png",
     "Engineering Year 2/Space Systems/Orbits/Types of Orbits.md",
     "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
