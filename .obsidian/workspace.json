@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca90aae459a738d",
+        "id": "47e4acb6bfd96bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "9e961e5d18318241",
+            "id": "6f96a26132042bc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Backend/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Backend/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md"
+                "file": "Backend/Home.canvas"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
+                "file": "Backend/Home.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,15 +207,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9e961e5d18318241",
+  "active": "6f96a26132042bc8",
   "lastOpenFiles": [
+    "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
+    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Images & Attachments/Pasted image 20241008111337.png",
     "Images & Attachments/Pasted image 20241008110640.png",
-    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Images & Attachments/Pasted image 20241006144839.png",
     "Images & Attachments/Screenshot 2024-10-06 142018.png",
@@ -223,7 +228,6 @@
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_4.pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins",
-    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
@@ -247,7 +251,6 @@
     "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
     "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
-    "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
