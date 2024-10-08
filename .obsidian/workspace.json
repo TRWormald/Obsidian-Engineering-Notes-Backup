@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md"
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +206,9 @@
   },
   "active": "e94c76b2d99bea7d",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Images & Attachments/Pasted image 20241008214306.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
@@ -248,7 +249,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbital Energy.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Functions and Functional Flow Block Diagrams (FFBDs).md",
     "Engineering Year 2/Space Systems/Systems Engineering/Mission and Functional Analysis/Mission Analysis.md",
-    "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
     "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_3_DRAFT(1).pdf",
