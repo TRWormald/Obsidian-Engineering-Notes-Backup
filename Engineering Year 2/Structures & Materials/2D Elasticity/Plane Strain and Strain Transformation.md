@@ -11,4 +11,10 @@ In plane stress, although $\sigma_{zz}=0$, thickness $t$ may vary due to $v$ (Po
 - etc.
 \
 ### Strain Transformations
-Like with the stress transformation, we can transform strains using
+Like with the stress transformation, we can transform strains using the exact same rotation matrix:
+$$\begin{bmatrix}\varepsilon_{x'x'}\\\varepsilon_{y'y}\\\gamma_{x'y'}/2\end{bmatrix}=\begin{bmatrix}\cos^{2}\theta&\sin^{2}\theta&2\sin\theta\cos\theta\\\sin^{2}\theta&\cos^{2}\theta&-2\sin\theta\cos\theta\\-\sin\theta\cos\theta&\sin\theta\cos\theta&\cos^{2}\theta-\sin^{2}\theta\end{bmatrix}\begin{bmatrix}\varepsilon_{xx}\\\varepsilon_{yy}\\\gamma_{xy}/2\end{bmatrix}$$
+Where we have used the tensorial shear strain $\varepsilon_{xy}=\gamma_{xy}/2$ rather than the engineering strain $\gamma_{xy}$.
+\
+We can also use Mohr's circle for transforming the strain:
+![[Pasted image 20241008111337.png|centre|400]]
+Note that a CCW rotation of the coordinate system is represented by a CW rotation on Mohr's circle.
