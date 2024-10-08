@@ -30,3 +30,23 @@ $$\sigma_{1},\sigma_{2},\sigma_{3}=\text{mean stress }\sigma_{m}+\text{deviatori
 $$\text{mean/hydrostatic stress}: \sigma_{m}=\frac{1}{3}(\sigma_{1}+\sigma_{2}+\sigma_{3})$$
 The total strain energy per unit volume due to principal stresses is given by:
 $$\hat{U}_{total}=\sum\limits_{i=1}^{3} \frac{1}{2}\sigma_{i}\varepsilon_{i}$$
+Using Hooke's Law: $\varepsilon_{1}=\frac{1}{E}[\sigma_{1}-v(\sigma_{2}+\sigma_{3})]$, etc.
+$$\hat{U}_{total}=\frac{1}{2E}[\sigma_{1}^{2}+\sigma_{2}^{2}+\sigma_{3}^{2}-2v(\sigma_{1}\sigma_{2}+\sigma_{1}\sigma_{3}+\sigma_{2}\sigma_{3})]$$
+If we sub in the hydrostatic/mean stress:
+$$\begin{align*}
+\hat{U}_{hydrostatic} &=  \frac{3(1-v)}{2E}\sigma_{m}^{2}\\
+&= \frac{1-2v}{6E}(\sigma_{1}+\sigma_{2}+\sigma_{3})^{2}
+\end{align*}$$
+And if we subtract the volumetric from the total energy:
+$$\hat{U}_{deviatoric}=\frac{1}{12G}\left[(\sigma_{1}-\sigma_{2})^{2}+(\sigma_{2}-\sigma_{3})^{2}+(\sigma_{1}-\sigma_{3})^{2}\right] $$
+To get the critical deviatoric strain energy, we use tensile test data:
+$$\hat{U}_{critical}=\frac{\sigma_{Y}^{2}}{6G}$$
+resulting in the Von Mises failure criterion:
+$$(\sigma_{1}-\sigma_{2})^{2}+(\sigma_{2}-\sigma_{3})^{2}+(\sigma_{1}-\sigma_{3})^{2}=2\sigma_{Y}^{2}$$
+Which for plane stress $\sigma_{3}=0$ reduces to:
+$$\sigma_{1}^{2}-\sigma_{1}\sigma_{2}+\sigma_{2}^{2}=\sigma_{Y}^{2}$$
+![[Pasted image 20241008225750.png|centre|400]]
+The yield locus is an ellipse, which is at $\pi/4$ to the principal axes.
+\
+Note how the Von Mises and Tresca agree closely; with their maximum difference being about 15%.
+![[Pasted image 20241008225918.png|centre|400]]
