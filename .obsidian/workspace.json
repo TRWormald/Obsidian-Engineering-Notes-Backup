@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md"
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,10 +206,11 @@
   },
   "active": "e94c76b2d99bea7d",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
     "Images & Attachments/Pasted image 20241008214306.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
@@ -240,7 +241,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Images & Attachments/Pasted image 20241004150934.png",
-    "Images & Attachments/Pasted image 20241004150909.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Centre.md",
     "Engineering Year 2/Structures & Materials/Thin Walled Sections/Shear Flow Distributions.md",

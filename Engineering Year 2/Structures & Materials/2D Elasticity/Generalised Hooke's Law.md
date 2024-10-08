@@ -26,4 +26,17 @@ $$\begin{bmatrix}\varepsilon_{xx}\\\varepsilon_{yy}\\\gamma_{xy}\end{bmatrix}=\b
 In isotropic materials direct and shear strains are decoupled, i.e. they don't affect each other, and consequentially the principal directions for stress and strain coincide.
 However for anisotropic materials, like composites, the compliance matrix is fully populated with coupling described by $\bar{S}_{16}$ and $\bar{S}_{26}$ terms where the zeros are in the isotropic compliance matrix.
 ### The Shear Modulus
-For isotropic materials [[Shear Modulus]] is 
+For isotropic materials [[Shear Modulus]] G is not independent:
+$$\gamma_{xy}=\frac{\tau_{xy}}{G}$$
+Which is the shear strain due to pure shear.
+If we transform this to $X'Y'$ (+45 degrees):
+$$\varepsilon_{x'x'}=\sin\theta\cos\theta\gamma_{xy}=\frac{\tau_{xy}}{2G}$$
+When we consider the bi-axial loading case again the direct strain equals:
+$$\varepsilon_{x'x'}=\frac{1}{E}(\sigma_{x'x'}-v\sigma_{y'y'})=\frac{\tau_{xy}}{E}(1+v)$$
+And equating both gives:
+$$G=\frac{E}{2(1+v)}$$
+Meaning that we can describe the **isotropic, linear-elastic material under plane stress** using the compliance matrix:
+$$\boxed{\begin{bmatrix}\varepsilon_{xx}\\\varepsilon_{yy}\\\gamma_{xy}\end{bmatrix}=\frac{1}{E}\begin{bmatrix}1&-v&0\\-v&1&0\\0&0&(1-v)/2\end{bmatrix}\begin{bmatrix}\sigma_{xx}\\\sigma_{yy}\\\tau_{xy}\end{bmatrix}}$$
+Or using the stiffness matrix:
+$$\boxed{\begin{bmatrix}\sigma_{xx}\\\sigma_{yy}\\\tau_{xy}\end{bmatrix}=\frac{E}{1-v^{2}}\begin{bmatrix}1&v&0\\v&1&0\\0&0&(1-v)/2\end{bmatrix}\begin{bmatrix}\varepsilon_{xx}\\\varepsilon_{yy}\\\gamma_{xy}\end{bmatrix}}$$
+With only **two** material parameters: $E$ and $v$.
