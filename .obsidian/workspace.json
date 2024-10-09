@@ -20,72 +20,8 @@
                 "zoom": 1.95
               }
             }
-          },
-          {
-            "id": "dc7de8a7a0f95d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0141867253d01b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eda3d5d73a6cdc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb91ac6227b45733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89d1afabfd853b3b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-                "viewState": {
-                  "x": 112.96989360300867,
-                  "y": -444.84711408670677,
-                  "zoom": -2.1270369852197675
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md"
+                "file": "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf"
               }
             }
           },
@@ -220,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
+                "file": "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,12 +206,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cb91ac6227b45733",
+  "active": "da3967bc6a6bcb76",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN RIBS 2024-25 (text)(1).pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
