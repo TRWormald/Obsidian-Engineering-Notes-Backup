@@ -13,5 +13,18 @@ These lead to:
 - **Hohmann Transfers**
 - Fast Transfers
 - Spiral Transfers
-- Rendezvous
+- **Rendezvous**
 - Gravitational Assists
+Of which the ones in bold we will be considering.
+### General Principals of Manoeuvres
+1) Burning prograde increases $a$
+2) Burning retrograde decreases $a$
+3) Initial and final orbits intersect at a point where impulse is applied
+4) You need to get to the right point at the right time
+5) Separate manoeuvres may be combined vectorially
+6) All in plane manoeuvres should be done at periapsis or apoapsis (it's most efficient)
+### Changing Orbit Altitudes
+We know that orbital energy can be calculated (for circular orbits) using the equation:
+$$E=- \frac{GMm}{2r}$$
+Therefore if we want to increase our orbital height from $r_{1}$ to $r_{2}$ then:
+$$E_{2}-E_{1}=\Delta E=- \frac{GMm}{2r_{2}}+ \frac{GMm}{2r_{1}}$$

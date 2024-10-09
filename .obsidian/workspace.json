@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md"
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +206,10 @@
   },
   "active": "a35d4af51da405a4",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
+    "Images & Attachments/Pasted image 20241009215255.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Images & Attachments/Pasted image 20241009204005.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
@@ -252,8 +254,6 @@
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
