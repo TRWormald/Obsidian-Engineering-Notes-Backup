@@ -18,3 +18,10 @@ For circular orbits we can assume that $r\equiv a$, so:
 $$v_{c}^{2}=\mu\left[\frac{2}{r}- \frac{1}{r}\right]= \frac{\mu}{r}$$
 Therefore the velocity of a circular orbit is inversely proportional to the square root of the altitude.
 ### Considering Parabolic Orbits
+For a parabolic orbit, seen below, the escape velocity can be calculated to be:
+![[Pasted image 20241009201649.png|centre|250]]
+$$v_{esc}=\sqrt{\frac{2\mu}{r}}$$
+Note that if we compare $v_{esc}$ with $v_{c}$, there is only a factor of $\sqrt{2}$ difference:
+$$v_{esc}=\sqrt{\frac{2\mu}{r}}~~~~~~~v_{c}=\sqrt{\frac{\mu}{r}}$$
+Thus the $\Delta V$ to escape on a parabolic orbit from a circular orbit is $(\sqrt{2}-1)v_{c}$.
+

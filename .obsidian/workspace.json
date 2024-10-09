@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/The Vis Viva Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/The Vis Viva Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/The Vis Viva Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/The Vis Viva Equation.md"
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/The Vis Viva Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,12 +206,20 @@
   },
   "active": "a35d4af51da405a4",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Orbits/Orbital Energy.md",
-    "Engineering Year 2/Space Systems/Orbits/Ellipses and Energy.md",
-    "Engineering Year 2/Space Systems/Orbits/The Kepler Problem.md",
-    "Engineering Year 2/Space Systems/Orbits/Keplerian Elements & Defining Position.md",
-    "Engineering Year 2/Space Systems/Orbits/Kepler's Laws.md",
-    "Engineering Year 2/Space Systems/Orbits/The Vis Viva Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 3/Orbital Energy and the Two Body Problem.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 1/Kepler's Laws.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 4",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 3",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 2",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 1",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5",
+    "Images & Attachments/Pasted image 20241009201649.png",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN RIBS 2024-25 (text)(1).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
@@ -241,20 +248,11 @@
     "Images & Attachments/Pasted image 20241008111337.png",
     "Images & Attachments/Pasted image 20241008110640.png",
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
-    "Images & Attachments/Pasted image 20241006144839.png",
-    "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections",
-    "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_4.pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
-    "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Rules of Vector Differentiation.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Stationary Points of Scalar Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Scalar Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiating Scalar Fields.pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
-    "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
