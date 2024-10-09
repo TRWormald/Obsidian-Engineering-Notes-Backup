@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/Manoeuvres.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/Manoeuvres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/Manoeuvres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md"
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/Manoeuvres.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/Manoeuvres.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,9 +206,10 @@
   },
   "active": "a35d4af51da405a4",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Manoeuvres.md",
     "Images & Attachments/Pasted image 20241009204005.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 3/Orbital Energy and the Two Body Problem.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Kepler's Laws.md",
@@ -247,7 +248,6 @@
     "General Interest/Rocket Propulsion/How to Design, Build and Test small liquid-fuel rocket engines.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Images & Attachments/Pasted image 20241008111337.png",
-    "Images & Attachments/Pasted image 20241008110640.png",
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Scalar Fields/Differentiation of Scalar Fields.md",
