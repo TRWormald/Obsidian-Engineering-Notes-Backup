@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f9e447e2c1b79cd",
+        "id": "8e1435b82255cb0a",
         "type": "tabs",
         "children": [
           {
-            "id": "e94c76b2d99bea7d",
+            "id": "cb91ac6227b45733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,8 +195,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e94c76b2d99bea7d",
+  "active": "cb91ac6227b45733",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
     "Images & Attachments/Pasted image 20241008225918.png",
     "Images & Attachments/Pasted image 20241008225750.png",
     "Images & Attachments/Pasted image 20241008224733.png",
@@ -213,7 +205,6 @@
     "Images & Attachments/Pasted image 20241008223952.png",
     "Images & Attachments/Pasted image 20241008223745.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Images & Attachments/Pasted image 20241008214306.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
@@ -232,7 +223,6 @@
     "Images & Attachments/Pasted image 20241008110640.png",
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Images & Attachments/Pasted image 20241006144839.png",
-    "Images & Attachments/Screenshot 2024-10-06 142018.png",
     "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_Section_4.pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
