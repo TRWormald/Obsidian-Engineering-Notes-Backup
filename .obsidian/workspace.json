@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3359acf5fa1bd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -206,12 +218,13 @@
   },
   "active": "ad335a8984509633",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Rendezvous Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Backend/Home.canvas",
@@ -235,7 +248,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 3",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2",
     "Images & Attachments/Pasted image 20241009201649.png",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
