@@ -13,7 +13,7 @@ Where:
 \
 The mean anomaly $M$ is defined as the angle from periapsis of a body in a circular orbit with the same period.
 If the spacecraft were travelling on the circle, its angular velocity would be equal to the mean motion:
-$$n=\sqrt{\frac{\mu}{a^{3}}}$$
+$$\boxed{n=\sqrt{\frac{\mu}{a^{3}}}}$$
 And true anomaly $\theta$ is related to eccentric anomaly through:
 $$\boxed{\tan \frac{\theta}{2}=\sqrt{\frac{1+e}{1-e}}\tan \frac{E}{2}}$$
 
