@@ -14,3 +14,6 @@ Where $\textbf{r}(t)$ is the position of the load, so that in this case $d\mathb
 $$\mathbf{r}(t)=\mathbf{a}+\mathbf{c}t,~~~~~~~~ \text{for which }~~d\mathbf{r}(t)=\mathbf{c}~dt$$
 So that:
 $$W=\int_{t=0}^{t=(b-a)}\textbf{F}(\mathbf{r}(t))\cdot \mathbf{c}~dt$$
+#### Example 4.1
+![[Pasted image 20241011152044.png]]
+
