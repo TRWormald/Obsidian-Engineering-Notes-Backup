@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4c87e52d135eeb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md"
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,14 +217,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c57d9b621d5b45aa",
+  "active": "f4c87e52d135eeb2",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
+    "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+    "Engineering Year 2/Structures & Materials/Idealised Sections",
     "Images & Attachments/Screenshot 2024-10-11 132410.png",
     "Images & Attachments/Pasted image 20241011132157.png",
     "Images & Attachments/Pasted image 20241011121319.png",
     "Images & Attachments/Pasted image 20241011120450.png",
     "Backend/Home.canvas",
-    "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
     "Untitled.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
@@ -241,7 +256,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 6",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4",
     "Engineering Year 2/Space Systems/Orbits/Orbits 3",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 2",
     "Images & Attachments/Pasted image 20241009201649.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
@@ -249,7 +263,6 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Images & Attachments/Pasted image 20241008225918.png",
-    "Images & Attachments/Pasted image 20241008225750.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",

@@ -36,3 +36,21 @@ Where:
 - $y_{l}/x_{l}$ is the centroid based coordinate of the connected boom $l$
 - $y_{k}/x_{k}$ is the centroid based coordinate of current boom $k$
 ### Section Properties of Idealised Structures
+All bending properties are computed based on **booms alone**, i.e. replacing all integrals with summations:
+$$A\approx \sum\limits_{k=1}^{n_{k}}B_{k}$$
+So:
+$$\begin{align*}
+Q_{XX}&= \sum\limits Y_{k}B_{k}\\
+\bar{Y}&= \frac{Q_{XX}}{A}
+\end{align*}$$
+$$\begin{align*}
+Q_{YY}&= \sum\limits X_{k}B_{k}\\
+\bar{X}&= \frac{Q_{YY}}{A}
+\end{align*}$$
+$$\boxed{\begin{align*}
+I_{xx}&= \sum(y_{k})^{2}B_{k}\\\\
+
+I_{yy}&= \sum(x_{k})^{2}B_{k}\\\\
+
+I_{xy}&= \sum(x_{k}y_{k})B_{k}
+\end{align*}}$$

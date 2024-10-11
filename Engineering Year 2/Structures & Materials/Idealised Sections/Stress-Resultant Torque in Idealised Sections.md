@@ -1,0 +1,1 @@
+$$B_{k}=J_{k}+\sum\limits_{\text{all connected booms } l}\left[\frac{b_{kl}t_{kl}}{6}\left(2+\frac{y_{l}}{y_{k}}\right)\right]$$
