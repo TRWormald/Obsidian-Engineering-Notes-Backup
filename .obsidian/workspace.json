@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,8 +219,10 @@
   },
   "active": "2299e5d39c3dbe4e",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves",
+    "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Images & Attachments/Pasted image 20241011141731.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
     "Images & Attachments/Screenshot 2024-10-11 132410.png",
@@ -256,7 +258,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Kepler's Laws.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 3",
     "Images & Attachments/Pasted image 20241009201649.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
