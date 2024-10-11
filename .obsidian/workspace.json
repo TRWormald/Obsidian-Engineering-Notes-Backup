@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md"
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +219,7 @@
   },
   "active": "2299e5d39c3dbe4e",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
@@ -266,7 +267,6 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
