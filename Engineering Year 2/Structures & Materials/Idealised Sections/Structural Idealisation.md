@@ -47,6 +47,7 @@ $$\begin{align*}
 Q_{YY}&= \sum\limits X_{k}B_{k}\\
 \bar{X}&= \frac{Q_{YY}}{A}
 \end{align*}$$
+However the boom areas are based on the loading case and therefore the formulae are inaccurate.
 $$\boxed{\begin{align*}
 I_{xx}&= \sum(y_{k})^{2}B_{k}\\\\
 
@@ -54,3 +55,7 @@ I_{yy}&= \sum(x_{k})^{2}B_{k}\\\\
 
 I_{xy}&= \sum(x_{k}y_{k})B_{k}
 \end{align*}}$$
+### Shear Flow in Idealised Sections
+Starting from a free edge ($q_{1}=0$) and integrating along the section, we now need to sum every boom along the path, so the shear flow becomes:
+$$q_{i}=-C_{x}\sum\limits_{k}x_{k}B_{k}-C_{y}\sum\limits_{k}y_{k}B_{k}$$
+Where $i$ is the index of the current wall.

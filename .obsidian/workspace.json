@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4c87e52d135eeb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md"
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md"
               }
             }
           },
@@ -167,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,10 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f4c87e52d135eeb2",
+  "active": "c57d9b621d5b45aa",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
+    "Images & Attachments/Pasted image 20241011141731.png",
+    "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
     "Images & Attachments/Screenshot 2024-10-11 132410.png",
     "Images & Attachments/Pasted image 20241011132157.png",
@@ -262,11 +250,9 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Images & Attachments/Pasted image 20241008225918.png",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",

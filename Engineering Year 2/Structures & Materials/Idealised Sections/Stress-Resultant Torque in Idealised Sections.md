@@ -6,4 +6,6 @@ Since shear flow values $q_{i}$ are assumed to be constant between booms, stress
 \
 The torque $M_{z}$ produced by the shear flow about any point $O$ in the plane of the section can eb obtained from:
 $$^{i}M_{z}=q_{i}(2 \hat{A}_{i})$$
-Where $\hat{A}_{i}$ is the total area enclosed by wall $i$ and the lines joining the ends of the wall to point $O$.
+Where $\hat{A}_{i}$ is the total area enclosed by wall $i$ and the lines joining the ends of the wall to point $O$:
+![[Pasted image 20241011141731.png|centre|300]]
+Thus, the stress-resultant torque about any reference point is the product of the shear flow and twice the area subtended between the web and this reference point.
