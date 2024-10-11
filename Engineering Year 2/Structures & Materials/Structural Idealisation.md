@@ -18,3 +18,7 @@ As we move to more realistic thin-walled structures, it becomes necessary to sim
 Skins act as diagonal members in pin-jointed truss structures:
 ![[Pasted image 20241011121319.png|centre]]
 ### Effective Boom Areas
+The 'lumping' or 'concentration' of skin areas is based on equilibrium of bending stresses and bending moments.
+\
+Balancing moments $M_{n}$ at boom 2 gives:
+![[Pasted image 20241011132157.png|centre]]
