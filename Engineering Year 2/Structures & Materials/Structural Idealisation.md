@@ -26,12 +26,13 @@ Bending stresses are proportional to the distance from the neutral axis, so for 
 ![[Screenshot 2024-10-11 132410.png|centre]]
 Hence we can calculate the effective boom area expressions:
 For shear loading along $y$:
-$$B_{k}=J_{k}+\sum\limits_{\text{all connected booms}}\left[\frac{b_{kl}t_{kl}}{6}\left(2+\frac{y_{l}}{y_{k}}\right)\right]$$
+$$B_{k}=J_{k}+\sum\limits_{\text{all connected booms } l}\left[\frac{b_{kl}t_{kl}}{6}\left(2+\frac{y_{l}}{y_{k}}\right)\right]$$
 For shear loading long $x$:
-$$B_{k}=J_{k}+\sum\limits_{\text{all connected booms}}\left[\frac{b_{kl}t_{kl}}{6}\left(2+\frac{x_{l}}{x_{k}}\right)\right]$$
+$$B_{k}=J_{k}+\sum\limits_{\text{all connected booms }l}\left[\frac{b_{kl}t_{kl}}{6}\left(2+\frac{x_{l}}{x_{k}}\right)\right]$$
 Where:
 - $J_{k}$ is the cross-sectional area of local joint or reinforcement
 - $b_{kl}$ is the wall length between booms $k$ and $l$
 - $t_{kl}$ is the wall thickness between booms $k$ and $l$
 - $y_{l}/x_{l}$ is the centroid based coordinate of the connected boom $l$
-- 
+- $y_{k}/x_{k}$ is the centroid based coordinate of current boom $k$
+### Section Properties of Idealised Structures
