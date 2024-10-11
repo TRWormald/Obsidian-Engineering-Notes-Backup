@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "20964c38d7388f06",
+        "id": "096b4338783d00d7",
         "type": "tabs",
         "children": [
           {
-            "id": "6f121462b7aa638f",
+            "id": "c57d9b621d5b45aa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Home.canvas"
+                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,10 +204,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f121462b7aa638f",
+  "active": "c57d9b621d5b45aa",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Images & Attachments/Pasted image 20241011120450.png",
     "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Structural Idealisation.md",
+    "Untitled.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
@@ -255,7 +254,6 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/The Constitutive Model.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
