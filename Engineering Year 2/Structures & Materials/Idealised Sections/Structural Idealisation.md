@@ -55,6 +55,7 @@ I_{yy}&= \sum(x_{k})^{2}B_{k}\\\\
 
 I_{xy}&= \sum(x_{k}y_{k})B_{k}
 \end{align*}}$$
+However using the inaccurate calculations for the centroi
 ### Shear Flow in Idealised Sections
 Starting from a free edge ($q_{1}=0$) and integrating along the section, we now need to sum every boom along the path, so the shear flow becomes:
 $$q_{i}=-C_{x}\sum\limits_{k}x_{k}B_{k}-C_{y}\sum\limits_{k}y_{k}B_{k}$$
