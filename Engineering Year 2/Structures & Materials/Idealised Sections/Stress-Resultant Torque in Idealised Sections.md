@@ -9,3 +9,4 @@ $$^{i}M_{z}=q_{i}(2 \hat{A}_{i})$$
 Where $\hat{A}_{i}$ is the total area enclosed by wall $i$ and the lines joining the ends of the wall to point $O$:
 ![[Pasted image 20241011141731.png|centre|300]]
 Thus, the stress-resultant torque about any reference point is the product of the shear flow and twice the area subtended between the web and this reference point.
+*Note that the area is effected by the RHR as well, so in the image above the area will be negative because we are moving clockwise!*
