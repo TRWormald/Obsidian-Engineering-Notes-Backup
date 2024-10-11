@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dcaecdd44e18dee6",
+        "id": "20964c38d7388f06",
         "type": "tabs",
         "children": [
           {
-            "id": "1295059df3aa596b",
+            "id": "6f121462b7aa638f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Backend/Home.canvas",
                 "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -1.3545026863161644
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -207,7 +207,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "6f121462b7aa638f",
   "lastOpenFiles": [
     "Untitled.md",
     "Backend/Home.canvas",
