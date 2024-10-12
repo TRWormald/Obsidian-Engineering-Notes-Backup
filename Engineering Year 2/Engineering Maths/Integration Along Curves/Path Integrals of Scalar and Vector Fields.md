@@ -17,3 +17,11 @@ $$W=\int_{t=0}^{t=(b-a)}\textbf{F}(\mathbf{r}(t))\cdot \mathbf{c}~dt$$
 #### Example 4.1
 ![[Pasted image 20241011152044.png]]
 
+![[WhatsApp Image 2024-10-12 at 12.13.37_4f9b665b.jpg|centre]]
+![[WhatsApp Image 2024-10-12 at 12.14.24_405e70ed.jpg|centre]]
+
+
+#### The Work Integral
+The **work integral** is an example of a path integral of a vector field:
+$$\int_{C}\mathbf{v}(\mathbf{r})\cdot d\mathbf{r}$$
+We can interpret this in 2D as summing the components of the vectors in the direction of the tangent to the curve $C$ at each point along $C$ whose position vector is $\mathbf{r}$.
