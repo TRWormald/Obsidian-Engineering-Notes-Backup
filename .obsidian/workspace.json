@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
-                "page": 31,
-                "left": -48,
-                "top": 155,
-                "zoom": 0.7
+                "page": 35,
+                "left": 48,
+                "top": 675,
+                "zoom": 0.97
               }
             }
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md"
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,9 +226,13 @@
   },
   "active": "c55cf7a97c87d3bb",
   "lastOpenFiles": [
-    "Images & Attachments/Pasted image 20241012172657.png",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
+    "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
+    "Images & Attachments/Pasted image 20241012173604.png",
+    "Images & Attachments/Pasted image 20241012173412.png",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md",
+    "Images & Attachments/Pasted image 20241012172841.png",
+    "Images & Attachments/Pasted image 20241012172657.png",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
     "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20241012171321.png",
@@ -247,12 +251,8 @@
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.19.38_b2b3af1c.jpg",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.19.38_51346ae2.jpg",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
-    "Images & Attachments/Pasted image 20241012134132.png",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
-    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.34.17_da3627bf.jpg",
-    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.34.17_5737ef5d.jpg",
-    "Images & Attachments/Pasted image 20241012131736.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
@@ -266,7 +266,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Rendezvous Manoeuvres.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",

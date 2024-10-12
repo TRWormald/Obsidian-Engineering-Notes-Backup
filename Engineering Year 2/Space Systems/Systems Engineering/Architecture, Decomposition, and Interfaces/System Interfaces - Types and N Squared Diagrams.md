@@ -1,0 +1,24 @@
+There are several different types of interfaces that exist:
+- **Physical** -  This is where something will physically constrain our architecture. For example, connectors and pipes within fluid systems, or geometrical envelopes that our system must fit within.
+- **Energy Flow** - Interfaces that move energy across them (most often as electrical power). Typically, energy flow interfaces will need a corresponding physical interface (e.g. wires, plugs and sockets). Energy Flow interfaces will not always be useful. For example, waste heat is a common energy flow interface and we call such losses ‘by product’ interfaces.
+- **Mass Flow** - Interfaces where a fluid, gas or solid is passed between sub-systems. For example, propellant flow rate. Similar to energy flow interfaces, these often need a corresponding physical interface
+- **Data Flow** - Interfaces where ‘information’ is passed between sub-systems. Information can be in the form of stored binary, electrical signals or any other way of communicating information.
+- **Human Interface** - Most systems have to interact with the end user.
+\
+Managing interfaces would be a whole load of work if we didn’t have a concept called STANDARDS. Standards provide an explicit definition of an interface that means any engineer or stakeholder can be confident that they are designing to the same conditions as another stakeholder. Standards are the true secret to managing complex system design because it removes the risk and cost associated with designing bespoke links between sub-systems every single time.
+\
+The representation of interfaces can become exceptionally complicated for real engineering systems and it is already starting to look quite messy in Figure 20. Don’t panic, we have a specific tool that can help us clearly represent interfaces, known as an $N^2$ (N-squared) diagram. An example for the architecture in Figure 20 is shown in Figure 21.
+![[Pasted image 20241012173412.png|centre]]
+$N^{2}$ diagrams are a wonderfully elegant way to show interfaces. We start by placing our sub-system elements on the main diagonal for the table. Anything in a column then represents an input to the system element within that column and anything in a row represents an output from the system element within that row. For example, we can see that ‘propellant flow’ is an output from the Propellant Control system and an input to the Propellant Delivery system in Figure 20. As we are considering a simplified system architecture, our N2 diagram does look sparse, but you can appreciate in the real world they can become incredibly complex. One area of complexity is feedback in the $N^2$ diagram. In the event that we see an output on the left-hand side of a system block this infers that it is feedback to another part of the system. Now we have some power over this in the $N^2$ diagram, and we can move system blocks around to eliminate feedback. For example, the ‘Trajectory Guidance’ system block could be moved to before the Propellant Control block and this would remove the feedback in Figure 21.
+
+### Picking the Black Boxes: Trade-off's and TRLs
+
+A general term that is used to cover the use of such tools for evaluating competing system and sub-system architectures is known as a tradeoff study or a trade study. Some key elements to keep in mind when deploying a trade-off study (regardless of the tool used) are: 
+- Be very cautious of trade-off studies being manipulated to tell you want you want to see - confirmation bias 
+- Trade-off studies are very good at rejecting many ideas (often quashing creativity) and really poor at ranking or separating system architectures that are close in suitability 
+- Often the weights and scores used in trade-off studies are a source of huge subjectivity and uncertainty. Where possible, assess the sensitivity of your ranking to the assumed values in the tradeoff study. Even changing values ±10% can give you an idea of what scores, weights and metrics the study is sensitive too. You can then investigate whether you can source any further definition or justification for these tradeoff study elements 
+- Remember that optimising at the component or sub-system level can lead to a non-optimal system performance. Always try to build your tradeoff and optimisation processes with the system need and requirements at its core
+
+
+ Within the Aerospace sector and specifically Space Systems Engineering, we are often reliant on new or ‘cutting edge’ technology. New technology presents a massive programme and system risk and therefore Technology Readiness Levels (TRLs) are widely employed to enable engineers to refer to a consistent framework (like a standard) to ensure new technology is developed and its associated risk level known consistently. The TRLs employed by NASA are shown in Figure 22:
+![[Pasted image 20241012173604.png]]
