@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88ba387c9874873c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -206,8 +218,10 @@
   },
   "active": "b178fd4d3436ff6e",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+    "Images & Attachments/Pasted image 20241012131736.png",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 13.12.07_773f67b5.jpg",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 13.06.35_649dd9ad.jpg",
@@ -226,7 +240,6 @@
     "Engineering Year 2/Engineering Maths/Integration Along Curves",
     "Images & Attachments/Pasted image 20241011141731.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
-    "Images & Attachments/Screenshot 2024-10-11 132410.png",
     "Untitled.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
@@ -252,7 +265,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 4",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
