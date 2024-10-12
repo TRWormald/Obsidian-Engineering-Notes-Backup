@@ -9,3 +9,9 @@ Hence the integral only depends on the value of $\phi$ at $A$ and $B$ and is ind
 ![[Pasted image 20241012143344.png]]
 We must use the previous force field:
 $$\mathbf{F}=(2xy+z^{3},x^{2},3xz^{2})$$
+![[WhatsApp Image 2024-10-12 at 14.41.27_aba98ae9.jpg|centre]]
+#### Remarks
+- The converse is also true; if  the work integral is independent of the path taken between any two points then there must exist a scalar potential function $\phi$ such that $\mathbf F=\mathbf \nabla \phi$
+- If $C$ is a closed curve, then we can show that for a conservative vector field:
+$$\oint_{C}\mathbf{F}\cdot d\mathbf r=0$$
+- Force fields that are not conservative ($\nabla\times\mathbf{F}\ne 0$) are called **non-conservative** or **dissipative**. An example is the force on a mass in a rotating frame due to angular acceleration $\mathbf]$
