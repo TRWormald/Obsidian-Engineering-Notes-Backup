@@ -32,6 +32,9 @@ ds&= |d\mathbf{r}|=\left|\frac{d\mathbf{r}(t)}{dt}dt\right|=\left|\frac{d\mathbf
 \end{align*}$$
 So that:
 $$\begin{align*}
-S=\int_{C}ds=\int_{C}|d\mathbf r|\\
-=\int_{t=a}^{b}\sqrt{\left(\frac{dx}{dt}\right)^{2}+\left(\frac{dy}{dt}\right)^{2}+\left(\frac{dz}{dt}\right)^{2}}~dt
+S&= \int_{C}ds=\int_{C}|d\mathbf r|=\int_{t=a}^{b}\left|\frac{d\mathbf{r}}{dt}\right|~dt\\
+&= \int_{t=a}^{b}\sqrt{\left(\frac{dx}{dt}\right)^{2}+\left(\frac{dy}{dt}\right)^{2}+\left(\frac{dz}{dt}\right)^{2}}~dt
 \end{align*}$$
+#### Example 4.2
+![[Pasted image 20241012125617.png|centre]]
+
