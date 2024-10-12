@@ -35,4 +35,4 @@ $$\int_{C}f(\mathbf{r})~ds=\int_{C}f(\mathbf{r})|d\mathbf{r}|$$
 Where $ds$ is the infinitesimal arclength along $C$.
 We can interpret this in 2D as taking a path $C$ across the contours $f=const.$ summing up the height.
 ![[Pasted image 20241012123424.png|centre]]
-
+Clearly in general, if two different curves $C_1$ and $C_2$ connect the same end points a and b then the integrals along $C_1$ and $C_2$ will be different.

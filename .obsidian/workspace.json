@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,6 +206,7 @@
   },
   "active": "b178fd4d3436ff6e",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Images & Attachments/Pasted image 20241012123424.png",
     "Images & Attachments/Pasted image 20241012122818.png",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 12.14.24_405e70ed.jpg",
@@ -215,7 +216,6 @@
     "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Images & Attachments/Pasted image 20241011152044.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
@@ -245,7 +245,6 @@
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN RIBS 2024-25 (text)(1).pdf",
     "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
-    "Images & Attachments/Pasted image 20241009220003.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 3/Orbital Energy and the Two Body Problem.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Kepler's Laws.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6",
