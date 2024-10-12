@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,11 +218,14 @@
   },
   "active": "b178fd4d3436ff6e",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
-    "Images & Attachments/Pasted image 20241012131736.png",
+    "Images & Attachments/Pasted image 20241012134132.png",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.34.17_da3627bf.jpg",
+    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.34.17_5737ef5d.jpg",
+    "Images & Attachments/Pasted image 20241012131736.png",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 13.12.07_773f67b5.jpg",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 13.06.35_649dd9ad.jpg",
     "Images & Attachments/Pasted image 20241012125617.png",
@@ -235,10 +238,8 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
-    "Images & Attachments/Pasted image 20241011152044.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves",
-    "Images & Attachments/Pasted image 20241011141731.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
     "Untitled.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
@@ -264,7 +265,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 6",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",

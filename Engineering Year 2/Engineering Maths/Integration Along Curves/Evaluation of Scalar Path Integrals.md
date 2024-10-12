@@ -15,3 +15,5 @@ We have already seen examples of this:
 - Total arclength $S$ is just the scalar path integral $S=\int_{C}1~ds$ of the field $f(\mathbf{r})=1$.
 #### Example 4.3
 ![[Pasted image 20241012131736.png|centre]]
+![[WhatsApp Image 2024-10-12 at 13.34.17_5737ef5d.jpg|centre]]
+![[WhatsApp Image 2024-10-12 at 13.34.17_da3627bf.jpg|centre]]
