@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
-                "page": 29,
-                "left": -20,
-                "top": 180,
-                "zoom": 0.7635113795953474
+                "page": 30,
+                "left": -5,
+                "top": 113,
+                "zoom": 0.8
               }
             }
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Untitled.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Untitled.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Untitled.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Untitled.md"
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Untitled.md",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +227,8 @@
   "active": "550fed4f7358b09e",
   "lastOpenFiles": [
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
-    "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Untitled.md",
+    "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
+    "Images & Attachments/Pasted image 20241012171321.png",
     "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces",
@@ -250,7 +251,6 @@
     "Images & Attachments/WhatsApp Image 2024-10-12 at 13.34.17_da3627bf.jpg",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 13.34.17_5737ef5d.jpg",
     "Images & Attachments/Pasted image 20241012131736.png",
-    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.12.07_773f67b5.jpg",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
