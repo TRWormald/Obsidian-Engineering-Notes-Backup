@@ -37,4 +37,7 @@ S&= \int_{C}ds=\int_{C}|d\mathbf r|=\int_{t=a}^{b}\left|\frac{d\mathbf{r}}{dt}\r
 \end{align*}$$
 #### Example 4.2
 ![[Pasted image 20241012125617.png|centre]]
+![[WhatsApp Image 2024-10-12 at 13.06.35_649dd9ad.jpg|centre|]]
+![[WhatsApp Image 2024-10-12 at 13.12.07_773f67b5.jpg|centre]]
+
 

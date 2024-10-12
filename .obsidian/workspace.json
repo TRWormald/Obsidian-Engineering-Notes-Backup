@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,13 +206,16 @@
   },
   "active": "b178fd4d3436ff6e",
   "lastOpenFiles": [
-    "Images & Attachments/Pasted image 20241012125617.png",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.12.07_773f67b5.jpg",
+    "Images & Attachments/WhatsApp Image 2024-10-12 at 13.06.35_649dd9ad.jpg",
+    "Images & Attachments/Pasted image 20241012125617.png",
     "Images & Attachments/Pasted image 20241012123424.png",
     "Images & Attachments/Pasted image 20241012122818.png",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 12.14.24_405e70ed.jpg",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 12.13.37_4f9b665b.jpg",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
@@ -224,9 +227,6 @@
     "Images & Attachments/Pasted image 20241011141731.png",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
     "Images & Attachments/Screenshot 2024-10-11 132410.png",
-    "Images & Attachments/Pasted image 20241011132157.png",
-    "Images & Attachments/Pasted image 20241011121319.png",
-    "Images & Attachments/Pasted image 20241011120450.png",
     "Untitled.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
