@@ -11,10 +11,11 @@ Which is:
 	- We may even just rely on labelled black boxes
 - Interfaces
 	- The final aspect of the system architecture in figure 17 is that it shows the interfaces between sub-system elements.
-Therefore, we can see that a system architecture is a depiction of our system design that aims to highlight what system/sub-system elements we need based upon their function, but also the interfaces between them.
-**The INCOSE definition for System Architectures provides a really nice framework for creating system architectures:**
- **A System Architecture is the selection of the types of system elements, their characteristics and their arrangement, to meet the following criteria:** 
- 1. **Satisfies the requirements** 
- 2. **Implements the functional architecture** 
- 3. **Acceptably close to optimum, within constraints of time, budget and knowledge**
-4. **Consistent with the technical maturity and risks of selected elements**
+### System Architecture Definition
+  Therefore we can see that a system architecture is a depiction of our system design that aims to highlight what system/sub-system elements we need based upon their function, but also the interfaces between them.
+  **The INCOSE definition for System Architectures provides a really nice framework for creating system architectures:**
+ **A System Architecture is the selection of the types of system elements, their characteristics and their arrangement, to meet the following criteria:**
+1) **Satisfies the requirements** 
+2) **Implements the functional architecture** 
+3) **Acceptably close to optimum, within constraints of time, budget and knowledge**
+4) **Consistent with the technical maturity and risks of selected elements**
