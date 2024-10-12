@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,8 +218,11 @@
   },
   "active": "b178fd4d3436ff6e",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+    "Images & Attachments/Pasted image 20241012143344.png",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.19.38_b2b3af1c.jpg",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.19.38_51346ae2.jpg",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
@@ -260,11 +263,8 @@
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN RIBS 2024-25 (text)(1).pdf",
     "Engineering Year 2/AVDASI 2/Structures/Aerospace Structural Design.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 3/Orbital Energy and the Two Body Problem.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 1/Kepler's Laws.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
