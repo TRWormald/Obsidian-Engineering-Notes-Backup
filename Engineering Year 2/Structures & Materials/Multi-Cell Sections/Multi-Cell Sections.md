@@ -9,8 +9,14 @@ The externally applied load or global deformation usually provides an additional
 - Pure torsion: $T$ or $\frac{d\theta}{dz}$
 - Shear loading $e_{x}$, $e_{y}$, or $\frac{d\theta}{dz}$
 We need $(n+1)$ equations to solve for these unknowns.
-\
+#### Rates of twist for each cell $j$
 Writing the twist rate equation for cell $j$ gives:
 $$\frac{d\theta}{dz}=\frac{1}{2\bar{A}_{j}G}\oint_{j}q_{(s)}^{closed} \frac{ds}{t}$$
 So we can rearrange this to be:
-$$\oint_{j}q_{(s)}^{closed} \frac{ds}{t}=(2\)$$
+$$\oint_{j}q_{(s)}^{closed} \frac{ds}{t}=(2\bar{A}_{j}G) \frac{d\theta}{dz}$$
+Convert the loop integral into a summation of all of the walls:
+$$\sum\limits_{i\in j}\left[(q_{i}^{open}+^{*}\bar{q}_{i})\frac{b_{i}}{t_{i}}\right]=(2\bar{A}_{j}G)\frac{d\theta}{dz}$$
+Where:
+$$^{*}\bar{q}_{i}=\left\{\begin{matrix}\bar{q}_{j}~~~~~~~~~~~~~~~~~~{\text{Wall is exclusive to cell j}}\\\bar{q}_{j}-\bar{q}_{[j\pm 1]}~~~~~~~\text{Wall is shared with cell }[j\pm1]\end{matrix} \right.$$
+#### Balance of Torques
+
