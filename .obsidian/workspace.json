@@ -11,14 +11,11 @@
             "id": "c55cf7a97c87d3bb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.08578848720577972
-                }
+                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Home.canvas"
+                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,6 +206,12 @@
   },
   "active": "c55cf7a97c87d3bb",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20241013121607.png",
+    "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections Notation.md",
+    "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
+    "Images & Attachments/Pasted image 20241013121347.png",
+    "Engineering Year 2/Structures & Materials/Multi-Cell Sections",
+    "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
     "Images & Attachments/Pasted image 20241012173604.png",
@@ -217,7 +220,6 @@
     "Images & Attachments/Pasted image 20241012172841.png",
     "Images & Attachments/Pasted image 20241012172657.png",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
-    "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20241012171321.png",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces",
@@ -232,7 +234,6 @@
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.19.38_b2b3af1c.jpg",
-    "Images & Attachments/WhatsApp Image 2024-10-12 at 14.19.38_51346ae2.jpg",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
@@ -247,14 +248,11 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Rendezvous Manoeuvres.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "General Interest/Rocket Propulsion/Design of Liquid Propellant Rocket Engines.pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-    "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN RIBS 2024-25 (text)(1).pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
