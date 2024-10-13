@@ -37,3 +37,5 @@ $$S_{Y}e_{X}-S_{X}e_{Y}={\sum\limits_{\text{all } i}(q_{i}^{open}r_{i}b_{i})}+{\
 #### In Pure Torsion
 For $n$ equations:
 $$\sum\limits_{i\in j}\left[^{*}\bar{q}_{i}\frac{b_{i}}{t_{i}}\right]=(2\bar{A}_{j}G)\frac{d\theta}{dz}$$
+The $(n+1)^{th}$ equation:
+$$T=\sum\limits_{\text{all }j}(2~\bar{A}_{j}~\bar{q}_{j})$$
