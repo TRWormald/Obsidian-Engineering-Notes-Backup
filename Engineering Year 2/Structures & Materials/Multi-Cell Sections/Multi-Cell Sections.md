@@ -21,4 +21,10 @@ $$^{*}\bar{q}_{i}=\left\{\begin{matrix}\bar{q}_{j}~~~~~~~~~~~~~~~~~~{\text{Wall 
 #### Balance of Torques
 We have an equation relating the pure torsion case and the shear loading case to the stress resultant torque:
 $$T+S_{Y}e_{X}-S_{X}e_{Y}=\oint q_{(s)}^{closed}r_{(s)}ds$$
-
+And:
+$$\begin{align*}
+\oint q_{(s)}^{closed}r_{(s)}ds&= \oint(q_{(s)}^{open}+\bar{q})r_{(s)}ds\\
+&= \oint q_{(s)}^{open}r_{(s)}ds+\bar{q}\underbrace{\oint r_{(s)}ds}_{=2\bar{A}}
+\end{align*}$$
+Hence:
+$$\underbrace{T}_{\text{Pure Torsion}}+\underbrace{S_{Y}e_{X}-S_{X}e_{Y}}_{\text{Shear Loading Case}}=\underbrace{\sum\limits_{\text{all } i}(q_{i}^{open}\cdot r_{i}\cdot b_{i})}_{\text{Open-cell flow along walls}}+\sum\limits_{\text{all }j}(2\bar{A}_{j}\bar{q}_{j})$$ 
