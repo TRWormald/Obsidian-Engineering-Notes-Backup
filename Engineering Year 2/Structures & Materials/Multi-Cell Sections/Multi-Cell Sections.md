@@ -27,4 +27,13 @@ $$\begin{align*}
 &= \oint q_{(s)}^{open}r_{(s)}ds+\bar{q}\underbrace{\oint r_{(s)}ds}_{=2\bar{A}}
 \end{align*}$$
 Hence:
-$$\underbrace{T}_{\text{Pure Torsion}}+\underbrace{S_{Y}e_{X}-S_{X}e_{Y}}_{\text{Shear Loading Case}}=\underbrace{\sum\limits_{\text{all } i}(q_{i}^{open}\cdot r_{i}\cdot b_{i})}_{\text{Open-cell flow along walls}}+\sum\limits_{\text{all }j}(2\bar{A}_{j}\bar{q}_{j})$$ 
+$$\underbrace{T}_{\text{Pure Torsion}}+\underbrace{S_{Y}e_{X}-S_{X}e_{Y}}_{\text{Shear Loading Case}}=\underbrace{\sum\limits_{\text{all } i}(q_{i}^{open}r_{i}b_{i})}_{\text{Open-cell flow along walls}}+\underbrace{\sum\limits_{\text{all }j}(2\bar{A}_{j}\bar{q}_{j})}_{\text{Closed cell flow around cells}}$$
+### The systems of Equations
+#### In Shear Loading
+For $n$ equations:
+$$\sum\limits_{i\in j}\left[(q_{i}^{open}+^{*}\bar{q}_{i})\frac{b_{i}}{t_{i}}\right]=(2\bar{A}_{j}G)\frac{d\theta}{dz}$$
+The $(n+1)^{th}$ equation:
+$$S_{Y}e_{X}-S_{X}e_{Y}={\sum\limits_{\text{all } i}(q_{i}^{open}r_{i}b_{i})}+{\sum\limits_{\text{all }j}(2~\bar{A}_{j}~\bar{q}_{j})}$$
+#### In Pure Torsion
+For $n$ equations:
+$$\sum\limits_{i\in j}\left[^{*}\bar{q}_{i}\frac{b_{i}}{t_{i}}\right]=(2\bar{A}_{j}G)\frac{d\theta}{dz}$$
