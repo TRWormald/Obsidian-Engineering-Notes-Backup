@@ -19,4 +19,6 @@ $$\sum\limits_{i\in j}\left[(q_{i}^{open}+^{*}\bar{q}_{i})\frac{b_{i}}{t_{i}}\ri
 Where:
 $$^{*}\bar{q}_{i}=\left\{\begin{matrix}\bar{q}_{j}~~~~~~~~~~~~~~~~~~{\text{Wall is exclusive to cell j}}\\\bar{q}_{j}-\bar{q}_{[j\pm 1]}~~~~~~~\text{Wall is shared with cell }[j\pm1]\end{matrix} \right.$$
 #### Balance of Torques
+We have an equation relating the pure torsion case and the shear loading case to the stress resultant torque:
+$$T+S_{Y}e_{X}-S_{X}e_{Y}=\oint q_{(s)}^{closed}r_{(s)}ds$$
 
