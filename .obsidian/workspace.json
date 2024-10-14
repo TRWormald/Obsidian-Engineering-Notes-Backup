@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "510b116f7674b8f5",
+        "id": "f9b81e94e9dd54a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c55cf7a97c87d3bb",
+            "id": "0967661f3065a665",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -1.3545026863161644
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
+                "file": "Backend/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
+                "file": "Backend/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md"
+                "file": "Backend/Home.canvas"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
+                "file": "Backend/Home.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,10 +207,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c55cf7a97c87d3bb",
+  "active": "0967661f3065a665",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
+    "Engineering Year 2/Structures & Materials/Closed Thin Walled Sections/Torsion of Closed Sections.md",
     "Images & Attachments/Pasted image 20241013121607.png",
     "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections Notation.md",
     "Images & Attachments/Pasted image 20241013121347.png",
