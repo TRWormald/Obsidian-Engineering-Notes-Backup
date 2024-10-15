@@ -32,3 +32,8 @@ Which is not a function of $x$ or $y$, so its limits are constants. This is the 
 ![[Pasted image 20241015213005.png|centre]]![[WhatsApp Image 2024-10-15 at 21.40.37_054acf04.jpg|centre]]
 #### Example 5.3
 ![[Pasted image 20241015215154.png]]
+![[WhatsApp Image 2024-10-15 at 22.10.53_de10313b.jpg|centre]]
+### Properties of Double Integrals
+The following are some obvious relationships for double integrals:
+**Linear** - If $\alpha$ and $\beta$ are constant scalars:
+$$\int\int_{R}(\alpha f(x,y)+\beta g(x,y))~dx~dy=\alpha\int\int_{R}f(x,y)~dx~dy+\beta\int\int_{R}g(x,y)dx~dy$$
