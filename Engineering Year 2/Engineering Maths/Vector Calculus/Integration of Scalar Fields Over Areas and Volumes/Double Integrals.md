@@ -11,9 +11,6 @@ $$\int\int f(x,y)~dx~dy=\int\left[\int f(x,y)~dx\right]dy$$
 #### Example 5.1
 ![[Pasted image 20241015212214.png|centre]]
 ![[WhatsApp Image 2024-10-15 at 21.29.27_14ec6128.jpg|centre]]
-#### Example 5.2
-![[Pasted image 20241015213005.png|centre]]
-![[WhatsApp Image 2024-10-15 at 21.40.37_054acf04.jpg|centre]]
 ### The Area of a General Region
 In [[Double Integrals#Example 5.1|5.1]] the area was obviously a rectangle, so the limits on $x$ and $y$ were obvious. But what are the limits on $x$ and $y$ for a general region $R?$
 Here it matters in which order we perform the integration.
@@ -24,8 +21,14 @@ $$\int\int_{R} f(x,y)~dx~dy=\int_{y=c}^{d}\left[\int_{x=p(y)}^{q(y)} f(x,y)~dx\r
 And the inner integral is:
 $$\int_{x=p(y)}^{q(y)}f(x,y) ~dx:=P(y)$$
 Which for $y$ is just a constant, has limits which may be (and in general are) functions of $y$.
-Physically we are summing the area under the curve along thin vertic strips of width $dy$, of length $q-p$:
+Physically we are summing the area under the curve along thin vertical strips of width $dy$, of length $q-p$:
 ![[Pasted image 20241015214644.png|centre]]
 The outer integral is now:
 $$\int_{y=c}^{d}P(y)~dy$$
-Which is not a function of $x$ or $y$, so its limits are constants. This is the 
+Which is not a function of $x$ or $y$, so its limits are constants. This is the sum of all the horizontal strips between $y=c$ and $y=d$.
+\
+**More generally what we are doing is generating a function in terms of $y$ for the width of the horizontal strips and then integrating that w.r.t the vertical axis's limits.**
+#### Example 5.2
+![[Pasted image 20241015213005.png|centre]]![[WhatsApp Image 2024-10-15 at 21.40.37_054acf04.jpg|centre]]
+#### Example 5.3
+![[Pasted image 20241015215154.png]]
