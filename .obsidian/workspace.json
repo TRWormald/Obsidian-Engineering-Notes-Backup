@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb61c724e858b98",
+        "id": "51c0507eab6a3d17",
         "type": "tabs",
         "children": [
           {
-            "id": "93b7ff957f90703d",
+            "id": "145c9b4c16aeec6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2335440463f82ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a15a841b9eb0b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d3fafacd108631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d88d58554f429b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c7305e1c0d02de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md"
               }
             }
           },
@@ -154,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,18 +265,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "93b7ff957f90703d",
+  "active": "3a15a841b9eb0b40",
   "lastOpenFiles": [
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Rendezvous Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
-    "Backend/Home.canvas",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
@@ -245,13 +311,7 @@
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.41.27_aba98ae9.jpg",
     "Images & Attachments/Pasted image 20241012143344.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
