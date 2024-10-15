@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51c0507eab6a3d17",
+        "id": "4f9a9dfcdbbc2f61",
         "type": "tabs",
         "children": [
           {
-            "id": "145c9b4c16aeec6c",
+            "id": "d83a15554a1e1a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2335440463f82ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a15a841b9eb0b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16d3fafacd108631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d88d58554f429b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c7305e1c0d02de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.50152587890625
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md"
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md"
               }
             }
           },
@@ -214,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,15 +204,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "145c9b4c16aeec6c",
+  "active": "d83a15554a1e1a0d",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
     "Backend/Home.canvas",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Parameterisation of Curves.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Questions.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Parameterisation of Curves.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Properties of Work and Line Integrals.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
@@ -309,11 +252,8 @@
     "Images & Attachments/Pasted image 20241012144800.png",
     "Images & Attachments/WhatsApp Image 2024-10-12 at 14.41.27_aba98ae9.jpg",
     "Images & Attachments/Pasted image 20241012143344.png",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Divergence and Curl - Applications.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 2/Orbital Reference Systems.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
-    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
