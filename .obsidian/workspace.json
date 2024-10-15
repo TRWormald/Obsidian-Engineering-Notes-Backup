@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md"
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md"
               }
             }
           },
@@ -215,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+                "file": "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,11 +264,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a15a841b9eb0b40",
+  "active": "145c9b4c16aeec6c",
   "lastOpenFiles": [
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Scalar Path Integrals.md",
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Evaluation of Work Integrals (vector path integrals).md",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Properties of Work and Line Integrals.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
