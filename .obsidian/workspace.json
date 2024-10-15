@@ -11,8 +11,12 @@
             "id": "93b7ff957f90703d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md"
+              }
             }
           },
           {
@@ -146,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,8 +206,15 @@
   },
   "active": "93b7ff957f90703d",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Rendezvous Manoeuvres.md",
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Integration Along Curves/Conservative Vector Fields & Path Independance.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/Idealised Sections/Stress-Resultant Torque in Idealised Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
@@ -222,9 +238,7 @@
     "Images & Attachments/Pasted image 20241012172841.png",
     "Images & Attachments/Pasted image 20241012172657.png",
     "Images & Attachments/Pasted image 20241012171321.png",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 1/Ellipses and Energy.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Images & Attachments/Pasted image 20241012144800.png",
@@ -240,10 +254,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Differentiation of Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Integration Along Curves",
     "Engineering Year 2/Structures & Materials/Idealised Sections",
-    "Untitled.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
     "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
