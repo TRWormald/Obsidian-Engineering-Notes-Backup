@@ -10,3 +10,6 @@ Such integrals are calculated by first integrating with respect to one variable,
 $$\int\int f(x,y)~dx~dy=\int\left[\int f(x,y)~dx\right]dy$$
 #### Example 5.1
 ![[Pasted image 20241015212214.png|centre]]
+![[WhatsApp Image 2024-10-15 at 21.29.27_14ec6128.jpg|centre]]
+#### Example 5.2
+![[Pasted image 20241015213005.png|centre]]
