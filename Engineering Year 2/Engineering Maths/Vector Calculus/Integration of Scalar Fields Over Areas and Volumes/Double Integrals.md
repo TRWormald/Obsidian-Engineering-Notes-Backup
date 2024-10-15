@@ -13,3 +13,19 @@ $$\int\int f(x,y)~dx~dy=\int\left[\int f(x,y)~dx\right]dy$$
 ![[WhatsApp Image 2024-10-15 at 21.29.27_14ec6128.jpg|centre]]
 #### Example 5.2
 ![[Pasted image 20241015213005.png|centre]]
+![[WhatsApp Image 2024-10-15 at 21.40.37_054acf04.jpg|centre]]
+### The Area of a General Region
+In [[Double Integrals#Example 5.1|5.1]] the area was obviously a rectangle, so the limits on $x$ and $y$ were obvious. But what are the limits on $x$ and $y$ for a general region $R?$
+Here it matters in which order we perform the integration.
+Suppose we perform the integration with respect to $x$ first, as in 5.1. Then we should express the region $R$ in the form:
+$$R: c\le y\le d~~~~~~~p(y)\le x\le q(y)$$
+Then:
+$$\int\int_{R} f(x,y)~dx~dy=\int_{y=c}^{d}\left[\int_{x=p(y)}^{q(y)} f(x,y)~dx\right]dy$$
+And the inner integral is:
+$$\int_{x=p(y)}^{q(y)}f(x,y) ~dx:=P(y)$$
+Which for $y$ is just a constant, has limits which may be (and in general are) functions of $y$.
+Physically we are summing the area under the curve along thin vertic strips of width $dy$, of length $q-p$:
+![[Pasted image 20241015214644.png|centre]]
+The outer integral is now:
+$$\int_{y=c}^{d}P(y)~dy$$
+Which is not a function of $x$ or $y$, so its limits are constants. This is the 
