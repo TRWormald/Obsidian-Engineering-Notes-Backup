@@ -11,11 +11,11 @@
             "id": "f0990098a6b06394",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "specific energy",
+                "query": "Risk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf"
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "file": "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,6 +207,8 @@
   },
   "active": "f0990098a6b06394",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
     "Images & Attachments/Pasted image 20241015222058.png",
@@ -242,12 +245,10 @@
     "Engineering Year 2/Structures & Materials/Idealised Sections/Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections.md",
     "Engineering Year 2/Structures & Materials/Multi-Cell Sections/Multi-Cell Sections Notation.md",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Architecture Definition.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/Functional and Requirement Decomposition.md",
-    "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
     "Engineering Year 2/Structures & Materials/Multi-Cell Sections",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces",
