@@ -36,4 +36,12 @@ Which is not a function of $x$ or $y$, so its limits are constants. This is the 
 ### Properties of Double Integrals
 The following are some obvious relationships for double integrals:
 **Linear** - If $\alpha$ and $\beta$ are constant scalars:
-$$\int\int_{R}(\alpha f(x,y)+\beta g(x,y))~dx~dy=\alpha\int\int_{R}f(x,y)~dx~dy+\beta\int\int_{R}g(x,y)dx~dy$$
+$$\int\int_{R}(\alpha f(x,y)+\beta g(x,y))~dx~dy=\alpha\int\int_{R}f(x,y)~dx~dy+\beta\int\int_{R}g(x,y)~dx~dy$$
+**Decomposable** - If $R=R_{1}+R_{2}$
+$$\int\int_{R}f(x,y)~dx~dy=\int\int_{R_{1}}f(x,y)~dx~dy+\int\int_{R_{2}}f(x,y)~dx~dy$$
+**Separable** - If limits are constant (if the region $R$ is a rectangle) and $f(x,y)=g(x)h(y)$
+$$\int_{a}^{b}\int_{c}^{d}g(x)h(y)~dx~dy=\int_{c}^{d}g(x)~dx\int_{a}^{b}h(y)~dy$$
+### Applications of Double Integrals
+![[Pasted image 20241015222035.png|centre]]
+#### Example 5.4
+![[Pasted image 20241015222058.png]]
