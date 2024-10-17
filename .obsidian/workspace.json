@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc97aaced9a19783",
+        "id": "9b60b237f1d37292",
         "type": "tabs",
         "children": [
           {
-            "id": "f3e991b82a0344c9",
+            "id": "8ced4bfe8202b9b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-                "page": 17,
-                "left": -10,
-                "top": 682,
-                "zoom": 1.4767156862745099
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,12 +195,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3e991b82a0344c9",
+  "active": "8ced4bfe8202b9b2",
   "lastOpenFiles": [
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
     "Images & Attachments/Pasted image 20241015222058.png",
     "Images & Attachments/Pasted image 20241015222035.png",
