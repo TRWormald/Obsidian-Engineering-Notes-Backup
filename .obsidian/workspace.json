@@ -8,38 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59cac1add033ce01",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.12597112788231
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
             "id": "6ed0cc7f436c9c93",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AVDASI2 2024 Requirements Specification (Issue 01)"
+              "icon": "lucide-file",
+              "title": "Double Integrals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,9 +227,9 @@
   "active": "6ed0cc7f436c9c93",
   "lastOpenFiles": [
     "Backend/Home.canvas",
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces/System Interfaces - Types and N Squared Diagrams.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
