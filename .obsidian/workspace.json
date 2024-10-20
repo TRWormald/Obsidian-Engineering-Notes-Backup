@@ -11,17 +11,14 @@
             "id": "f70cdf10dcf0d58b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-                "viewState": {
-                  "x": 1253.201227957429,
-                  "y": -885.9963867486789,
-                  "zoom": -2.5119892861946083
-                }
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Structures"
+              "icon": "lucide-file",
+              "title": "Generalised Hooke's Law"
             }
           }
         ]
@@ -229,6 +226,7 @@
   },
   "active": "f70cdf10dcf0d58b",
   "lastOpenFiles": [
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
@@ -268,8 +266,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Properties of Work and Line Integrals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
