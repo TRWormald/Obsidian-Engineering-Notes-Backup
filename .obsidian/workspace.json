@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "480df2f6641d51fb",
+        "id": "05812f544c228a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "62dff16208b8016c",
+            "id": "cfbaead89dfb7005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Plane Change Manoeuvres"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,8 +227,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62dff16208b8016c",
+  "active": "cfbaead89dfb7005",
   "lastOpenFiles": [
+    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
@@ -255,7 +259,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
-    "Engineering Year 2/Space Systems/Systems Engineering/Budgets and Margins/Budgets, Margins and Apportioning Risk.md",
     "Images & Attachments/Pasted image 20241015222058.png",
     "Images & Attachments/Pasted image 20241015222035.png",
     "Images & Attachments/WhatsApp Image 2024-10-15 at 22.10.53_de10313b.jpg",
