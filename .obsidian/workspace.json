@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f4ebae0979b25f",
+        "id": "88c00ce7db3372de",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0770a6af750646",
+            "id": "a43ebc17cf2d72a6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
-                "viewState": {
-                  "x": -2.856939138101211,
-                  "y": 134.7913589323767,
-                  "zoom": -0.6085805966240299
-                }
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Changing Co-Ordinates in Double Integrals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Work Breakdown Diagram"
+              "icon": "lucide-file",
+              "title": "Changing Co-Ordinates in Double Integrals"
             }
           }
         ]
@@ -227,9 +224,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2e0770a6af750646",
+  "active": "a43ebc17cf2d72a6",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20241025141758.png",
+    "Images & Attachments/Pasted image 20241025141443.png",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Changing Co-Ordinates in Double Integrals.md",
     "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Questions.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
@@ -254,10 +256,7 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/Strain Measurement.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Failure Criteria.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Elastic Constraints.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Images & Attachments/Pasted image 20241015222058.png",
     "Images & Attachments/Pasted image 20241015222035.png",
@@ -268,7 +267,6 @@
     "Images & Attachments/Pasted image 20241015213005.png",
     "Images & Attachments/WhatsApp Image 2024-10-15 at 21.29.27_14ec6128.jpg",
     "Images & Attachments/Pasted image 20241015212214.png",
-    "Images & Attachments/Pasted image 20241015211934.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
@@ -283,7 +281,6 @@
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Engineering Year 1/Electrical/Untitled.canvas",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Equation Sheets/Structures/Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
