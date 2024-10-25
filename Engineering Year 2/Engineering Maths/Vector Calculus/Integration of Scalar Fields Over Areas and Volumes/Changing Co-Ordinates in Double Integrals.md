@@ -11,6 +11,7 @@ then it can be shown that the infinitesimal piece of area:
 $$dA=dx\cdot dy=\left|\frac{\partial(x,y)}{\partial(u,v)}\right|du~dv$$
 Where the area scale factor:
 $$|J|:=\left|\begin{matrix}\frac{\partial x}{\partial u} &\frac{\partial x}{\partial v}\\\frac{\partial y}{\partial u}&\frac{\partial y}{\partial v}\end{matrix}\right|$$
-Is the determinant of the so
+Is the determinant of the so called Jacobian matrix $J$
+![[Pasted image 20241025142254.png|centre]]
 #### Example 5.5
 ![[Pasted image 20241025141758.png|centre]]
