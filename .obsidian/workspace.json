@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "05812f544c228a9f",
+        "id": "f8f4ebae0979b25f",
         "type": "tabs",
         "children": [
           {
-            "id": "cfbaead89dfb7005",
+            "id": "2e0770a6af750646",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
-                "viewState": {
-                  "x": -166.94710828467183,
-                  "y": 158.04685104992922,
-                  "zoom": -1.1147282001600813
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Work Breakdown Diagram"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -227,10 +220,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cfbaead89dfb7005",
+  "active": "2e0770a6af750646",
   "lastOpenFiles": [
-    "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
+    "Backend/Home.canvas",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
