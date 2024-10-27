@@ -28,3 +28,9 @@ Adding alloying elements to occupy interstitial or substitutional sites distorts
 The level of strengthening depends on atomic size mismatch and content.
 ![[Pasted image 20241027143248.png|centre]]
 ### Precipitation Strengthening
+This is where hard precipitate particles are formed which resist dislocation slip, it is used in aluminium, titanium, magnesium, nickel and steel alloys.
+Steps:
+1) Solution treatment: heat metal until alloying elements are fully dissolved
+2) Quenching: rapid cooling (in water or oil) fir supersaturated solid solution
+3) Ageing: heat to intermediate temperatures to precipitate dispersed particles.
+![[Screenshot 2024-10-27 151059.png|centre]]
