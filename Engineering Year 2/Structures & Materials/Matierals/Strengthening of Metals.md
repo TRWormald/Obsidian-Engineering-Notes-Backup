@@ -1,0 +1,1 @@
+Strengthening means increasing the yield or ultimate strength of the metal, usually by impeding 
