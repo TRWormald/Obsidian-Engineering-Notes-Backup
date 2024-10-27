@@ -27,17 +27,14 @@
             "id": "16e2061c374a81ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 171.1998415289782,
-                  "y": 158.9162099777708,
-                  "zoom": -0.6502386470799627
-                }
+                "file": "Engineering Year 2/Structures & Materials/Matierals/Crystal Structure of Metals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Crystal Structure of Metals"
             }
           }
         ],
@@ -246,8 +243,12 @@
   },
   "active": "16e2061c374a81ad",
   "lastOpenFiles": [
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+    "Images & Attachments/Pasted image 20241027140029.png",
     "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Matierals/Crystal Structure of Metals.md",
+    "Engineering Year 2/Structures & Materials/Matierals",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures",
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Space Systems/Systems Engineering/Introduction to Systems Engineering/From System Need to System Requirements.md",
     "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Changing Co-Ordinates in Triple Integrals.md",
@@ -279,22 +280,19 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 2/Keplerian Elements & Defining Position.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Generalised Hooke's Law.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Fundementals/Shear Stresses in Bending.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Direct Bending Stresses.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Defining Axes.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Cross-Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Fundementals/Transformation of Axes and of Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Shear Stresses in Bending.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Direct Bending Stresses.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Defining Axes.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Cross-Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Plane Strain and Strain Transformation.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
-    "Engineering Year 2/Structures & Materials/Multi-Cell Sections",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Multi-Cell Sections",
     "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves",
-    "Engineering Year 2/Structures & Materials/Idealised Sections",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
