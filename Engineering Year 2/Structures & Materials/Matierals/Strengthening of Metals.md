@@ -27,3 +27,4 @@ This consists of dispersing small and strong ceramic oxide particles within the 
 Adding alloying elements to occupy interstitial or substitutional sites distorts the lattice and resists dislocation movement. When atomic sizes are similar ($\pm 15$%) substitution will occur, otherwise alloying elements will occupy an interstitial site.
 The level of strengthening depends on atomic size mismatch and content.
 ![[Pasted image 20241027143248.png|centre]]
+### Precipitation Strengthening
