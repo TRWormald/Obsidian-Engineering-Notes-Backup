@@ -22,7 +22,7 @@ By reducing grain sizes we increase the density of grain boundaries, hence incre
 ![[Pasted image 20241027142758.png|centre]]
 The grain size is related to the yield strength according to the Hall-Petch relationship:
 $$\sigma_{y}=\sigma_{o}+kd^{-\frac{1}{2}}$$
-Where $\sigma_y$ is the yield strength and $d$ is the average diameter of the grains. 
+Where $\sigma_y$ is the yield strength and $d$ is the average diameter of the grains and $k$ is a material constant representing the slope of the plot. $\sigma_{o}$ is called the friction stress, and is the intercept on the stress axis and it defines the stress required to move dislocations in a single crystal without a grain boundary.  
 ### Dispersion Strengthening
 This consists of dispersing small and strong ceramic oxide particles within the metallic matrix. The particles disrupt slip planes, impeding dislocation motion, and as Frank-Read sources generate concentric dislocation loops, which in turn increase the repulsive strain fields around particles.
 ![[Pasted image 20241027143046.png]]
