@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"2eb1024ef83e7084","x":-1100,"y":600,"width":1060,"height":560,"type":"group","label":"Mechanism Design Stream"},
 		{"id":"3c42272b1adf6da7","type":"text","text":"Prototype Design","x":-682,"y":-75,"width":250,"height":60},
 		{"id":"c3ec22cd50997027","type":"text","text":"04 - Flap & Aileron","x":-140,"y":-340,"width":250,"height":60},
 		{"id":"9eca24eb02753f31","type":"text","text":"Documentation\n","x":-320,"y":-75,"width":250,"height":60},
@@ -15,9 +16,14 @@
 		{"id":"0b09099305985352","type":"text","text":"Aerodynamic evaluation of scheme","x":40,"y":268,"width":250,"height":70},
 		{"id":"66aa836bfe2b3e43","type":"text","text":"Fairings required?","x":40,"y":354,"width":250,"height":60},
 		{"id":"fb32fc9873e6d835","x":482,"y":-75,"width":250,"height":60,"type":"text","text":"Testing"},
-		{"id":"7b2a90ff0dbf791e","x":-717,"y":620,"width":321,"height":50,"type":"text","text":"Generate basic mechanism"},
-		{"id":"8c7a0e2807d976bb","type":"text","text":"create basic flap & aileron mock up (foam)","x":-717,"y":700,"width":321,"height":80},
-		{"id":"b7c7d86faedb7367","x":-274,"y":641,"width":250,"height":118,"type":"text","text":"Combine and test - then iterate on mechanism"}
+		{"id":"e5858a0ddb70a0eb","x":40,"y":440,"width":250,"height":80,"type":"text","text":"Structural calculations for flap and aileron"},
+		{"id":"b7c7d86faedb7367","x":-310,"y":781,"width":250,"height":118,"type":"text","text":"Combine and test - then iterate on mechanism"},
+		{"id":"7b2a90ff0dbf791e","x":-753,"y":760,"width":321,"height":50,"type":"text","text":"Generate basic mechanism"},
+		{"id":"8c7a0e2807d976bb","type":"text","text":"create basic flap & aileron mock up (foam)","x":-753,"y":840,"width":321,"height":80},
+		{"id":"98ec7c78d3f0384a","x":-1080,"y":810,"width":250,"height":60,"type":"text","text":"# Mechanism"},
+		{"id":"b1b93edf7e74b4af","x":-616,"y":1021,"width":250,"height":119,"type":"text","text":"Make sure the flap achieves the required angles of deflection"},
+		{"id":"ee64074d17f595b9","x":-307,"y":1016,"width":250,"height":124,"type":"text","text":"Make sure the flap can deploy in the required time"},
+		{"id":"3fd326107a553838","x":-1080,"y":1400,"width":250,"height":60,"type":"text","text":"# Structural"}
 	],
 	"edges":[
 		{"id":"415252e4b8ea14de","fromNode":"c3ec22cd50997027","fromSide":"bottom","toNode":"3c42272b1adf6da7","toSide":"top"},
@@ -30,6 +36,8 @@
 		{"id":"074ebc18975dc7aa","fromNode":"c3ec22cd50997027","fromSide":"bottom","toNode":"fb32fc9873e6d835","toSide":"top"},
 		{"id":"90b34003c2ca74cd","fromNode":"7b2a90ff0dbf791e","fromSide":"right","toNode":"b7c7d86faedb7367","toSide":"left"},
 		{"id":"b80ac64a8890867a","fromNode":"8c7a0e2807d976bb","fromSide":"right","toNode":"b7c7d86faedb7367","toSide":"left"},
-		{"id":"898767871de1d7ee","fromNode":"b7c7d86faedb7367","fromSide":"top","toNode":"7b2a90ff0dbf791e","toSide":"top"}
+		{"id":"898767871de1d7ee","fromNode":"b7c7d86faedb7367","fromSide":"top","toNode":"7b2a90ff0dbf791e","toSide":"top"},
+		{"id":"35a8d3ea24a53ee2","fromNode":"b7c7d86faedb7367","fromSide":"bottom","toNode":"b1b93edf7e74b4af","toSide":"top"},
+		{"id":"cb7ef3aceb8fadb8","fromNode":"b7c7d86faedb7367","fromSide":"bottom","toNode":"ee64074d17f595b9","toSide":"top"}
 	]
 }
