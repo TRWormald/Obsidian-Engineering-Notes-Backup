@@ -34,3 +34,13 @@ Steps:
 2) Quenching: rapid cooling (in water or oil) fir supersaturated solid solution
 3) Ageing: heat to intermediate temperatures to precipitate dispersed particles.
 ![[Screenshot 2024-10-27 151059.png|centre]]
+There are several mechanisms involved:
+
+**Guinier-Preston Zone Strengthening**
+This is where small clusters of atoms of alloying elements form with the same crystal structure as the base metal which resist dislocation motion.
+![[Pasted image 20241028090552.png|centre]]
+**Coherent Precipitate Strengthening**
+Precipitates develop when the local concentration of alloying elements matches that of another phase. The particles are coherent (i.e. there are no clear boundaries) with the host metal and and resist dislocation slip. The greater the concentration the greater the strength increase.
+**Incoherent Precipitate Strengthening**
+The crystal structure of precipitates change, resulting in discrete interfaces appearing. Dislocation cannot cross interfaces, leading to Orowan hardening.
+Peak strength happens at transition from coherent, as incoherent particles grow, their spacing increases which decreases Orowan hardening and strength.
