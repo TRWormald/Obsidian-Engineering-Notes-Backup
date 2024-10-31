@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5091e5a98cf80a36",
+        "id": "a3605d9d31a6dcb5",
         "type": "tabs",
         "children": [
           {
-            "id": "db7ca9b49cfd130a",
+            "id": "1a69d3978ff281d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -1.5227464207684254
-                }
+                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Scalar and Vector Integrals over Surfaces"
             }
           }
         ]
@@ -227,11 +224,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "db7ca9b49cfd130a",
+  "active": "1a69d3978ff281d1",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20241031172520.png",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Untitled",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
-    "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Engineering Year 2/Structures & Materials/Matierals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Matierals/Crystal Structure of Metals.md",
@@ -271,13 +272,10 @@
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Defining Axes.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Cross-Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Fundementals/Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Multi-Cell Sections",
-    "Engineering Year 2/Space Systems/Systems Engineering/Architecture, Decomposition, and Interfaces",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
