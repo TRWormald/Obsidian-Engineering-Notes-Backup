@@ -19,3 +19,4 @@ In fluid dynamics the flow through a surface $S$ is given by:
 $$\Phi=\int\int_{S}\mathbf{v}\cdot\mathbf{\hat{n}}~dA$$
 In thermodynamics the heat flow through a surface $S$ is given by:
 $$\Phi=\int\int_{S}\mathbf{H}\cdot\mathbf{\hat{n}} ~dA$$
+##### Example 6.1
