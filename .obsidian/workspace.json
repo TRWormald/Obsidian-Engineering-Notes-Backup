@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8e4b04e0a34e87",
+        "id": "5091e5a98cf80a36",
         "type": "tabs",
         "children": [
           {
-            "id": "6705191e528f44b1",
+            "id": "db7ca9b49cfd130a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-                "page": 28,
-                "left": -27,
-                "top": 42,
-                "zoom": 0.5220588235294118
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "AVDASI2 2024 Requirements Specification (Issue 01)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -226,15 +227,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6705191e528f44b1",
+  "active": "db7ca9b49cfd130a",
   "lastOpenFiles": [
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Engineering Year 2/Structures & Materials/Matierals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Matierals/Crystal Structure of Metals.md",
     "Images & Attachments/Pasted image 20241028160136.png",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Images & Attachments/Pasted image 20241028090552.png",
     "Images & Attachments/Screenshot 2024-10-27 151059.png",
     "Images & Attachments/Pasted image 20241027143248.png",
