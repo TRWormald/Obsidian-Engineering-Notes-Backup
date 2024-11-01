@@ -41,4 +41,5 @@ $$Maraging=Martensite + Ageing$$
 Maraged steels are effectively carbon-free steels but with high alloy content.
 Martensic structure is formed by the slow air cooling of austenite.
 The martensite is softer than that of quenched carbon steels, this provides ductility and fracture toughness without tempering, and allows for machining without tempering as well.
-You then thermally age it for precipitation hardening, resulting in a yield strength of ~2000 MPa plus a high ductility and 
+You then thermally age it for precipitation hardening, resulting in a yield strength of ~2000 MPa plus a high ductility and toughness.
+### Stainless Steels
