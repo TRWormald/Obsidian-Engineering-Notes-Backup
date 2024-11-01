@@ -31,4 +31,14 @@ This is formed by the slow cooling of austenite, the carbon diffuses out of the 
 By cooling down steel at different rates we can change the molecular structure:
 ![[Pasted image 20241101143124.png|centre]]
 #### Bainite
-Bainite is produced by the moderate cooling of Austenite, it is a plate like (non-laminar) structure of cementite and dislocation rich ferrite. It has intermediate properties be
+Bainite is produced by the moderate cooling of Austenite, it is a plate like (non-laminar) structure of cementite and dislocation rich ferrite. It has intermediate properties between pearlite and martensite.
+##### Martensite
+Martensite is a very hard form of steel, obtained from rapid quenching of austenite. It is a distorted body-centred tetragonal (bct) structure, supersaturated with carbon.
+Quenching promotes local micro-shearing and high dislocation densities.
+### Maraging Steels
+This is a method whereby you age Martensite to produce favourable material properties.
+$$Maraging=Martensite + Ageing$$
+Maraged steels are effectively carbon-free steels but with high alloy content.
+Martensic structure is formed by the slow air cooling of austenite.
+The martensite is softer than that of quenched carbon steels, this provides ductility and fracture toughness without tempering, and allows for machining without tempering as well.
+You then thermally age it for precipitation hardening, resulting in a yield strength of ~2000 MPa plus a high ductility and 
