@@ -12,4 +12,23 @@ There are various grades of steel:
 6) Stainless steels
 	0.08-0.25% C + 12-26% Cr, precipitation hardened, used in aerospace
 ### Microstructural Phases of Steel
-Steel has different microstructures based on a variety of factors.
+Steel has different microstructures based on a variety of factors. Several of these are listed below:
+##### Austenite ($\gamma$-Fe), FCC structure
+This is a face centred cubic structured steel, it typically only occurs above 723 degrees centigrade, but can be stable at room temperature by adding Nickel or Magnesium.
+![[Pasted image 20241101142401.png|centre|250]]
+##### Ferrite ($\alpha$-Fe), BCC structure
+This is a body centred cubic structured steel, it is the natural phase of pure Fe, and can only contain up to 0.022 wt% C in solid solution.
+It is soft and ductile.
+![[Pasted image 20241101142537.png|centre|250]]
+##### Cementite (Fe$_{3}$C), orthorhombic structure
+This is an iron carbide, it is a hard and brittle ceramic-like material
+It is composed on 6.7 wt% C, and 93.3 wt% Fe.
+![[Pasted image 20241101142735.png|centre|250]]
+##### Pearlite: Lamellar Structure of Ferrite and Cementite
+This is formed by the slow cooling of austenite, the carbon diffuses out of the newly formed ferrite and into layers of cementite. It is composed of 87.5 wt% ferrite, 12.5 wt% cementite, therefore ~0.8 wt% C.
+![[Pasted image 20241101143008.png|centre]]
+### Non-Equilibrium Cooling
+By cooling down steel at different rates we can change the molecular structure:
+![[Pasted image 20241101143124.png|centre]]
+#### Bainite
+Bainite is produced by the moderate cooling of Austenite, it is a plate like (non-laminar) structure of cementite and dislocation rich ferrite. It has intermediate properties be
