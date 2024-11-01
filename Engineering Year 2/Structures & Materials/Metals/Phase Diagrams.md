@@ -43,3 +43,12 @@ Martensic structure is formed by the slow air cooling of austenite.
 The martensite is softer than that of quenched carbon steels, this provides ductility and fracture toughness without tempering, and allows for machining without tempering as well.
 You then thermally age it for precipitation hardening, resulting in a yield strength of ~2000 MPa plus a high ductility and toughness.
 ### Stainless Steels
+Stainless steels are low carbon (0.08-0.25%) but high chromium (12-26%). The chromium on the surface reacts with oxygen in the air to form a thin layer of chromium oxide, which protects the material.
+There are a few different types:
+- Ferritic
+- Austenitic
+- Martensitic
+- Precipitation-Hardened (PH)
+
+Precipitation hardened stainless steels are widely used in aerospace. They have a martensitic structure (stiffness + hardness) + tempering (ductility, toughness).
+Stainless steels have been replaced by Titanium alloys in several applications, but are still used extensively in engine pylons, landing gear, etc.
