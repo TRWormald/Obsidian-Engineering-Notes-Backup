@@ -52,7 +52,20 @@ $$W_{\beta}=\frac{\text{Length of }\beta}{\text{Total Length}}=\frac{C_{1}-C_{\a
 Effectively what this means is that we have a solid consisting of two phases of the alloy, one which is 11% tin, and the other which is 98% tin. However the former makes up 0.67 by weight of the entire solid, whilst the latter only makes up 0.33.
 ### Using the Lever Rule for Micro-Constituents
 Within eutectic systems there is true eutectic behaviour but also hypo-eutectic and hyper-eutectic behaviour.
-The hypo- and hyper- eutectic behaviours occur when we cross the liquidus line and there is a significant distance before the solidus line. This results in formation of $\alpha$ or $\beta$ particles before the liquid  
+The hypo- and hyper- eutectic behaviours occur when we cross the liquidus line and there is a significant distance before the solidus line. This results in formation of $\alpha$ or $\beta$ grains before the liquid turns into a laminate once we hit the $T_E$. 
 Hypo-eutectic behaviour results in in increased production of $\alpha$ micro-constituents breaking up the laminar structure.
 ![[Pasted image 20241103152734.png|centre|300]]
 Whilst hyper-eutectoid behaviour results in increased production of $\beta$ micro-constituents.
+
+To calculate the weight fraction we use the Eutectic Line $T_{E}$ as the axis about which we apply the lever rule. We also need to measure the distances between the point of interest (the composition) and the limits of the eutectic line, and the position of the eutectic composition:
+![[Pasted image 20241103153534.png]]
+![[Screenshot 2024-11-03 153837.png|centre|300]]
+
+To calculate the eutectic micro-constituent:
+$$W_{e}=\frac{P}{P+Q}=\frac{30-18.3}{61.9-18.3}\approx 0.27$$
+To calculate the primary $\alpha$ micro-constituent:
+$$W_{\alpha'}=\frac{Q}{P+Q}=\frac{61.9-30}{61.9-18.3}\approx0.73$$
+To calculate the total $\alpha$ phase:
+$$W_{\alpha}=\frac{Q+R}{P+Q+R}\approx0.85$$
+To calculate the total $\beta$ phase:
+$$W_{\beta}=\frac{P}{P+Q+R}\approx 0.15$$
