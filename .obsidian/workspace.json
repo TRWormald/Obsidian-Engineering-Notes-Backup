@@ -11,17 +11,14 @@
             "id": "651cbf48a5f41749",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.12597112788231
-                }
+                "file": "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Phase Diagrams"
             }
           }
         ]
@@ -229,6 +226,7 @@
   },
   "active": "651cbf48a5f41749",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
     "Images & Attachments/Pasted image 20241101152617.png",
     "Images & Attachments/Pasted image 20241101152249.png",
@@ -241,7 +239,6 @@
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
     "Images & Attachments/Pasted image 20241101142401.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Images & Attachments/Pasted image 20241031181310.png",
     "Images & Attachments/Pasted image 20241031172520.png",
