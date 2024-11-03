@@ -38,4 +38,15 @@ In addition to these additional regions we have another important line:
 We also need to think about the **Eutectic reaction**, this is where upon cooling, a liquid phase $L$ transforms into two solid phases $\alpha+\beta$ completely and at a constant temperature. This occurs when an alloy of eutectic composition $C_{E}$ reaches the eutectic temperature $T_{E}$.
 ### The Lever Rule
 We can use the lever rule to give phase amounts and phase composition when in equilibrium.
+For example we can use the lead-tin phase diagram to characterise the Pb-Sn alloy of composition $C_{1}$ (40 wt% Sn) at $T=150$ centigrade: ![[Screenshot 2024-11-03 150246.png]]
+Phase compositions are given by the intersections of the tie line (or isotherm) with the boundaries of the phase region (here the two solvus lines).
+Therefore $C_{\alpha}=11~wt\%$ and $C_{\beta}=98~wt\%$ tin.
 
+Phase amounts are given by the relative distances between the point of interest and the ends of the tie line.
+![[Pasted image 20241103150642.png|centre]]
+So the mass fraction of phase $\alpha$:
+$$W_{\alpha}=\frac{\text{Length of }\alpha}{\text{Total Length}}=\frac{C_{\beta}-C_{1}}{C_{\beta}-C_{\alpha}}=\frac{98-40}{98-11}=0.67$$
+Hence the mass fraction of phase $\beta$:
+$$W_{\beta}=\frac{\text{Length of }\beta}{\text{Total Length}}=\frac{C_{1}-C_{\alpha}}{C_{\beta}-C_{\alpha}}=\frac{40-11}{98-11}=0.33$$
+
+Effectively what this means is that we have a solid consisting of two phases of the alloy, one which is 11% tin, and the other which is 
