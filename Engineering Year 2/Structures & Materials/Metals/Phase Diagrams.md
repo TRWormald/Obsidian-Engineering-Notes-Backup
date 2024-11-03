@@ -69,3 +69,10 @@ To calculate the total $\alpha$ phase:
 $$W_{\alpha}=\frac{Q+R}{P+Q+R}\approx0.85$$
 To calculate the total $\beta$ phase:
 $$W_{\beta}=\frac{P}{P+Q+R}\approx 0.15$$
+## Intermediate Phases
+![[Pasted image 20241103154238.png|centre]]
+The **Eutectoid** reaction is where a single solid phase $\delta$ is cooled resulting in a the production of two solid phases $\gamma$ and $\varepsilon$. (Or vice versa)
+The **peritectic** reaction is where a single solid phase $\varepsilon$ transforms into a different solid phase plus a liquid completely and at a constant temperature upon heating. (Or vice versa) 
+## Intermediate Compounds
+For some systems intermediate compounds may be found, e.g. intermetallic compounds, carbides, etc.
+These are characterised by vertical lines in the phase diagram.

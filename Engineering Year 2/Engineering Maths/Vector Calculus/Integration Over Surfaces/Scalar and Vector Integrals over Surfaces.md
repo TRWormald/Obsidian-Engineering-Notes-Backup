@@ -22,3 +22,9 @@ $$\Phi=\int\int_{S}\mathbf{H}\cdot\mathbf{\hat{n}} ~dA$$
 ##### Example 6.1
 ![[Pasted image 20241031181310.png|centre]]
 ### The Scalar Surface Integral
+This is the integral over a surface of scalar field $f$:
+$$\int\int_{S}f~dA:=\int\int_{S}f|\mathbf{dA}|$$
+Examples include mass, surface area, and moment of inertia of plates, shells, etc.
+![[Pasted image 20241103154917.png|centre]]
+##### Example 6.2
+![[Pasted image 20241103154941.png]]
