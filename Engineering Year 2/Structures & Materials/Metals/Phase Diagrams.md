@@ -23,3 +23,13 @@ It is often the case, especially in solid systems, that a state of equilibrium i
 # Binary Phase Diagrams
 Binary phase diagrams are maps that represent the relationships between temperature and the compositions and quantities of phases at equilibrium, which influence the microstructure of an alloy. Many microstructures develop from phase transformations, the changes that occur when the temperature is altered (typically upon cooling). This may involve the transition from one phase to another or the appearance or disappearance of a phase. Binary phase diagrams are helpful in predicting phase transformations and the resulting microstructures, which may have equilibrium or nonequilibrium character.
 ### Binary Isomorphous Systems
+A good example of a isomorphous system is the copper-nickel system below:
+![[Pasted image 20241103143301.png|centre]]
+The liquid $L$ is a homogeneous liquid solution of both copper and nickel. The $\alpha$ phase is a substitutional solid solution consisting of both Cu and Ni atoms with a FCC crystal structure. At temperatures below 1080 degrees copper and nickel are mutually soluble in each other in the solid state for all compositions.
+On the diagram there are several important lines:
+- **Liquidus** line - This defines the limit between coexisting solid-liquid phases and a pure liquid phase
+- **Solidus** line - This defines the limit between a pure solid phase and coexisting solid phases.
+### Binary Eutectic Systems
+A good example of a binary eutectic system is shown below:
+![[Pasted image 20241101152617.png|centre|400]]
+It shows a copper-silver phase diagram, note how compared to the isomorphous system there are more phases. We have the liquid phase $L$, the solid phase
