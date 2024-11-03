@@ -13,4 +13,11 @@ For other surfaces, we can use an angular formulation:
 - A cylinder of radius $a$. Parametrise the circular base as $x=a\cos u$, $y=a\sin u$, and the height $z$ as $v$. So that:
 $$\mathbf{r}(u,v)=(a\cos u ,a\sin u,v)$$
 - A cone $x^{2}+y^{2}=z^{2}$, which is similar, except the radius $a$ depends on $z$.
-$$\mathbf{r}(u,v)=(v\cos u, v\sin u)$$
+$$\mathbf{r}(u,v)=(v\cos u, v\sin u, v)$$
+- A sphere $x^{2}+y^{2}+z^{2}=a^{2}$ here we use the polar $u=\theta$ and azimuthal $v=\phi$ angles with ranges $0\le\theta\lt\pi$, $0\le\phi\lt 2\pi$ so that:
+$$\mathbf{r}(u,v)=(a\sin u \cos v, a\sin u \sin v, a \cos u )$$
+### How to calculate dA on an arbitrary surface?
+Consider a small piece of surface $\mathbf{r}(u,v)$, then the infinitesimal area vector is:
+$$\mathbf{dA}:=\mathbf{\hat{n}}~dA=(\mathbf{r}_{u}\times\mathbf{r}_{v})du~dv=\left(\frac{\partial\mathbf{r}}{\partial u}\times\frac{\partial\mathbf{r}}{\partial v}\right)du~dv$$
+![[Pasted image 20241103161814.png|centre]]
+This leads us to the notion of the orientation of a surface. We may choose a parameterisation so that the normal vector points inwards or outwards. A surface is said to be orientable if a label can be assigned to a normal direction at a point, and that this labelling can be continued in a unique and continuous way throughout the entire surface.
