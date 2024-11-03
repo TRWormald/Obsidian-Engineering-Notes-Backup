@@ -49,4 +49,4 @@ $$W_{\alpha}=\frac{\text{Length of }\alpha}{\text{Total Length}}=\frac{C_{\beta}
 Hence the mass fraction of phase $\beta$:
 $$W_{\beta}=\frac{\text{Length of }\beta}{\text{Total Length}}=\frac{C_{1}-C_{\alpha}}{C_{\beta}-C_{\alpha}}=\frac{40-11}{98-11}=0.33$$
 
-Effectively what this means is that we have a solid consisting of two phases of the alloy, one which is 11% tin, and the other which is 
+Effectively what this means is that we have a solid consisting of two phases of the alloy, one which is 11% tin, and the other which is 98% tin. However the former makes up 0.67 by weight of the entire solid, whilst the latter only makes up 0.33.
