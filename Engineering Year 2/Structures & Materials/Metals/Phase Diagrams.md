@@ -32,4 +32,10 @@ On the diagram there are several important lines:
 ### Binary Eutectic Systems
 A good example of a binary eutectic system is shown below:
 ![[Pasted image 20241101152617.png|centre|400]]
-It shows a copper-silver phase diagram, note how compared to the isomorphous system there are more phases. We have the liquid phase $L$, the solid phase
+It shows a copper-silver phase diagram, note how compared to the isomorphous system there are more phases. We have the liquid phase $L$, the solid phases $\alpha$ and $\beta$, which are copper and silver rich respectively. We also have the combination regions, $\alpha+L$, $\beta+L$ and the solid $\alpha+\beta$.   
+In addition to these additional regions we have another important line:
+- **Solvus** line - defines a solid solubility limit; e.g. pure $\alpha$ to $\alpha+\beta$ and vice versa.
+We also need to think about the **Eutectic reaction**, this is where upon cooling, a liquid phase $L$ transforms into two solid phases $\alpha+\beta$ completely and at a constant temperature. This occurs when an alloy of eutectic composition $C_{E}$ reaches the eutectic temperature $T_{E}$.
+### The Lever Rule
+We can use the lever rule to give phase amounts and phase composition when in equilibrium.
+
