@@ -11,17 +11,14 @@
             "id": "eeaa9d252c791ba8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -1.5137012811654182
-                }
+                "file": "Engineering Year 2/Structures & Materials/Metals/Titanium Alloys.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Titanium Alloys"
             }
           }
         ]
@@ -55,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Risk",
-                "matchingCase": true,
+                "query": "Ecxelent",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -76,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,9 +227,11 @@
   },
   "active": "eeaa9d252c791ba8",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
-    "Engineering Year 2/Structures & Materials/Metals/Untitled.md",
+    "Images & Attachments/Pasted image 20241104133408.png",
+    "Images & Attachments/Pasted image 20241104133259.png",
     "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Metals/Titanium Alloys.md",
+    "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
     "Images & Attachments/Screenshot 2024-11-04 103209.png",
     "Images & Attachments/Pasted image 20241104103058.png",
     "Images & Attachments/Screenshot 2024-11-04 102307.png",
@@ -241,7 +241,6 @@
     "Images & Attachments/Pasted image 20241104101600.png",
     "Images & Attachments/Pasted image 20241104101419.png",
     "Images & Attachments/Pasted image 20241104101305.png",
-    "Images & Attachments/Pasted image 20241104101243.png",
     "Engineering Year 2/Structures & Materials/Metals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
@@ -273,7 +272,6 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 3/Orbital Energy and the Two Body Problem.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
