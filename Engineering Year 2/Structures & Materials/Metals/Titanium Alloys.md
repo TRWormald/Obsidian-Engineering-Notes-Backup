@@ -18,4 +18,5 @@ It does however have a number of disadvantages:
 The graph below shows usage of titanium alloys in weight%:
 ![[Pasted image 20241104133259.png|centre]]
 ### Phases of Titanium
-![[Pasted image 20241104133408.png]]
+![[Pasted image 20241104133408.png|centre]]
+
