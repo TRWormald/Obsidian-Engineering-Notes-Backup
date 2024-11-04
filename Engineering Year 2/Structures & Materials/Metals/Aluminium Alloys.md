@@ -37,3 +37,7 @@ The 7000 series (Al-Cu-Zn) are described by the following:
 ![[Pasted image 20241104102023.png|centre]]
 The 8000 series (Al-Li) are described by the following:
 ![[Screenshot 2024-11-04 102307.png|centre]]
+#### Strengthening Mechanisms
+![[Pasted image 20241104103058.png|centre]]
+Natural ageing results in the following strength profile:
+![[Screenshot 2024-11-04 103209.png|centre]]
