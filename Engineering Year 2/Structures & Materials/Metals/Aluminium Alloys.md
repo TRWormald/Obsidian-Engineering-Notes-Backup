@@ -24,4 +24,16 @@ There are two main types of aluminium alloys:
 ![[Pasted image 20241104101243.png|centre]]
 ![[Pasted image 20241104101305.png]]
 #### Non-age-hardenable Alloys
-These are 1000,3000, 5000, and most 4000 series alloys. The
+These are 1000,3000, 5000, and most 4000 series alloys. They can only be strengthened using solid solution strengthening, grain boundary strengthening, and cold working.
+![[Pasted image 20241104101419.png|centre]]
+![[Pasted image 20241104101600.png|centre]]
+
+#### Age-hardenable Alloys
+The 2000 series (Al-Cu) aluminium alloys are described by the following:
+![[Pasted image 20241104101655.png|centre]]
+The 6000 series (Al-Mg-Si) are described by the following:
+![[Pasted image 20241104101909.png|centre]]
+The 7000 series (Al-Cu-Zn) are described by the following:
+![[Pasted image 20241104102023.png|centre]]
+The 8000 series (Al-Li) are described by the following:
+![[Screenshot 2024-11-04 102307.png|centre]]
