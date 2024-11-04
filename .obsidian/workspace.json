@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ba9c80ed8b63f8",
+        "id": "8735a04661d30262",
         "type": "tabs",
         "children": [
           {
-            "id": "0fa4b76de97509c3",
+            "id": "eeaa9d252c791ba8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -1.5137012811654182
+                }
               },
-              "icon": "lucide-file",
-              "title": "Aluminium Alloys"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,8 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0fa4b76de97509c3",
+  "active": "eeaa9d252c791ba8",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
+    "Engineering Year 2/Structures & Materials/Metals/Untitled.md",
+    "Backend/Home.canvas",
     "Images & Attachments/Screenshot 2024-11-04 103209.png",
     "Images & Attachments/Pasted image 20241104103058.png",
     "Images & Attachments/Screenshot 2024-11-04 102307.png",
@@ -237,13 +243,10 @@
     "Images & Attachments/Pasted image 20241104101305.png",
     "Images & Attachments/Pasted image 20241104101243.png",
     "Engineering Year 2/Structures & Materials/Metals/Strengthening of Metals.md",
-    "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
-    "Images & Attachments/Pasted image 20241103165414.png",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Parameterisation of Curves.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
