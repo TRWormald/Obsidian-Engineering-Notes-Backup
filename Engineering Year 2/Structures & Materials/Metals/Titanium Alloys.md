@@ -20,3 +20,4 @@ The graph below shows usage of titanium alloys in weight%:
 ### Phases of Titanium
 ![[Pasted image 20241104133408.png|centre]]
 
+Pure titanium has a transus temperature of 885 degrees centigrade. The beta phase is only stable above it, whilst the alpha phase is only stable below it.
