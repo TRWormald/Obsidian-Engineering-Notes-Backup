@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ecxelent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eeaa9d252c791ba8",
+  "active": "76ad3b8cbd3db5c5",
   "lastOpenFiles": [
     "Images & Attachments/Pasted image 20241104133408.png",
     "Images & Attachments/Pasted image 20241104133259.png",
