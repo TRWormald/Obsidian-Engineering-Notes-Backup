@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8735a04661d30262",
+        "id": "861dec0707cb0ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "eeaa9d252c791ba8",
+            "id": "b4992f6a0679ce05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Metals/Titanium Alloys.md",
-                "mode": "source",
-                "source": false
+                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
+                "page": 1,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "Titanium Alloys"
+              "icon": "lucide-file-text",
+              "title": "Rocket Propulsion Elements - 8th Edition"
             }
           }
         ]
@@ -224,8 +224,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eeaa9d252c791ba8",
+  "active": "b4992f6a0679ce05",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Metals/Titanium Alloys.md",
     "Images & Attachments/Pasted image 20241104154102.png",
     "Images & Attachments/Pasted image 20241104154037.png",
     "Images & Attachments/Pasted image 20241104154020.png",
@@ -233,13 +235,10 @@
     "Images & Attachments/Pasted image 20241104153925.png",
     "Images & Attachments/Pasted image 20241104133408.png",
     "Images & Attachments/Pasted image 20241104133259.png",
-    "Backend/Home.canvas",
-    "Engineering Year 2/Structures & Materials/Metals/Titanium Alloys.md",
     "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
     "Images & Attachments/Screenshot 2024-11-04 103209.png",
     "Images & Attachments/Pasted image 20241104103058.png",
     "Images & Attachments/Screenshot 2024-11-04 102307.png",
-    "Images & Attachments/Pasted image 20241104102023.png",
     "Engineering Year 2/Structures & Materials/Metals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
