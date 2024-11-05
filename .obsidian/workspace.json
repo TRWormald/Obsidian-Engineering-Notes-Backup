@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "861dec0707cb0ea8",
+        "id": "f9fa8d8bdf5995f1",
         "type": "tabs",
         "children": [
           {
-            "id": "b4992f6a0679ce05",
+            "id": "aeed014a47bcbc9c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf"
+                "file": "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Rocket Propulsion Elements - 8th Edition"
+              "icon": "lucide-file",
+              "title": "Phase Diagrams"
             }
           }
         ]
@@ -222,10 +224,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b4992f6a0679ce05",
+  "active": "aeed014a47bcbc9c",
   "lastOpenFiles": [
-    "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Tying it all Together.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
     "Engineering Year 2/Structures & Materials/Metals/Titanium Alloys.md",
+    "Backend/Home.canvas",
+    "General Interest/Rocket Propulsion/Rocket Propulsion Elements - 8th Edition.pdf",
     "Images & Attachments/Pasted image 20241104154102.png",
     "Images & Attachments/Pasted image 20241104154037.png",
     "Images & Attachments/Pasted image 20241104154020.png",
@@ -241,8 +247,6 @@
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Parameterisation of Curves.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Properties of Work and Line Integrals.md",
@@ -272,7 +276,6 @@
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-    "Engineering Year 2/AVDASI 2/Structures/ASD2 DESIGN LOADS 2024-25 - Calc ILLUSTRATION (text)(1).pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
