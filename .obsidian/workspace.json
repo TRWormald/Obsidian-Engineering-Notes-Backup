@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
+                "file": "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase Diagrams"
+              "title": "Coaxial Swirl Injectors Notes"
             }
           }
         ]
@@ -224,8 +224,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aeed014a47bcbc9c",
+  "active": "76ad3b8cbd3db5c5",
   "lastOpenFiles": [
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/955-968.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/20020045359 - NASA.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/ADA410862 - Mainly Looks at Data.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors",
+    "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Tying it all Together.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
@@ -245,7 +253,6 @@
     "Images & Attachments/Screenshot 2024-11-04 102307.png",
     "Engineering Year 2/Structures & Materials/Metals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
-    "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Parameterisation of Curves.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Path Integrals of Scalar and Vector Fields.md",
@@ -256,10 +263,7 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
-    "Engineering Year 2/Structures & Materials/Metals",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures",
     "Engineering Year 2/Space Systems/Systems Engineering/Introduction to Systems Engineering/From System Need to System Requirements.md",
-    "Engineering Year 2/Space Systems/Systems Engineering/Systems_Engineering_Handbook_5_ALL.pdf",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Changing Co-Ordinates in Triple Integrals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Triple Integrals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Changing Co-Ordinates in Double Integrals.md",
@@ -270,11 +274,7 @@
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/Launch Losses.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 4/The Kepler Problem.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
