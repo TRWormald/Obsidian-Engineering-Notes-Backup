@@ -11,14 +11,16 @@
             "id": "aeed014a47bcbc9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/955-968.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 796,
+                "zoom": 1.4767156862745099
               },
-              "icon": "lucide-file",
-              "title": "Coaxial Swirl Injectors Notes"
+              "icon": "lucide-file-text",
+              "title": "955-968"
             }
           }
         ]
@@ -224,16 +226,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "aeed014a47bcbc9c",
   "lastOpenFiles": [
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/20020045359 - NASA.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/out.pdf",
+    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/955-968.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
-    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/20020045359 - NASA.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
-    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Tying it all Together.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
@@ -259,9 +263,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Properties of Work and Line Integrals.md",
     "Engineering Year 2/Structures & Materials/Metals/Steel Alloys.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Untitled",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Engineering Year 2/Space Systems/Systems Engineering/Introduction to Systems Engineering/From System Need to System Requirements.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Changing Co-Ordinates in Triple Integrals.md",
