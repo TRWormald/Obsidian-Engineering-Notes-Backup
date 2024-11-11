@@ -1,6 +1,12 @@
 ### Synthesis
 There are two main mechanisms for polymer synthesis, *Addition/Chain Polymerisation*, and *Condensation Polymerisation.*
 ##### Addition Polymerisation
+This is a reaction that produces a polymer by linking small, [[1) Introduction to Polymers#The different types of Hydrocarbons|unsaturated]] molecules called monomers together.
+The first step is **Initiation**, this is where the *initiator* (peroxide) gains energy - breaking the covalent bonds between the oxygen atoms - forming *free radical initiators*:
+![[Pasted image 20241111162528.png|centre|250]]
+This free radical then bonds to a monomer - "opening it up", resulting in an activated monomer:
+![[Pasted image 20241111162633.png|centre]]
+The next step is **propagation**, where the activated monomer, bonds with 
 ##### Condensation Polymerisation
 ### Repeat Units
 
