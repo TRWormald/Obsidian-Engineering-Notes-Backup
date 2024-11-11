@@ -11,17 +11,14 @@
             "id": "681654e5cab379b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Engineering Year 2/Structures & Materials/Polymers & Composites/Thermoset Polymers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Thermoset Polymers"
             }
           }
         ]
@@ -229,10 +226,18 @@
   },
   "active": "681654e5cab379b2",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20241111144655.png",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Thermoplastic Polymers.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Thermoset Polymers.md",
+    "Images & Attachments/Pasted image 20241111144505.png",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction to Polymers.md",
+    "Images & Attachments/Pasted image 20241111144354.png",
+    "Images & Attachments/Pasted image 20241111144158.png",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
@@ -242,7 +247,6 @@
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors",
-    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Tying it all Together.md",
@@ -255,9 +259,6 @@
     "Images & Attachments/Pasted image 20241104133408.png",
     "Images & Attachments/Pasted image 20241104133259.png",
     "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
-    "Images & Attachments/Screenshot 2024-11-04 103209.png",
-    "Images & Attachments/Pasted image 20241104103058.png",
-    "Images & Attachments/Screenshot 2024-11-04 102307.png",
     "Engineering Year 2/Structures & Materials/Metals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Along Curves/Parameterisation of Curves.md",
@@ -273,9 +274,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Questions.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Hohmann Transfers.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Vis Viva Equation.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 5/The Kepler Equation.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
