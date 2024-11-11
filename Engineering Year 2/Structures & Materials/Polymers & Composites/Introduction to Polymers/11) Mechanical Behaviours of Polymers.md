@@ -26,4 +26,4 @@ Initially strain relief is provided by the development of micro-voids, however e
 Crazing is followed by cracking in many thermoplastics leading to fracture - however a craze can still support a load across its face, unlike a crack.
 ### Viscoelasticity
 ### Other Mechanical Properties
-### Factr
+### Factors that Influence the Mechanical Properties of Semicrystalline Polymers
