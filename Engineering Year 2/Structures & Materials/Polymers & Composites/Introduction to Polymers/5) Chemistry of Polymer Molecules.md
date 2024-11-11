@@ -6,11 +6,22 @@ The first step is **Initiation**, this is where the *initiator* (peroxide) gains
 ![[Pasted image 20241111162528.png|centre|250]]
 This free radical then bonds to a monomer - "opening it up", resulting in an activated monomer:
 ![[Pasted image 20241111162633.png|centre]]
-The next step is **propagation**, where the activated monomer, bonds with 
+The next step is **propagation**, where the activated monomer, bonds with another monomer, increasing the length of the chain:
+![[Pasted image 20241111162742.png|centre]]
+Finally we reach the final step **termination**, this is where an activated monomer bonds with the chain, creating a terminated polymer chain.
+![[Pasted image 20241111162931.png|centre]]
 ##### Condensation Polymerisation
+This is a reaction that joins monomers to form polymers, releasing a small molecule, usually water, as a by-product.
+The first step is the same as addition polymerisation:
+**Initiation**, this is where the *initiator* (peroxide) gains energy - breaking the covalent bonds between the oxygen atoms - forming *free radical initiators*:
+![[Pasted image 20241111162528.png|centre|250]]
+However then a monomer reacts with the radical, producing a longer chain as well as a by-product:
+![[Pasted image 20241111163407.png|centre]]
 ### Repeat Units
-
+All polymers are made out of common "Repeat Units", some of the most common/applicable to Aerospace are listed below:
+![[Pasted image 20241111163522.png|centre]]![[Pasted image 20241111163616.png|centre]]
 ### Average Molecular Weight
+Since the length of polymer chains is not fixed, it can be difficult to calculate the molecular weight of
 There are two ways to calculate the average molecular weight:
 
 **The number average molecular weight**
