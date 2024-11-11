@@ -27,4 +27,6 @@ Often the length/width of the crystal is smaller than the length of a single cha
 ![[Pasted image 20241111180551.png|centre]]
 Many bulk polymers, when crystallized from a melt, form a semicrystalline material with spherulites.  Spherulites consist of an aggregate of ribbon-like chain-folded crystallites (lamellae). Spherulites in polymers are analogue of grains in polycrystalline metals and ceramics.
 These increase the crystallinity, density, tensile strength, young's modulus, etc. However they do decrease the ductility and increases brittleness.
+![[Pasted image 20241111181319.png|centre]]
 #### Defects in Polymer Crystallinity
+![[Pasted image 20241111180855.png|centre]]
