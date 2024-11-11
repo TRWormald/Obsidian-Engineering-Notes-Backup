@@ -3,3 +3,9 @@ These polymers are made up of chains of molecules again, however they are three 
 They have the following properties:
 - Network polymers
 - Covalent crosslinks between adjacent molecular chains
+- Permanently hard once formed
+- High strength
+- Low ductility
+- Poor impact resistance
+- High creep resistance
+- Not recycleable

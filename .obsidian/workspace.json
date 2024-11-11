@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Polymers & Composites/Thermoset Polymers.md",
+                "file": "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction/5) Chemistry of Polymer Molecules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thermoset Polymers"
+              "title": "5) Chemistry of Polymer Molecules"
             }
           }
         ]
@@ -226,11 +226,15 @@
   },
   "active": "681654e5cab379b2",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction/1) Introduction to Polymers.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction/5) Chemistry of Polymer Molecules.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction/4) Elastomer.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction/3) Thermoset Polymers.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction/2) Thermoplastic Polymers.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction",
+    "Images & Attachments/Pasted image 20241111144837.png",
     "Images & Attachments/Pasted image 20241111144655.png",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Thermoplastic Polymers.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Thermoset Polymers.md",
     "Images & Attachments/Pasted image 20241111144505.png",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Introduction to Polymers.md",
     "Images & Attachments/Pasted image 20241111144354.png",
     "Images & Attachments/Pasted image 20241111144158.png",
     "Backend/Home.canvas",
@@ -246,7 +250,6 @@
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
-    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Coaxial Swirl Injectors Notes.md",
     "Engineering Year 2/Structures & Materials/Metals/Phase Diagrams.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Tying it all Together.md",
@@ -256,8 +259,6 @@
     "Images & Attachments/Pasted image 20241104154020.png",
     "Images & Attachments/Pasted image 20241104153950.png",
     "Images & Attachments/Pasted image 20241104153925.png",
-    "Images & Attachments/Pasted image 20241104133408.png",
-    "Images & Attachments/Pasted image 20241104133259.png",
     "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
     "Engineering Year 2/Structures & Materials/Metals/Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/Metals/Crystal Structure of Metals.md",
@@ -273,7 +274,6 @@
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Double Integrals.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration of Scalar Fields Over Areas and Volumes/Questions.md",
     "Engineering Year 2/Space Systems/Orbits/Orbits 6/Plane Change Manoeuvres.md",
-    "Engineering Year 2/Space Systems/Orbits/Orbits 6/Intro to Manoeuvres.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
