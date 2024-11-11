@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "50f9d2d785d3b7d4",
+        "id": "698973a7c7a1a28b",
         "type": "tabs",
         "children": [
           {
-            "id": "c84df66d779d8574",
+            "id": "681654e5cab379b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Scalar and Vector Integrals over Surfaces"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,11 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c84df66d779d8574",
+  "active": "681654e5cab379b2",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Parameterisation of Surfaces.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Evaluation of Surface Integrals.md",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Integration Over Surfaces/Scalar and Vector Integrals over Surfaces.md",
     "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
