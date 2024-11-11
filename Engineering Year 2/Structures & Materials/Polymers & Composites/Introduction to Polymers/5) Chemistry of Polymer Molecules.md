@@ -40,4 +40,8 @@ $$DP=\frac{\bar{M}_{n}}{m}=\frac{\text{number average molecular weight}}{\text{m
 The graph above shows the distribution of molecular weights for a typical polymer.
 ### Functionality, Homopolymers, and Copolymers
 **Functionality** is a property of a polymer, representing the number of active bonds of a monomer (or repeating unit) in it.
-**Homopolymer**
+**Homopolymers** are polymers which are made of the same repeating units.
+**Copolymers** are polymers which are made of two or more types of monomers.
+#### Different Types of Copolymers
+There are 4 main different types of copolymers, random, alternate, block, and graft, all can be seen below:
+![[Screenshot 2024-11-11 164816.png|centre]]
