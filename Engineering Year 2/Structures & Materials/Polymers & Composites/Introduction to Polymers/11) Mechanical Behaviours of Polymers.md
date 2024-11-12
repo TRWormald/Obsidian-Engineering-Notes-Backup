@@ -25,5 +25,10 @@ Note how initially the crystalline regions stay together with the amorphous poly
 Initially strain relief is provided by the development of micro-voids, however eventually the fibrillar bridges break and a crack forms.
 Crazing is followed by cracking in many thermoplastics leading to fracture - however a craze can still support a load across its face, unlike a crack.
 ### Viscoelasticity
+This property is observed in amorphous polymers. They are brittle at low temperatures, followed by a rubbery, viscous, and liquid like form.
+At intermediate temperature the polymer shows combined characteristic properties of the two extremes, known as viscoelasticity.
+**Viscoelastic Relaxation Modulus**
+$$E_{r}(t) =\frac{\sigma(t)}{\epsilon_{0}}$$
+So the relaxation 
 ### Other Mechanical Properties
 ### Factors that Influence the Mechanical Properties of Semicrystalline Polymers
