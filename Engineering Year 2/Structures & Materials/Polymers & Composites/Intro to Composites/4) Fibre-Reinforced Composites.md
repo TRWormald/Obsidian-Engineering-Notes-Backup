@@ -1,6 +1,7 @@
 These types of composites are highly technologically important, they are used widely in the aerospace sector where high *specific strength* and *modulus* are required.
 $$\text{specific strength}=\frac{\text{ultimate tensile strength }\sigma_{ut}}{\text{specific gravity }\rho}$$
 $$\text{specific modulus}=\frac{\text{modulus of elasticity } E}{\text{specific gravity } \rho}$$
+There is also a different [[5) The Rule of Mixtures for Fibre-Reinforced Composites|Rule of Mixtures]] for fibre-reinforced composites, which we can use to find the longitudinal and transverse modulus of a FRC.
 ### Matrix Materials
 Typically in fibre-reinforced composites we use one of two different types of thermoset resin:
 - Unsaturated polyester
