@@ -20,3 +20,4 @@ At each frequency $n\omega$ ($n\ge 0$) we plot a line with height $\frac{1}{2}\s
 ![[Pasted image 20241112094416.png|centre]]
 
 ##### Worked Example 1.2
+![[Pasted image 20241112100553.png]]
