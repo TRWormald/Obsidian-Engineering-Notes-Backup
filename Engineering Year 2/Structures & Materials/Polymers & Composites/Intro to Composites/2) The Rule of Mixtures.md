@@ -1,0 +1,1 @@
+Determining the mechanical properties of a composite can be quite difficult without experimental results, however we 
