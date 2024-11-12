@@ -6,4 +6,4 @@ These have been used in fuselage struts in the Space Shuttle Orbiter, as well as
 This is where ceramic reinforcement is embedded in a ceramic matrix. It is useful for high temperature applications, as well as when high strength and toughness is required.
 They have been used in heat-shields for spacecraft, as well as brake disks.
 #### Fibre-Metal Laminates
-This is where t
+This is where thin layers of aramid fibre composite are sandwiched between layers of aluminium alloy. However there are some serious manufacturing issues with these kinds of composites as well as issues with moisture absorption.
