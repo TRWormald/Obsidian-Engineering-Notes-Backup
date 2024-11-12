@@ -29,6 +29,27 @@ This property is observed in amorphous polymers. They are brittle at low tempera
 At intermediate temperature the polymer shows combined characteristic properties of the two extremes, known as viscoelasticity.
 **Viscoelastic Relaxation Modulus**
 $$E_{r}(t) =\frac{\sigma(t)}{\epsilon_{0}}$$
-So the relaxation 
+So the relaxation modulus is time dependent, and decreases over time due to the relaxation of the polymer molecules.
+![[Pasted image 20241112111056.png|centre]]
 ### Other Mechanical Properties
+##### Viscoelastic Creep
+Weakening/deformation of polymer over time under constant stress. As a general rule, higher the degree of crystallinity, lower the susceptibility to creep.
+##### Fracture of Polymers
+Fracture strengths of most polymer are much lower compared to most metals. Heavily depends on how brittle/ductile the polymer is (therefore, depends on the temperature). Brittle below the glass transition temperature.
+##### Impact Strength
+Degree of resistance to impact. Temperature dependent. Decreases gradually in general with higher temperature, as polymer softens.
+##### Fatigue
+Failure under recurring/cyclic loading. Similar to metals, fatigue occurs at stress levels which is below the yield strength.
 ### Factors that Influence the Mechanical Properties of Semicrystalline Polymers
+There are several factors that can affect the mechanical properties of polymers, some are listed below:
+1) Molecular Weight
+Tensile strength is a function of number-average molecular weight. This is due to greater chain entanglements with higher molecular weights of the polymer.
+2) Degree of Crystallinity
+Degree of crystallinity increases the secondary intermolecular interactions, and therefore, have significant influence on mechanical properties.
+3) Pre-deformation by Drawing
+The material strength is sometime improved by deformation of the polymer by stretching (drawing). 
+- Alignment of the molecules as shown in earlier image (for stepwise deformation). 
+- Tensile strength along the drawing is increased, 
+- TS perpendicular to the alignment is reduced.
+4) Heat Treating
+Heat treating/annealing can increase the degree of crystallinity (shrinkage in volume, in general).
