@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7cacd64f4e247168",
+        "id": "45208027c86d9bca",
         "type": "tabs",
         "children": [
           {
-            "id": "90c5ddaccc2b6a2f",
+            "id": "3737947e3cdc5273",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/1) Intro To Composites.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -1.3464504140214315
+                }
               },
-              "icon": "lucide-file",
-              "title": "1) Intro To Composites"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,8 +227,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "90c5ddaccc2b6a2f",
+  "active": "3737947e3cdc5273",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/1) Intro To Composites.md",
     "Images & Attachments/Pasted image 20241112225042.png",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/8) Nanocomposites.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/7) Structural Composites.md",
@@ -243,8 +247,6 @@
     "Images & Attachments/Pasted image 20241112220045.png",
     "Images & Attachments/Pasted image 20241112220027.png",
     "Images & Attachments/Pasted image 20241112220000.png",
-    "Images & Attachments/Pasted image 20241112215919.png",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/1) Intro To Composites.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/2) Frequency Analysis of Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/3) Fourier Series of Even and Odd Functions.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/7) Diffusion in Polymeric Materials.md",
