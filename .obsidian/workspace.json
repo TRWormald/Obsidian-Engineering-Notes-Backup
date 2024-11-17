@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/4) Odd and Even Periodic Extensions.md",
+                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/1) Intro to Fourier Transforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Odd and Even Periodic Extensions"
+              "title": "1) Intro to Fourier Transforms"
             }
           }
         ]
@@ -226,10 +226,12 @@
   },
   "active": "03db64d64367a1ab",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/4) Odd and Even Periodic Extensions.md",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/1) Intro to Fourier Transforms.md",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms",
     "Images & Attachments/Pasted image 20241117125348.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/2) Frequency Analysis of Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/1) Periodic Functions.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/4) Odd and Even Periodic Extensions.md",
     "Images & Attachments/Pasted image 20241117124442.png",
     "Images & Attachments/Pasted image 20241117124300.png",
     "Images & Attachments/Pasted image 20241117124145.png",
@@ -249,7 +251,6 @@
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/2) The Rule of Mixtures for Particle Reinforced Composites.md",
     "Images & Attachments/Pasted image 20241112221136.png",
     "Images & Attachments/Pasted image 20241112221019.png",
-    "Images & Attachments/Pasted image 20241112220813.png",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/7) Diffusion in Polymeric Materials.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/11) Mechanical Behaviours of Polymers.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/5) Chemistry of Polymer Molecules.md",
@@ -272,7 +273,6 @@
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
-    "General Interest/Rocket Propulsion/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
