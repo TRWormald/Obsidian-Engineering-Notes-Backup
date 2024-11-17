@@ -29,6 +29,13 @@ The Fourier Series of the odd periodic extension is called the half-range sine s
 **Note that the odd and even periodic extensions both have period $T=2L$ and frequency $\omega=\frac{2\pi}{T}=\frac{\pi}{L}$**
 ### The Half-Range Cosine Series
 The half-range cosine series of a function$f(t)$ given on an interval $0\le t\le L$ is the Fourier series of its even periodic extension:
-$$f(t)\sim \frac{a_{0}}{2}+\sum\limits_{n=1}^{\infty}a_{n}\cos\left(\frac{n\pi t}{L} ) $$
-
+$$f(t)\sim \frac{a_{0}}{2}+\sum\limits_{n=1}^{\infty}a_{n}\cos\left(\frac{n\pi t}{L}\right) $$
+where:
+$$a_{n}=\frac{2}{L}\int_{0}^{L}f(t)\cos\left(\frac{n\pi t}{L}\right)~dt$$
 ### The Half-Range Sine Series
+The half-range sine series of a function$f(t)$ given on an interval $0\le t\le L$ is the Fourier series of its odd periodic extension:
+$$f(t)\sim \sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi t}{L}\right) $$
+where:
+$$b_{n}=\frac{2}{L}\int_{0}^{L}f(t)\sin\left(\frac{n\pi t}{L}\right)~dt$$
+### Worked Example 1.4
+![[Pasted image 20241117125348.png|centre]]
