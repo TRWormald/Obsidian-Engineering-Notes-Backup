@@ -3,4 +3,6 @@ We know that we can obtain the arbitrary function $f(t)$ from an integral involv
 What we are doing here is modifying the sinusoidal wave using the value of the frequency function to get the magnitude, and the phase angle to get the offset of the wave.
 Doubling the frequency results in:
 ![[Pasted image 20241117152658.png|centre]]
-And as we can see, we are reading off a different value from the valu
+And as we can see, we are reading off a different value for the magnitude of the frequency function, as well as a different phase angle.
+### Worked Example 2.1
+![[Pasted image 20241117152822.png|centre]]
