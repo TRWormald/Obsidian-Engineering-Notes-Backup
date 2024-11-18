@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "506d6746fd68bd92",
+        "id": "a5c4bd3ed2c730b4",
         "type": "tabs",
         "children": [
           {
-            "id": "03db64d64367a1ab",
+            "id": "49fc0c2809d6d134",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/5) Interpreting the Spectra.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5) Interpreting the Spectra"
+              "title": "New tab"
             }
           }
         ]
@@ -224,14 +220,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "03db64d64367a1ab",
+  "active": "49fc0c2809d6d134",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/5) Interpreting the Spectra.md",
     "Images & Attachments/Pasted image 20241117152822.png",
     "Images & Attachments/Pasted image 20241117152658.png",
     "Images & Attachments/Pasted image 20241117152443.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/4) Visualising the Fourier Transform.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/2) The Fourier Transform.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/5) Interpreting the Spectra.md",
     "Images & Attachments/Pasted image 20241117151846.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/3) What kinds of Functions have a Fourier Transform.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/1) Intro to Fourier Transforms.md",
@@ -243,7 +239,6 @@
     "Images & Attachments/Pasted image 20241117141826.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/4) Odd and Even Periodic Extensions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms",
-    "Images & Attachments/Pasted image 20241117125348.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/2) Frequency Analysis of Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/1) Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/3) Fourier Series of Even and Odd Functions.md",
