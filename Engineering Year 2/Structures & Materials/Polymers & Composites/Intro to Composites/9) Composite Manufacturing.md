@@ -11,4 +11,14 @@ This method of composite manufacturing is where continuous-fibre rovings, or tow
 ![[Pasted image 20241119111815.png|centre]]
 #### Filament Winding
 This is where reels of fibre are pulled through a resin bath, before being wound around a "mandrel" around which they are cured:![[Pasted image 20241119112233.png]]
-The advantages of this process are
+The advantages of this process are:
+- An excellent strength to weight ratio
+- The final product has a good resin distribution
+- High fibre volume is achievable
+- Fibres can be oriented in the loading direction
+- Process can be automated and cost savings can be achieved
+However there are some disadvantages:
+- There are a limited number of product shapes
+- High cost of material
+- Winding reverse curvature is not possible
+### Lay up Manufacturing
