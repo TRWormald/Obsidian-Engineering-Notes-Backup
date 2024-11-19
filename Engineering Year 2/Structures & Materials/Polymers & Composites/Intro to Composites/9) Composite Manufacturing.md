@@ -22,3 +22,39 @@ However there are some disadvantages:
 - High cost of material
 - Winding reverse curvature is not possible
 ### Lay up Manufacturing
+This is where the fibres are pre-laid and then impregnated with plastic/resin. There are a number of different methods that follow this basic format:
+#### Hand Lay-Up
+![[Pasted image 20241119120557.png|centre|300]]
+This is where resin is poured over the reinforcement and then forced into matrix using a roller (by hand).
+This process is:
+- Flexible
+- Able to produce large and complex items
+- Able to be completed with minimal equipment
+- Capable of having a low tooling cost
+However:
+- The process is labour intensive
+- Only one tooled surface is obtained
+- Quality is related to the skill of the operator
+#### Spray Lay-Up
+![[Pasted image 20241119120819.png|centre|300]]
+A slightly more advanced form of hand lay up:
+- The equipment and tooling costs are still low
+- The deposition rates are high
+- There is a good versatility of part shape and laminate configuration, including local thickness variations
+However:
+- Product quality is dependent on operator expertise
+- There is some difficulty in removing trapped air from the moulding
+#### Resin Transfer Moulding
+![[Pasted image 20241119121032.png]]
+Advantages:
+- Good surface finish achieved
+- Complex 3D shapes can be produced
+- Greater reproducibility
+- Production cycles are much faster than with standard lay-ups
+Disadvantages
+- Expensive tooling
+- Size limits
+- Edges tend to be resin rich
+#### Vacuum Bagging
+![[Pasted image 20241119121259.png|centre|400]]
+
