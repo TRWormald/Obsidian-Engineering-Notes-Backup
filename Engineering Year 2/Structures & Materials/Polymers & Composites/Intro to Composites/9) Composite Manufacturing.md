@@ -57,4 +57,16 @@ Disadvantages
 - Edges tend to be resin rich
 #### Vacuum Bagging
 ![[Pasted image 20241119121259.png|centre|400]]
-
+This is where a hand/wet lay up is sealed inside a vacuum bag and then subjected to 1 atm of pressure. This forces the resin into the reinforcement.
+![[Pasted image 20241119121651.png]]
+#### Autoclave Moulding
+Similar to vacuum bagging, the lay-ups are placed within a vacuum bag, however they are then placed within an autoclave and heated to increase hardness and durability.
+![[Pasted image 20241119121926.png|centre]]
+However:
+- It is expensive
+- It is labour intensive
+- It is highly energy consuming
+- It is relatively slow
+## General Advantages and Disadvantages
+![[Pasted image 20241119121729.png|centre]]
+![[Pasted image 20241119121744.png|centre]]
