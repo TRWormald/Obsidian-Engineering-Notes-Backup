@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
+                "file": "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shear Stresses in Beams"
+              "title": "Longitudinal Stresses in Beams"
             }
           }
         ],
@@ -245,8 +245,8 @@
   "active": "ba1a76225baa6570",
   "lastOpenFiles": [
     "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
-    "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
     "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
     "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
