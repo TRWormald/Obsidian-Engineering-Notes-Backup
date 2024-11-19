@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
+                "file": "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Sign Convention for Shear Force and Bending Moment in Beams"
+              "title": "Shear Stresses in Beams"
             }
           }
         ],
@@ -244,8 +244,9 @@
   },
   "active": "ba1a76225baa6570",
   "lastOpenFiles": [
-    "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
+    "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
+    "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
     "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
@@ -283,7 +284,6 @@
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/1) Intro to Fourier Transforms.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/2) Frequency Analysis of Periodic Functions.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/1) Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites",
