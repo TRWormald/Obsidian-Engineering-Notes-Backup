@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/9) Composite Manufacturing.md",
+                "file": "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9) Composite Manufacturing"
+              "title": "The Sign Convention for Shear Force and Bending Moment in Beams"
             }
           }
         ],
@@ -244,6 +244,12 @@
   },
   "active": "ba1a76225baa6570",
   "lastOpenFiles": [
+    "Engineering Year 1/Structures/Beams/Shear Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
+    "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
+    "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
+    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
+    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/9) Composite Manufacturing.md",
     "Images & Attachments/Pasted image 20241119121926.png",
     "Images & Attachments/Pasted image 20241119121744.png",
     "Images & Attachments/Pasted image 20241119121729.png",
@@ -254,14 +260,12 @@
     "Images & Attachments/Pasted image 20241119120557.png",
     "Images & Attachments/Pasted image 20241119112233.png",
     "Images & Attachments/Pasted image 20241119112230.png",
-    "Images & Attachments/Pasted image 20241119112229.png",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/11) Mechanical Behaviours of Polymers.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/10) Processing of Plastic Materials.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/9) Production of Polymers.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/8) Polymer Glass Transition.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/7) Diffusion in Polymeric Materials.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/9) Composite Manufacturing.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/4) Odd and Even Periodic Extensions.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/1) Intro To Composites.md",
@@ -280,10 +284,6 @@
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/2) Frequency Analysis of Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/1) Periodic Functions.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/3) Fourier Series of Even and Odd Functions.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/4) Fibre-Reinforced Composites.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/3) Particle-Reinforced Composites.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/5) Chemistry of Polymer Molecules.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites",
