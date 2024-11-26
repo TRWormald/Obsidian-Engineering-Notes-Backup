@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fe34275364434d8f",
+        "id": "f1df538646862a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "218ddda1352468b4",
+            "id": "6871799510bc20e2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
+                "file": "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
                 "page": 1,
                 "left": -40,
                 "top": 544,
                 "zoom": 0.378125
               },
               "icon": "lucide-file-text",
-              "title": "Lecture2_Ecodesign"
+              "title": "Lecture3_LCA(1)"
             }
           }
         ]
@@ -226,9 +226,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "218ddda1352468b4",
+  "active": "6871799510bc20e2",
   "lastOpenFiles": [
     "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Intro To Sustainability.md",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
@@ -274,7 +275,6 @@
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
