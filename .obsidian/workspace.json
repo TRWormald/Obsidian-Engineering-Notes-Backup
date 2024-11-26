@@ -11,16 +11,17 @@
             "id": "6871799510bc20e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
-                "page": 1,
-                "left": -40,
-                "top": 544,
-                "zoom": 0.378125
+                "file": "Everything You Need to Know/Structures & Materials/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture3_LCA(1)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -228,8 +229,10 @@
   },
   "active": "6871799510bc20e2",
   "lastOpenFiles": [
-    "Backend/Home.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Everything You Need to Know/Structures & Materials/Untitled.canvas",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
+    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Intro To Sustainability.md",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
@@ -267,7 +270,6 @@
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/1) Intro To Composites.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/2) The Rule of Mixtures for Particle Reinforced Composites.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/Closed Thin Walled Sections/Torsion of Closed Sections.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/8) Nanocomposites.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/7) Structural Composites.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms",
