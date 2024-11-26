@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"5c8b4d903a57f972","x":528,"y":-27,"width":250,"height":60,"type":"text","text":""},
+		{"id":"65c6f29622569285","x":-480,"y":-440,"width":1230,"height":1157,"type":"group","label":"Life Cycle Analysis"},
 		{"id":"65978207e4286d44","type":"text","text":"LCI\nLife Cycle Inventory","x":-155,"y":-180,"width":250,"height":100},
 		{"id":"f5f999eaa33025e9","type":"text","text":"# LCA\nLife Cycle Analysis","x":0,"y":-420,"width":250,"height":120},
 		{"id":"6a8c1f9ca31dadb8","type":"text","text":"\nScope","x":-460,"y":-155,"width":250,"height":50},
@@ -14,7 +14,8 @@
 		{"id":"76c6edeaaf3feeff","x":-155,"y":298,"width":250,"height":399,"type":"text","text":" Inventory analysis can include data you collect yourself (primary data) or data from databases (secondary data) Data will include all (in scope) mass and energy inputs as well as outputs, by-products and emissions"},
 		{"id":"79f50d1f32b17be3","x":160,"y":-40,"width":250,"height":178,"type":"text","text":"When we complete an impact assessment we look at the GHGs produced over the life of the product."},
 		{"id":"ddd36860c8b3e534","x":160,"y":171,"width":250,"height":127,"type":"text","text":"We also look at the CO2 equivalent to these GHGs"},
-		{"id":"5a98c5e70d2bb326","x":160,"y":328,"width":250,"height":141,"type":"file","file":"Images & Attachments/Pasted image 20241126114227.png"}
+		{"id":"5a98c5e70d2bb326","x":160,"y":328,"width":250,"height":141,"type":"file","file":"Images & Attachments/Pasted image 20241126114227.png"},
+		{"id":"5c8b4d903a57f972","x":480,"y":-40,"width":250,"height":680,"type":"text","text":"In the interpretation phase we do:\n- A **completeness check** - analysis of any missing or incomplete information\n- **Sensitivity check** - analysis to understand how the final results are influenced by data uncertainty\n- **Coherence check** - assessment of how well the study meets the objectives"}
 	],
 	"edges":[
 		{"id":"d3851a399516bd52","fromNode":"f5f999eaa33025e9","fromSide":"bottom","toNode":"6a8c1f9ca31dadb8","toSide":"top","color":"1"},

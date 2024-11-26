@@ -15,9 +15,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
                 "viewState": {
-                  "x": 267.75336456298834,
-                  "y": 362.85115051269526,
-                  "zoom": -1.005761348816142
+                  "x": 189.18427334926741,
+                  "y": 299.53112662504896,
+                  "zoom": -1.6812765732315038
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -37,10 +37,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
-                "page": 20,
-                "left": -3,
-                "top": 154,
-                "zoom": 0.5
+                "page": 30,
+                "left": -14,
+                "top": 319,
+                "zoom": 0.49
               },
               "icon": "lucide-file-text",
               "title": "Lecture3_LCA(1)"
