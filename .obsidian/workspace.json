@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+                "file": "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
                 "page": 1,
-                "left": -18,
-                "top": 667,
-                "zoom": 0.8212669683257919
+                "left": -9,
+                "top": 846,
+                "zoom": 1.5914283794227344
               },
               "icon": "lucide-file-text",
-              "title": "DesignOfSwirlAtomiser"
+              "title": "JAFM_Volume 11_Issue 5_Pages 1377-1386"
             }
           }
         ]
@@ -226,15 +226,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "6d2a65287e7db1ff",
   "lastOpenFiles": [
-    "Backend/Home.canvas",
+    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
+    "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
+    "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Untitled.md",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "Images & Attachments/Pasted image 20241127140224.png",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "R2S/Coaxial Swirl Injectors/Notes",
     "R2S/Coaxial Swirl Injectors/Notes.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
