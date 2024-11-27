@@ -11,16 +11,14 @@
             "id": "6d2a65287e7db1ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 157,
-                "zoom": 2.1430995475113126
+                "file": "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DesignOfSwirlAtomiser"
+              "icon": "lucide-file",
+              "title": "Swirl Atomizers"
             }
           }
         ]
@@ -228,6 +226,7 @@
   },
   "active": "6d2a65287e7db1ff",
   "lastOpenFiles": [
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
@@ -236,7 +235,6 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Untitled.md",
     "Images & Attachments/Pasted image 20241127140224.png",
