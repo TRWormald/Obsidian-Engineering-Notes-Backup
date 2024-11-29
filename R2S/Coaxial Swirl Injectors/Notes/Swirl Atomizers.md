@@ -84,6 +84,9 @@ The diameter of the swirl chamber $D_{s}$ is:
 $$D_{s}=2R+d_{p}'$$
 The length of the swirl chamber $l_{s}$ should be larger than that of the inlet:
 $$l_{s}=(1.5 \text{ to } 3.0)d_{p}'$$
+
+
+
 > [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=14&selection=61,0,71,1&color=yellow|DesignOfSwirlAtomiser, p.14]]
-> > The angle of the transient cone most commonly equals $\beta$ = 60-120°; smaller angles $\beta$  cause an increase of the discharge coefficient p and decrease of angle a
+> > The angle of the transient cone most commonly equals $\beta$ = 60-120°; smaller angles $\beta$  cause an increase of the discharge coefficient p and decrease of angle $\alpha$ 
 > 
