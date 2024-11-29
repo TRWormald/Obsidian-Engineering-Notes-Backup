@@ -20,3 +20,4 @@ Note that:
 - $A_{p}$ is the cross section of the tangential inlet orifice with an arbitrary transverse shape
 If the tangential inlet orifices are inclined to the swirl chamber axis at angle $\Theta$ then this equation assumes the form:
 $$K=\frac{Rr_{0}}{ir_{p}^{2}}\sin\Theta=...$$
+### Design
