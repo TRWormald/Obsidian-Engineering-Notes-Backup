@@ -9,7 +9,7 @@ However they do have the following **disadvantages**:
 2) Small range of regulation, where regulation is understood as the ratio of the maximum and minimum flow rates
 ### Characteristic Parametrisation
 A schematic diagram of the simplest swirl atomiser is shown below:
-![[Pasted image 20241127140224.png|centre|400]]
+![[Pasted image 20241127140224.png|centre|400]]![[Pasted image 20241129143310.png|centre]]
 The characteristic parameters of swirl atomisers are represented by the geometric constant $K$:
 $$K=\frac{Rr_{0}}{ir_{p}^{2}}=\frac{2Rd_{0}}{id_{p^2}}=\frac{\pi Rr_{0}}{iA_{p}}=\frac{2\pi Rd_{0}}{4iA_{p}}$$
 Note that:
@@ -36,8 +36,17 @@ We can calculate the mass flow rate by simply multiplying by density:
 $$G=\rho Q=\mu A_{0}\sqrt{2\rho\Delta P}$$
 
 #### Simple Design Method
-The aim of the design is to determine the dimensions of a simplex swirl atomiser for the following data $Q \text{ or } G, \alpha, \Delta P,\rho \text{ and } v$.
-First one must ca> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=11&selection=112,20,130,38&color=yellow|DesignOfSwirlAtomiser, p.11]]
-> > The aim of the design is to determine the dimensions of a simplex swirl atomizer for the following data: Q or G, a , AP, p, and v. First one calculates the basic dimensions incorporated in geometric constant K and then the other dimensions (Fig. 5-13).
+
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=11&selection=112,20,130,38&color=yellow|DesignOfSwirlAtomiser, p.11]]
+> > The aim of the design is to determine the dimensions of a simplex swirl atomizer for the following data: $Q$ or $G$, $a$ , $\Delta P$ , $\rho$ , and $v$. First one calculates the basic dimensions incorporated in geometric constant K and then the other dimensions (Fig. 5-13).
 > 
-> 
+
+Firstly, for a given angle $\alpha$ we determine the geometric constant $K$ using the following diagram (curve 2):
+![[Pasted image 20241129142750.png|centre]]
+We then determine the discharge coefficient $\mu$ for this value of $K$.
+From these we can calculate the discharge orifice diameter:
+$$d_{0}=\sqrt{\frac{4G}{\pi\mu\sqrt{2\rho P_{t}}}}$$
+The geometric constraint now contains three unknown quantities: $R$, $i$, and $d_{p}$:
+$$K=\frac{2Rd_{0}}{id_{p}^{2}}$$
+![[Pasted image 20241129143431.png|centre]]
+*Note what these unknown quantities are, $R$ and $d_{p}$ are shown in the diagram above, whilst $i$ is the number of inlets.*
