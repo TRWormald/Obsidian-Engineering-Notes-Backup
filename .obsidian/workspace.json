@@ -6,6 +6,7 @@
       {
         "id": "f890dc866d047e42",
         "type": "tabs",
+        "dimension": 46.34703196347032,
         "children": [
           {
             "id": "e7b319648ec3159f",
@@ -14,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-                "page": 11,
-                "left": 6,
-                "top": 21,
-                "zoom": 1.1
+                "page": 13,
+                "left": -8,
+                "top": 93,
+                "zoom": 0.98
               },
               "icon": "lucide-file-text",
               "title": "DesignOfSwirlAtomiser"
@@ -30,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
-                "page": 6,
-                "left": -3,
-                "top": 328,
-                "zoom": 0.5
+                "page": 37,
+                "left": 9,
+                "top": 100,
+                "zoom": 0.88
               },
               "icon": "lucide-file-text",
               "title": "Lecture4_sustainablemanufacturing_upload"
@@ -44,6 +45,7 @@
       {
         "id": "04c24e0c9471aa20",
         "type": "tabs",
+        "dimension": 53.65296803652968,
         "children": [
           {
             "id": "6cf4872ca4cf8703",
@@ -276,10 +278,11 @@
   "lastOpenFiles": [
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+    "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
+    "Images & Attachments/Pasted image 20241129144836.png",
     "Images & Attachments/Pasted image 20241129143431.png",
     "Images & Attachments/Pasted image 20241129143310.png",
     "Images & Attachments/Pasted image 20241129142750.png",
-    "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/2024 AVDASI2 Unit Handbook (Issue 02).pdf",
@@ -300,7 +303,6 @@
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Intro To Sustainability.md",
     "Images & Attachments/Pasted image 20241122142852.png",
     "Images & Attachments/Pasted image 20241122142737.png",
-    "Images & Attachments/Pasted image 20241122142359.png",
     "Untitled.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/5) Interpreting the Spectra.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/4) Visualising the Fourier Transform.md",

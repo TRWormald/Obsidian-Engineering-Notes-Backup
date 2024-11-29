@@ -48,7 +48,8 @@ From these we can calculate the discharge orifice diameter:
 $$d_{0}=\sqrt{\frac{4G}{\pi\mu\sqrt{2\rho P_{t}}}}$$
 The geometric constraint now contains three unknown quantities: $R$, $i$, and $d_{p}$:
 $$K=\frac{2Rd_{0}}{id_{p}^{2}}$$
-![[Pasted image 20241129143431.png|centre]]
+![[Pasted image 20241129144836.png|centre]]
+
 *Note what these unknown quantities are, $R$ and $d_{p}$ are shown in the diagram above, whilst $i$ is the number of inlets.*
 **We will need to assume two of these.** 
 > [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=12&selection=14,32,24,4&color=yellow|DesignOfSwirlAtomiser, p.12]]
@@ -56,7 +57,7 @@ $$K=\frac{2Rd_{0}}{id_{p}^{2}}$$
 
 Therefore we can calculate the diameter of the tangential inlet orifices to be:
 $$d_{p}=\sqrt{\frac{2Rd_{0}}{iK}}$$
-**We can then begin the second phase of calculations.**
+**We can now begin the second phase of calculations.**
 > [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=12&selection=57,0,62,6&color=yellow|DesignOfSwirlAtomiser, p.12]]
 > > The second phase of calculations refers to the assessment of the viscosity effect
 
@@ -70,5 +71,19 @@ And obviously $\nu$ is the viscosity of the fluid being swirled.
 
 We can find the friction coefficient from:
 $$\lg \lambda =\frac{25.8}{(\lg Re)^{2.58}}-2$$
-Which has been established as a result of extenive invesitations of
+Which has been established as a result of extensive investigations of atomisers in the range $Re=10^{3} - 10^{5}$.
 
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=13&selection=25,0,52,9&color=yellow|DesignOfSwirlAtomiser, p.13]]
+> > Considering the selection of the value of radius R , remember that R should be small and simultaneously the area of the inlet orifices should be small in order to overcome the viscosity barrier. The higher K is, i.e., the larger angle a is required, the smaller radius R should be. Also, the smaller the flow rate and the higher the liquid viscosity, the smaller radius R should be
+
+**We can now begin the third phase of calculations.**
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=14&selection=2,0,7,38&color=yellow|DesignOfSwirlAtomiser, p.14]]
+> > The third phase o f calculations concerns the determination of the remaining dimensions of the atomizer (Fig. 5-13)
+
+The diameter of the swirl chamber $D_{s}$ is:
+$$D_{s}=2R+d_{p}'$$
+The length of the swirl chamber $l_{s}$ should be larger than that of the inlet:
+$$l_{s}=(1.5 \text{ to } 3.0)d_{p}'$$
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=14&selection=61,0,71,1&color=yellow|DesignOfSwirlAtomiser, p.14]]
+> > The angle of the transient cone most commonly equals $\beta$ = 60-120°; smaller angles $\beta$  cause an increase of the discharge coefficient p and decrease of angle a
+> 
