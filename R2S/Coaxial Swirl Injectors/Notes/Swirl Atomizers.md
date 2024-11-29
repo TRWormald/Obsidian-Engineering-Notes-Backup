@@ -50,3 +50,25 @@ The geometric constraint now contains three unknown quantities: $R$, $i$, and $d
 $$K=\frac{2Rd_{0}}{id_{p}^{2}}$$
 ![[Pasted image 20241129143431.png|centre]]
 *Note what these unknown quantities are, $R$ and $d_{p}$ are shown in the diagram above, whilst $i$ is the number of inlets.*
+**We will need to assume two of these.** 
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=12&selection=14,32,24,4&color=yellow|DesignOfSwirlAtomiser, p.12]]
+> >  It is most convenient to assume the number of orifices and radius of swirling. Most commonly, $i$ = 2 to 4 and $R$ = $(2-5)r_{0}$ are used.  
+
+Therefore we can calculate the diameter of the tangential inlet orifices to be:
+$$d_{p}=\sqrt{\frac{2Rd_{0}}{iK}}$$
+**We can then begin the second phase of calculations.**
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=12&selection=57,0,62,6&color=yellow|DesignOfSwirlAtomiser, p.12]]
+> > The second phase of calculations refers to the assessment of the viscosity effect
+
+The Reynolds number at the inlet to the atomisers is:
+$$Re=\frac{v_{p}d}{\nu}$$
+Where $d$ is the diameter of the equivalent orifice, which can be determined as:
+$$d=\sqrt{i}d_{p}$$
+Velocity $v_{p}$ is given by:
+$$v_{p}=\frac{4G}{\rho i \pi d_{p}^{2}}$$
+And obviously $\nu$ is the viscosity of the fluid being swirled.
+
+We can find the friction coefficient from:
+$$\lg \lambda =\frac{25.8}{(\lg Re)^{2.58}}-2$$
+Which has been established as a result of extenive invesitations of
+
