@@ -21,3 +21,10 @@ Note that:
 If the tangential inlet orifices are inclined to the swirl chamber axis at angle $\Theta$ then this equation assumes the form:
 $$K=\frac{Rr_{0}}{ir_{p}^{2}}\sin\Theta=...$$
 ### Design
+#### Volumetric and Mass Flow Rates
+We can calculate the volume and mass flow rates using the following equations:
+$$Q=\frac{1}{\sqrt{\frac{K^{2}}{1-\epsilon}+ \frac{1}{\epsilon^{2}}}}\cdot\pi r_{0}^{2}\sqrt{\frac{2P_{t}}{\rho}}=\boxed{\mu A_{0}\sqrt{\frac{2\Delta P}{\rho}}}$$
+Where $\mu$ is the discharge coefficient, which depends on two quantities: the geometric constant $K$ and the efficiency of filling the discharge orifice $\epsilon$.
+This can be calculated using:
+$$\epsilon=\frac{A}{A_{0}}=\frac{\pi(r_{0}^{2}-r_{2}^{2})}{\pi r_{0}^{2}}=1-\left(\frac{r_{r}}{r_{0}}\right)^{2}$$
+Where $A_{0}=\pi r_{0}^{2}$ which is the area of the discharge orifice, and $r_{r}$ is the gas core 
