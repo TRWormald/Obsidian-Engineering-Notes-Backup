@@ -20,11 +20,24 @@ Note that:
 - $A_{p}$ is the cross section of the tangential inlet orifice with an arbitrary transverse shape
 If the tangential inlet orifices are inclined to the swirl chamber axis at angle $\Theta$ then this equation assumes the form:
 $$K=\frac{Rr_{0}}{ir_{p}^{2}}\sin\Theta=...$$
-### Design
+### Design (Of a Simplex Atomiser)
 #### Volumetric and Mass Flow Rates
 We can calculate the volume and mass flow rates using the following equations:
 $$Q=\frac{1}{\sqrt{\frac{K^{2}}{1-\epsilon}+ \frac{1}{\epsilon^{2}}}}\cdot\pi r_{0}^{2}\sqrt{\frac{2P_{t}}{\rho}}=\boxed{\mu A_{0}\sqrt{\frac{2\Delta P}{\rho}}}$$
-Where $\mu$ is the discharge coefficient, which depends on two quantities: the geometric constant $K$ and the efficiency of filling the discharge orifice $\epsilon$.
-This can be calculated using:
+Where $\mu$ is the discharge coefficient, which depends on two quantities: the geometric constant $K$ and the efficiency of filling the discharge orifice $\epsilon$:
+$$\mu=\frac{1}{\sqrt{\frac{K^{2}}{1-\epsilon}+ \frac{1}{\epsilon^{2}}}}$$
+$\epsilon$ can be calculated using:
 $$\epsilon=\frac{A}{A_{0}}=\frac{\pi(r_{0}^{2}-r_{2}^{2})}{\pi r_{0}^{2}}=1-\left(\frac{r_{r}}{r_{0}}\right)^{2}$$
-Where $A_{0}=\pi r_{0}^{2}$ which is the area of the discharge orifice, and $r_{r}$ is the gas core 
+Where $A_{0}=\pi r_{0}^{2}$ which is the area of the discharge orifice, and $r_{r}$ is the gas core radius.
+**************
+We can therefore calculate the volumetric flow rate based on the change in pressure across the atomiser, and the geometric properties of it.
+
+We can calculate the mass flow rate by simply multiplying by density:
+$$G=\rho Q=\mu A_{0}\sqrt{2\rho\Delta P}$$
+
+#### Simple Design Method
+The aim of the design is to determine the dimensions of a simplex swirl atomiser for the following data $Q \text{ or } G, \alpha, \Delta P,\rho \text{ and } v$.
+First one must ca> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=11&selection=112,20,130,38&color=yellow|DesignOfSwirlAtomiser, p.11]]
+> > The aim of the design is to determine the dimensions of a simplex swirl atomizer for the following data: Q or G, a , AP, p, and v. First one calculates the basic dimensions incorporated in geometric constant K and then the other dimensions (Fig. 5-13).
+> 
+> 
