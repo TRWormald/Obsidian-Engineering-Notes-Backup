@@ -6,7 +6,7 @@
       {
         "id": "f890dc866d047e42",
         "type": "tabs",
-        "dimension": 46.34703196347032,
+        "dimension": 31.81126331811263,
         "children": [
           {
             "id": "e7b319648ec3159f",
@@ -16,8 +16,8 @@
               "state": {
                 "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
                 "page": 13,
-                "left": -8,
-                "top": 93,
+                "left": -4,
+                "top": 61,
                 "zoom": 0.98
               },
               "icon": "lucide-file-text",
@@ -45,7 +45,7 @@
       {
         "id": "04c24e0c9471aa20",
         "type": "tabs",
-        "dimension": 53.65296803652968,
+        "dimension": 68.18873668188736,
         "children": [
           {
             "id": "6cf4872ca4cf8703",
