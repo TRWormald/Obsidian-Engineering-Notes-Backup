@@ -38,7 +38,7 @@ $$G=\rho Q=\mu A_{0}\sqrt{2\rho\Delta P}$$
 #### Simple Design Method
 
 > [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=11&selection=112,20,130,38&color=yellow|DesignOfSwirlAtomiser, p.11]]
-> > The aim of the design is to determine the dimensions of a simplex swirl atomizer for the following data: $Q$ or $G$, $a$ , $\Delta P$ , $\rho$ , and $v$. First one calculates the basic dimensions incorporated in geometric constant K and then the other dimensions (Fig. 5-13).
+> > The aim of the design is to determine the dimensions of a simplex swirl atomizer for the following data: $Q$ or $G$, $\alpha$ , $\Delta P$ , $\rho$ , and $v$. First one calculates the basic dimensions incorporated in geometric constant K and then the other dimensions (Fig. 5-13).
 > 
 
 Firstly, for a given angle $\alpha$ we determine the geometric constant $K$ using the following diagram (curve 2):
