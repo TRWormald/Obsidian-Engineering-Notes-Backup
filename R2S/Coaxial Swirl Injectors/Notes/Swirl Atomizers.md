@@ -99,5 +99,3 @@ A two-orifice atomizer consists of two simplex atomizers connected in parallel. 
 > [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=19&selection=35,6,37,79&color=yellow|DesignOfSwirlAtomiser, p.19]]
 > > The design of a two-nozzle atomizer consists of separate calculations for two systems following the method described for simplex atomizers. The relative position of the two nozzles (discharge orifices) affects the shape of the spray.
 > 
-
-### Effects of the Relative position of the nozzles
