@@ -92,5 +92,12 @@ $$l_{s}=(1.5 \text{ to } 3.0)d_{p}'$$
 > > The discharge orifice should not be too long in order not to decrease an gle a. For K$_\lambda$  < 4-5 we recommend $l$ = (0.5-1.0)$d_0$; for K$_\lambda$ > 4 -5 , $l$ = (0.25- 0.5)$d_0$.
 
 ### Specifics on Two-Nozzle Atomizers
+In two-nozzle atomizers, liquid flow through both systems proceeds independently:
+![[Pasted image 20241130163405.png|centre]]
+A two-orifice atomizer consists of two simplex atomizers connected in parallel. (**Also sometimes called co-axial swirl injectors**)
 
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=19&selection=35,6,37,79&color=yellow|DesignOfSwirlAtomiser, p.19]]
+> > The design of a two-nozzle atomizer consists of separate calculations for two systems following the method described for simplex atomizers. The relative position of the two nozzles (discharge orifices) affects the shape of the spray.
+> 
 
+### Effects of the Relative position of the nozzles
