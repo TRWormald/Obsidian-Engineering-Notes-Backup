@@ -82,11 +82,15 @@ Which has been established as a result of extensive investigations of atomisers 
 
 The diameter of the swirl chamber $D_{s}$ is:
 $$D_{s}=2R+d_{p}'$$
-The length of the swirl chamber $l_{s}$ should be larger than that of the inlet:
+The length of the swirl chamber $l_{s}$ should be larger than the length of the inlet - which itself should have proper length so that jets entering the swirl chamber are not deflected from the tangential direction - it is recommended that this length is in the range:
 $$l_{s}=(1.5 \text{ to } 3.0)d_{p}'$$
-
-
-
 > [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=14&selection=61,0,71,1&color=yellow|DesignOfSwirlAtomiser, p.14]]
 > > The angle of the transient cone most commonly equals $\beta$ = 60-120°; smaller angles $\beta$  cause an increase of the discharge coefficient p and decrease of angle $\alpha$ 
 > 
+
+> [!PDF|yellow] [[DesignOfSwirlAtomiser.pdf#page=14&selection=44,0,60,0&color=yellow|DesignOfSwirlAtomiser, p.14]]
+> > The discharge orifice should not be too long in order not to decrease an gle a. For K$_\lambda$  < 4-5 we recommend $l$ = (0.5-1.0)$d_0$; for K$_\lambda$ > 4 -5 , $l$ = (0.25- 0.5)$d_0$.
+
+### Specifics on Two-Nozzle Atomizers
+
+
