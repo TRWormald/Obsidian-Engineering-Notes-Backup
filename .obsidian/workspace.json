@@ -6,7 +6,6 @@
       {
         "id": "f890dc866d047e42",
         "type": "tabs",
-        "dimension": 45.50989345509893,
         "children": [
           {
             "id": "2e0221a2aad803b6",
@@ -16,7 +15,7 @@
               "state": {
                 "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
                 "page": 19,
-                "left": -21,
+                "left": -3,
                 "top": 494,
                 "zoom": 0.91
               },
@@ -31,23 +30,15 @@
               "type": "pdf",
               "state": {
                 "file": "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-                "page": 284,
-                "left": 28,
-                "top": 109,
-                "zoom": 1.08
+                "page": 1,
+                "left": -48,
+                "top": 667,
+                "zoom": 0.73
               },
               "icon": "lucide-file-text",
               "title": "LiquidAtomization"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "04c24e0c9471aa20",
-        "type": "tabs",
-        "dimension": 54.49010654490106,
-        "children": [
+          },
           {
             "id": "1762934c5cb9ab27",
             "type": "leaf",
@@ -62,7 +53,8 @@
               "title": "Swirl Atomizers"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,9 +259,10 @@
   },
   "active": "1762934c5cb9ab27",
   "lastOpenFiles": [
-    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "Images & Attachments/Pasted image 20241129143310.png",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Images & Attachments/Pasted image 20241130163405.png",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
@@ -282,7 +275,6 @@
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Images & Attachments/Pasted image 20241129144836.png",
     "Images & Attachments/Pasted image 20241129143431.png",
-    "Images & Attachments/Pasted image 20241129143310.png",
     "Images & Attachments/Pasted image 20241129142750.png",
     "R2S/Coaxial Swirl Injectors/Notes/Untitled.md",
     "Images & Attachments/Pasted image 20241127140224.png",
