@@ -1,5 +1,5 @@
 ![[Pasted image 20240929114152.png|centre]]
-Looking at this graph from [[Stress and Stress Transformation]] we can identify that:
+Looking at this graph from [[1) Stress and Stress Transformation]] we can identify that:
 - Minimum/maximum direct stress occur in the principal directions
 - The maximum and minimum direct stress for a given direction are offset by 90 degrees
 - The shear stress is always zero in the principal directions, and maximum/minimum at a 45 degree offset.

@@ -4,57 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f890dc866d047e42",
+        "id": "3c55b9e0579789d1",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0221a2aad803b6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-                "page": 11,
-                "left": -3,
-                "top": 368,
-                "zoom": 0.91
-              },
-              "icon": "lucide-file-text",
-              "title": "DesignOfSwirlAtomiser"
-            }
-          },
-          {
-            "id": "40bd7b6dc05f3ced",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-                "page": 1,
-                "left": -48,
-                "top": 667,
-                "zoom": 0.73
-              },
-              "icon": "lucide-file-text",
-              "title": "LiquidAtomization"
-            }
-          },
-          {
-            "id": "1762934c5cb9ab27",
+            "id": "df9805dc7bc7ce99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swirl Atomizers"
+              "title": "Mohr's Circle - 2D Elasticity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +224,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1762934c5cb9ab27",
+  "active": "76ad3b8cbd3db5c5",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/2D Elasticity/7) Failure Criteria.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/6) Elastic Constraints.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/5) Generalised Hooke's Law.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/4) Strain Measurement.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/3) Plane Strain and Strain Transformation.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/1) Stress and Stress Transformation.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/2) Principal Stresses.md",
+    "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
@@ -271,7 +247,6 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
-    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Images & Attachments/Pasted image 20241129144836.png",
     "Images & Attachments/Pasted image 20241129143431.png",
@@ -300,13 +275,6 @@
     "Engineering Year 1/Structures/Beams/The Sign Convention for Shear Force and Bending Moment in Beams.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/9) Composite Manufacturing.md",
     "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/11) Mechanical Behaviours of Polymers.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/10) Processing of Plastic Materials.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/9) Production of Polymers.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/8) Polymer Glass Transition.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Polymers/7) Diffusion in Polymeric Materials.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Series/4) Odd and Even Periodic Extensions.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/1) Intro To Composites.md",
-    "Engineering Year 2/Structures & Materials/Polymers & Composites/Intro to Composites/2) The Rule of Mixtures for Particle Reinforced Composites.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
