@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3c55b9e0579789d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df9805dc7bc7ce99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4) Mohr's Circle"
-            }
-          }
-        ]
-      },
-      {
         "id": "6b9e54cf8393b35c",
         "type": "tabs",
         "children": [
@@ -35,8 +15,8 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 2892.359637760361,
-                  "y": 2032.9093967262552,
+                  "x": 1063.044642942152,
+                  "y": 191.82163317186019,
                   "zoom": -3.695709701687985
                 }
               },
@@ -247,11 +227,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "df9805dc7bc7ce99",
+  "active": "90c084707c19b4d7",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Images & Attachments/Pasted image 20241201145650.png",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20241201144048.png",
     "Images & Attachments/Pasted image 20241201143744.png",
     "Images & Attachments/Pasted image 20241201143715.png",
@@ -261,7 +242,6 @@
     "Images & Attachments/Pasted image 20241201143146.png",
     "Images & Attachments/Pasted image 20241201142610.png",
     "Images & Attachments/Pasted image 20241201142417.png",
-    "Images & Attachments/Pasted image 20241201142320.png",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/3) Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
