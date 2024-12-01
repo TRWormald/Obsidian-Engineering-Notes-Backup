@@ -24,6 +24,6 @@ Therefore rearranging gives:
 $$t\frac{d\sigma}{dz}+t\frac{d\tau}{ds}=0$$
 We know that $\tau=\frac{q}{t}$, hence:
 $$\boxed{-\frac{dq}{ds}=\frac{d\sigma}{dz}t}$$
-Substituting in the $\sigma_{z}$ from [[Direct Bending Stresses#Combined Loading|combined loading]] and going through several stages of rearranging gives:
+Substituting in the $\sigma_{z}$ from [[5) Direct Bending Stresses#Combined Loading|combined loading]] and going through several stages of rearranging gives:
 $$q_{(s)}=q_{0}-\underbrace{\left(\frac{S_{x}I_{xx}-S_{y}I_{xy}}{I_{xx}I_{yy}-I_{xy}^{2}}\right)}_{C_{x}}\int_{0}^{s}x_{(s)}t_{(s)}ds-\underbrace{\left(\frac{S_{y}I_{yy}+S_{x}I_{xy}}{I_{xx}I_{yy}-I_{xy}^{2}}\right)}_{C_{y}}\int_{0}^{s}y_{(s)}t_{(s)}ds$$Or more simply:
 $$\boxed{q_{(s)}=q_{0}-C_{x}\int_{0}^{s}x_{(s)}t_{(s)}~ds-C_{y}\int_{0}^{s}y_{(s)}t_{(s)}~ds}$$

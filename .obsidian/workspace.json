@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/Direct Bending Stresses.md",
+                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direct Bending Stresses"
+              "title": "6) Shear Stresses in Bending"
             }
           }
         ]
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 6906.919035651011,
-                  "y": 636.222143575348,
-                  "zoom": 0.05138890533286622
+                  "x": 6694.146850759067,
+                  "y": 498.48249889887194,
+                  "zoom": -2.0786431828512386
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -249,11 +249,14 @@
   },
   "active": "90c084707c19b4d7",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/Direct Bending Stresses.md",
-    "Images & Attachments/Pasted image 20241201135316.png",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/3) Transformation of Axes and of Section Properties.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/Defining Axes.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/Cross-Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/1) Defining Axes.md",
+    "Images & Attachments/Pasted image 20241201135316.png",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/7) Failure Criteria.md",
@@ -295,8 +298,6 @@
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/Fourier Transforms/3) What kinds of Functions have a Fourier Transform.md",
     "Engineering Year 1/Structures/Beams/Longitudinal Stresses in Beams.md",
     "Engineering Year 1/Structures/Beams/Deflections in Beams.md",
-    "Engineering Year 1/Structures/Beams/Calculating Shear Force and Bending Moments in Beams.md",
-    "Engineering Year 1/Structures/Beams/Shear Force and Bending Moment Diagrams.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",

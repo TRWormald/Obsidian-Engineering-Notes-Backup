@@ -7,7 +7,7 @@ Looking at this graph from [[1) Stress and Stress Transformation]] we can identi
 #### Principal Stresses and Principal Directions
 *For any state of stress, there exist perpendicular principal directions with corresponding principal stresses, where (i) direct stress is maximum or minimum, and (ii) shear stress is zero*:
 ![[Pasted image 20240929122738.png|centre]]
-We explored this slightly when[[Defining Axes#Principal Axes (1,2) (angle $ theta_{P}$)| defining axes]] except there they were defined at the maximum/minimum second moment of area.
+We explored this slightly when[[1) Defining Axes#Principal Axes (1,2) (angle $ theta_{P}$)| defining axes]] except there they were defined at the maximum/minimum second moment of area.
 ### Stress Analysis
 We can find the **angle of the principal directions** in relation to our arbitrary axes using:
 $$\tan2\theta_{p}=\frac{2\tau_{xy}}{\sigma_{xx}-\sigma_{yy}}$$
