@@ -4,27 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9e54cf8393b35c",
+        "id": "364ae39ac49e31a5",
         "type": "tabs",
         "children": [
           {
-            "id": "90c084707c19b4d7",
+            "id": "22d076b15d9b20eb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-                "viewState": {
-                  "x": 1063.044642942152,
-                  "y": 191.82163317186019,
-                  "zoom": -3.695709701687985
-                }
+                "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+                "page": 19,
+                "left": -7,
+                "top": 551,
+                "zoom": 2.1430995475113126
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Structures"
+              "icon": "lucide-file-text",
+              "title": "DesignOfSwirlAtomiser"
+            }
+          },
+          {
+            "id": "67beb4cce970e77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swirl Atomizers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +241,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "90c084707c19b4d7",
+  "active": "67beb4cce970e77a",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
+    "Backend/Home.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
     "Images & Attachments/Pasted image 20241201145650.png",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20241201144048.png",
@@ -255,10 +272,7 @@
     "Engineering Year 2/Structures & Materials/2D Elasticity/3) Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/1) Stress and Stress Transformation.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/2) Principal Stresses.md",
-    "Backend/Home.canvas",
-    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
