@@ -220,8 +220,12 @@
 		{"id":"f9bb6879ac00f445","type":"text","text":"### Second Moments of Area","x":5115,"y":335,"width":347,"height":100},
 		{"id":"e4ae18a726a141f4","type":"text","text":"When analysing thin-walled sections we define two new coordinates:\n- The arc length $s$, which is tangent to the local mid-surface of the section\n- The through-thickness coordinate $n$, normal to the local mid-surface of the section.\nThese can be seen in the diagram above.","x":5793,"y":385,"width":491,"height":275},
 		{"id":"38130852b5724637","type":"text","text":"For lines:\n$$\\Huge\\boxed{\\begin{align*}\nI_{xx}&= \\int_{s} {y_{(s)}}^{2}~t_{(s)}~ds\\\\\nI_{yy}&= \\int_{s} {x_{(s)}}^{2}~t_{(s)}~ds\n\\\\I_{xy}&= \\int_{s} x_{(s)}~y_{(s)}~t_{(s)}~ds\n\\end{align*}}$$\nWhilst, for arcs:\n$$\\Huge\\boxed{\\begin{align*}\nI_{xx}&= \\int_{\\phi} {y_{(\\phi)}}^{2}~t_{(\\phi)}~(R~d\\phi)\\\\\nI_{yy}&= \\int_{\\phi} {x_{(\\phi)}}^{2}~t_{(\\phi)}~(R~d\\phi)\\\\\nI_{xy}&= \\int_{\\phi} x_{(\\phi)}~y_{(\\phi)}~t_{(\\phi)}~(R~d\\phi)\n\\end{align*}}$$","x":5002,"y":435,"width":572,"height":613},
-		{"id":"10db502cb1f46b5a","x":4534,"y":1880,"width":677,"height":628,"type":"file","file":"Images & Attachments/Pasted image 20241006140604.png"},
-		{"id":"8cb0dfe6932fbbc5","x":5211,"y":1880,"width":423,"height":240,"type":"text","text":"Consider the closed section in the diagram to be in pure torsion, this means that:\n1) There are no shear forces\n2) There are no axial forces\nTherefore the direct stresses are zero"}
+		{"id":"10db502cb1f46b5a","x":4040,"y":2040,"width":677,"height":628,"type":"file","file":"Images & Attachments/Pasted image 20241006140604.png"},
+		{"id":"8cb0dfe6932fbbc5","x":4717,"y":2040,"width":423,"height":240,"type":"text","text":"Consider the closed section in the diagram to be in pure torsion, this means that:\n1) There are no shear forces\n2) There are no axial forces\nTherefore the direct stresses are zero"},
+		{"id":"b2e0090af9c11080","x":4717,"y":2280,"width":423,"height":120,"type":"text","text":"Hence:\n$$t\\cancel{\\frac{d\\sigma_{z}}{dz}}+\\frac{dq_{(s)}}{ds}=0$$"},
+		{"id":"c913063074dc2312","x":4717,"y":2400,"width":423,"height":140,"type":"text","text":"So:\n$$\\Huge\\frac{dq_{(s)}}{ds}=0$$ "},
+		{"id":"700a551d09a2a3b4","x":4717,"y":2540,"width":423,"height":128,"type":"text","text":"Therefore the shear flow is constant throughout the section; we call this the **closed-cell shear flow** $\\bar{q}$."},
+		{"id":"fbfdb9cb57d36e99","x":4407,"y":1920,"width":373,"height":120,"type":"text","text":"# Closed-Cell Shear Flow"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -301,6 +305,7 @@
 		{"id":"0f2e702e2fc029b9","fromNode":"1b4f7b5b8b9b9b94","fromSide":"right","toNode":"f5882e0a28adf2f3","toSide":"left"},
 		{"id":"788171e6bce69bd9","fromNode":"8fb12b7fe5ff299b","fromSide":"bottom","toNode":"7c95f3153b1aa051","toSide":"top"},
 		{"id":"de1bd568dfb5f256","fromNode":"a1fc853c452b03a8","fromSide":"bottom","toNode":"37026ac16e8b4ed0","toSide":"top"},
-		{"id":"c7bd0ac4039f5ed3","fromNode":"0297ae919900d212","fromSide":"bottom","toNode":"09f6989f493ec796","toSide":"top"}
+		{"id":"c7bd0ac4039f5ed3","fromNode":"0297ae919900d212","fromSide":"bottom","toNode":"09f6989f493ec796","toSide":"top"},
+		{"id":"7283df2e087b9263","fromNode":"09f6989f493ec796","fromSide":"bottom","toNode":"fbfdb9cb57d36e99","toSide":"top"}
 	]
 }
