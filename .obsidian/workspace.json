@@ -15,21 +15,15 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 5736.401958694528,
-                  "y": -338.4765701321337,
-                  "zoom": -2.478548508439925
+                  "x": 8362.37295098278,
+                  "y": 1192.377758364682,
+                  "zoom": -2.986506121370833
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Structures"
             }
-          }
-        ]
-      },
-      {
-        "id": "39ae6cded1213a1a",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "32b60589fd898535",
             "type": "leaf",
@@ -249,9 +243,11 @@
   },
   "active": "0880ea396d8afd54",
   "lastOpenFiles": [
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/3) Closed Thin Walled Sections/1) Torsion of Closed Sections.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
     "Images & Attachments/Pasted image 20241202135336.png",
@@ -268,7 +264,6 @@
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
     "Images & Attachments/Pasted image 20241201145650.png",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Images & Attachments/Pasted image 20241201144048.png",
     "Images & Attachments/Pasted image 20241201143744.png",
     "Images & Attachments/Pasted image 20241201143715.png",
@@ -278,7 +273,6 @@
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/3) Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/1) Defining Axes.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/7) Failure Criteria.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/6) Elastic Constraints.md",
@@ -297,7 +291,6 @@
     "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Untitled.md",
     "R2S/Coaxial Swirl Injectors/Notes.md",
-    "Engineering Year 2/Structures & Materials/Sustainable Materials & Manufacturing/Intro To Sustainability.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
