@@ -176,7 +176,24 @@
 		{"id":"0a97f48b999e0a6a","type":"file","file":"Images & Attachments/Pasted image 20241201144048.png","x":-493,"y":6607,"width":559,"height":459},
 		{"id":"8d650059ceae5432","type":"text","text":"For linear elastic behaviour shear stress is proportional to shear strain:","x":960,"y":6540,"width":574,"height":81},
 		{"id":"26ffdfa0305b63b0","x":6707,"y":-602,"width":312,"height":82,"type":"text","text":"# Shear Centre\n"},
-		{"id":"6896b94f43765d51","x":5860,"y":-403,"width":250,"height":60,"type":"text","text":"# Stre"}
+		{"id":"6896b94f43765d51","x":5860,"y":-403,"width":340,"height":123,"type":"text","text":"# Stress-Resultant Torque"},
+		{"id":"ba5bd8d9f886c34e","x":6700,"y":-403,"width":327,"height":123,"type":"text","text":"# The Local Moment Arm"},
+		{"id":"d25ce498828df665","x":7480,"y":-403,"width":368,"height":123,"type":"text","text":"# The Point of Zero Stress"},
+		{"id":"529a14ca0af20225","x":5690,"y":-280,"width":681,"height":80,"type":"text","text":"We know that the shear flow field always follows the contour of a section:"},
+		{"id":"1855f294baf0fa78","x":5690,"y":-165,"width":681,"height":721,"type":"file","file":"Images & Attachments/Screenshot 2024-09-28 130945.png"},
+		{"id":"ec1c0de25b8face4","x":5690,"y":556,"width":681,"height":84,"type":"text","text":"If we take an arbitrary point as the origin of the $X$-$Y$ plane, these forces are seen to generate a stress-resultant torque $M_z$ about the $z$ axis."},
+		{"id":"e03fd416239d06cb","x":5690,"y":640,"width":681,"height":80,"type":"text","text":"We then define a new function $r_{(s)}$ representing the orthognal distance between the shear flow vector $q_{(s)}$ and this arbitrary reference point."},
+		{"id":"8bebdf8641ff0131","x":5690,"y":720,"width":681,"height":160,"type":"text","text":"Total torque is then:\n$$\\Huge M_{z}=\\int_{s}q_{(s)}r_{(s)}~ds$$"},
+		{"id":"26094130f92e5e11","x":6575,"y":-280,"width":577,"height":320,"type":"text","text":"The local moment arm function $r_{(s)}$ can be positive or negative, following the right-hand rule about axis $Z$.\nThe function depends on the chosen reference point, i.e. the origin of the $X-Y$ plane.\n- A convenient reference point must be chosen for each particular case\n- If the section contains a radius then the centre of this radius must be taken as the reference point."},
+		{"id":"7d23b121f712c030","x":7391,"y":-280,"width":546,"height":120,"type":"text","text":"There is a point within the $X-Y$ plane where the stress-resultant torque for a section will always be zero, for any combination of orthogonal shear forces $S_{X}$ and $S_{Y}$."},
+		{"id":"267182e8aa7c9fa4","x":7510,"y":-160,"width":309,"height":50,"type":"text","text":"This is the **SHEAR CENTRE**"},
+		{"id":"0f1d728a12308217","x":7391,"y":-110,"width":546,"height":110,"type":"text","text":"It is an intrinsic property of the section - i.e. defined only by the geometry of the section - not the forces applied on it."},
+		{"id":"107520c61417cf30","x":7391,"y":0,"width":546,"height":120,"type":"text","text":"The coordinate system with origin at the shear centre is $(\\hat{X},\\hat{Y},\\hat{Z})$ and the new moment arm function is $\\hat{r}_{(s)}$, and the stress-resultant torque becomes:"},
+		{"id":"2ea360be6753e0e3","x":7391,"y":120,"width":546,"height":120,"type":"text","text":"$$\\Huge ^{q_{(s)}}M_{\\hat{Z}}=\\int_{s}q_{(s)}\\hat{r}_{(s)}~ds=0$$"},
+		{"id":"91326a0111563bcb","x":6909,"y":99,"width":250,"height":163,"type":"text","text":"However we have yet to find the actual position of the shear centre"},
+		{"id":"1b4f7b5b8b9b9b94","x":6835,"y":360,"width":399,"height":120,"type":"text","text":"# Finding the Position of the Shear Centre"},
+		{"id":"91c2a0325420891a","x":6665,"y":604,"width":354,"height":116,"type":"text","text":"# External Torque about $\\hat{Z}$"},
+		{"id":"218386d19d26259c","x":7125,"y":607,"width":250,"height":60,"type":"text","text":"#E"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -244,6 +261,13 @@
 		{"id":"aa5d2b80887508a6","fromNode":"fac2714307227c2e","fromSide":"bottom","toNode":"b66c43cd84fdf2cf","toSide":"top"},
 		{"id":"6658441b132c9514","fromNode":"b66c43cd84fdf2cf","fromSide":"bottom","toNode":"d64230c793d570fd","toSide":"top"},
 		{"id":"ca88a577b28e72a1","fromNode":"f1b67e989f7e9785","fromSide":"bottom","toNode":"26ffdfa0305b63b0","toSide":"top"},
-		{"id":"df4e2218db8c2b02","fromNode":"26ffdfa0305b63b0","fromSide":"bottom","toNode":"6896b94f43765d51","toSide":"top"}
+		{"id":"df4e2218db8c2b02","fromNode":"26ffdfa0305b63b0","fromSide":"bottom","toNode":"6896b94f43765d51","toSide":"top"},
+		{"id":"ef69023bc608fada","fromNode":"26ffdfa0305b63b0","fromSide":"bottom","toNode":"ba5bd8d9f886c34e","toSide":"top"},
+		{"id":"9ffb8fbbe8e5f1f8","fromNode":"26ffdfa0305b63b0","fromSide":"bottom","toNode":"d25ce498828df665","toSide":"top"},
+		{"id":"1a0c6b05dd06cc3d","fromNode":"e03fd416239d06cb","fromSide":"right","toNode":"26094130f92e5e11","toSide":"left"},
+		{"id":"c10b9e93a77a98eb","fromNode":"2ea360be6753e0e3","fromSide":"left","toNode":"91326a0111563bcb","toSide":"right"},
+		{"id":"c93fd67ba8ef3beb","fromNode":"91326a0111563bcb","fromSide":"bottom","toNode":"1b4f7b5b8b9b9b94","toSide":"top"},
+		{"id":"0d29a9c452b08353","fromNode":"1b4f7b5b8b9b9b94","fromSide":"bottom","toNode":"91c2a0325420891a","toSide":"top"},
+		{"id":"ce3860f32cb7dbf5","fromNode":"1b4f7b5b8b9b9b94","fromSide":"bottom","toNode":"218386d19d26259c","toSide":"top"}
 	]
 }
