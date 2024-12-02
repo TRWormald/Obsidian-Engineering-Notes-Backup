@@ -192,8 +192,16 @@
 		{"id":"2ea360be6753e0e3","x":7391,"y":120,"width":546,"height":120,"type":"text","text":"$$\\Huge ^{q_{(s)}}M_{\\hat{Z}}=\\int_{s}q_{(s)}\\hat{r}_{(s)}~ds=0$$"},
 		{"id":"91326a0111563bcb","x":6909,"y":99,"width":250,"height":163,"type":"text","text":"However we have yet to find the actual position of the shear centre"},
 		{"id":"1b4f7b5b8b9b9b94","x":6835,"y":360,"width":399,"height":120,"type":"text","text":"# Finding the Position of the Shear Centre"},
-		{"id":"91c2a0325420891a","x":6665,"y":604,"width":354,"height":116,"type":"text","text":"# External Torque about $\\hat{Z}$"},
-		{"id":"218386d19d26259c","x":7125,"y":607,"width":250,"height":60,"type":"text","text":"#E"}
+		{"id":"1bfc055a9d67b898","x":8440,"y":-403,"width":328,"height":123,"type":"text","text":"# The Torsion Centre"},
+		{"id":"e32573d1f71979e6","x":8311,"y":-240,"width":333,"height":400,"type":"text","text":"The shear centre also provides a favourable axis for torsion.\nTorsion about axis $\\hat{Z}$ that passes through the shear centre will generate minimum stresses over the section for any given applied torque, hence providing a configuration of lowest potential energy.\nTherefore the shear centre is also sometimes called the torsion centre."},
+		{"id":"161974e366489464","x":8644,"y":-240,"width":248,"height":400,"type":"file","file":"Images & Attachments/Pasted image 20241202132824.png"},
+		{"id":"91c2a0325420891a","x":6650,"y":604,"width":370,"height":116,"type":"text","text":"# External Torque about $\\hat{Z}$"},
+		{"id":"a9af366b0fd0893f","x":6790,"y":720,"width":370,"height":200,"type":"text","text":"If two orthogonal shear forces $S_{X}$ and $S_{Y}$ are applied along lines that do not cross the shear centre, then the section will not only deflect but also twist."},
+		{"id":"3d4e89d6f387c9dd","x":6790,"y":920,"width":370,"height":270,"type":"text","text":"This is because the shear forces will generate a torque about $\\hat{Z}$, proportional to the orthogonal distances between the loading axes and the shear centre, $e_{x}$ and $e_{y}$:\n$$\\Huge M_{\\hat{Z}}=S_{x}e_{Y}-S_{Y}e_{X}$$"},
+		{"id":"44b3b51a7eb030d6","x":6420,"y":720,"width":370,"height":470,"type":"file","file":"Images & Attachments/Screenshot 2024-09-28 133813.png"},
+		{"id":"218386d19d26259c","x":7320,"y":607,"width":385,"height":113,"type":"text","text":"# External Torque that cancels out $M_Z$"},
+		{"id":"44d56827cc28878d","x":7277,"y":720,"width":471,"height":660,"type":"text","text":"To find the shear centre coordinates we find the external torque about the shear centre, $M_{\\hat{Z}}$, required to cancel out the stress-resultant torque about the loading point, $M_{Z}$:\n$$\\Huge M_\\hat{Z}=-M_{Z}$$\nResulting in:\n$$\\Huge \\underbrace{S_{Y}e_{X}-S_{X}e_{Y}}_{-M_{\\hat{Z}}}=\\underbrace{\\int_{s}q_{(s)}r_{(s)}~ds}_{M_Z}$$\n*For the majority of exam questions the shear centre will fall on one of the axes/you can place the shear centre on the axis because the part will be simply symmetric.*\n**However** *if you have a problem where this is not possible you can apply the method twice and then have a pair of simultaneous equations which you can then solve for the location of the shear centre.*"},
+		{"id":"f5882e0a28adf2f3","x":8061,"y":390,"width":250,"height":60,"type":"text","text":"# Steps"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -268,6 +276,8 @@
 		{"id":"c10b9e93a77a98eb","fromNode":"2ea360be6753e0e3","fromSide":"left","toNode":"91326a0111563bcb","toSide":"right"},
 		{"id":"c93fd67ba8ef3beb","fromNode":"91326a0111563bcb","fromSide":"bottom","toNode":"1b4f7b5b8b9b9b94","toSide":"top"},
 		{"id":"0d29a9c452b08353","fromNode":"1b4f7b5b8b9b9b94","fromSide":"bottom","toNode":"91c2a0325420891a","toSide":"top"},
-		{"id":"ce3860f32cb7dbf5","fromNode":"1b4f7b5b8b9b9b94","fromSide":"bottom","toNode":"218386d19d26259c","toSide":"top"}
+		{"id":"ce3860f32cb7dbf5","fromNode":"1b4f7b5b8b9b9b94","fromSide":"bottom","toNode":"218386d19d26259c","toSide":"top"},
+		{"id":"21457984af39156c","fromNode":"d25ce498828df665","fromSide":"right","toNode":"1bfc055a9d67b898","toSide":"left"},
+		{"id":"0f2e702e2fc029b9","fromNode":"1b4f7b5b8b9b9b94","fromSide":"right","toNode":"f5882e0a28adf2f3","toSide":"left"}
 	]
 }
