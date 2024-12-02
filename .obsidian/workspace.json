@@ -4,19 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "364ae39ac49e31a5",
+        "id": "871f8f140f1f22cf",
         "type": "tabs",
         "children": [
           {
-            "id": "67beb4cce970e77a",
+            "id": "32b60589fd898535",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images & Attachments/Pasted image 20241129142750.png"
+                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/Integration of Thin-Walled Open Sections.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241129142750"
+              "icon": "lucide-file",
+              "title": "Integration of Thin-Walled Open Sections"
+            }
+          }
+        ]
+      },
+      {
+        "id": "809c28427919baaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0880ea396d8afd54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -222,12 +240,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67beb4cce970e77a",
+  "active": "32b60589fd898535",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
+    "Images & Attachments/Pasted image 20241129142750.png",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-    "Backend/Home.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
     "Images & Attachments/Pasted image 20241201145650.png",
@@ -240,7 +259,6 @@
     "Images & Attachments/Pasted image 20241201143240.png",
     "Images & Attachments/Pasted image 20241201143146.png",
     "Images & Attachments/Pasted image 20241201142610.png",
-    "Images & Attachments/Pasted image 20241201142417.png",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/3) Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
