@@ -15,15 +15,21 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 1726.275958022153,
-                  "y": 6246.9530718076585,
-                  "zoom": -1.5656776135038797
+                  "x": 5247.314496457786,
+                  "y": 2021.0042037245994,
+                  "zoom": -0.8564740331867281
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Structures"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "39ae6cded1213a1a",
+        "type": "tabs",
+        "children": [
           {
             "id": "32b60589fd898535",
             "type": "leaf",
@@ -244,8 +250,8 @@
   "active": "0880ea396d8afd54",
   "lastOpenFiles": [
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/3) Closed Thin Walled Sections/1) Torsion of Closed Sections.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
     "Images & Attachments/Pasted image 20241202135336.png",
     "Images & Attachments/Pasted image 20241202132824.png",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
