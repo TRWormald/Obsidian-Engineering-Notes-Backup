@@ -243,7 +243,10 @@
 		{"id":"ea6b3762b8c6860e","type":"text","text":"*Note that most of the time majority of the terms within $C_x$ and $C_y$ are zero or cancel out, resulting in a rather simple equation.*","x":9037,"y":571,"width":376,"height":155},
 		{"id":"16db17af8457142a","type":"text","text":"Or more simply:","x":9647,"y":512,"width":250,"height":60},
 		{"id":"d41cf7d3784f3194","type":"text","text":"$$\\Huge \\boxed{q_{(s)}=q_{0}-C_{x}\\int_{0}^{s}x_{(s)}t_{(s)}~ds-C_{y}\\int_{0}^{s}y_{(s)}t_{(s)}~ds}$$","x":9453,"y":572,"width":639,"height":154},
-		{"id":"0be1c76cca0cd2d1","x":5200,"y":-516,"width":481,"height":176,"type":"text","text":"# Closed Thin-Walled Sections Under Transverse Shear"}
+		{"id":"0be1c76cca0cd2d1","x":5200,"y":-516,"width":481,"height":176,"type":"text","text":"# Closed Thin-Walled Sections Under Transverse Shear"},
+		{"id":"6c4f57629924924a","x":5113,"y":-340,"width":656,"height":188,"type":"text","text":"The expression for shear flow for open sections is:\n$$\\Huge q_{(s)}^{open}=q_{0}-C_{x}\\int_{0}^{s}x_{(s)}t_{(s)}ds-C_{y}\\int_{0}^{s}y_{(s)}t_{(s)}ds$$"},
+		{"id":"c4de33a965890ff7","x":5113,"y":-152,"width":656,"height":112,"type":"text","text":"As this equation is based on 1st moment of area relationships it must also hold for closed sections."},
+		{"id":"41f6759071c3e376","x":5113,"y":-40,"width":656,"height":120,"type":"text","text":"However, closed sections no longer have a free edge where $q_{(s)}=0$, and therefore we need to find the non-zero constant of integration, now called $\\bar{q}$ which reveals the true shear flow $q_{(s))}^{closed}$ "}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
