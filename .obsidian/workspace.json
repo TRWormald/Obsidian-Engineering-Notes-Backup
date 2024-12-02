@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/1) Integration of Thin-Walled Open Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/2) Shear Flow in Open Sections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Integration of Thin-Walled Open Sections"
+              "title": "2) Shear Flow in Open Sections"
             }
           }
         ]
@@ -35,8 +35,8 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 4590.81687408312,
-                  "y": -1006.2951703715983,
+                  "x": 6658.968191162053,
+                  "y": -2630.211311647872,
                   "zoom": -1.1452679951755753
                 }
               },
@@ -249,10 +249,10 @@
   },
   "active": "0880ea396d8afd54",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/1) Integration of Thin-Walled Open Sections.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/2) Shear Flow in Open Sections.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/1) Integration of Thin-Walled Open Sections.md",
+    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/3) Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
     "Backend/Home.canvas",
