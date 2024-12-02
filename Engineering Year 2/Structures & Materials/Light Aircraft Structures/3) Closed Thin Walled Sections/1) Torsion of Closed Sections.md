@@ -42,7 +42,7 @@ $$U_{ext}=U_{int}$$
 $$\cancel{\frac{1}{2}}T\theta'\cancel{dz}=\oint \frac{1}{2}(q_{(s)}~ds)(\gamma \cancel{dz})$$
 $$T\theta'=\oint\gamma\bar{q}~ds$$
 $$T\theta'=\oint\frac{\bar{q}^{2}}{Gt}ds$$
-Hence:
+	Hence:
 $$\boxed{\frac{d\theta}{dz}=\frac{1}{2\bar{A}}\oint\frac{\bar{q}}{Gt}ds}$$
 ### The Torsional Constant
 If the shear modulus $G$ is constant then:

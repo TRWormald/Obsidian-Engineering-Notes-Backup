@@ -233,7 +233,15 @@
 		{"id":"598896c4185b2772","type":"text","text":"The cross section of the closed section is shown to the left.","x":5470,"y":2292,"width":368,"height":100},
 		{"id":"31ac46a1329f5e25","type":"text","text":"# Angle of Twist and Torsional Stiffness","x":6090,"y":1912,"width":388,"height":120},
 		{"id":"209ea3928a7e4ddc","x":6004,"y":2032,"width":561,"height":186,"type":"text","text":"In pure torsion the deformation is given in terms of the **twist rate**, i.e. the angle of twist per unit shaft length:\n$$\\Huge\\frac{\\theta}{L}= \\frac{d\\theta}{dz}=\\theta'$$\n"},
-		{"id":"d320ad55d84c35dd","x":6004,"y":2218,"width":561,"height":172,"type":"text","text":"To find torsional stiffness - i.e. the relationship between applied torque $T$ and the angle of twist $\\theta$, we must conduct an **energy balance**:\n$$\\text{applied external work}=\\text{internal strain energy}$$\n"}
+		{"id":"d320ad55d84c35dd","x":6004,"y":2218,"width":561,"height":172,"type":"text","text":"To find torsional stiffness - i.e. the relationship between applied torque $T$ and the angle of twist $\\theta$, we must conduct an **energy balance**:\n$$\\text{applied external work}=\\text{internal strain energy}$$\n"},
+		{"id":"52c8a948e43c6de5","x":6004,"y":2390,"width":561,"height":222,"type":"text","text":"$$\\Huge U_{ext}=\\frac{1}{2}\\times\\text{torque}\\times{twist}$$$$\\Huge U_{ext}=\\frac{1}{2}T~d\\theta=\\frac{1}{2}T\\theta'~dz$$"},
+		{"id":"662183f76d502eb7","x":6004,"y":2612,"width":561,"height":220,"type":"text","text":"$$\\Huge dU_{int}=\\frac{1}{2}\\times\\text{force}\\times\\text{displacement}$$$$\\Huge dU_{int}=\\frac{1}{2}(q_{(s)}~ds)(\\gamma~dz)$$\n"},
+		{"id":"ce93441306dc97e3","x":6004,"y":2880,"width":561,"height":160,"type":"text","text":"Assuming linear elasticity:\n$$\\Huge \\gamma=\\frac{\\tau}{G}=\\frac{q_{s}}{Gt}$$"},
+		{"id":"47277b0a19997558","x":6004,"y":3080,"width":561,"height":50,"type":"text","text":"Therefore the global energy balance is:"},
+		{"id":"7a2762291552288a","x":6004,"y":3130,"width":561,"height":510,"type":"text","text":"$$\\Huge U_{ext}=U_{int}$$\n$$\\Huge\\cancel{\\frac{1}{2}}T\\theta'\\cancel{dz}=\\oint \\frac{1}{2}(q_{(s)}~ds)(\\gamma \\cancel{dz})$$\n$$\\Huge T\\theta'=\\oint\\gamma\\bar{q}~ds$$\n$$\\Huge T\\theta'=\\oint\\frac{\\bar{q}^{2}}{Gt}ds$$\nHence:\n$$\\Huge\\boxed{\\frac{d\\theta}{dz}=\\frac{1}{2\\bar{A}}\\oint\\frac{\\bar{q}}{Gt}ds}$$\n"},
+		{"id":"3aaa319f12ba3fd3","x":5320,"y":2960,"width":419,"height":100,"type":"text","text":"# The Torsional Constant"},
+		{"id":"d34a584ea1c136a9","x":5320,"y":3060,"width":419,"height":180,"type":"text","text":"If the shear modulus $G$ is constant then:\n$$\\Huge T=\\theta' G\\left(\\frac{4\\bar{A}}{\\oint\\frac{ds}{t}}\\right)$$"},
+		{"id":"c7e44b868dec210c","x":5320,"y":3240,"width":419,"height":240,"type":"text","text":"And since:\n$$\\Huge \\theta'=\\frac{T}{GJ}$$\n"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -316,6 +324,8 @@
 		{"id":"c7bd0ac4039f5ed3","fromNode":"0297ae919900d212","fromSide":"bottom","toNode":"09f6989f493ec796","toSide":"top"},
 		{"id":"7283df2e087b9263","fromNode":"09f6989f493ec796","fromSide":"bottom","toNode":"fbfdb9cb57d36e99","toSide":"top"},
 		{"id":"a63b8e3704d4d37e","fromNode":"09f6989f493ec796","fromSide":"bottom","toNode":"a3afc7621fd7cf5a","toSide":"top"},
-		{"id":"7e7eca90301e8886","fromNode":"09f6989f493ec796","fromSide":"bottom","toNode":"31ac46a1329f5e25","toSide":"top"}
+		{"id":"7e7eca90301e8886","fromNode":"09f6989f493ec796","fromSide":"bottom","toNode":"31ac46a1329f5e25","toSide":"top"},
+		{"id":"2262562554de508b","fromNode":"662183f76d502eb7","fromSide":"bottom","toNode":"ce93441306dc97e3","toSide":"top"},
+		{"id":"7a1991cbdb2b53fa","fromNode":"ce93441306dc97e3","fromSide":"bottom","toNode":"47277b0a19997558","toSide":"top"}
 	]
 }
