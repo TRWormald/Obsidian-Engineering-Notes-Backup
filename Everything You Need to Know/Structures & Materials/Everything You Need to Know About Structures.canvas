@@ -246,7 +246,16 @@
 		{"id":"0be1c76cca0cd2d1","x":5200,"y":-516,"width":481,"height":176,"type":"text","text":"# Closed Thin-Walled Sections Under Transverse Shear"},
 		{"id":"6c4f57629924924a","x":5113,"y":-340,"width":656,"height":188,"type":"text","text":"The expression for shear flow for open sections is:\n$$\\Huge q_{(s)}^{open}=q_{0}-C_{x}\\int_{0}^{s}x_{(s)}t_{(s)}ds-C_{y}\\int_{0}^{s}y_{(s)}t_{(s)}ds$$"},
 		{"id":"c4de33a965890ff7","x":5113,"y":-152,"width":656,"height":112,"type":"text","text":"As this equation is based on 1st moment of area relationships it must also hold for closed sections."},
-		{"id":"41f6759071c3e376","x":5113,"y":-40,"width":656,"height":120,"type":"text","text":"However, closed sections no longer have a free edge where $q_{(s)}=0$, and therefore we need to find the non-zero constant of integration, now called $\\bar{q}$ which reveals the true shear flow $q_{(s))}^{closed}$ "}
+		{"id":"41f6759071c3e376","x":5113,"y":-40,"width":656,"height":120,"type":"text","text":"However, closed sections no longer have a free edge where $q_{(s)}=0$, and therefore we need to find the non-zero constant of integration, now called $\\bar{q}$ which reveals the true shear flow $q_{(s))}^{closed}$ "},
+		{"id":"3654a8015142ec48","x":5282,"y":80,"width":317,"height":120,"type":"text","text":"$$\\Huge \\boxed{q_{(s)}^{closed}=q_{(s)}^{open}+\\bar{q}}$$"},
+		{"id":"3d42396beb81669f","x":5113,"y":240,"width":656,"height":216,"type":"file","file":"Images & Attachments/Pasted image 20241006144839.png"},
+		{"id":"0ad9285096e0b842","x":5196,"y":600,"width":491,"height":120,"type":"text","text":"# Finding the Closed-Cell Constant"},
+		{"id":"10ad5dbef0897ab3","x":4933,"y":851,"width":360,"height":109,"type":"text","text":"# Known Shear Centre"},
+		{"id":"162c4bb6136d51d4","x":4933,"y":960,"width":360,"height":80,"type":"text","text":"The torque is given by the shear centre offset $e_x$:"},
+		{"id":"c00fc910ae2c52a4","x":4896,"y":1040,"width":435,"height":135,"type":"text","text":"$$\\Huge T=S_{y}e_{x}=\\oint q_{(s)}^{open}r_{(s)}ds$$"},
+		{"id":"0a1b7ad8a708fb6f","x":4896,"y":1175,"width":435,"height":85,"type":"text","text":"So when loading the closed section through its shear centre we get:"},
+		{"id":"6d8122b33e591c0e","x":4896,"y":1260,"width":435,"height":140,"type":"text","text":"$$\\Huge \\boxed{\\bar{q}=-\\frac{1}{2\\bar{A}}\\oint q_{(s)}^{open}r_{(s)}ds}$$"},
+		{"id":"4633753c79333ce3","x":5600,"y":851,"width":339,"height":109,"type":"text","text":"# Unknown Shear Centre"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -335,6 +344,9 @@
 		{"id":"74025143940982ec","fromNode":"7a2762291552288a","fromSide":"left","toNode":"d34a584ea1c136a9","toSide":"right"},
 		{"id":"f17ebddf75c0ab37","fromNode":"ce93441306dc97e3","fromSide":"left","toNode":"d34a584ea1c136a9","toSide":"right"},
 		{"id":"51941a4cf2195147","fromNode":"20d0e868cbcea950","fromSide":"bottom","toNode":"3aaa319f12ba3fd3","toSide":"top"},
-		{"id":"ac56bccbfaf88e54","fromNode":"0297ae919900d212","fromSide":"left","toNode":"0be1c76cca0cd2d1","toSide":"right"}
+		{"id":"ac56bccbfaf88e54","fromNode":"0297ae919900d212","fromSide":"left","toNode":"0be1c76cca0cd2d1","toSide":"right"},
+		{"id":"572e1d75f9268d14","fromNode":"3d42396beb81669f","fromSide":"bottom","toNode":"0ad9285096e0b842","toSide":"top"},
+		{"id":"3d409168111b73f4","fromNode":"0ad9285096e0b842","fromSide":"bottom","toNode":"10ad5dbef0897ab3","toSide":"top"},
+		{"id":"841168865eb1c31d","fromNode":"0ad9285096e0b842","fromSide":"bottom","toNode":"4633753c79333ce3","toSide":"top"}
 	]
 }
