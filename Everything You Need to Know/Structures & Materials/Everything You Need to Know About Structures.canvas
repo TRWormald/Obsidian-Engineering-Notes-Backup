@@ -132,9 +132,16 @@
 		{"id":"c602dd790c8b5e2d","x":4920,"y":-1460,"width":491,"height":120,"type":"text","text":"# Coordinates in (Open) Thin-Walled Sections"},
 		{"id":"e4ae18a726a141f4","x":4920,"y":-1035,"width":491,"height":275,"type":"text","text":"When analysing thin-walled sections we define two new coordinates:\n- The arc length $s$, which is tangent to the local mid-surface of the section\n- The through-thickness coordinate $n$, normal to the local mid-surface of the section.\nThese can be seen in the diagram above."},
 		{"id":"3e5a27983ef4a0a5","x":5681,"y":-2240,"width":275,"height":164,"type":"text","text":"# Integrating Thin-Walled Sections"},
-		{"id":"bba6d4b5773bffc3","x":4887,"y":-2560,"width":524,"height":71,"type":"text","text":"# How To Solve"},
-		{"id":"9a1b8771eb13f6a5","type":"text","text":"### Step 1","x":5082,"y":-2489,"width":168,"height":50},
-		{"id":"e7446a8615356f3a","x":5034,"y":-2389,"width":250,"height":60,"type":"text","text":"Choose a convenient origin for $(X,Y)$, considering symmetries"}
+		{"id":"bba6d4b5773bffc3","x":4887,"y":-2760,"width":524,"height":71,"type":"text","text":"# How To Solve"},
+		{"id":"9a1b8771eb13f6a5","type":"text","text":"### Step 1","x":5082,"y":-2689,"width":168,"height":50},
+		{"id":"e216bce18d4d4e4f","x":4887,"y":-2639,"width":524,"height":79,"type":"text","text":"In **STEP 1** we write our section coordinates as a function of $s$. This is called **section parametrisation**."},
+		{"id":"e7446a8615356f3a","x":4886,"y":-2560,"width":525,"height":320,"type":"text","text":"1) Choose a convenient origin for $(X,Y)$, considering symmetries and any radii\n2) Define the origin of $s$ at a free edge, progressing CCW if possible\n3) Split up the section into straight lines and circular arcs, $i=1,...,n$\n4) Use A-Level trig and algebra to derive functions $^iX_{(s)}$, $^iY_{(s)}$, $^it_{(s)}$ for each wall $i$, resetting the arc-length $s$ at the start of each wall"},
+		{"id":"852ed7f7284a70a4","type":"text","text":"### Step 2","x":5082,"y":-2240,"width":168,"height":50},
+		{"id":"9220c83085eaf6f0","x":4899,"y":-2190,"width":512,"height":690,"type":"text","text":"Thin-walled sections must be integrated using line integrals: \n1) The arc-length coordinate $s$ defines a continuous path along the section, starting from a free edge\n2) The wall thickness may be variable, so we define it as a function of the arc-length $s$, writing $t_{(s)}$.\nResulting in the area integral:\n$$\\Huge A=\\int_A dA=\\int_s t_{(s)}~ds$$\nWith arcs of radius $R$ being integrated in terms of angle $\\phi$ instead resulting in:\n$$\\Huge A=\\int_\\phi t_{(\\phi)}R ~d\\phi$$\nFrom this we can generate the first moments of area calculations along with the centroid-based coordinates, and the second moments of area equations."},
+		{"id":"24e26deb58778ea0","x":4080,"y":-2434,"width":572,"height":194,"type":"text","text":"$$\\Huge \\boxed{\\underbrace{A=\\int_{s}t_{(s)}~ds}_{\\text{For Lines}}~~~~~~~~~~~~~~~~~\\underbrace{A=\\int_{\\phi}t_{(\\phi)}(R~d\\phi)}_{\\text{For Arcs}}}$$"},
+		{"id":"e56d6623ee35f199","x":4241,"y":-2494,"width":250,"height":60,"type":"text","text":"### Areas"},
+		{"id":"7ebf8dda915d6f17","x":4193,"y":-2120,"width":347,"height":75,"type":"text","text":"### First Moments of Area"},
+		{"id":"ef746dc40044213d","x":4080,"y":-2045,"width":572,"height":145,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -184,6 +191,7 @@
 		{"id":"f82360cef2a178f3","fromNode":"f1b67e989f7e9785","fromSide":"left","toNode":"c602dd790c8b5e2d","toSide":"right"},
 		{"id":"916def6830c339db","fromNode":"1556cae209b57575","fromSide":"top","toNode":"f1b67e989f7e9785","toSide":"bottom"},
 		{"id":"5f081605ed2ac403","fromNode":"f1b67e989f7e9785","fromSide":"top","toNode":"3e5a27983ef4a0a5","toSide":"bottom"},
-		{"id":"0dcb483a8ccbe1fb","fromNode":"3e5a27983ef4a0a5","fromSide":"left","toNode":"bba6d4b5773bffc3","toSide":"right"}
+		{"id":"0dcb483a8ccbe1fb","fromNode":"3e5a27983ef4a0a5","fromSide":"left","toNode":"bba6d4b5773bffc3","toSide":"right"},
+		{"id":"bb7a7f0147cac75c","fromNode":"9220c83085eaf6f0","fromSide":"left","toNode":"24e26deb58778ea0","toSide":"right"}
 	]
 }
