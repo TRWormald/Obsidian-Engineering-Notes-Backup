@@ -98,7 +98,16 @@
 		{"id":"dac4b619ff29ba58","x":5955,"y":1046,"width":265,"height":332,"type":"text","text":"Austinite is a Face Centred Cubic (FCC) structured steel, it typically occurs above 723 degrees centigrade, but can be stable at room temperature by adding Nickel or Magnesium"},
 		{"id":"8af9921372b060a4","x":5902,"y":1566,"width":298,"height":354,"type":"text","text":"Ferrite is a Body Centred Cubic (BCC) structured steel - it is the natural phase of pure Fe (Iron), and can contain up to 0.022 wt% C in solid solution. (i.e. before precipitates begin to form)\nIt is relatively soft and ductile."},
 		{"id":"324b96e5396f62ed","x":5956,"y":2186,"width":250,"height":254,"type":"text","text":"Cementite is an iron carbide, it is a hard and brittle ceramic-like material. It is composed of 6.7 wt% carbon and 93.3 wt% Fe."},
-		{"id":"752151e9b030a823","x":6530,"y":1719,"width":250,"height":60,"type":"text","text":"# Combinations of the "}
+		{"id":"752151e9b030a823","x":6440,"y":1683,"width":350,"height":121,"type":"text","text":"# Combinations of the Phases"},
+		{"id":"0881fefbc527165a","x":6440,"y":1804,"width":350,"height":156,"type":"text","text":"Specific manufacturing methods can result in the production of different crystal structures made up of these elements."},
+		{"id":"a738e99f86bf44bc","x":6920,"y":1524,"width":695,"height":440,"type":"file","file":"Images & Attachments/Pasted image 20241101143124.png"},
+		{"id":"9346cc01e418606b","x":6719,"y":1280,"width":250,"height":60,"type":"text","text":"# Pearlite"},
+		{"id":"687b76616a2086a2","x":6369,"y":812,"width":600,"height":468,"type":"file","file":"Images & Attachments/Pasted image 20241203171244.png"},
+		{"id":"14923f536e26f42e","x":6969,"y":812,"width":310,"height":468,"type":"text","text":"This is formed by the slow cooling of austenite, the carbon diffuses out of the newly formed ferrite and into layers of cementite. It is composed of 87.5 wt% ferrite, 12.5 wt% cementite, therefore ~0.8 wt% C.\nThis is a lamellar structure of ferrite and cementite.\nIt is relatively soft in comparison to Bainite and Martensite as well as being ductile and tough."},
+		{"id":"9f6d71b2aa83a11d","x":6469,"y":2152,"width":400,"height":230,"type":"text","text":"Bainite is produced by the moderate cooling of Austenite, it is a plate like (non-laminar) structure of cementite and dislocation rich ferrite. It has intermediate properties between pearlite and martensite."},
+		{"id":"bc981ca460e3e962","x":6544,"y":2100,"width":250,"height":50,"type":"text","text":"# Bainite"},
+		{"id":"1cb6883216c6586a","x":7264,"y":2155,"width":452,"height":230,"type":"text","text":"Martensite is a very hard form of steel, obtained from rapid quenching of austenite. It is a distorted body-centred tetragonal (bct) structure, supersaturated with carbon.\nQuenching promotes local micro-shearing and high dislocation densities."},
+		{"id":"0c9427e18164ac4b","x":7365,"y":2095,"width":250,"height":60,"type":"text","text":"# Martensite"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -136,6 +145,12 @@
 		{"id":"1e38754bcaae48b7","fromNode":"eb14c552b30a2ae8","fromSide":"right","toNode":"d5d94c5b3c5b8664","toSide":"left"},
 		{"id":"751dc577ae36ff69","fromNode":"eb14c552b30a2ae8","fromSide":"right","toNode":"50281ab0e761a717","toSide":"left"},
 		{"id":"84af057fc75e516c","fromNode":"eb14c552b30a2ae8","fromSide":"right","toNode":"ede1777f9a08a664","toSide":"left"},
-		{"id":"fd90b082239a783f","fromNode":"dac4b619ff29ba58","fromSide":"right","toNode":"752151e9b030a823","toSide":"left"}
+		{"id":"fd90b082239a783f","fromNode":"dac4b619ff29ba58","fromSide":"right","toNode":"752151e9b030a823","toSide":"left"},
+		{"id":"f2789d9cacd33e1d","fromNode":"8af9921372b060a4","fromSide":"right","toNode":"752151e9b030a823","toSide":"left"},
+		{"id":"605e2a0c49edaf1d","fromNode":"324b96e5396f62ed","fromSide":"right","toNode":"752151e9b030a823","toSide":"left"},
+		{"id":"257613823957e6fe","fromNode":"752151e9b030a823","fromSide":"right","toNode":"a738e99f86bf44bc","toSide":"left"},
+		{"id":"f9ba147d50e5b685","fromNode":"a738e99f86bf44bc","fromSide":"top","toNode":"9346cc01e418606b","toSide":"bottom"},
+		{"id":"fa411aa7dcda4c95","fromNode":"a738e99f86bf44bc","fromSide":"bottom","toNode":"bc981ca460e3e962","toSide":"top"},
+		{"id":"fea21b1b5a812286","fromNode":"a738e99f86bf44bc","fromSide":"bottom","toNode":"0c9427e18164ac4b","toSide":"top"}
 	]
 }
