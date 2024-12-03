@@ -43,16 +43,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/4) Strain Measurement.md",
+                "file": "Engineering Year 2/Structures & Materials/2D Elasticity/5) Generalised Hooke's Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Strain Measurement"
+              "title": "5) Generalised Hooke's Law"
+            }
+          },
+          {
+            "id": "6a1edea5fb10161d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": 1072.7785321129052,
+                  "zoom": -0.5601408388869396
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,13 +272,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "70c76b30c88c436a",
+  "active": "6a1edea5fb10161d",
   "lastOpenFiles": [
     "Engineering Year 2/Structures & Materials/2D Elasticity/5) Generalised Hooke's Law.md",
+    "Engineering Year 2/Structures & Materials/2D Elasticity/6) Elastic Constraints.md",
+    "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/4) Strain Measurement.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/2) Principal Stresses.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/7) Failure Criteria.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/6) Elastic Constraints.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
