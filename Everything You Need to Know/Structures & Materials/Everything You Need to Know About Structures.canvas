@@ -263,17 +263,24 @@
 		{"id":"1556cae209b57575","type":"text","text":"# Thin-Walled Sections","x":8244,"y":1293,"width":346,"height":125},
 		{"id":"209ea3928a7e4ddc","type":"text","text":"In pure torsion the deformation is given in terms of the **twist rate**, i.e. the angle of twist per unit shaft length:\n$$\\Huge\\frac{\\theta}{L}= \\frac{d\\theta}{dz}=\\theta'$$\n","x":7964,"y":2032,"width":561,"height":186},
 		{"id":"c7e44b868dec210c","type":"text","text":"And since:\n$$\\Huge \\theta'=\\frac{T}{GJ}$$\n$$\\Huge\\boxed{J=\\frac{4\\bar{A}}{\\oint \\frac{ds}{t}}}$$","x":7379,"y":3245,"width":419,"height":280},
-		{"id":"111a4a5e6a467519","x":4240,"y":-1180,"width":400,"height":320,"type":"text","text":"We need to idealise our structures by making the following assumptions:\n1) Skins are good at resisting in-plane shear stresses, but are poor at resisting direct stresses\n2) Booms carry all direct stresses\n3) As a consequence, the shear flow is constant between booms"},
-		{"id":"df4e8b8364801a41","x":4240,"y":-860,"width":400,"height":122,"type":"file","file":"Images & Attachments/Pasted image 20241011120450.png"},
-		{"id":"676342d830d8081d","x":4740,"y":-1180,"width":617,"height":152,"type":"text","text":"**Booms**\nThese are axial members that transmit direct stresses.\nThe effective boom area includes the cross sectional area of local axial members and also the contribution of neighbouring skins."},
-		{"id":"f9142b53344c5d57","x":4740,"y":-1000,"width":617,"height":140,"type":"text","text":"**Skins**\nThese are thin webs that transmit shear stresses. They buckle easily, however they are good at resisting shear stresses.\nThey usually comprise the outer skin and spar webs"},
-		{"id":"e61652569106902b","x":4240,"y":-738,"width":400,"height":221,"type":"file","file":"Images & Attachments/Pasted image 20241011121319.png"},
-		{"id":"f0205ad1f3f13bfc","x":4615,"y":-1341,"width":250,"height":60,"type":"text","text":"## Intro"},
+		{"id":"111a4a5e6a467519","type":"text","text":"We need to idealise our structures by making the following assumptions:\n1) Skins are good at resisting in-plane shear stresses, but are poor at resisting direct stresses\n2) Booms carry all direct stresses\n3) As a consequence, the shear flow is constant between booms","x":4240,"y":-1180,"width":400,"height":320},
+		{"id":"df4e8b8364801a41","type":"file","file":"Images & Attachments/Pasted image 20241011120450.png","x":4240,"y":-860,"width":400,"height":122},
+		{"id":"676342d830d8081d","type":"text","text":"**Booms**\nThese are axial members that transmit direct stresses.\nThe effective boom area includes the cross sectional area of local axial members and also the contribution of neighbouring skins.","x":4740,"y":-1180,"width":617,"height":152},
+		{"id":"f9142b53344c5d57","type":"text","text":"**Skins**\nThese are thin webs that transmit shear stresses. They buckle easily, however they are good at resisting shear stresses.\nThey usually comprise the outer skin and spar webs","x":4740,"y":-1000,"width":617,"height":140},
+		{"id":"e61652569106902b","type":"file","file":"Images & Attachments/Pasted image 20241011121319.png","x":4240,"y":-738,"width":400,"height":221},
+		{"id":"f0205ad1f3f13bfc","type":"text","text":"## Intro","x":4615,"y":-1341,"width":250,"height":60},
 		{"id":"fa3210cc4ecd5697","type":"text","text":"# Structural Idealisation","x":4603,"y":-1480,"width":274,"height":100},
-		{"id":"831dc6c763c49ffe","x":5049,"y":-1497,"width":258,"height":134,"type":"text","text":"# Effective Boom Areas"},
-		{"id":"58c8b5b9759c5702","x":5680,"y":-1698,"width":445,"height":298,"type":"file","file":"Images & Attachments/Pasted image 20241011132157.png"},
-		{"id":"cd5d875eb4b59313","x":5480,"y":-1698,"width":200,"height":298,"type":"text","text":"The \"lumping\" of skin areas is based on equilibrium of bending stresses and bending moments."},
-		{"id":"cfb50f32063f5ce9","x":5680,"y":-1758,"width":445,"height":60,"type":"text","text":"Balancing moments $M_n$ at boom 2 gives:"}
+		{"id":"831dc6c763c49ffe","type":"text","text":"# Effective Boom Areas","x":5049,"y":-1497,"width":258,"height":134},
+		{"id":"f2a5c388e1ef7561","type":"text","text":"**Hence we can calculate the effective boom area expressions:**","x":5480,"y":-1128,"width":604,"height":61},
+		{"id":"58c8b5b9759c5702","type":"file","file":"Images & Attachments/Pasted image 20241011132157.png","x":5680,"y":-1765,"width":445,"height":298},
+		{"id":"cd5d875eb4b59313","type":"text","text":"The \"lumping\" of skin areas is based on equilibrium of bending stresses and bending moments.","x":5480,"y":-1765,"width":200,"height":298},
+		{"id":"cfb50f32063f5ce9","type":"text","text":"Balancing moments $M_n$ at boom 2 gives:","x":5680,"y":-1825,"width":445,"height":60},
+		{"id":"f303790f1abe6185","type":"text","text":"And since bending stresses are proportional to the distance from the neutral axis, we can use the centroid based coordinates $y$ for bending about $x$:\n$$\\Huge B_1 = \\frac{tb}{6}\\left(2+\\frac{y_2}{y_1}\\right)$$","x":5613,"y":-1430,"width":580,"height":217},
+		{"id":"1b418089c10584ed","type":"text","text":"For shear loading along $y$:\n$$\\Huge B_{k}=J_{k}+\\sum\\limits_{\\text{all connected booms } l}\\left[\\frac{b_{kl}t_{kl}}{6}\\left(2+\\frac{y_{l}}{y_{k}}\\right)\\right]$$\nFor shear loading along $x$:\n$$\\Huge B_{k}=J_{k}+\\sum\\limits_{\\text{all connected booms }l}\\left[\\frac{b_{kl}t_{kl}}{6}\\left(2+\\frac{x_{l}}{x_{k}}\\right)\\right]$$","x":5480,"y":-1067,"width":604,"height":320},
+		{"id":"3ea883980edea1f7","type":"text","text":"Where:\n\n- $J_{k}$ is the cross-sectional area of local joint or reinforcement\n- $b_{kl}$ is the wall length between booms $k$ and $l$\n- $t_{kl}$ is the wall thickness between booms $k$ and $l$\n- $y_{l}/x_{l}$ is the centroid based coordinate of the connected boom $l$\n- $y_{k}/x_{k}$ is the centroid based coordinate of current boom $k$","x":5480,"y":-747,"width":604,"height":280},
+		{"id":"66705b0a6c07b3ad","x":6280,"y":-1128,"width":481,"height":117,"type":"text","text":"# Section Properties of Idealised Structures"},
+		{"id":"0682cd632290d865","x":6280,"y":-1010,"width":481,"height":103,"type":"text","text":"All bending properties are computed based on booms alone, therefore we can replace all integrals with summations:"},
+		{"id":"03cf80ad4ca8798f","x":6280,"y":-907,"width":481,"height":517,"type":"text","text":"Area:\n$$\\Huge A\\approx \\sum\\limits_{k=1}^{n_{k}}B_{k}$$\nFirst Moments of Area:\n$$\\Huge \\begin{align*}\nQ_{XX}&= \\sum\\limits Y_{k}B_{k}\\\\\n\\bar{Y}&= \\frac{Q_{XX}}{A}\n\\end{align*}$$\n$$\\Huge \\begin{align*}\nQ_{YY}&= \\sum\\limits X_{k}B_{k}\\\\\n\\bar{X}&= \\frac{Q_{YY}}{A}\n\\end{align*}$$\nHowever the boom areas are based on the loading case and therefore the formula for the first moments of area are inaccurate.\n"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -372,6 +379,9 @@
 		{"id":"2eff5ec9830e23fc","fromNode":"f0205ad1f3f13bfc","fromSide":"bottom","toNode":"111a4a5e6a467519","toSide":"top"},
 		{"id":"3ae8cee5c46a0d63","fromNode":"fa3210cc4ecd5697","fromSide":"right","toNode":"831dc6c763c49ffe","toSide":"left"},
 		{"id":"a51c4aea774ba2a0","fromNode":"676342d830d8081d","fromSide":"top","toNode":"831dc6c763c49ffe","toSide":"bottom","color":"1"},
-		{"id":"723e30a53fd64edf","fromNode":"831dc6c763c49ffe","fromSide":"top","toNode":"cd5d875eb4b59313","toSide":"left"}
+		{"id":"723e30a53fd64edf","fromNode":"831dc6c763c49ffe","fromSide":"top","toNode":"cd5d875eb4b59313","toSide":"left"},
+		{"id":"2ca04340daba5343","fromNode":"58c8b5b9759c5702","fromSide":"bottom","toNode":"f303790f1abe6185","toSide":"top"},
+		{"id":"19b92387151e3302","fromNode":"f303790f1abe6185","fromSide":"bottom","toNode":"f2a5c388e1ef7561","toSide":"top"},
+		{"id":"df473c877ef97c58","fromNode":"1b418089c10584ed","fromSide":"right","toNode":"66705b0a6c07b3ad","toSide":"left"}
 	]
 }
