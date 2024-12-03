@@ -4,58 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "5c959d51ef86a256",
+        "id": "5300c161db3b05cf",
         "type": "tabs",
         "children": [
-          {
-            "id": "eb7318c42e2cb763",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "DesignOfSwirlAtomiser"
-            }
-          },
-          {
-            "id": "59ed6a0b34859d58",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
-                "page": 286,
-                "left": -10,
-                "top": 278,
-                "zoom": 1.5477941176470589
-              },
-              "icon": "lucide-file-text",
-              "title": "out"
-            }
-          },
           {
             "id": "4dd8d476ef728951",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
                 "viewState": {
-                  "x": 6763.32834577068,
-                  "y": 2762.384885647626,
-                  "zoom": -4
+                  "x": 5341,
+                  "y": 2840,
+                  "zoom": -3.5950867179948633
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Structures"
+              "title": "Everything You Need to Know About Light Aircraft Structures"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
+                "file": "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
                 "mode": "source",
                 "source": false
               },
@@ -274,25 +243,29 @@
   },
   "active": "4dd8d476ef728951",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
-    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/3) Closed Thin Walled Sections/1) Torsion of Closed Sections.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/5) Generalised Hooke's Law.md",
-    "Backend/Home.canvas",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/6) Elastic Constraints.md",
-    "Engineering Year 2/Structures & Materials/Metals/Aluminium Alloys.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/4) Strain Measurement.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/2) Principal Stresses.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/7) Failure Criteria.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/1) Defining Axes.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/6) Elastic Constraints.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/5) Generalised Hooke's Law.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/4) Strain Measurement.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/3) Plane Strain and Strain Transformation.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/2) Principal Stresses.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
+    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/3) Closed Thin Walled Sections/1) Torsion of Closed Sections.md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/3) Metals/Aluminium Alloys.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/1) Defining Axes.md",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
@@ -302,15 +275,14 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
     "Images & Attachments/Pasted image 20241202135336.png",
     "Images & Attachments/Pasted image 20241202132824.png",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/3) Shear Flow Distributions.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/2) Shear Flow in Open Sections.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/2) Thin Walled Sections/1) Integration of Thin-Walled Open Sections.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/3) Shear Flow Distributions.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/2) Shear Flow in Open Sections.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/1) Integration of Thin-Walled Open Sections.md",
     "Images & Attachments/Pasted image 20241129142750.png",
     "Images & Attachments/Pasted image 20241201145650.png",
     "Images & Attachments/Pasted image 20241201144048.png",
@@ -319,15 +291,12 @@
     "Images & Attachments/Pasted image 20241201143654.png",
     "Images & Attachments/Pasted image 20241201143415.png",
     "Images & Attachments/Pasted image 20241201143240.png",
-    "Engineering Year 2/Structures & Materials/Light Aircraft Structures/1) Fundementals/3) Transformation of Axes and of Section Properties.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/3) Plane Strain and Strain Transformation.md",
-    "Engineering Year 2/Structures & Materials/2D Elasticity/1) Stress and Stress Transformation.md",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/3) Transformation of Axes and of Section Properties.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
-    "Engineering Year 1/Electrical/Untitled.canvas",
-    "Untitled.canvas"
+    "Engineering Year 1/Electrical/Untitled.canvas"
   ]
 }
