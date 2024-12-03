@@ -69,8 +69,6 @@
 		{"id":"f56b49e2d7f442f8","type":"text","text":"## Introduction","x":715,"y":4526,"width":250,"height":60},
 		{"id":"161974e366489464","type":"file","file":"Images & Attachments/Pasted image 20241202132824.png","x":11754,"y":1510,"width":248,"height":400},
 		{"id":"1bfc055a9d67b898","type":"text","text":"# The Torsion Centre","x":11550,"y":1347,"width":328,"height":123},
-		{"id":"9b90b431d9a54613","type":"text","text":"The shear centre will lie on **any line of symmetry** that may exist, so for doubly-symmetric sections the shear centre is the centroid:","x":8880,"y":2915,"width":674,"height":160},
-		{"id":"276e8ac45616964a","type":"file","file":"Images & Attachments/Pasted image 20241202135336.png","x":8880,"y":3075,"width":674,"height":430},
 		{"id":"37026ac16e8b4ed0","type":"text","text":"## Step 3","x":11325,"y":3150,"width":250,"height":60},
 		{"id":"e32573d1f71979e6","type":"text","text":"The shear centre also provides a favourable axis for torsion.\nTorsion about axis $\\hat{Z}$ that passes through the shear centre will generate minimum stresses over the section for any given applied torque, hence providing a configuration of lowest potential energy.\nTherefore the shear centre is also sometimes called the torsion centre.","x":11421,"y":1510,"width":333,"height":400},
 		{"id":"e16bed1991bc94b8","type":"text","text":"Find the resultant shear centre of the entire section.\nThis is simply the superposition of all the shear centres of the walls:","x":11204,"y":3210,"width":492,"height":140},
@@ -81,13 +79,7 @@
 		{"id":"f7d182655fb8d826","type":"text","text":"Think about the solving of the position of the shear centre as forcing the system with a force of unknown magnitude.","x":11216,"y":2347,"width":480,"height":110},
 		{"id":"f5882e0a28adf2f3","type":"text","text":"# Steps","x":11331,"y":2240,"width":250,"height":60},
 		{"id":"33260655cadf2312","type":"text","text":"## Step 1","x":11331,"y":2484,"width":250,"height":60},
-		{"id":"47277b0a19997558","type":"text","text":"Therefore the global energy balance is:","x":7964,"y":3080,"width":561,"height":50},
-		{"id":"7a2762291552288a","type":"text","text":"$$\\Huge U_{ext}=U_{int}$$\n$$\\Huge\\cancel{\\frac{1}{2}}T\\theta'\\cancel{dz}=\\oint \\frac{1}{2}(q_{(s)}~ds)(\\gamma \\cancel{dz})$$\n$$\\Huge T\\theta'=\\oint\\gamma\\bar{q}~ds$$\n$$\\Huge T\\theta'=\\oint\\frac{\\bar{q}^{2}}{Gt}ds$$\nHence:\n$$\\Huge\\boxed{\\frac{d\\theta}{dz}=\\frac{1}{2\\bar{A}}\\oint\\frac{\\bar{q}}{Gt}ds}$$\n","x":7964,"y":3130,"width":561,"height":510},
 		{"id":"c7668a881cd80067","type":"text","text":"$$\\Huge \\boxed{\\bar{q}=-\\frac{\\oint q_{(s)}^{open}ds}{\\oint ds}}$$","x":4740,"y":3476,"width":440,"height":180},
-		{"id":"d34a584ea1c136a9","type":"text","text":"If the shear modulus $G$ is constant then:\n$$\\Huge T=\\theta' G\\left(\\frac{4\\bar{A}}{\\oint\\frac{ds}{t}}\\right)$$","x":7379,"y":3065,"width":419,"height":180},
-		{"id":"3aaa319f12ba3fd3","type":"text","text":"# The Torsional Constant","x":7379,"y":2965,"width":419,"height":100},
-		{"id":"c7e44b868dec210c","type":"text","text":"And since:\n$$\\Huge \\theta'=\\frac{T}{GJ}$$\n$$\\Huge\\boxed{J=\\frac{4\\bar{A}}{\\oint \\frac{ds}{t}}}$$","x":7379,"y":3245,"width":419,"height":280},
-		{"id":"f303790f1abe6185","type":"text","text":"And since bending stresses are proportional to the distance from the neutral axis, we can use the centroid based coordinates $y$ for bending about $x$:\n$$\\Huge B_1 = \\frac{tb}{6}\\left(2+\\frac{y_2}{y_1}\\right)$$","x":5622,"y":-1709,"width":580,"height":217},
 		{"id":"c0b1988ea88d7a5b","type":"text","text":"# Transformation of SMA","x":2457,"y":720,"width":527,"height":80},
 		{"id":"9192277e4e8f8c32","type":"text","text":"Having transformed our axes we have to consider what this has done to our Second Moments of Area:\n$$I_{x'x'}=\\int_{A}y'^{2}~dA$$\nWe can then substitute in the calculated value for $y'$:\n$$I_{x'x'}=\\int_{A}(-nx+my)^{2}~dA$$\nAnd then expand - giving us:\n$$I_{x'x'}=m^{2}\\int y^{2}~dA+n^{2}\\int x^{2}~dA -2mn\\int xy~dA$$\nHence:\n$$I_{x'x'}=m^{2}(I_{xx})+n^{2}(I_{yy})-2mn(I_{xy})$$","x":2457,"y":800,"width":527,"height":480},
 		{"id":"b644472a34274eef","type":"text","text":"# The Basics","x":1860,"y":720,"width":502,"height":80},
@@ -296,7 +288,23 @@
 		{"id":"b2d83bce1d5f0bb7","type":"text","text":"Thus, the stress-resultant torque about any reference point is **the product of the shear flow and twice the area subtended between the web and this reference point.**\n*Note that the area is effected by the RHR as well, so in the image above the area will be negative because we are moving clockwise!*","x":6049,"y":-2620,"width":300,"height":447},
 		{"id":"66705b0a6c07b3ad","type":"text","text":"# Section Properties of Idealised Structures","x":6369,"y":-1854,"width":481,"height":117},
 		{"id":"0682cd632290d865","type":"text","text":"All bending properties are computed based on booms alone, therefore we can replace all integrals with summations:","x":6369,"y":-1736,"width":481,"height":103},
-		{"id":"03cf80ad4ca8798f","type":"text","text":"Area:\n$$\\Huge A\\approx \\sum\\limits_{k=1}^{n_{k}}B_{k}$$\nFirst Moments of Area:\n$$\\Huge \\begin{align*}\nQ_{XX}&= \\sum\\limits Y_{k}B_{k}\\\\\n\\bar{Y}&= \\frac{Q_{XX}}{A}\n\\end{align*}$$\n$$\\Huge \\begin{align*}\nQ_{YY}&= \\sum\\limits X_{k}B_{k}\\\\\n\\bar{X}&= \\frac{Q_{YY}}{A}\n\\end{align*}$$\nHowever the boom areas are based on the loading case and therefore the formula for the first moments of area are inaccurate.\nHowever, even using these inaccurate values we can get a very accurate second moment of area:\n$$\\Huge \\boxed{\\begin{align*}\nI_{xx}&= \\sum(y_{k})^{2}B_{k}\\\\\\\\\n\nI_{yy}&= \\sum(x_{k})^{2}B_{k}\\\\\\\\\n\nI_{xy}&= \\sum(x_{k}y_{k})B_{k}\n\\end{align*}}$$\n","x":6369,"y":-1633,"width":481,"height":887}
+		{"id":"03cf80ad4ca8798f","type":"text","text":"Area:\n$$\\Huge A\\approx \\sum\\limits_{k=1}^{n_{k}}B_{k}$$\nFirst Moments of Area:\n$$\\Huge \\begin{align*}\nQ_{XX}&= \\sum\\limits Y_{k}B_{k}\\\\\n\\bar{Y}&= \\frac{Q_{XX}}{A}\n\\end{align*}$$\n$$\\Huge \\begin{align*}\nQ_{YY}&= \\sum\\limits X_{k}B_{k}\\\\\n\\bar{X}&= \\frac{Q_{YY}}{A}\n\\end{align*}$$\nHowever the boom areas are based on the loading case and therefore the formula for the first moments of area are inaccurate.\nHowever, even using these inaccurate values we can get a very accurate second moment of area:\n$$\\Huge \\boxed{\\begin{align*}\nI_{xx}&= \\sum(y_{k})^{2}B_{k}\\\\\\\\\n\nI_{yy}&= \\sum(x_{k})^{2}B_{k}\\\\\\\\\n\nI_{xy}&= \\sum(x_{k}y_{k})B_{k}\n\\end{align*}}$$\n","x":6369,"y":-1633,"width":481,"height":887},
+		{"id":"f303790f1abe6185","type":"text","text":"And since bending stresses are proportional to the distance from the neutral axis, we can use the centroid based coordinates $y$ for bending about $x$:\n$$\\Huge B_1 = \\frac{tb}{6}\\left(2+\\frac{y_2}{y_1}\\right)$$","x":5622,"y":-1709,"width":580,"height":217},
+		{"id":"d34a584ea1c136a9","type":"text","text":"If the shear modulus $G$ is constant then:\n$$\\Huge T=\\theta' G\\left(\\frac{4\\bar{A}}{\\oint\\frac{ds}{t}}\\right)$$","x":7379,"y":3065,"width":419,"height":180},
+		{"id":"3aaa319f12ba3fd3","type":"text","text":"# The Torsional Constant","x":7379,"y":2965,"width":419,"height":100},
+		{"id":"47277b0a19997558","type":"text","text":"Therefore the global energy balance is:","x":7964,"y":3080,"width":561,"height":50},
+		{"id":"7a2762291552288a","type":"text","text":"$$\\Huge U_{ext}=U_{int}$$\n$$\\Huge\\cancel{\\frac{1}{2}}T\\theta'\\cancel{dz}=\\oint \\frac{1}{2}(q_{(s)}~ds)(\\gamma \\cancel{dz})$$\n$$\\Huge T\\theta'=\\oint\\gamma\\bar{q}~ds$$\n$$\\Huge T\\theta'=\\oint\\frac{\\bar{q}^{2}}{Gt}ds$$\nHence:\n$$\\Huge\\boxed{\\frac{d\\theta}{dz}=\\frac{1}{2\\bar{A}}\\oint\\frac{\\bar{q}}{Gt}ds}$$\n","x":7964,"y":3130,"width":561,"height":510},
+		{"id":"c7e44b868dec210c","type":"text","text":"And since:\n$$\\Huge \\theta'=\\frac{T}{GJ}$$\n$$\\Huge\\boxed{J=\\frac{4\\bar{A}}{\\oint \\frac{ds}{t}}}$$","x":7379,"y":3245,"width":419,"height":280},
+		{"id":"9b90b431d9a54613","type":"text","text":"The shear centre will lie on **any line of symmetry** that may exist, so for doubly-symmetric sections the shear centre is the centroid:","x":8880,"y":2915,"width":674,"height":160},
+		{"id":"276e8ac45616964a","type":"file","file":"Images & Attachments/Pasted image 20241202135336.png","x":8880,"y":3075,"width":674,"height":430},
+		{"id":"df465283e964d06d","x":5241,"y":114,"width":250,"height":117,"type":"text","text":"# For $n$ equations"},
+		{"id":"f97a4cc2d60c960d","x":5146,"y":231,"width":440,"height":69,"type":"text","text":"## Rate of twist for each cell $j$"},
+		{"id":"3c8eed971ee41eb5","x":5079,"y":300,"width":574,"height":380,"type":"text","text":"If we write the twist rate equation for cell $j$ we get:\n$$\\Huge\\frac{d\\theta}{dz}=\\frac{1}{2\\bar{A}_j G}\\oint_j q_{(s)}^{closed}\\frac{ds}{t}$$\nWhich is the same for all cells.\nTherefore, following this through and replacing the integral with a summation:\n$$\\huge\\sum\\limits_{i\\in j} \\left[(q_i ^{open}+^*\\bar{q}_i)\\frac{b_i}{t_i}\\right]=(2\\bar{A}_j G)\\frac{d\\theta}{dz}$$\n"},
+		{"id":"0e7b95ffea3fe2bf","x":5006,"y":680,"width":721,"height":160,"type":"text","text":"Where $i \\in j$ is the summation of every wall $i$ pertaining to cell $j$, and:\n$$\\Huge ^{*}\\bar{q}_{i}=\\left\\{\\begin{matrix}\\bar{q}_{j}~~~~~~~~~~~~~~~~~~{\\text{Wall is exclusive to cell j}}\\\\\\bar{q}_{j}-\\bar{q}_{[j\\pm 1]}~~~~~~~\\text{Wall is shared with cell }[j\\pm1]\\end{matrix} \\right.$$"},
+		{"id":"e93a6ab7cec22ac8","x":5079,"y":840,"width":574,"height":80,"type":"text","text":"This is effectively acting like loop currents in a circuit, where we have to subtract shear flows going in the same direction."},
+		{"id":"9a23348129b4ceab","type":"text","text":"# For $n+1$ equations","x":6040,"y":112,"width":250,"height":117},
+		{"id":"3c7df569f16fa6cb","x":6000,"y":229,"width":331,"height":71,"type":"text","text":"## Balance of Torques"},
+		{"id":"8b64292c13456fe8","x":6025,"y":399,"width":250,"height":60,"type":"text","text":"We also have an equation relating the pure torsion case and the shear loading case to the stress resultant torque:"}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
@@ -406,6 +414,8 @@
 		{"id":"2f94c45c7c4f9d44","fromNode":"6d5cac783eede5dd","fromSide":"bottom","toNode":"1ec7d007a9bb85da","toSide":"top"},
 		{"id":"9a3a7a2842e04661","fromNode":"1ec7d007a9bb85da","fromSide":"bottom","toNode":"1afa289eb88b45b4","toSide":"top"},
 		{"id":"60515b17970964b2","fromNode":"6d5cac783eede5dd","fromSide":"right","toNode":"2e8f325d10c587dd","toSide":"left"},
-		{"id":"e2b3e973194bd198","fromNode":"6d5cac783eede5dd","fromSide":"bottom","toNode":"60029a2b176592cf","toSide":"top"}
+		{"id":"e2b3e973194bd198","fromNode":"6d5cac783eede5dd","fromSide":"bottom","toNode":"60029a2b176592cf","toSide":"top"},
+		{"id":"912a2819587e09c4","fromNode":"60029a2b176592cf","fromSide":"right","toNode":"df465283e964d06d","toSide":"top"},
+		{"id":"f7491c382b4ced0c","fromNode":"60029a2b176592cf","fromSide":"right","toNode":"9a23348129b4ceab","toSide":"top"}
 	]
 }
