@@ -45,27 +45,13 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Structures.canvas",
                 "viewState": {
-                  "x": 4522.26155877925,
-                  "y": 1032.2754562621092,
-                  "zoom": -0.8564740331867281
+                  "x": 6763.32834577068,
+                  "y": 2762.384885647626,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Structures"
-            }
-          },
-          {
-            "id": "e8f7252814b04ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) Multi-Cell Sections"
             }
           }
         ],
