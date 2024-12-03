@@ -42,7 +42,21 @@
 		{"id":"0fe58b5b7b21d2b4","type":"text","text":"These patterns are repeated over single crystals within the material.","x":-300,"y":-20,"width":595,"height":100},
 		{"id":"21bd6af6a9b92c0a","type":"file","file":"Images & Attachments/Pasted image 20241203134435.png","x":-481,"y":766,"width":415,"height":348},
 		{"id":"fb4714e19c4d4b24","type":"text","text":"This is where one of the atoms in the lattice is missing (vacant) resulting in a strained lattice region around it.","x":-481,"y":1114,"width":415,"height":132},
-		{"id":"ee0b829d92138b4d","type":"text","text":"## Vacancies","x":-399,"y":606,"width":250,"height":100}
+		{"id":"ee0b829d92138b4d","type":"text","text":"## Vacancies","x":-399,"y":606,"width":250,"height":100},
+		{"id":"3cf8d69206579b76","type":"text","text":"# Strengthening of Metals","x":1471,"y":2551,"width":319,"height":129},
+		{"id":"a43138b911cf2cdf","type":"text","text":"There are several main ways in which we can strengthen metals:","x":1460,"y":2800,"width":342,"height":96},
+		{"id":"aa8bf491fbdf1292","type":"text","text":"# Grain Boundary Strengthening","x":866,"y":3120,"width":420,"height":106},
+		{"id":"92b26cb090b00f4b","type":"text","text":"# Dispersion Strengthening","x":1421,"y":3120,"width":420,"height":106},
+		{"id":"a45b572f25c286b6","type":"text","text":"# Solid Solution Strengthening","x":1975,"y":3120,"width":420,"height":106},
+		{"id":"359c9495ba623725","type":"text","text":"# Precipitation Hardening","x":2530,"y":3120,"width":420,"height":106},
+		{"id":"47ab051ec942608b","type":"text","text":"# Strain Hardening","x":312,"y":3120,"width":420,"height":106},
+		{"id":"b2d5934c98467e8b","x":312,"y":3260,"width":420,"height":293,"type":"file","file":"Images & Attachments/Pasted image 20241027142608.png"},
+		{"id":"989ab10c36f2da5b","x":312,"y":3553,"width":420,"height":307,"type":"text","text":"In strain hardening we physically deform the material at near ambient temperatures. This results in dislocations forming at grain boundaries which interact with each other and impede movement.\n**This increases yield strength, but decreases ductility and elongation to failure.**"},
+		{"id":"621c1657997ef453","x":866,"y":3260,"width":420,"height":338,"type":"file","file":"Images & Attachments/Pasted image 20241027142758.png"},
+		{"id":"84b7f46e84aa8f32","x":866,"y":3598,"width":420,"height":282,"type":"text","text":"Grain boundary strengthening is a method of strengthening which relies upon the fact that the smaller the grain size, the larger the yield stress.\nWe can describe this relationship using the Hall-Petch equation:\n$$\\Huge \\sigma_y =\\sigma_o+kd^{-\\frac{1}{2}}$$"},
+		{"id":"2965138de32aaa86","x":1421,"y":3226,"width":420,"height":203,"type":"text","text":"This method of strengthening involves dispersing small and strong ceramic oxide particles within the metallic matrix (creating interstitial defects). This disrupts slip planes, impeding dislocation motion."},
+		{"id":"04a212fe635bdfb7","x":1421,"y":3429,"width":420,"height":106,"type":"file","file":"Images & Attachments/Pasted image 20241027143046.png"},
+		{"id":"b05703b138392fde","x":2125,"y":3336,"width":250,"height":60,"type":"text","text":"This is more commonly known as **alloying**. SSS is where we add elements to oc"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -58,6 +72,12 @@
 		{"id":"b3f4c675b3b6acd5","fromNode":"7641aa001d26a974","fromSide":"bottom","toNode":"8ff119a4a2d91468","toSide":"top"},
 		{"id":"b18cd9c00947d52c","fromNode":"e66fbad8e11a026e","fromSide":"bottom","toNode":"8ff119a4a2d91468","toSide":"top"},
 		{"id":"ab1796257d61d6b6","fromNode":"df33853858a102e7","fromSide":"right","toNode":"56466ad13af51a0c","toSide":"left"},
-		{"id":"7a50161ec6b987db","fromNode":"41412e40ba9eb3df","fromSide":"bottom","toNode":"438a64275cbdacbe","toSide":"top"}
+		{"id":"7a50161ec6b987db","fromNode":"41412e40ba9eb3df","fromSide":"bottom","toNode":"438a64275cbdacbe","toSide":"top"},
+		{"id":"72a34125411ce92c","fromNode":"3cf8d69206579b76","fromSide":"bottom","toNode":"a43138b911cf2cdf","toSide":"top"},
+		{"id":"66e31a73b27c0000","fromNode":"a43138b911cf2cdf","fromSide":"bottom","toNode":"92b26cb090b00f4b","toSide":"top"},
+		{"id":"04bb2342e40c5eae","fromNode":"a43138b911cf2cdf","fromSide":"left","toNode":"aa8bf491fbdf1292","toSide":"top"},
+		{"id":"3a94b5a582dd0260","fromNode":"a43138b911cf2cdf","fromSide":"left","toNode":"47ab051ec942608b","toSide":"top"},
+		{"id":"104ae1bea6fed22b","fromNode":"a43138b911cf2cdf","fromSide":"right","toNode":"a45b572f25c286b6","toSide":"top"},
+		{"id":"24c1c80a3d30f742","fromNode":"a43138b911cf2cdf","fromSide":"right","toNode":"359c9495ba623725","toSide":"top"}
 	]
 }
