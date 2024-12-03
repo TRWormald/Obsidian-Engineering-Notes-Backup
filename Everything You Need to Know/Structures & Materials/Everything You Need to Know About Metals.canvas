@@ -1,12 +1,17 @@
 {
 	"nodes":[
-		{"id":"7b4dd1ad1d7dcf67","x":914,"y":155,"width":250,"height":60,"type":"text","text":""},
-		{"id":"92c2b627250b7731","x":-140,"y":-140,"width":340,"height":120,"type":"text","text":"# Crystal Structure of Metals"},
-		{"id":"97a423cefe7a7de0","x":-140,"y":-20,"width":340,"height":120,"type":"text","text":"Metals are formed of a repeating lattice of atoms. There are different ways to organise these:"},
-		{"id":"21340736bc52ceb1","x":-267,"y":140,"width":595,"height":240,"type":"file","file":"Images & Attachments/Pasted image 20241027140029.png"},
 		{"id":"9bb746680168efb2","x":840,"y":-140,"width":357,"height":111,"type":"text","text":"# Defects in Crystal Structures"},
-		{"id":"0fe58b5b7b21d2b4","x":-267,"y":380,"width":595,"height":100,"type":"text","text":"These patterns are repeated over single crystals within the material."},
-		{"id":"ce746de3401cfbcf","x":817,"y":-29,"width":404,"height":120,"type":"text","text":"Crystal structures are not perfect, they contain defects which can result in the material properties changing"}
+		{"id":"ce746de3401cfbcf","x":817,"y":-29,"width":404,"height":120,"type":"text","text":"Crystal structures are not perfect, they contain defects which can result in the material properties changing"},
+		{"id":"7b4dd1ad1d7dcf67","x":817,"y":91,"width":404,"height":149,"type":"text","text":"There are two main types of defects:\n1) Point Defects\n2) Dislocation Defects"},
+		{"id":"df33853858a102e7","x":1221,"y":412,"width":250,"height":108,"type":"text","text":"# Dislocation Defects"},
+		{"id":"3c3ae48a364ab0d9","x":567,"y":412,"width":250,"height":108,"type":"text","text":"# Point Defects"},
+		{"id":"92c2b627250b7731","x":167,"y":-380,"width":340,"height":120,"type":"text","text":"# Crystal Structure of Metals"},
+		{"id":"97a423cefe7a7de0","x":167,"y":-260,"width":340,"height":120,"type":"text","text":"Metals are formed of a repeating lattice of atoms. There are different ways to organise these:"},
+		{"id":"21340736bc52ceb1","x":40,"y":-100,"width":595,"height":240,"type":"file","file":"Images & Attachments/Pasted image 20241027140029.png"},
+		{"id":"0fe58b5b7b21d2b4","x":40,"y":140,"width":595,"height":100,"type":"text","text":"These patterns are repeated over single crystals within the material."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"bottom","toNode":"3c3ae48a364ab0d9","toSide":"top"},
+		{"id":"37f06a4418f559d8","fromNode":"7b4dd1ad1d7dcf67","fromSide":"bottom","toNode":"df33853858a102e7","toSide":"top"}
+	]
 }
