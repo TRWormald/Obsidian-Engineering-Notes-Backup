@@ -58,7 +58,8 @@
 		{"id":"04a212fe635bdfb7","x":1421,"y":3429,"width":420,"height":106,"type":"file","file":"Images & Attachments/Pasted image 20241027143046.png"},
 		{"id":"b05703b138392fde","x":1975,"y":3226,"width":420,"height":174,"type":"text","text":"This is more commonly known as **alloying**. SSS is where we add elements to occupy interstitial or substitutional sites, which distorts the crystal lattice and resists dislocation movement."},
 		{"id":"a54b118b0b45859b","x":1975,"y":3399,"width":420,"height":136,"type":"text","text":"Substitution will occur when atomic sizes are similar ($\\pm 15\\%$), otherwise alloying elements will occupy a interstitial site. "},
-		{"id":"1e3379e751566552","x":1975,"y":3535,"width":420,"height":306,"type":"file","file":"Images & Attachments/Pasted image 20241027143248.png"}
+		{"id":"1e3379e751566552","x":1975,"y":3535,"width":420,"height":306,"type":"file","file":"Images & Attachments/Pasted image 20241027143248.png"},
+		{"id":"0381895fd5c8e2fa","x":2657,"y":3279,"width":250,"height":60,"type":"text","text":"This is a method of strengthening where hard precipitate particles are formed which resist "}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
