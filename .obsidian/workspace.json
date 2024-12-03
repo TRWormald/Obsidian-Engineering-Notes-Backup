@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
+                "file": "Engineering Year 2/Structures & Materials/3) Metals/2) Strengthening of Metals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Crystal Structure of Metals"
+              "title": "2) Strengthening of Metals"
             }
           }
         ]
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
                 "viewState": {
-                  "x": 2879.4900091900254,
-                  "y": 760.0960951102999,
-                  "zoom": -2.130032088184105
+                  "x": 1876.1318907393468,
+                  "y": 2279.4558491671173,
+                  "zoom": -3.000079392924156
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -263,9 +263,12 @@
   },
   "active": "4dd8d476ef728951",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/3) Metals/2) Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
-    "Images & Attachments/Pasted image 20241203135117.png",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Images & Attachments/Pasted image 20241203135736.png",
+    "Images & Attachments/Pasted image 20241203135511.png",
+    "Images & Attachments/Pasted image 20241203135117.png",
     "Images & Attachments/Pasted image 20241203134945.png",
     "Images & Attachments/Pasted image 20241203134929.png",
     "Images & Attachments/Pasted image 20241027140522.png",
@@ -307,12 +310,9 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
-    "Images & Attachments/Pasted image 20241202135336.png",
-    "Images & Attachments/Pasted image 20241202132824.png",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/3) Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/2) Shear Flow in Open Sections.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/1) Integration of Thin-Walled Open Sections.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
