@@ -48,7 +48,7 @@
 		{"id":"aa8bf491fbdf1292","type":"text","text":"# Grain Boundary Strengthening","x":866,"y":3120,"width":420,"height":106},
 		{"id":"92b26cb090b00f4b","type":"text","text":"# Dispersion Strengthening","x":1421,"y":3120,"width":420,"height":106},
 		{"id":"a45b572f25c286b6","type":"text","text":"# Solid Solution Strengthening","x":1975,"y":3120,"width":420,"height":106},
-		{"id":"359c9495ba623725","type":"text","text":"# Precipitation Hardening","x":2530,"y":3120,"width":420,"height":106},
+		{"id":"359c9495ba623725","type":"text","text":"# Precipitation Strengthening","x":2530,"y":3120,"width":420,"height":106},
 		{"id":"47ab051ec942608b","type":"text","text":"# Strain Hardening","x":312,"y":3120,"width":420,"height":106},
 		{"id":"b2d5934c98467e8b","x":312,"y":3260,"width":420,"height":293,"type":"file","file":"Images & Attachments/Pasted image 20241027142608.png"},
 		{"id":"989ab10c36f2da5b","x":312,"y":3553,"width":420,"height":307,"type":"text","text":"In strain hardening we physically deform the material at near ambient temperatures. This results in dislocations forming at grain boundaries which interact with each other and impede movement.\n**This increases yield strength, but decreases ductility and elongation to failure.**"},
@@ -56,7 +56,9 @@
 		{"id":"84b7f46e84aa8f32","x":866,"y":3598,"width":420,"height":282,"type":"text","text":"Grain boundary strengthening is a method of strengthening which relies upon the fact that the smaller the grain size, the larger the yield stress.\nWe can describe this relationship using the Hall-Petch equation:\n$$\\Huge \\sigma_y =\\sigma_o+kd^{-\\frac{1}{2}}$$"},
 		{"id":"2965138de32aaa86","x":1421,"y":3226,"width":420,"height":203,"type":"text","text":"This method of strengthening involves dispersing small and strong ceramic oxide particles within the metallic matrix (creating interstitial defects). This disrupts slip planes, impeding dislocation motion."},
 		{"id":"04a212fe635bdfb7","x":1421,"y":3429,"width":420,"height":106,"type":"file","file":"Images & Attachments/Pasted image 20241027143046.png"},
-		{"id":"b05703b138392fde","x":2125,"y":3336,"width":250,"height":60,"type":"text","text":"This is more commonly known as **alloying**. SSS is where we add elements to oc"}
+		{"id":"b05703b138392fde","x":1975,"y":3226,"width":420,"height":174,"type":"text","text":"This is more commonly known as **alloying**. SSS is where we add elements to occupy interstitial or substitutional sites, which distorts the crystal lattice and resists dislocation movement."},
+		{"id":"a54b118b0b45859b","x":1975,"y":3399,"width":420,"height":136,"type":"text","text":"Substitution will occur when atomic sizes are similar ($\\pm 15\\%$), otherwise alloying elements will occupy a interstitial site. "},
+		{"id":"1e3379e751566552","x":1975,"y":3535,"width":420,"height":306,"type":"file","file":"Images & Attachments/Pasted image 20241027143248.png"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
