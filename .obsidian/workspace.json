@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/3) Metals/2) Strengthening of Metals.md",
+                "file": "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Strengthening of Metals"
+              "title": "3) Steel Alloys"
             }
           }
         ]
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
                 "viewState": {
-                  "x": 2684.9650360855812,
-                  "y": 3314.177923986248,
-                  "zoom": -0.3760140384898606
+                  "x": 3927.7726124881096,
+                  "y": 3164.716037971147,
+                  "zoom": -1.5931752317379204
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -261,10 +261,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4dd8d476ef728951",
+  "active": "7d435765c3dc6182",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/3) Metals/2) Strengthening of Metals.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
+    "Engineering Year 2/Structures & Materials/3) Metals/2) Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
     "Images & Attachments/Pasted image 20241203135736.png",
     "Images & Attachments/Pasted image 20241203135511.png",
@@ -312,7 +313,6 @@
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/4) Shear Centre.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/3) Shear Flow Distributions.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/2) Thin Walled Sections/2) Shear Flow in Open Sections.md",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
