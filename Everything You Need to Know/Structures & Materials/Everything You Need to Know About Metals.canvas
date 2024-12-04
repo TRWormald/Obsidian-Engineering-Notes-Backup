@@ -130,7 +130,18 @@
 		{"id":"3bf66c1acb8c70d6","x":6496,"y":-880,"width":250,"height":175,"type":"text","text":"This means that the characteristics of the system do not change with time, but persist indefinitely"},
 		{"id":"e89c2a74c194d3fd","x":6100,"y":-880,"width":280,"height":175,"type":"text","text":"A change in temperature/pressure/composition will result in a new equilibrium being established."},
 		{"id":"ce1e7295c023edcd","x":6860,"y":-668,"width":396,"height":256,"type":"text","text":"It is often the case, especially in solid systems, that a state of equilibrium is never completely achieved because the rate of approach to equilibrium is extremely slow; such a system is said to be in a nonequilibrium or metastable state."},
-		{"id":"4b89f00a84f41df6","x":7320,"y":-684,"width":561,"height":288,"type":"text","text":"A metastable state or microstructure may persist indefinitely, experiencing only extremely slight and almost imperceptible changes as time progresses. Often, metastable structures are of more practical significance than equilibrium ones. For example, some steel and aluminium alloys rely for their strength on the development of metastable microstructures during carefully designed heat treatments."}
+		{"id":"4b89f00a84f41df6","x":7320,"y":-684,"width":561,"height":288,"type":"text","text":"A metastable state or microstructure may persist indefinitely, experiencing only extremely slight and almost imperceptible changes as time progresses. Often, metastable structures are of more practical significance than equilibrium ones. For example, some steel and aluminium alloys rely for their strength on the development of metastable microstructures during carefully designed heat treatments."},
+		{"id":"55d2a81a85ed8b6c","x":5809,"y":1120,"width":250,"height":103,"type":"text","text":"# The Lever Rule"},
+		{"id":"63b369b544f946f5","x":7641,"y":12,"width":280,"height":107,"type":"text","text":"# Binary Phase Diagrams"},
+		{"id":"aa2daad84abf0228","x":7598,"y":119,"width":366,"height":221,"type":"text","text":"These are diagrams which map the relationship between temperature and the compositions and quantities of phases at equilibrium - which influence the microstructure of an alloy."},
+		{"id":"48049ab5f4d23db0","x":7598,"y":380,"width":366,"height":100,"type":"text","text":"These can be Eutectic or Isomorphous Diagrams"},
+		{"id":"b170debf3cd83fa5","x":8120,"y":168,"width":345,"height":122,"type":"text","text":"# Lines on Binary Phase Diagrams"},
+		{"id":"7a08a5c425b88f67","x":7781,"y":-144,"width":250,"height":60,"type":"text","text":"# Solidus"},
+		{"id":"f8e72633d2ac664a","x":8168,"y":-144,"width":250,"height":60,"type":"text","text":"# Liquidus"},
+		{"id":"6e77636a10d15044","x":8580,"y":-144,"width":250,"height":60,"type":"text","text":"# Solvus"},
+		{"id":"4ca649ac8cafd5d1","x":7781,"y":-324,"width":250,"height":180,"type":"text","text":"The solidus line defines the limit between a pure solid phase and coexisting solid phases."},
+		{"id":"436708b842bc8025","x":8168,"y":-360,"width":250,"height":216,"type":"text","text":"The liquidus line defines the limit between coexisting solid-liquidus phases and a pure liquid phase."},
+		{"id":"983caa75917d886c","x":8580,"y":-260,"width":250,"height":116,"type":"text","text":"The solvus line defines a solid solubility limit"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -190,6 +201,14 @@
 		{"id":"f722fb3746c16615","fromNode":"485962cf8678de11","fromSide":"top","toNode":"3bf66c1acb8c70d6","toSide":"bottom"},
 		{"id":"cc9c32a1867cd029","fromNode":"3bf66c1acb8c70d6","fromSide":"left","toNode":"e89c2a74c194d3fd","toSide":"right"},
 		{"id":"d3ea66898abcc682","fromNode":"485962cf8678de11","fromSide":"right","toNode":"ce1e7295c023edcd","toSide":"left"},
-		{"id":"048aaf7e5ec341ef","fromNode":"ce1e7295c023edcd","fromSide":"right","toNode":"4b89f00a84f41df6","toSide":"left"}
+		{"id":"048aaf7e5ec341ef","fromNode":"ce1e7295c023edcd","fromSide":"right","toNode":"4b89f00a84f41df6","toSide":"left"},
+		{"id":"d83f03b9a185eb2d","fromNode":"794dfc4471e5f81e","fromSide":"bottom","toNode":"55d2a81a85ed8b6c","toSide":"top"},
+		{"id":"89c115b8d4ec8526","fromNode":"1a8f6e24f5400fb8","fromSide":"right","toNode":"63b369b544f946f5","toSide":"left","color":"1"},
+		{"id":"4fff91893b15a636","fromNode":"e0fcd6bb862b6efd","fromSide":"right","toNode":"63b369b544f946f5","toSide":"left","color":"1"},
+		{"id":"1f68dce80e46cf9f","fromNode":"aa2daad84abf0228","fromSide":"bottom","toNode":"48049ab5f4d23db0","toSide":"top"},
+		{"id":"9bef79d732bae6d1","fromNode":"aa2daad84abf0228","fromSide":"right","toNode":"b170debf3cd83fa5","toSide":"left"},
+		{"id":"aba415c305f01bc4","fromNode":"b170debf3cd83fa5","fromSide":"top","toNode":"7a08a5c425b88f67","toSide":"bottom"},
+		{"id":"6df2244e7a004f49","fromNode":"b170debf3cd83fa5","fromSide":"top","toNode":"f8e72633d2ac664a","toSide":"bottom"},
+		{"id":"8c4f05e9f720d8bd","fromNode":"b170debf3cd83fa5","fromSide":"top","toNode":"6e77636a10d15044","toSide":"bottom"}
 	]
 }
