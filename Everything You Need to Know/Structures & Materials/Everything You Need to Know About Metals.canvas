@@ -144,7 +144,19 @@
 		{"id":"983caa75917d886c","type":"text","text":"The solvus line defines a solid solubility limit","x":8580,"y":-260,"width":250,"height":116},
 		{"id":"e093eb8c3991d985","type":"text","text":"# Binary Eutectic Systems","x":7955,"y":720,"width":330,"height":128},
 		{"id":"d921831233cf4e2f","x":8638,"y":720,"width":385,"height":128,"type":"text","text":"# Binary Isomorphous Systems"},
-		{"id":"c9cbe244387a9d84","x":7995,"y":520,"width":250,"height":60,"type":"text","text":"# Examples"}
+		{"id":"c9cbe244387a9d84","x":7995,"y":520,"width":250,"height":60,"type":"text","text":"# Examples"},
+		{"id":"b9c414fec992b58b","x":7920,"y":848,"width":400,"height":381,"type":"file","file":"Images & Attachments/Pasted image 20241103143301.png"},
+		{"id":"937711a9662b143a","x":8570,"y":848,"width":522,"height":381,"type":"file","file":"Images & Attachments/Pasted image 20241101152617.png"},
+		{"id":"8750cff7c94bedfc","x":6204,"y":1101,"width":306,"height":142,"type":"text","text":"We can use the lever rule to give phase amounts and phase composition when in equilibrium"},
+		{"id":"2d7143a9dfb40218","x":6086,"y":1280,"width":542,"height":389,"type":"file","file":"Images & Attachments/Screenshot 2024-11-03 150246.png"},
+		{"id":"a6f8ca5847b425c7","x":6628,"y":1280,"width":372,"height":389,"type":"text","text":"Say we want to know the composition of a Pb-Sn alloy (40 wt% Sn) at 150 degrees:\n- We draw an isotherm (or tie line)\n- Then mark $C_1$ at the 40% mark\n- The phase compositions are therefore given by the intersections of the tie lines with the boundaries of the phase region"},
+		{"id":"4b7499b2f77eb147","x":7060,"y":1345,"width":240,"height":259,"type":"text","text":"From this we can find that there are two phases in our alloy - one ($C_\\alpha$) which is 11 wt% tin and the other ($C_\\beta$) being 98 wt% tin."},
+		{"id":"26ab47210a72dc53","x":7440,"y":1345,"width":320,"height":155,"type":"text","text":"The amount of each phase is given by the relative distances between the point of interest and the ends of the tie line"},
+		{"id":"47a4c404e3b68876","x":7400,"y":1500,"width":400,"height":114,"type":"file","file":"Images & Attachments/Pasted image 20241103150642.png"},
+		{"id":"c34fb48269af38a2","x":7955,"y":1345,"width":250,"height":60,"type":"text","text":"**Hence**"},
+		{"id":"13ee84edda83f9ea","x":7955,"y":1405,"width":548,"height":136,"type":"text","text":"$$\\Huge W_{\\alpha}=\\frac{\\text{Length of }\\alpha}{\\text{Total Length}}=\\frac{C_{\\beta}-C_{1}}{C_{\\beta}-C_{\\alpha}}$$"},
+		{"id":"e5a1069632f5ce4b","x":7955,"y":1541,"width":548,"height":139,"type":"text","text":"$$\\Huge W_{\\beta}=\\frac{\\text{Length of }\\beta}{\\text{Total Length}}=\\frac{C_{1}-C_{\\alpha}}{C_{\\beta}-C_{\\alpha}}$$"},
+		{"id":"cf89393a10f9f410","x":8503,"y":1454,"width":250,"height":175,"type":"text","text":"Where $W_\\alpha$ and $W_\\beta$ are the mass fractions of their respective phases (at the point of interest)"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -215,6 +227,10 @@
 		{"id":"8c4f05e9f720d8bd","fromNode":"b170debf3cd83fa5","fromSide":"top","toNode":"6e77636a10d15044","toSide":"bottom"},
 		{"id":"4225671f861f69d3","fromNode":"aa2daad84abf0228","fromSide":"right","toNode":"c9cbe244387a9d84","toSide":"top"},
 		{"id":"3fc4fd8b0faa5ef5","fromNode":"c9cbe244387a9d84","fromSide":"bottom","toNode":"e093eb8c3991d985","toSide":"top"},
-		{"id":"798a176ee94fea91","fromNode":"c9cbe244387a9d84","fromSide":"right","toNode":"d921831233cf4e2f","toSide":"top"}
+		{"id":"798a176ee94fea91","fromNode":"c9cbe244387a9d84","fromSide":"right","toNode":"d921831233cf4e2f","toSide":"top"},
+		{"id":"b40a188e71216feb","fromNode":"55d2a81a85ed8b6c","fromSide":"right","toNode":"8750cff7c94bedfc","toSide":"left"},
+		{"id":"eb77e412b20384c4","fromNode":"a6f8ca5847b425c7","fromSide":"right","toNode":"4b7499b2f77eb147","toSide":"left"},
+		{"id":"6b2d51e6b01d4d87","fromNode":"4b7499b2f77eb147","fromSide":"right","toNode":"26ab47210a72dc53","toSide":"left"},
+		{"id":"3f11af38c91866c3","fromNode":"26ab47210a72dc53","fromSide":"right","toNode":"c34fb48269af38a2","toSide":"left"}
 	]
 }
