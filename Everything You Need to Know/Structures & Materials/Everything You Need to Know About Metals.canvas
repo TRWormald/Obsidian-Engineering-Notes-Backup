@@ -157,7 +157,13 @@
 		{"id":"42c19b97a55926a3","type":"text","text":"Equilibrium is best described in terms of \"free energy\" - which is a function of the internal energy of the system.","x":4654,"y":-1674,"width":297,"height":188},
 		{"id":"485962cf8678de11","type":"text","text":"A system is at equilibrium if its free energy is at a minimum at some specified combination of temperature, pressure and composition.","x":5016,"y":-1674,"width":318,"height":188},
 		{"id":"3bf66c1acb8c70d6","type":"text","text":"This means that the characteristics of the system do not change with time, but persist indefinitely","x":5050,"y":-1920,"width":250,"height":175},
-		{"id":"e89c2a74c194d3fd","type":"text","text":"A change in temperature/pressure/composition will result in a new equilibrium being established.","x":4654,"y":-1920,"width":280,"height":175}
+		{"id":"e89c2a74c194d3fd","type":"text","text":"A change in temperature/pressure/composition will result in a new equilibrium being established.","x":4654,"y":-1920,"width":280,"height":175},
+		{"id":"c77f9023a6ed224b","x":4699,"y":690,"width":482,"height":216,"type":"text","text":"Within eutectic systems there is true eutectic behaviour - but also hypo- and hyper-eutectic behaviour.\nThese occur when we cross the liquidus line and there is a significant distance before the solidus line."},
+		{"id":"a00d18ebc02b3571","x":4699,"y":962,"width":483,"height":128,"type":"text","text":"This results in the formation of $\\alpha$ or $\\beta$ grains before the liquid turns into a laminate once we hit the $T_E$ (the eutectic temperature)"},
+		{"id":"d3feb5766649130f","x":5232,"y":690,"width":322,"height":400,"type":"file","file":"Images & Attachments/Pasted image 20241103152734.png"},
+		{"id":"3c6f40c3e8349b2a","x":4699,"y":1160,"width":483,"height":182,"type":"text","text":"Hypo-eutectic behaviour results in in increased production of $\\alpha$ micro-constituents breaking up the laminar structure. Whilst hyper-eutectoid behaviour results in increased production of $\\beta$ micro-constituents."},
+		{"id":"769ddb13d6984c2b","x":7431,"y":-862,"width":292,"height":103,"type":"text","text":"# Intermediate Compounds"},
+		{"id":"4a3b5778fa807641","x":7280,"y":-759,"width":595,"height":119,"type":"text","text":"For some systems intermediate compounds may be found, e.g. intermetallic compounds, carbides, etc.\nThese are characterised by vertical lines in the phase diagram."}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -233,6 +239,10 @@
 		{"id":"eb77e412b20384c4","fromNode":"a6f8ca5847b425c7","fromSide":"right","toNode":"4b7499b2f77eb147","toSide":"left"},
 		{"id":"6b2d51e6b01d4d87","fromNode":"4b7499b2f77eb147","fromSide":"right","toNode":"26ab47210a72dc53","toSide":"left"},
 		{"id":"3f11af38c91866c3","fromNode":"26ab47210a72dc53","fromSide":"right","toNode":"c34fb48269af38a2","toSide":"left"},
-		{"id":"8ccab32fe2d49ea1","fromNode":"55d2a81a85ed8b6c","fromSide":"bottom","toNode":"22689249aeb79dc7","toSide":"top"}
+		{"id":"8ccab32fe2d49ea1","fromNode":"55d2a81a85ed8b6c","fromSide":"bottom","toNode":"22689249aeb79dc7","toSide":"top"},
+		{"id":"8ff5d1a64484969c","fromNode":"22689249aeb79dc7","fromSide":"right","toNode":"c77f9023a6ed224b","toSide":"left"},
+		{"id":"6e711e7d0fd90257","fromNode":"c77f9023a6ed224b","fromSide":"bottom","toNode":"a00d18ebc02b3571","toSide":"top"},
+		{"id":"14f996886a977236","fromNode":"a00d18ebc02b3571","fromSide":"bottom","toNode":"3c6f40c3e8349b2a","toSide":"top"},
+		{"id":"7c021b7f0eabb5b0","fromNode":"b170debf3cd83fa5","fromSide":"right","toNode":"769ddb13d6984c2b","toSide":"left"}
 	]
 }
