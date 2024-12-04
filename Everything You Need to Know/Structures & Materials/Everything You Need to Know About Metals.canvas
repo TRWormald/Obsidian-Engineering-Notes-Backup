@@ -112,7 +112,14 @@
 		{"id":"687b76616a2086a2","type":"file","file":"Images & Attachments/Pasted image 20241203171244.png","x":4399,"y":1700,"width":600,"height":468},
 		{"id":"359c9495ba623725","type":"text","text":"# Precipitation Strengthening","x":1737,"y":2269,"width":420,"height":106},
 		{"id":"14923f536e26f42e","type":"text","text":"This is formed by the slow cooling of austenite, the carbon diffuses out of the newly formed ferrite and into layers of cementite. It is composed of 87.5 wt% ferrite, 12.5 wt% cementite, therefore ~0.8 wt% C.\nThis is a lamellar structure of ferrite and cementite.\nIt is relatively soft in comparison to Bainite and Martensite as well as being ductile and tough.","x":4999,"y":1700,"width":310,"height":468},
-		{"id":"9346cc01e418606b","type":"text","text":"# Pearlite","x":4749,"y":2168,"width":250,"height":60}
+		{"id":"9346cc01e418606b","type":"text","text":"# Pearlite","x":4749,"y":2168,"width":250,"height":60},
+		{"id":"62345c36a7f535e5","x":6320,"y":649,"width":439,"height":320,"type":"file","file":"Images & Attachments/Pasted image 20241101152617.png"},
+		{"id":"1a8f6e24f5400fb8","x":6320,"y":569,"width":439,"height":80,"type":"text","text":"# Eutectic Systems"},
+		{"id":"667150a764be684e","x":6759,"y":649,"width":201,"height":320,"type":"text","text":"In eutectic systems there is no complete solid solubility, meaning there are three single-phase regions: $\\alpha$, $\\beta$, and liquid"},
+		{"id":"e0fcd6bb862b6efd","x":6320,"y":1,"width":379,"height":128,"type":"text","text":"# Isomorphous Systems"},
+		{"id":"91471e2658fe476e","x":6320,"y":129,"width":379,"height":351,"type":"file","file":"Images & Attachments/Pasted image 20241101152249.png"},
+		{"id":"0b987aec57f6736e","x":6699,"y":129,"width":261,"height":351,"type":"text","text":"Isomorphous systems are where there is complete liquid and solid solubility of the two components. I.e. no matter the ratio of alloying elements the structure of the material is always stable."},
+		{"id":"c1ae195c22d86da2","x":7200,"y":521,"width":250,"height":176,"type":"text","text":"# The Solubility Limit"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -158,6 +165,10 @@
 		{"id":"fa411aa7dcda4c95","fromNode":"a738e99f86bf44bc","fromSide":"bottom","toNode":"bc981ca460e3e962","toSide":"top"},
 		{"id":"fea21b1b5a812286","fromNode":"a738e99f86bf44bc","fromSide":"bottom","toNode":"0c9427e18164ac4b","toSide":"top"},
 		{"id":"871740223760ce3a","fromNode":"1cb6883216c6586a","fromSide":"bottom","toNode":"1c96e501386c7df4","toSide":"top"},
-		{"id":"6b6c44d502ccc593","fromNode":"d5d46f6ec9d22b57","fromSide":"bottom","toNode":"c0390ca0acfe179d","toSide":"top"}
+		{"id":"6b6c44d502ccc593","fromNode":"d5d46f6ec9d22b57","fromSide":"bottom","toNode":"c0390ca0acfe179d","toSide":"top"},
+		{"id":"d38b68a675c78340","fromNode":"794dfc4471e5f81e","fromSide":"right","toNode":"e0fcd6bb862b6efd","toSide":"left"},
+		{"id":"da5b17d75b5dbe1f","fromNode":"794dfc4471e5f81e","fromSide":"right","toNode":"1a8f6e24f5400fb8","toSide":"left"},
+		{"id":"82a908909320aceb","fromNode":"0b987aec57f6736e","fromSide":"right","toNode":"c1ae195c22d86da2","toSide":"left"},
+		{"id":"b8afa3b6638ccbc2","fromNode":"667150a764be684e","fromSide":"right","toNode":"c1ae195c22d86da2","toSide":"left"}
 	]
 }

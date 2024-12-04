@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "4) Phase Diagrams"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b406a50dd4dc02a8",
+        "type": "tabs",
+        "children": [
           {
             "id": "2390c3374bc94a35",
             "type": "leaf",
@@ -29,9 +35,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
                 "viewState": {
-                  "x": 6895.616196193286,
-                  "y": 220.7668623256347,
-                  "zoom": -2.319025229300937
+                  "x": 7396.407997384559,
+                  "y": 704.50737844324,
+                  "zoom": -1.1018640360528766
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -255,12 +261,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4dd8d476ef728951",
+  "active": "2390c3374bc94a35",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
-    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/3) Metals/4) Phase Diagrams.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
+    "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20241203171244.png",
     "Engineering Year 2/Structures & Materials/3) Metals/2) Strengthening of Metals.md",
     "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
