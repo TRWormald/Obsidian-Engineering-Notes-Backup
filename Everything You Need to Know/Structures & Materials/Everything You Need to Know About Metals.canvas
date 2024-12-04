@@ -163,7 +163,11 @@
 		{"id":"d3feb5766649130f","x":5232,"y":690,"width":322,"height":400,"type":"file","file":"Images & Attachments/Pasted image 20241103152734.png"},
 		{"id":"3c6f40c3e8349b2a","x":4699,"y":1160,"width":483,"height":182,"type":"text","text":"Hypo-eutectic behaviour results in in increased production of $\\alpha$ micro-constituents breaking up the laminar structure. Whilst hyper-eutectoid behaviour results in increased production of $\\beta$ micro-constituents."},
 		{"id":"769ddb13d6984c2b","x":7431,"y":-862,"width":292,"height":103,"type":"text","text":"# Intermediate Compounds"},
-		{"id":"4a3b5778fa807641","x":7280,"y":-759,"width":595,"height":119,"type":"text","text":"For some systems intermediate compounds may be found, e.g. intermetallic compounds, carbides, etc.\nThese are characterised by vertical lines in the phase diagram."}
+		{"id":"4a3b5778fa807641","x":7280,"y":-759,"width":595,"height":119,"type":"text","text":"For some systems intermediate compounds may be found, e.g. intermetallic compounds, carbides, etc.\nThese are characterised by vertical lines in the phase diagram."},
+		{"id":"7af736e26a57572b","x":5232,"y":1092,"width":400,"height":319,"type":"file","file":"Images & Attachments/Pasted image 20241204180120.png"},
+		{"id":"276bbd68f1b2f900","x":5632,"y":1092,"width":362,"height":319,"type":"text","text":"To calculate the weight fraction we use the Eutectic Line $T_{E}$ as the axis about which we apply the lever rule. We also need to measure the distances between the point of interest (the composition) and the limits of the eutectic line, and the position of the eutectic composition."},
+		{"id":"a6f9cc7fbef7fac0","x":6192,"y":843,"width":317,"height":197,"type":"text","text":"So to calculate the eutectic micro-constituent:\n$$\\Huge W_{e}=\\frac{P}{P+Q}$$"},
+		{"id":"cb509abfb562182a","x":6196,"y":1167,"width":250,"height":153,"type":"text","text":"To calculate the primary $\\alpha$ micro-constituant:"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -243,6 +247,9 @@
 		{"id":"8ff5d1a64484969c","fromNode":"22689249aeb79dc7","fromSide":"right","toNode":"c77f9023a6ed224b","toSide":"left"},
 		{"id":"6e711e7d0fd90257","fromNode":"c77f9023a6ed224b","fromSide":"bottom","toNode":"a00d18ebc02b3571","toSide":"top"},
 		{"id":"14f996886a977236","fromNode":"a00d18ebc02b3571","fromSide":"bottom","toNode":"3c6f40c3e8349b2a","toSide":"top"},
-		{"id":"7c021b7f0eabb5b0","fromNode":"b170debf3cd83fa5","fromSide":"right","toNode":"769ddb13d6984c2b","toSide":"left"}
+		{"id":"7c021b7f0eabb5b0","fromNode":"b170debf3cd83fa5","fromSide":"right","toNode":"769ddb13d6984c2b","toSide":"left"},
+		{"id":"3d7f5b232ee51c46","fromNode":"3c6f40c3e8349b2a","fromSide":"right","toNode":"7af736e26a57572b","toSide":"left"},
+		{"id":"beddb55a12331832","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"a6f9cc7fbef7fac0","toSide":"left"},
+		{"id":"53f434cee11ea826","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"cb509abfb562182a","toSide":"left"}
 	]
 }
