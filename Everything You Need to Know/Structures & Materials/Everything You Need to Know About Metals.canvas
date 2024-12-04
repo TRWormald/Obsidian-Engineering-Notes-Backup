@@ -166,8 +166,10 @@
 		{"id":"4a3b5778fa807641","x":7280,"y":-759,"width":595,"height":119,"type":"text","text":"For some systems intermediate compounds may be found, e.g. intermetallic compounds, carbides, etc.\nThese are characterised by vertical lines in the phase diagram."},
 		{"id":"7af736e26a57572b","x":5232,"y":1092,"width":400,"height":319,"type":"file","file":"Images & Attachments/Pasted image 20241204180120.png"},
 		{"id":"276bbd68f1b2f900","x":5632,"y":1092,"width":362,"height":319,"type":"text","text":"To calculate the weight fraction we use the Eutectic Line $T_{E}$ as the axis about which we apply the lever rule. We also need to measure the distances between the point of interest (the composition) and the limits of the eutectic line, and the position of the eutectic composition."},
-		{"id":"a6f9cc7fbef7fac0","x":6192,"y":843,"width":317,"height":197,"type":"text","text":"So to calculate the eutectic micro-constituent:\n$$\\Huge W_{e}=\\frac{P}{P+Q}$$"},
-		{"id":"cb509abfb562182a","x":6196,"y":1167,"width":250,"height":153,"type":"text","text":"To calculate the primary $\\alpha$ micro-constituant:"}
+		{"id":"cb509abfb562182a","x":6194,"y":1059,"width":313,"height":193,"type":"text","text":"To calculate the primary $\\alpha$ micro-constituent:\n$$\\Huge W_{\\alpha'}=\\frac{Q}{P+Q}$$"},
+		{"id":"86752f9d53f680c1","x":6194,"y":1288,"width":313,"height":149,"type":"text","text":"To calculate the total $\\alpha$ phase:\n$$\\Huge W_{\\alpha}=\\frac{Q+R}{P+Q+R}$$"},
+		{"id":"7b5f558d68e75db5","x":6194,"y":1474,"width":313,"height":160,"type":"text","text":"To calculate the total $\\beta$ phase:\n$$\\Huge W_{\\beta}=\\frac{P}{P+Q+R}$$"},
+		{"id":"a6f9cc7fbef7fac0","x":6192,"y":826,"width":317,"height":197,"type":"text","text":"So to calculate the eutectic micro-constituent:\n$$\\Huge W_{e}=\\frac{P}{P+Q}$$"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -250,6 +252,8 @@
 		{"id":"7c021b7f0eabb5b0","fromNode":"b170debf3cd83fa5","fromSide":"right","toNode":"769ddb13d6984c2b","toSide":"left"},
 		{"id":"3d7f5b232ee51c46","fromNode":"3c6f40c3e8349b2a","fromSide":"right","toNode":"7af736e26a57572b","toSide":"left"},
 		{"id":"beddb55a12331832","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"a6f9cc7fbef7fac0","toSide":"left"},
-		{"id":"53f434cee11ea826","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"cb509abfb562182a","toSide":"left"}
+		{"id":"53f434cee11ea826","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"cb509abfb562182a","toSide":"left"},
+		{"id":"52875d6cb5ab5888","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"86752f9d53f680c1","toSide":"left"},
+		{"id":"b27d524f136eddd0","fromNode":"276bbd68f1b2f900","fromSide":"right","toNode":"7b5f558d68e75db5","toSide":"left"}
 	]
 }
