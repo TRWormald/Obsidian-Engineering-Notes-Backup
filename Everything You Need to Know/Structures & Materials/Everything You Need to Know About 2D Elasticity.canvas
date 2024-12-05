@@ -3,21 +3,30 @@
 		{"id":"9ec41d25cce798aa","type":"text","text":"# Stress","x":-120,"y":-180,"width":250,"height":60},
 		{"id":"fa31c11540be0f4f","type":"text","text":"# Stress Definition","x":-120,"y":61,"width":250,"height":119},
 		{"id":"0984dbd22f603d1f","type":"text","text":"# Complementary Shear","x":400,"y":61,"width":320,"height":119},
-		{"id":"4ae4567aa423ad10","x":-215,"y":180,"width":440,"height":180,"type":"text","text":"*The total stress on an infinitesimal element of a plane taken within a deformed elastic body is defined as the resultant of all the actions of the molecules situated on one side of the plane upon the molecules on the other side.*"},
-		{"id":"7abd6312a9c47a39","x":-215,"y":400,"width":440,"height":394,"type":"file","file":"Images & Attachments/Pasted image 20241205212415.png"},
-		{"id":"24de417e8569e7b3","x":-215,"y":794,"width":440,"height":186,"type":"text","text":"An infinitesimal element of material with dimensions $dx×dy ×dz$ is subjected to direct stresses $σ_{xx}$ and shear stresses $τ_{xy}$ . Direct stresses act normal to a face, whereas shear stresses act parallel."},
-		{"id":"8de86e22ae2f8a0c","x":360,"y":225,"width":400,"height":351,"type":"file","file":"Images & Attachments/Pasted image 20240929111555.png"},
-		{"id":"424154743025bb4f","x":360,"y":576,"width":400,"height":504,"type":"text","text":"As the elements we will be considering are in equilibrium the shear stresses are not independent.\nIf we consider moment equilibrium about the centre of this infinitesimal element:\n$$\\tau_{xy}=\\tau_{yx}$$\nAs a result of this we can express our 3D stress state in 6 components:\n$$\\bar{\\sigma}=\\begin{bmatrix}\\sigma_{xx}&\\tau_{xy}&\\tau_{xz}\\\\\\tau_{xy}&\\sigma_{yy}&\\tau_{yz}\\\\\\tau_{xz}&\\tau_{yz}&\\sigma_{zz}\\end{bmatrix}$$\nThis formulation is known as the Cauchy stress tensor."},
-		{"id":"4df70b0c2a87de0a","x":805,"y":225,"width":475,"height":213,"type":"file","file":"Images & Attachments/Pasted image 20240929112423.png"},
-		{"id":"db82315e0eb1f250","x":942,"y":61,"width":202,"height":119,"type":"text","text":"# Plane Stress"},
-		{"id":"6ffede1abd8719ea","x":805,"y":438,"width":475,"height":262,"type":"text","text":"A common simplification is plane stress, with no out of plane stresses.\nSo:\n$$\\sigma_{zz}=\\tau_{xz}=\\tau_{yz}=0$$\nHence the 3D stress state is reduced to three independent variables: $\\sigma_{xx}$, $\\sigma_{yy}$, and $\\tau_{xy}$."},
-		{"id":"404f453b042ac1eb","x":360,"y":-680,"width":331,"height":119,"type":"text","text":"# Stress Transformations"},
-		{"id":"703115288bd8fe7c","x":360,"y":-561,"width":331,"height":261,"type":"text","text":"Stress is defined in a convenient but arbitrary coordinate system $XY$. But what are the stresses in the coordinate system $X'Y'$, at angle $\\theta$ to the original $XY$ coordinate system?"}
+		{"id":"4ae4567aa423ad10","type":"text","text":"*The total stress on an infinitesimal element of a plane taken within a deformed elastic body is defined as the resultant of all the actions of the molecules situated on one side of the plane upon the molecules on the other side.*","x":-215,"y":180,"width":440,"height":180},
+		{"id":"7abd6312a9c47a39","type":"file","file":"Images & Attachments/Pasted image 20241205212415.png","x":-215,"y":400,"width":440,"height":394},
+		{"id":"24de417e8569e7b3","type":"text","text":"An infinitesimal element of material with dimensions $dx×dy ×dz$ is subjected to direct stresses $σ_{xx}$ and shear stresses $τ_{xy}$ . Direct stresses act normal to a face, whereas shear stresses act parallel.","x":-215,"y":794,"width":440,"height":186},
+		{"id":"8de86e22ae2f8a0c","type":"file","file":"Images & Attachments/Pasted image 20240929111555.png","x":360,"y":225,"width":400,"height":351},
+		{"id":"424154743025bb4f","type":"text","text":"As the elements we will be considering are in equilibrium the shear stresses are not independent.\nIf we consider moment equilibrium about the centre of this infinitesimal element:\n$$\\tau_{xy}=\\tau_{yx}$$\nAs a result of this we can express our 3D stress state in 6 components:\n$$\\bar{\\sigma}=\\begin{bmatrix}\\sigma_{xx}&\\tau_{xy}&\\tau_{xz}\\\\\\tau_{xy}&\\sigma_{yy}&\\tau_{yz}\\\\\\tau_{xz}&\\tau_{yz}&\\sigma_{zz}\\end{bmatrix}$$\nThis formulation is known as the Cauchy stress tensor.","x":360,"y":576,"width":400,"height":504},
+		{"id":"4df70b0c2a87de0a","type":"file","file":"Images & Attachments/Pasted image 20240929112423.png","x":805,"y":225,"width":475,"height":213},
+		{"id":"db82315e0eb1f250","type":"text","text":"# Plane Stress","x":942,"y":61,"width":202,"height":119},
+		{"id":"6ffede1abd8719ea","type":"text","text":"A common simplification is plane stress, with no out of plane stresses.\nSo:\n$$\\sigma_{zz}=\\tau_{xz}=\\tau_{yz}=0$$\nHence the 3D stress state is reduced to three independent variables: $\\sigma_{xx}$, $\\sigma_{yy}$, and $\\tau_{xy}$.","x":805,"y":438,"width":475,"height":262},
+		{"id":"404f453b042ac1eb","type":"text","text":"# Stress Transformations","x":360,"y":-680,"width":331,"height":119},
+		{"id":"703115288bd8fe7c","type":"text","text":"Stress is defined in a convenient but arbitrary coordinate system $XY$. But what are the stresses in the coordinate system $X'Y'$, at angle $\\theta$ to the original $XY$ coordinate system?","x":360,"y":-561,"width":331,"height":261},
+		{"id":"d9e85b08dea475f3","type":"file","file":"Images & Attachments/Pasted image 20240929113128.png","x":691,"y":-561,"width":342,"height":261},
+		{"id":"62e4dc1f62d5bf79","type":"text","text":"To find the new coordinate system, consider the equilibrium of an infinitesimal element (with unit depth) cut at an angle $\\theta$ (measured CCW from the Y-axis) on which a normal stress $\\theta_{x'x'}$ and shear stress $\\tau_{x'y'}$ act.","x":360,"y":-300,"width":673,"height":120},
+		{"id":"8dd2107961adc239","type":"file","file":"Images & Attachments/Pasted image 20240929113250.png","x":1280,"y":-561,"width":429,"height":381},
+		{"id":"81834b6dc12ee3b7","type":"text","text":"Resolving forces perpendicular perpendicular and parallel to the cut plane, we can get equations which can be put into a matrix:","x":1280,"y":-140,"width":429,"height":160},
+		{"id":"a0ab9dd7f8ea3b0b","type":"text","text":"$$\\Huge \\begin{bmatrix}\\sigma_{x'x'}\\\\\\sigma_{y'y'}\\\\\\tau_{x'y'}\\end{bmatrix}=\\begin{bmatrix}\\cos^{2}\\theta&\\sin^{2}\\theta&2\\sin\\theta\\cos\\theta\\\\\\sin^{2}\\theta&\\cos^{2}\\theta&-2\\sin\\theta\\cos\\theta\\\\-\\sin\\theta\\cos\\theta&\\sin\\theta\\cos\\theta&\\cos^{2}\\theta-\\sin^{2}\\theta\\end{bmatrix}\\begin{bmatrix}\\sigma_{xx}\\\\\\sigma_{yy}\\\\\\tau_{xy}\\end{bmatrix}$$","x":1328,"y":154,"width":762,"height":178},
+		{"id":"b564114001718a46","type":"text","text":"#### Where $\\sigma_{y'y'}$ is found using $\\theta_{y'}=\\theta_{x'}+ \\frac{\\pi}{2}$","x":1435,"y":332,"width":548,"height":73}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
 		{"id":"d1813ade4f2f8f0f","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"0984dbd22f603d1f","toSide":"top"},
 		{"id":"86722777025da48f","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"db82315e0eb1f250","toSide":"top"},
-		{"id":"cf71384a69b04741","fromNode":"9ec41d25cce798aa","fromSide":"right","toNode":"404f453b042ac1eb","toSide":"left"}
+		{"id":"cf71384a69b04741","fromNode":"9ec41d25cce798aa","fromSide":"right","toNode":"404f453b042ac1eb","toSide":"left"},
+		{"id":"29d2ad34e5ea8154","fromNode":"62e4dc1f62d5bf79","fromSide":"right","toNode":"8dd2107961adc239","toSide":"left"},
+		{"id":"d712d03972c73f25","fromNode":"8dd2107961adc239","fromSide":"bottom","toNode":"81834b6dc12ee3b7","toSide":"top"},
+		{"id":"2105b5c30749ac40","fromNode":"81834b6dc12ee3b7","fromSide":"bottom","toNode":"a0ab9dd7f8ea3b0b","toSide":"top"}
 	]
 }
