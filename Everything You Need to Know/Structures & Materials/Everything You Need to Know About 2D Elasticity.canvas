@@ -22,7 +22,8 @@
 		{"id":"10f8d3c59d20ffb0","x":1328,"y":402,"width":762,"height":72,"type":"text","text":"These stress transformation equations will enable us to calculate the stresses in any given direction, and form the core of 2D stress analysis."},
 		{"id":"32f011014b9779da","x":1419,"y":521,"width":581,"height":359,"type":"file","file":"Images & Attachments/Pasted image 20240929114152.png"},
 		{"id":"760c7012a212f4cc","x":1419,"y":880,"width":581,"height":120,"type":"text","text":"The stress transformation equations enable us to calculate the stresses in any direction. As we rotate through different angles the direct stresses vary periodically."},
-		{"id":"4a7eaf1f32505039","x":2643,"y":61,"width":277,"height":99,"type":"text","text":"# Principal Stresses"}
+		{"id":"4a7eaf1f32505039","x":2643,"y":61,"width":277,"height":99,"type":"text","text":"# Principal Stresses"},
+		{"id":"d2aeff060fbeeec7","x":2160,"y":544,"width":520,"height":314,"type":"text","text":"Looking at this graph we can identify that:\n- Minimum/maximum direct stress occur in the principal directions\n- The maximum and minimum direct stress for a given direction are offset by 90 degrees\n- The shear stress is always zero in the principal directions, and maximum/minimum at a 45 degree offset."}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
@@ -32,6 +33,8 @@
 		{"id":"29d2ad34e5ea8154","fromNode":"62e4dc1f62d5bf79","fromSide":"right","toNode":"8dd2107961adc239","toSide":"left"},
 		{"id":"d712d03972c73f25","fromNode":"8dd2107961adc239","fromSide":"bottom","toNode":"81834b6dc12ee3b7","toSide":"top"},
 		{"id":"2105b5c30749ac40","fromNode":"81834b6dc12ee3b7","fromSide":"bottom","toNode":"a0ab9dd7f8ea3b0b","toSide":"top"},
-		{"id":"fea2b7578bb00786","fromNode":"10f8d3c59d20ffb0","fromSide":"bottom","toNode":"32f011014b9779da","toSide":"top"}
+		{"id":"fea2b7578bb00786","fromNode":"10f8d3c59d20ffb0","fromSide":"bottom","toNode":"32f011014b9779da","toSide":"top"},
+		{"id":"3004c60b895162ea","fromNode":"32f011014b9779da","fromSide":"right","toNode":"d2aeff060fbeeec7","toSide":"left"},
+		{"id":"da59c2d582af20e3","fromNode":"760c7012a212f4cc","fromSide":"right","toNode":"d2aeff060fbeeec7","toSide":"left"}
 	]
 }
