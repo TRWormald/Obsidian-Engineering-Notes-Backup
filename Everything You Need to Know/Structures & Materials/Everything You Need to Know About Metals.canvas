@@ -192,7 +192,9 @@
 		{"id":"9aa683c958f0c690","x":5940,"y":2060,"width":806,"height":2224,"type":"text","text":"The 2000 series (Al-Cu) aluminium alloys are described by the following:\n![[Pasted image 20241104101655.png|centre]]\nThe 6000 series (Al-Mg-Si) are described by the following:\n![[Pasted image 20241104101909.png|centre]]\nThe 7000 series (Al-Cu-Zn) are described by the following:\n![[Pasted image 20241104102023.png|centre]]\nThe 8000 series (Al-Li) are described by the following:\n![[Screenshot 2024-11-04 102307.png|centre]]\n"},
 		{"id":"3ef6d1c17ed61ea4","x":7425,"y":4019,"width":844,"height":531,"type":"file","file":"Images & Attachments/Pasted image 20241104103058.png"},
 		{"id":"f3cbae5d8e7964a9","x":8269,"y":4019,"width":701,"height":531,"type":"file","file":"Images & Attachments/Screenshot 2024-11-04 103209.png"},
-		{"id":"faa04bd8506bccd1","x":5856,"y":5141,"width":250,"height":60,"type":"text","text":"# Titano"}
+		{"id":"faa04bd8506bccd1","x":5720,"y":5040,"width":344,"height":79,"type":"text","text":"# Titanium Alloys"},
+		{"id":"d99f89d435b43dc7","x":5406,"y":5240,"width":486,"height":481,"type":"text","text":"Titanium is great! Its advantages are:\n- High strength\n- Long fatigue life\n- High fracture toughness\n- Good strength creep\n- Excellent resistance to corrosion and oxidation\n- No hydrogen embrittlement\n- Maintains good performance at high temperatures\n- Can be welded or diffusion-bonded\n- Lower galvanic corrosion when in contact with carbon fibres"},
+		{"id":"d020b2775b5aafca","x":5993,"y":5446,"width":250,"height":234,"type":"text","text":"However, it does have some disadvantages:\n- Relatively high density compared with aluminium and carbon fibre composites\n- Relatively low specific stiffness compared to other aerospace materials\n- High cost, as a combination of costlier extraction from ore and costlier processing and forming techniques\n- Difficult to machine, requiring specialist processes (e.g. laser machining)"}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -292,6 +294,8 @@
 		{"id":"507866d08c180498","fromNode":"e1585903b37172cd","fromSide":"left","toNode":"9aa683c958f0c690","toSide":"right"},
 		{"id":"2ade504b3b1e9d65","fromNode":"c7466d96a7b36301","fromSide":"right","toNode":"97296cfb5a2c8118","toSide":"left"},
 		{"id":"b141c0b84dec5f00","fromNode":"97296cfb5a2c8118","fromSide":"bottom","toNode":"3ef6d1c17ed61ea4","toSide":"top"},
-		{"id":"beee2d7994ca84a5","fromNode":"97296cfb5a2c8118","fromSide":"bottom","toNode":"f3cbae5d8e7964a9","toSide":"top"}
+		{"id":"beee2d7994ca84a5","fromNode":"97296cfb5a2c8118","fromSide":"bottom","toNode":"f3cbae5d8e7964a9","toSide":"top"},
+		{"id":"449e12305d87f305","fromNode":"faa04bd8506bccd1","fromSide":"bottom","toNode":"d99f89d435b43dc7","toSide":"top"},
+		{"id":"7f775d0200190d81","fromNode":"d99f89d435b43dc7","fromSide":"right","toNode":"d020b2775b5aafca","toSide":"left"}
 	]
 }
