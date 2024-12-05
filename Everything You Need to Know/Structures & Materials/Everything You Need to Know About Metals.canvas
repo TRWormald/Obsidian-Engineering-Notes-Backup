@@ -177,7 +177,12 @@
 		{"id":"dd042d1d381f25b2","x":6686,"y":3419,"width":250,"height":60,"type":"text","text":"# Cast Alloys"},
 		{"id":"dc2ba786ba6f8313","x":6686,"y":3479,"width":250,"height":261,"type":"text","text":"These are used in the as-cast condition.\nThey often have inferior mechanical properties, and are rarely used in aerospace."},
 		{"id":"8514e547e06146c6","x":7186,"y":3479,"width":316,"height":161,"type":"text","text":"These have some form of plastic forming involved in manufacturing - i.e. drawing or rolling"},
-		{"id":"71784359c4e90e36","x":7186,"y":3691,"width":714,"height":229,"type":"text","text":"They can be non-age-hardenable or age-hardenable.\nThe former are strengthened by solid solution, cold working, and grain boundary, resulting in yield strengths below 300 MPa.\nFor the latter, precipitation hardening is the most effective strengthening mechanism, resulting in yield strengths of 450 to 600 MPa. These are widely used in aerospace."}
+		{"id":"71784359c4e90e36","x":7044,"y":3680,"width":601,"height":229,"type":"text","text":"They can be non-age-hardenable or age-hardenable.\nThe former are strengthened by solid solution, cold working, and grain boundary, resulting in yield strengths below 300 MPa.\nFor the latter, precipitation hardening is the most effective strengthening mechanism, resulting in yield strengths of 450 to 600 MPa. These are widely used in aerospace."},
+		{"id":"19d38907fe590af2","x":7400,"y":3027,"width":280,"height":82,"type":"text","text":"# Designations"},
+		{"id":"3614e55720babba1","x":7720,"y":2620,"width":680,"height":448,"type":"file","file":"Images & Attachments/Pasted image 20241205125025.png"},
+		{"id":"b381ad7c8c0f523d","x":7720,"y":3068,"width":680,"height":463,"type":"file","file":"Images & Attachments/Pasted image 20241205125100.png"},
+		{"id":"9f22cc3ff51c8c28","x":6864,"y":2080,"width":395,"height":120,"type":"text","text":"# Non-age-hardenable Alloys"},
+		{"id":"650ff1d978e03e15","x":7300,"y":2080,"width":290,"height":120,"type":"text","text":"These are the 1000,3000, 5000, and most 4000 series alloys."}
 	],
 	"edges":[
 		{"id":"0bd665c638ce889f","fromNode":"7b4dd1ad1d7dcf67","fromSide":"left","toNode":"3c3ae48a364ab0d9","toSide":"top"},
@@ -266,6 +271,8 @@
 		{"id":"9dbefaa0809a1512","fromNode":"c7466d96a7b36301","fromSide":"bottom","toNode":"79fb2df8916b3150","toSide":"top"},
 		{"id":"dbf2e7a0eadde57f","fromNode":"79fb2df8916b3150","fromSide":"bottom","toNode":"dd042d1d381f25b2","toSide":"top"},
 		{"id":"779340b7eeca4502","fromNode":"79fb2df8916b3150","fromSide":"bottom","toNode":"1383097f21ccd209","toSide":"top"},
-		{"id":"05018e9dea4af313","fromNode":"8514e547e06146c6","fromSide":"bottom","toNode":"71784359c4e90e36","toSide":"top"}
+		{"id":"05018e9dea4af313","fromNode":"8514e547e06146c6","fromSide":"bottom","toNode":"71784359c4e90e36","toSide":"top"},
+		{"id":"608b51e87bb563be","fromNode":"c7466d96a7b36301","fromSide":"right","toNode":"19d38907fe590af2","toSide":"left"},
+		{"id":"1d74560ef65f73c6","fromNode":"c7466d96a7b36301","fromSide":"top","toNode":"9f22cc3ff51c8c28","toSide":"bottom"}
 	]
 }
