@@ -8,20 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30fd3281d562e31b",
+            "id": "7c8633dc728ace58",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -104.07040052759696,
-                  "y": 260.7676001318992,
-                  "zoom": -1.6658996221331501
-                }
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "1) Stress and Stress Transformation"
+            }
+          },
+          {
+            "id": "2e9d5d93c882adde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/2) Principal Stresses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Principal Stresses"
+            }
+          },
+          {
+            "id": "baf0208c60e935b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/3) Plane Strain and Strain Transformation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3) Plane Strain and Strain Transformation"
+            }
+          },
+          {
+            "id": "7e64e8b43e23a5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/4) Strain Measurement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4) Strain Measurement"
+            }
+          },
+          {
+            "id": "967a945017193a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/5) Generalised Hooke's Law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5) Generalised Hooke's Law"
+            }
+          },
+          {
+            "id": "fa576964401c8fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/6) Elastic Constraints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6) Elastic Constraints"
+            }
+          },
+          {
+            "id": "133d8913bd4ba447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7) Failure Criteria"
+            }
+          },
+          {
+            "id": "160bb1c0938c3858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mohr's Circle - 2D Elasticity"
             }
           }
         ]
@@ -264,10 +359,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b425ca8c7b586859",
+  "active": "7c8633dc728ace58",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/6) Elastic Constraints.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/5) Generalised Hooke's Law.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/4) Strain Measurement.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/3) Plane Strain and Strain Transformation.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/2) Principal Stresses.md",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/3) Metals/6) Titanium Alloys.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Images & Attachments/Pasted image 20241205132550.png",
@@ -285,16 +389,7 @@
     "Images & Attachments/Pasted image 20241204180120.png",
     "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
     "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/6) Elastic Constraints.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/5) Generalised Hooke's Law.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/4) Strain Measurement.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/3) Plane Strain and Strain Transformation.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/2) Principal Stresses.md",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
