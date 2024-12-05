@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b0303ee90f7efc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) Stress and Stress Transformation"
-            }
-          },
-          {
             "id": "2e9d5d93c882adde",
             "type": "leaf",
             "state": {
@@ -91,9 +77,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
                 "viewState": {
-                  "x": 1647.6610637180854,
-                  "y": 137.88142430246015,
-                  "zoom": -1.1300320881841044
+                  "x": 2742.3558507609932,
+                  "y": 245.41957126532742,
+                  "zoom": -0.2171611932480596
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -317,10 +303,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3b0303ee90f7efc1",
+  "active": "3ae7670520819a76",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Images & Attachments/Pasted image 20241205212415.png",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",

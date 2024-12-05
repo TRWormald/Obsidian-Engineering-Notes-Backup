@@ -19,7 +19,10 @@
 		{"id":"81834b6dc12ee3b7","type":"text","text":"Resolving forces perpendicular perpendicular and parallel to the cut plane, we can get equations which can be put into a matrix:","x":1280,"y":-140,"width":429,"height":160},
 		{"id":"a0ab9dd7f8ea3b0b","type":"text","text":"$$\\Huge \\begin{bmatrix}\\sigma_{x'x'}\\\\\\sigma_{y'y'}\\\\\\tau_{x'y'}\\end{bmatrix}=\\begin{bmatrix}\\cos^{2}\\theta&\\sin^{2}\\theta&2\\sin\\theta\\cos\\theta\\\\\\sin^{2}\\theta&\\cos^{2}\\theta&-2\\sin\\theta\\cos\\theta\\\\-\\sin\\theta\\cos\\theta&\\sin\\theta\\cos\\theta&\\cos^{2}\\theta-\\sin^{2}\\theta\\end{bmatrix}\\begin{bmatrix}\\sigma_{xx}\\\\\\sigma_{yy}\\\\\\tau_{xy}\\end{bmatrix}$$","x":1328,"y":154,"width":762,"height":178},
 		{"id":"b564114001718a46","type":"text","text":"#### Where $\\sigma_{y'y'}$ is found using $\\theta_{y'}=\\theta_{x'}+ \\frac{\\pi}{2}$","x":1435,"y":332,"width":548,"height":73},
-		{"id":"10f8d3c59d20ffb0","x":1328,"y":402,"width":762,"height":72,"type":"text","text":"These stress transformation equations will enable us to calculate the stresses in any given direction, and form the core of 2D stress analysis."}
+		{"id":"10f8d3c59d20ffb0","x":1328,"y":402,"width":762,"height":72,"type":"text","text":"These stress transformation equations will enable us to calculate the stresses in any given direction, and form the core of 2D stress analysis."},
+		{"id":"32f011014b9779da","x":1419,"y":521,"width":581,"height":359,"type":"file","file":"Images & Attachments/Pasted image 20240929114152.png"},
+		{"id":"760c7012a212f4cc","x":1419,"y":880,"width":581,"height":120,"type":"text","text":"The stress transformation equations enable us to calculate the stresses in any direction. As we rotate through different angles the direct stresses vary periodically."},
+		{"id":"4a7eaf1f32505039","x":2643,"y":61,"width":277,"height":99,"type":"text","text":"# Principal Stresses"}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
@@ -28,6 +31,7 @@
 		{"id":"cf71384a69b04741","fromNode":"9ec41d25cce798aa","fromSide":"right","toNode":"404f453b042ac1eb","toSide":"left"},
 		{"id":"29d2ad34e5ea8154","fromNode":"62e4dc1f62d5bf79","fromSide":"right","toNode":"8dd2107961adc239","toSide":"left"},
 		{"id":"d712d03972c73f25","fromNode":"8dd2107961adc239","fromSide":"bottom","toNode":"81834b6dc12ee3b7","toSide":"top"},
-		{"id":"2105b5c30749ac40","fromNode":"81834b6dc12ee3b7","fromSide":"bottom","toNode":"a0ab9dd7f8ea3b0b","toSide":"top"}
+		{"id":"2105b5c30749ac40","fromNode":"81834b6dc12ee3b7","fromSide":"bottom","toNode":"a0ab9dd7f8ea3b0b","toSide":"top"},
+		{"id":"fea2b7578bb00786","fromNode":"10f8d3c59d20ffb0","fromSide":"bottom","toNode":"32f011014b9779da","toSide":"top"}
 	]
 }
