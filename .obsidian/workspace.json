@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "7091a9078f265568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445eb034ecfec9ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+                "page": 13,
+                "left": -14,
+                "top": 443,
+                "zoom": 1.0282805429864255
+              },
+              "icon": "lucide-file-text",
+              "title": "DesignOfSwirlAtomiser"
+            }
+          }
+        ]
+      },
+      {
         "id": "1e21f8717dc321e4",
         "type": "tabs",
         "children": [
@@ -326,8 +348,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d57fdbe6241c40a4",
+  "active": "445eb034ecfec9ec",
   "lastOpenFiles": [
+    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
@@ -367,7 +390,6 @@
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/1) Defining Axes.md",
-    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
