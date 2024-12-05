@@ -18,7 +18,8 @@
 		{"id":"8dd2107961adc239","type":"file","file":"Images & Attachments/Pasted image 20240929113250.png","x":1280,"y":-561,"width":429,"height":381},
 		{"id":"81834b6dc12ee3b7","type":"text","text":"Resolving forces perpendicular perpendicular and parallel to the cut plane, we can get equations which can be put into a matrix:","x":1280,"y":-140,"width":429,"height":160},
 		{"id":"a0ab9dd7f8ea3b0b","type":"text","text":"$$\\Huge \\begin{bmatrix}\\sigma_{x'x'}\\\\\\sigma_{y'y'}\\\\\\tau_{x'y'}\\end{bmatrix}=\\begin{bmatrix}\\cos^{2}\\theta&\\sin^{2}\\theta&2\\sin\\theta\\cos\\theta\\\\\\sin^{2}\\theta&\\cos^{2}\\theta&-2\\sin\\theta\\cos\\theta\\\\-\\sin\\theta\\cos\\theta&\\sin\\theta\\cos\\theta&\\cos^{2}\\theta-\\sin^{2}\\theta\\end{bmatrix}\\begin{bmatrix}\\sigma_{xx}\\\\\\sigma_{yy}\\\\\\tau_{xy}\\end{bmatrix}$$","x":1328,"y":154,"width":762,"height":178},
-		{"id":"b564114001718a46","type":"text","text":"#### Where $\\sigma_{y'y'}$ is found using $\\theta_{y'}=\\theta_{x'}+ \\frac{\\pi}{2}$","x":1435,"y":332,"width":548,"height":73}
+		{"id":"b564114001718a46","type":"text","text":"#### Where $\\sigma_{y'y'}$ is found using $\\theta_{y'}=\\theta_{x'}+ \\frac{\\pi}{2}$","x":1435,"y":332,"width":548,"height":73},
+		{"id":"10f8d3c59d20ffb0","x":1328,"y":402,"width":762,"height":72,"type":"text","text":"These stress transformation equations will enable us to calculate the stresses in any given direction, and form the core of 2D stress analysis."}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
