@@ -4,44 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5300c161db3b05cf",
+        "id": "1e21f8717dc321e4",
         "type": "tabs",
         "children": [
           {
-            "id": "65c5a175e834ac36",
+            "id": "30fd3281d562e31b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/3) Metals/6) Titanium Alloys.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -104.07040052759696,
+                  "y": 260.7676001318992,
+                  "zoom": -1.6658996221331501
+                }
               },
-              "icon": "lucide-file",
-              "title": "6) Titanium Alloys"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
       },
       {
-        "id": "b406a50dd4dc02a8",
+        "id": "2b8caceaf2d3fd71",
         "type": "tabs",
         "children": [
           {
-            "id": "2390c3374bc94a35",
+            "id": "b425ca8c7b586859",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
                 "viewState": {
-                  "x": 5864.470432640173,
-                  "y": 5361.819386778599,
-                  "zoom": -0.7728096963297905
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Metals"
+              "title": "Everything You Need to Know About 2D Elasticity"
             }
           }
         ]
@@ -261,10 +264,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2390c3374bc94a35",
+  "active": "b425ca8c7b586859",
   "lastOpenFiles": [
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/3) Metals/6) Titanium Alloys.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Images & Attachments/Pasted image 20241205132550.png",
+    "Images & Attachments/Pasted image 20241205132530.png",
+    "Images & Attachments/Pasted image 20241205132439.png",
+    "Images & Attachments/Pasted image 20241205132431.png",
+    "Images & Attachments/Pasted image 20241205132050.png",
     "Engineering Year 2/Structures & Materials/3) Metals/5) Aluminium Alloys.md",
     "Images & Attachments/Pasted image 20241205130516.png",
     "Images & Attachments/Pasted image 20241205130234.png",
@@ -274,15 +284,8 @@
     "Engineering Year 2/Structures & Materials/3) Metals/4) Phase Diagrams.md",
     "Images & Attachments/Pasted image 20241204180120.png",
     "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
-    "Backend/Home.canvas",
-    "Images & Attachments/Pasted image 20241203171244.png",
     "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
-    "Images & Attachments/Pasted image 20241203135736.png",
-    "Images & Attachments/Pasted image 20241203135511.png",
-    "Images & Attachments/Pasted image 20241203135117.png",
-    "Images & Attachments/Pasted image 20241203134945.png",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
