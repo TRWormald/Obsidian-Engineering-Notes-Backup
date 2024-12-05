@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"9ec41d25cce798aa","x":-120,"y":-180,"width":250,"height":60,"type":"text","text":"# Stress"}
+		{"id":"9ec41d25cce798aa","type":"text","text":"# Stress","x":-120,"y":-180,"width":250,"height":60},
+		{"id":"fa31c11540be0f4f","type":"text","text":"# Stress Definition","x":-120,"y":61,"width":250,"height":119},
+		{"id":"0984dbd22f603d1f","type":"text","text":"# Complementary Shear","x":400,"y":61,"width":320,"height":119},
+		{"id":"4ae4567aa423ad10","x":-215,"y":180,"width":440,"height":180,"type":"text","text":"*The total stress on an infinitesimal element of a plane taken within a deformed elastic body is defined as the resultant of all the actions of the molecules situated on one side of the plane upon the molecules on the other side.*"},
+		{"id":"7abd6312a9c47a39","x":-215,"y":400,"width":440,"height":394,"type":"file","file":"Images & Attachments/Pasted image 20241205212415.png"},
+		{"id":"24de417e8569e7b3","x":-215,"y":794,"width":440,"height":186,"type":"text","text":"An infinitesimal element of material with dimensions $dx×dy ×dz$ is subjected to direct stresses $σ_{xx}$ and shear stresses $τ_{xy}$ . Direct stresses act normal to a face, whereas shear stresses act parallel."},
+		{"id":"8de86e22ae2f8a0c","x":360,"y":225,"width":400,"height":351,"type":"file","file":"Images & Attachments/Pasted image 20240929111555.png"},
+		{"id":"424154743025bb4f","x":360,"y":576,"width":400,"height":504,"type":"text","text":"As the elements we will be considering are in equilibrium the shear stresses are not independent.\nIf we consider moment equilibrium about the centre of this infinitesimal element:\n$$\\tau_{xy}=\\tau_{yx}$$\nAs a result of this we can express our 3D stress state in 6 components:\n$$\\bar{\\sigma}=\\begin{bmatrix}\\sigma_{xx}&\\tau_{xy}&\\tau_{xz}\\\\\\tau_{xy}&\\sigma_{yy}&\\tau_{yz}\\\\\\tau_{xz}&\\tau_{yz}&\\sigma_{zz}\\end{bmatrix}$$\nThis formulation is known as the Cauchy stress tensor."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
+		{"id":"d1813ade4f2f8f0f","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"0984dbd22f603d1f","toSide":"top"}
+	]
 }
