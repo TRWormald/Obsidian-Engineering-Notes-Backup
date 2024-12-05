@@ -41,7 +41,18 @@
 		{"id":"5e928abcc79dee60","type":"text","text":"$$\\Huge \\sigma_{m}=\\frac{\\sigma_{x'x'}+\\sigma_{y'y}}{2}= \\frac{\\sigma_{1}+\\sigma_{2}}{2}=C$$","x":4555,"y":504,"width":460,"height":116},
 		{"id":"6900b6c7269f4a94","type":"text","text":"# Maximum/Minimum Shear Stress","x":4062,"y":859,"width":441,"height":123},
 		{"id":"81ad754efe74114a","type":"text","text":"The maximum/minimum shear stress occurs at 45 degrees to the principal directions/axes.\nIt can be calculated to be:","x":4062,"y":982,"width":441,"height":138},
-		{"id":"185da514b2270d5d","type":"text","text":"$$\\Huge \\tau_{\\text{max, min}}=\\pm\\frac{\\sigma_{1}-\\sigma_{2}}{2}=\\pm\\sqrt{\\left(\\frac{\\sigma_{xx}-\\sigma_{yy}}{2}\\right)^{2}+\\tau_{xy}^{2}}$$","x":3937,"y":1120,"width":691,"height":160}
+		{"id":"185da514b2270d5d","type":"text","text":"$$\\Huge \\tau_{\\text{max, min}}=\\pm\\frac{\\sigma_{1}-\\sigma_{2}}{2}=\\pm\\sqrt{\\left(\\frac{\\sigma_{xx}-\\sigma_{yy}}{2}\\right)^{2}+\\tau_{xy}^{2}}$$","x":3937,"y":1120,"width":691,"height":160},
+		{"id":"7550c0fe8baa1890","x":-85,"y":1405,"width":250,"height":60,"type":"text","text":"# Strain"},
+		{"id":"8dd28386c8ab6e62","x":-85,"y":1626,"width":250,"height":60,"type":"text","text":"# Plane Strain"},
+		{"id":"70ef5dadfad397cb","x":-142,"y":1760,"width":364,"height":107,"type":"text","text":"When we have *plane strain* deformations are strictly limited to the $XY$ plane."},
+		{"id":"a5fdcdd80d78287a","x":-250,"y":1867,"width":580,"height":60,"type":"text","text":"**It is important not to confuse plane strain and plane stress!**"},
+		{"id":"f0081fa7482b37dd","x":-285,"y":1927,"width":650,"height":140,"type":"text","text":"$$\\Huge \\text{In plane strain : }\\varepsilon_{zz}=\\gamma_{xz}=\\gamma_{yz}=0,\\text{but }\\sigma_{zz}\\ne 0$$\n$$\\Huge \\text{In plane stress : }\\sigma_{zz}=\\tau_{xz}=\\tau_{yz}=0,\\text{but }\\varepsilon_{zz}\\ne 0$$\n"},
+		{"id":"dd654199e8892d90","x":520,"y":1742,"width":300,"height":143,"type":"text","text":"In plane stress, although $\\sigma_{zz}=0$, thickness $t$ may vary due to $v$ (Poisson's Ratio):"},
+		{"id":"4f390bfd080dc5ba","x":520,"y":1927,"width":300,"height":313,"type":"text","text":"*The only times that plane stress and plane strain are the same is when*:\n- There are no loads\n- $\\sigma_{xx}=-\\sigma_{yy}$\n- The plane is in true shear\n- etc."},
+		{"id":"4409dd2e30ec226a","x":955,"y":1384,"width":325,"height":103,"type":"text","text":"# Strain Transformations"},
+		{"id":"2562b92c2cb65887","x":905,"y":1520,"width":425,"height":93,"type":"text","text":"We can transform strains using exactly the same rotation matrix as with stresses:"},
+		{"id":"0f394d29e0ef97ee","x":903,"y":1747,"width":807,"height":180,"type":"text","text":"$$\\Huge \\begin{bmatrix}\\varepsilon_{x'x'}\\\\\\varepsilon_{y'y'}\\\\\\gamma_{x'y'}/2\\end{bmatrix}=\\begin{bmatrix}\\cos^{2}\\theta&\\sin^{2}\\theta&2\\sin\\theta\\cos\\theta\\\\\\sin^{2}\\theta&\\cos^{2}\\theta&-2\\sin\\theta\\cos\\theta\\\\-\\sin\\theta\\cos\\theta&\\sin\\theta\\cos\\theta&\\cos^{2}\\theta-\\sin^{2}\\theta\\end{bmatrix}\\begin{bmatrix}\\varepsilon_{xx}\\\\\\varepsilon_{yy}\\\\\\gamma_{xy}/2\\end{bmatrix}$$"},
+		{"id":"4ae21ce6df9d7357","x":903,"y":1927,"width":805,"height":80,"type":"text","text":"Where we have used the tensorial shear strain $\\varepsilon_{xy}=\\gamma_{xy}/2$ rather than the engineering strain $\\gamma_{xy}$."}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
@@ -64,6 +75,15 @@
 		{"id":"2cfd8f48ce041265","fromNode":"80a14396ea6e6649","fromSide":"bottom","toNode":"4b865dccc8937c77","toSide":"top"},
 		{"id":"a4cf988ad276bf8c","fromNode":"f52c81ce3c297d06","fromSide":"bottom","toNode":"6900b6c7269f4a94","toSide":"top"},
 		{"id":"7a7a8bddd19e867d","fromNode":"929a0597368848d8","fromSide":"bottom","toNode":"6900b6c7269f4a94","toSide":"top"},
-		{"id":"125c27e63562e31e","fromNode":"5e928abcc79dee60","fromSide":"bottom","toNode":"6900b6c7269f4a94","toSide":"top"}
+		{"id":"125c27e63562e31e","fromNode":"5e928abcc79dee60","fromSide":"bottom","toNode":"6900b6c7269f4a94","toSide":"top"},
+		{"id":"56f727506dddc888","fromNode":"7550c0fe8baa1890","fromSide":"bottom","toNode":"8dd28386c8ab6e62","toSide":"top"},
+		{"id":"1a0f268351591bfc","fromNode":"8dd28386c8ab6e62","fromSide":"bottom","toNode":"70ef5dadfad397cb","toSide":"top"},
+		{"id":"e3f2b870ad95a153","fromNode":"f0081fa7482b37dd","fromSide":"right","toNode":"dd654199e8892d90","toSide":"left","color":"1"},
+		{"id":"1380aecd5b0053eb","fromNode":"70ef5dadfad397cb","fromSide":"right","toNode":"dd654199e8892d90","toSide":"left","color":"1"},
+		{"id":"219068faba104d22","fromNode":"a5fdcdd80d78287a","fromSide":"right","toNode":"4f390bfd080dc5ba","toSide":"left","color":"6"},
+		{"id":"6ae65e94f9e80a09","fromNode":"f0081fa7482b37dd","fromSide":"right","toNode":"4f390bfd080dc5ba","toSide":"left","color":"6"},
+		{"id":"c2e6200bf04be969","fromNode":"7550c0fe8baa1890","fromSide":"right","toNode":"4409dd2e30ec226a","toSide":"left"},
+		{"id":"9873517a778b8d6a","fromNode":"2562b92c2cb65887","fromSide":"bottom","toNode":"0f394d29e0ef97ee","toSide":"top"},
+		{"id":"edfb5e06ccb7e691","fromNode":"4409dd2e30ec226a","fromSide":"bottom","toNode":"2562b92c2cb65887","toSide":"top"}
 	]
 }
