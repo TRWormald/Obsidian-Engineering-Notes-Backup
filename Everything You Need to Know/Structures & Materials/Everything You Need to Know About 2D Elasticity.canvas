@@ -99,7 +99,17 @@
 		{"id":"9dbc8d81d94ac0aa","x":2419,"y":3560,"width":273,"height":50,"type":"text","text":"# Hooke's Law"},
 		{"id":"3dac775c129f31a4","x":2302,"y":3654,"width":507,"height":146,"type":"text","text":"Hooke discovered that there is a linear relationship between the applied stresses and the shear strains. Therefore linear material behaviour can be described using the following matrix:"},
 		{"id":"f17734e699230f32","x":2209,"y":3800,"width":694,"height":320,"type":"text","text":"$$\\Huge \\begin{bmatrix}\\varepsilon_{xx}\\\\\\varepsilon_{yy}\\\\\\varepsilon_{zz}\\\\\\gamma_{yz}\\\\\\gamma_{xz}\\\\\\gamma_{xy}\\end{bmatrix}=\\begin{bmatrix}S_{11}&S_{12}&S_{13}&S_{14}&S_{15}&S_{16}\\\\S_{21}&S_{22}&S_{23}&S_{24}&S_{25}&S_{26}\\\\S_{31}&S_{32}&S_{33}&S_{34}&S_{35}&S_{36}\\\\S_{41}&S_{42}&S_{43}&S_{44}&S_{45}&S_{46}\\\\S_{51}&S_{52}&S_{53}&S_{54}&S_{55}&S_{56}\\\\S_{61}&S_{62}&S_{63}&S_{64}&S_{65}&S_{66}\\end{bmatrix}        \\begin{bmatrix}\\sigma_{xx}\\\\\\sigma_{yy}\\\\\\sigma_{zz}\\\\\\tau_{yz}\\\\\\tau_{xz}\\\\\\tau_{xy}\\end{bmatrix}$$"},
-		{"id":"f32eab5cf0d7b561","x":2209,"y":4120,"width":694,"height":80,"type":"text","text":"Where $S_{ij}$ represents the 36 material constants. Note that $S_{ij}=S_{ji}$ due to Maxwell-Betti's reciprocal theorem."}
+		{"id":"f32eab5cf0d7b561","x":2209,"y":4120,"width":694,"height":80,"type":"text","text":"Where $S_{ij}$ represents the 36 material constants. Note that $S_{ij}=S_{ji}$ due to Maxwell-Betti's reciprocal theorem."},
+		{"id":"8351c45643971319","x":3220,"y":2970,"width":315,"height":119,"type":"text","text":"# Bi-Axial Stress States"},
+		{"id":"fe23158cf39a4e23","x":3220,"y":3128,"width":789,"height":272,"type":"file","file":"Images & Attachments/Pasted image 20241008214306.png"},
+		{"id":"e78203fb2e8cdee6","x":3220,"y":3400,"width":789,"height":80,"type":"text","text":"If we consider a bi-axial stress state, the final deformation can be considered to be the sum or superposition of the deformations caused by the individual stresses."},
+		{"id":"653ef39277ec48f1","x":3220,"y":3520,"width":789,"height":80,"type":"text","text":"If we use Poisson's ratio and the [[Young's Modulus]] of the material we can generate the matrix linking the stress and the strains:"},
+		{"id":"429c0691c86bd52b","x":3345,"y":3654,"width":540,"height":183,"type":"text","text":"$$\\Huge \\begin{bmatrix}\\varepsilon_{xx}\\\\\\varepsilon_{yy}\\\\\\gamma_{xy}\\end{bmatrix}=\\begin{bmatrix}1/E&-v/E&0\\\\-v/E&1/E&0\\\\0&0&1/G\\end{bmatrix}\\begin{bmatrix}\\sigma_{xx}\\\\\\sigma_{yy}\\\\\\tau_{xy}\\end{bmatrix}$$"},
+		{"id":"d62e8f1330fc82ca","x":3220,"y":3837,"width":789,"height":220,"type":"text","text":"**Note:**\nIn isotropic materials direct and shear strains are decoupled, i.e. they don't affect each other, and consequentially the principal directions for stress and strain coincide.\nHowever for anisotropic materials, like composites, the compliance matrix is fully populated with coupling described by $\\bar{S}_{16}$ and $\\bar{S}_{26}$ terms where the zeros are in the isotropic compliance matrix."},
+		{"id":"91364928c8c6ad73","x":4542,"y":2942,"width":393,"height":88,"type":"text","text":"# Shear Modulus"},
+		{"id":"0b576d6cac7c7e39","x":4455,"y":3060,"width":567,"height":120,"type":"text","text":"In this matrix we can see the shear modulus, now it is important to note that for isotropic materials the shear modulus is not independent:"},
+		{"id":"ae178d0954fd9d7e","x":4561,"y":3180,"width":355,"height":120,"type":"text","text":"$$\\Huge \\gamma_{xy}=\\frac{\\tau_{xy}}{G}$$"},
+		{"id":"d21bd00aefacce28","x":4538,"y":3366,"width":250,"height":60,"type":"text","text":"If we transform "}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
@@ -154,6 +164,10 @@
 		{"id":"be4cc68c71320dfa","fromNode":"cc93860a7a6aa7a4","fromSide":"bottom","toNode":"2e2a19b08775ae76","toSide":"top"},
 		{"id":"9a13637f31cca819","fromNode":"3731ee7f2d2448a0","fromSide":"right","toNode":"9dbc8d81d94ac0aa","toSide":"left"},
 		{"id":"7046c85002856478","fromNode":"82e89dbf29dbfd29","fromSide":"bottom","toNode":"9dbc8d81d94ac0aa","toSide":"top"},
-		{"id":"5c28321803aefa15","fromNode":"9dbc8d81d94ac0aa","fromSide":"bottom","toNode":"3dac775c129f31a4","toSide":"top"}
+		{"id":"5c28321803aefa15","fromNode":"9dbc8d81d94ac0aa","fromSide":"bottom","toNode":"3dac775c129f31a4","toSide":"top"},
+		{"id":"e0af7493a42a5051","fromNode":"9dbc8d81d94ac0aa","fromSide":"right","toNode":"8351c45643971319","toSide":"left"},
+		{"id":"1a5f7c259469899e","fromNode":"653ef39277ec48f1","fromSide":"bottom","toNode":"429c0691c86bd52b","toSide":"top"},
+		{"id":"ace370d5c0cf92b9","fromNode":"e78203fb2e8cdee6","fromSide":"bottom","toNode":"653ef39277ec48f1","toSide":"top"},
+		{"id":"68e3eee72a882abe","fromNode":"429c0691c86bd52b","fromSide":"right","toNode":"91364928c8c6ad73","toSide":"left"}
 	]
 }
