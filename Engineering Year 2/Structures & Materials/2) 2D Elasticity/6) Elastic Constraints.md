@@ -1,7 +1,7 @@
 ### Bulk Modulus
 We use bulk modulus to relate spherical stress (Where $\sigma_{xx}=\sigma_{yy}=\sigma_{zz}=\sigma$) to volumetric strain:
 $$\sigma=K\frac{\Delta V}{V_{0}}$$
-Volumetric stress describes the change in material volume:
+Volumetric strain describes the change in material volume:
 $$\frac{\Delta V}{V_{0}}=\frac{V-V_{0}}{V_{0}}$$
 Since we can say that the deformed volume is equal to:
 $$V=(1+\varepsilon_{xx})(1+\varepsilon_{yy})(1+\varepsilon_{zz})~dx~dy~dz$$
