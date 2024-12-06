@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa576964401c8fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/6) Elastic Constraints.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6) Elastic Constraints"
-            }
-          },
-          {
             "id": "160bb1c0938c3858",
             "type": "leaf",
             "state": {
@@ -33,29 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Mohr's Circle - 2D Elasticity"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c47c0c4a965038e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ae7670520819a76",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
-                "viewState": {
-                  "x": 4685.695364900278,
-                  "y": 1994.8422220783566,
-                  "zoom": -0.8257417898720895
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About 2D Elasticity"
             }
           }
         ]
@@ -275,10 +238,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3ae7670520819a76",
+  "active": "160bb1c0938c3858",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/4) Strain Measurement.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/4) Strain Measurement.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/3) Plane Strain and Strain Transformation.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/2) Principal Stresses.md",
     "Images & Attachments/Pasted image 20241205225419.png",
