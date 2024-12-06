@@ -4,27 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "78aaa760a25c84d8",
+        "id": "858bae8fc777a676",
         "type": "tabs",
         "children": [
           {
-            "id": "517170dabcccb413",
+            "id": "e9edb8be072f9dd1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Backend/Home.canvas",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
                 "viewState": {
-                  "x": -57,
-                  "y": 249,
-                  "zoom": -0.7929628597242802
+                  "x": 2245.811260423863,
+                  "y": 1152.8989489755795,
+                  "zoom": -2.8722246728058343
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "title": "Everything You Need to Know About 2D Elasticity"
+            }
+          },
+          {
+            "id": "23fcbafcbc6e5e65",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+                "viewState": {
+                  "x": 6777.712610995885,
+                  "y": 213.68232995769688,
+                  "zoom": -0.34851642025581986
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Metals"
+            }
+          },
+          {
+            "id": "d4027746163f7fdd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+                "viewState": {
+                  "x": 5341,
+                  "y": 2840,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Light Aircraft Structures"
+            }
+          },
+          {
+            "id": "fee8e824fe10f1cd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
+                "viewState": {
+                  "x": 135,
+                  "y": 138.5,
+                  "zoom": -1.3358569335187647
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Sustainable Manufacturing"
+            }
+          },
+          {
+            "id": "5abf49d74b5456eb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Polymers & Composites"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -241,15 +311,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "517170dabcccb413",
+  "active": "23fcbafcbc6e5e65",
   "lastOpenFiles": [
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Backend/Home.canvas",
+    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+    "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
     "Images & Attachments/Pasted image 20241206153353.png",
     "Images & Attachments/Pasted image 20241206153149.png",
@@ -292,12 +363,10 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
-    "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
-    "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas"
+    "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas"
   ]
 }
