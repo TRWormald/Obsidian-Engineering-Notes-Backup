@@ -117,7 +117,9 @@
 		{"id":"3dac775c129f31a4","x":670,"y":3452,"width":507,"height":146,"type":"text","text":"Hooke discovered that there is a linear relationship between the applied stresses and the shear strains. Therefore linear material behaviour can be described using the following matrix:"},
 		{"id":"f17734e699230f32","x":577,"y":3598,"width":694,"height":320,"type":"text","text":"$$\\Huge \\begin{bmatrix}\\varepsilon_{xx}\\\\\\varepsilon_{yy}\\\\\\varepsilon_{zz}\\\\\\gamma_{yz}\\\\\\gamma_{xz}\\\\\\gamma_{xy}\\end{bmatrix}=\\begin{bmatrix}S_{11}&S_{12}&S_{13}&S_{14}&S_{15}&S_{16}\\\\S_{21}&S_{22}&S_{23}&S_{24}&S_{25}&S_{26}\\\\S_{31}&S_{32}&S_{33}&S_{34}&S_{35}&S_{36}\\\\S_{41}&S_{42}&S_{43}&S_{44}&S_{45}&S_{46}\\\\S_{51}&S_{52}&S_{53}&S_{54}&S_{55}&S_{56}\\\\S_{61}&S_{62}&S_{63}&S_{64}&S_{65}&S_{66}\\end{bmatrix}        \\begin{bmatrix}\\sigma_{xx}\\\\\\sigma_{yy}\\\\\\sigma_{zz}\\\\\\tau_{yz}\\\\\\tau_{xz}\\\\\\tau_{xy}\\end{bmatrix}$$"},
 		{"id":"f32eab5cf0d7b561","x":577,"y":3918,"width":694,"height":80,"type":"text","text":"Where $S_{ij}$ represents the 36 material constants. Note that $S_{ij}=S_{ji}$ due to Maxwell-Betti's reciprocal theorem."},
-		{"id":"da1ac090ae705cf4","x":6407,"y":591,"width":233,"height":109,"type":"text","text":"# Failure Criteria"}
+		{"id":"da1ac090ae705cf4","x":5720,"y":80,"width":233,"height":109,"type":"text","text":"# Failure Criteria"},
+		{"id":"51de5427e07065b0","x":5535,"y":189,"width":603,"height":351,"type":"text","text":"When does a material fail under combined loading conditions?\nHow do we extrapolate from uniaxial tests to compound stress states?\nHow do we account for different failure mechanisms: ductile and brittle?\n\nWe assume that a material is elastic after which it fails suddenly or yields plastically.\nThe goal is to define a yield envelope that separates elastic from plastic deformation; any stress state within its boundaries is elastic. We will define this in terms of principal stresses."},
+		{"id":"a4b6d5cb62cecb01","x":5219,"y":712,"width":250,"height":60,"type":"text","text":"# Failure @ Maximu"}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
@@ -182,6 +184,7 @@
 		{"id":"e307c2ebcdb5cc01","fromNode":"1f0752028803b835","fromSide":"bottom","toNode":"81b381bdf00522de","toSide":"top"},
 		{"id":"ef3145961d8f2b63","fromNode":"429c0691c86bd52b","fromSide":"right","toNode":"5e30a6b3af047cd4","toSide":"left"},
 		{"id":"3b37322c603a7bb6","fromNode":"81b381bdf00522de","fromSide":"bottom","toNode":"5e30a6b3af047cd4","toSide":"top"},
-		{"id":"c86b2e75607be344","fromNode":"5e30a6b3af047cd4","fromSide":"right","toNode":"799fba2ebd0a40ab","toSide":"left"}
+		{"id":"c86b2e75607be344","fromNode":"5e30a6b3af047cd4","fromSide":"right","toNode":"799fba2ebd0a40ab","toSide":"left"},
+		{"id":"17206b05585cc63f","fromNode":"51de5427e07065b0","fromSide":"bottom","toNode":"a4b6d5cb62cecb01","toSide":"top"}
 	]
 }
