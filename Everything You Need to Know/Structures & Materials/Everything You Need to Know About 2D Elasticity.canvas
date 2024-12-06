@@ -4,6 +4,7 @@
 		{"id":"a1f6bc753acc483f","type":"group","x":-235,"y":-700,"width":5270,"height":2000,"label":"Stress"},
 		{"id":"acd3ba15861fb81c","type":"group","x":-235,"y":-3040,"width":2881,"height":2120,"label":"Failure Criteria"},
 		{"id":"7d633ba9af5d94a7","type":"group","x":-235,"y":2720,"width":4534,"height":1298,"label":"Generalised Hooke's Law"},
+		{"id":"c7a1a79ee1aad334","x":3052,"y":-2980,"width":1631,"height":2060,"type":"group","label":"Mohr's Circle"},
 		{"id":"29a53a39e6c2956d","type":"group","x":3200,"y":1440,"width":1685,"height":1160,"label":"Elastic Constraints"},
 		{"id":"526856f35447c27d","type":"group","x":-235,"y":1440,"width":2035,"height":896,"label":"Strain"},
 		{"id":"9516c244074af9a2","type":"group","x":1880,"y":1440,"width":1172,"height":1160,"label":"Strain Measurement"},
@@ -144,8 +145,17 @@
 		{"id":"81834b6dc12ee3b7","type":"text","text":"Resolving forces perpendicular perpendicular and parallel to the cut plane, we can get equations which can be put into a matrix:","x":1280,"y":-140,"width":429,"height":160},
 		{"id":"d9e85b08dea475f3","type":"file","file":"Images & Attachments/Pasted image 20240929113128.png","x":691,"y":-561,"width":342,"height":261},
 		{"id":"62e4dc1f62d5bf79","type":"text","text":"To find the new coordinate system, consider the equilibrium of an infinitesimal element (with unit depth) cut at an angle $\\theta$ (measured CCW from the Y-axis) on which a normal stress $\\theta_{x'x'}$ and shear stress $\\tau_{x'y'}$ act.","x":360,"y":-300,"width":673,"height":120},
-		{"id":"b45eb7d3394fa2fa","x":3720,"y":-2540,"width":250,"height":108,"type":"text","text":"# Mohr's Circle"},
-		{"id":"915ac62dd9dfa592","x":3753,"y":-2202,"width":847,"height":202,"type":"text","text":"$$\\Huge \\begin{bmatrix}\\sigma_{x'x'}\\\\\\tau_{x'y'}\\end{bmatrix}=\\begin{bmatrix}(\\sigma_{xx}+\\sigma_{yy})/2\\\\0\\end{bmatrix}+\\underbrace{\\begin{bmatrix}\\cos2\\theta&\\sin2\\theta\\\\-\\sin2\\theta&\\cos2\\theta\\end{bmatrix}}_{\\text{2D Rotation Matrix}}\\begin{bmatrix}(\\sigma_{xx}-\\sigma_{yy})/2\\\\\\tau_{xy}\\end{bmatrix}$$"}
+		{"id":"915ac62dd9dfa592","type":"text","text":"$$\\Huge \\begin{bmatrix}\\sigma_{x'x'}\\\\\\tau_{x'y'}\\end{bmatrix}=\\begin{bmatrix}(\\sigma_{xx}+\\sigma_{yy})/2\\\\0\\end{bmatrix}+\\underbrace{\\begin{bmatrix}\\cos2\\theta&\\sin2\\theta\\\\-\\sin2\\theta&\\cos2\\theta\\end{bmatrix}}_{\\text{2D Rotation Matrix}}\\begin{bmatrix}(\\sigma_{xx}-\\sigma_{yy})/2\\\\\\tau_{xy}\\end{bmatrix}$$","x":3412,"y":-2701,"width":847,"height":202},
+		{"id":"13fd86d97982b889","type":"text","text":"The above is the transformation matrix for stresses. We can plot these on a Mohr's circle as follows:","x":3412,"y":-2499,"width":847,"height":99},
+		{"id":"b45eb7d3394fa2fa","type":"text","text":"# Mohr's Circle","x":3711,"y":-2960,"width":250,"height":108},
+		{"id":"89801046240e9ac0","type":"file","file":"Images & Attachments/Pasted image 20240929135756.png","x":3950,"y":-2200,"width":619,"height":626},
+		{"id":"a4946ef6828d9723","type":"text","text":"The radius can be calculated to be:\n$$R=\\sqrt{\\left(\\frac{\\sigma_{xx}-\\sigma_{yy}}{2}\\right)^{2}+\\tau_{xy}^{2}}$$","x":3432,"y":-1520,"width":386,"height":160},
+		{"id":"d8e1e80e67f3ceae","type":"text","text":"The points where Mohr's circle crosses the horizontal axes represent the principal stresses:\n$$\\sigma_{1,2}=C\\pm R$$\n","x":3858,"y":-1520,"width":361,"height":183},
+		{"id":"37764fa5508abeeb","type":"text","text":"This is equal to the magnitude of the maximum/minimum shear stress.","x":3434,"y":-1360,"width":386,"height":80},
+		{"id":"71bd61f9e01b079d","type":"text","text":"The centre is located at:\n$$C=\\frac{\\sigma_{xx}+\\sigma_{yy}}{2}$$","x":3072,"y":-1520,"width":320,"height":120},
+		{"id":"2b1e5e0802ce17bb","type":"file","file":"Images & Attachments/Pasted image 20240929135734.png","x":3114,"y":-2200,"width":836,"height":626},
+		{"id":"d4df19b2eab41267","type":"text","text":" The principal directions being found from geometry:\n$$\\tan 2\\theta_{P}=\\frac{2\\tau_{xy}}{\\sigma_{xx}-\\sigma_{yy}}$$\n","x":4259,"y":-1520,"width":404,"height":167},
+		{"id":"63e45c5b843fd21a","x":3621,"y":-1160,"width":430,"height":120,"type":"text","text":"Note that a rotation clockwise \"in real life\" is mirrored by a rotation counter clockwise on this Mohr's circle and vice versa."}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
@@ -216,6 +226,9 @@
 		{"id":"4cb1251a5bb9bfd9","fromNode":"51de5427e07065b0","fromSide":"bottom","toNode":"c2af9b67f476d335","toSide":"top"},
 		{"id":"e7ad24854631c479","fromNode":"51de5427e07065b0","fromSide":"right","toNode":"d1c879dabc2ef914","toSide":"top"},
 		{"id":"93798e683b8d803e","fromNode":"d0a583bc72534da3","fromSide":"right","toNode":"83e46ca0ba015937","toSide":"left"},
-		{"id":"e2254aeea36ed64c","fromNode":"4b8d90d7aee37136","fromSide":"right","toNode":"698bc7d6bcc27689","toSide":"right","color":"1"}
+		{"id":"e2254aeea36ed64c","fromNode":"4b8d90d7aee37136","fromSide":"right","toNode":"698bc7d6bcc27689","toSide":"right","color":"1"},
+		{"id":"bb96c1c16785d27c","fromNode":"b45eb7d3394fa2fa","fromSide":"bottom","toNode":"915ac62dd9dfa592","toSide":"top"},
+		{"id":"13ed133c4f851bec","fromNode":"13fd86d97982b889","fromSide":"bottom","toNode":"2b1e5e0802ce17bb","toSide":"top"},
+		{"id":"3d6b083b43487bf6","fromNode":"13fd86d97982b889","fromSide":"bottom","toNode":"89801046240e9ac0","toSide":"top"}
 	]
 }
