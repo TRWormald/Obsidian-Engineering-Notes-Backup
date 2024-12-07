@@ -15,9 +15,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
                 "viewState": {
-                  "x": 4384.392560722221,
-                  "y": 3213.5496515933196,
-                  "zoom": -2.228889888002104
+                  "x": 4903.142043802748,
+                  "y": 3428.246258190768,
+                  "zoom": -2.6267352734484484
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -41,7 +41,8 @@
               "title": "Everything You Need to Know About Sustainable Manufacturing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,10 +260,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "23fcbafcbc6e5e65",
+  "active": "fee8e824fe10f1cd",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
