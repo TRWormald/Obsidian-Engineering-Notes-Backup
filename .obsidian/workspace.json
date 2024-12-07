@@ -48,17 +48,34 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-                "page": 5,
-                "left": 16,
-                "top": 667,
+                "page": 7,
+                "left": -245,
+                "top": 21,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "Structures & Materials Formula Sheet"
             }
+          },
+          {
+            "id": "cc14bb56573c085a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+                "viewState": {
+                  "x": 3059.6750487858667,
+                  "y": 3441.3964131794933,
+                  "zoom": 0.10677144473666322
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About 2D Elasticity"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,10 +292,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cbbd3a741f6a6fdb",
+  "active": "cc14bb56573c085a",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
