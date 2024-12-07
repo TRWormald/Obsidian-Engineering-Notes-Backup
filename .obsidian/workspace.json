@@ -8,37 +8,81 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23fcbafcbc6e5e65",
+            "id": "a48dd02fe05430a7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
-                "viewState": {
-                  "x": 4903.142043802748,
-                  "y": 3428.246258190768,
-                  "zoom": -2.6267352734484484
-                }
+                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
+                "page": 20,
+                "left": -56,
+                "top": 518,
+                "zoom": 0.26875
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Metals"
+              "icon": "lucide-file-text",
+              "title": "Lecture1_Materials and Environment"
             }
           },
           {
-            "id": "fee8e824fe10f1cd",
+            "id": "5034ccd4f80c43f5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-                "viewState": {
-                  "x": 135,
-                  "y": 138.5,
-                  "zoom": -1.3358569335187647
-                }
+                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Intro To Sustainability.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Sustainable Manufacturing"
+              "icon": "lucide-file",
+              "title": "Intro To Sustainability"
+            }
+          },
+          {
+            "id": "1466992a664d448d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
+                "page": 1,
+                "left": -56,
+                "top": 543,
+                "zoom": 0.26875
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture2_Ecodesign"
+            }
+          },
+          {
+            "id": "e04fbb30dd182f1d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
+                "page": 1,
+                "left": -56,
+                "top": 543,
+                "zoom": 0.26875
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture3_LCA(1)"
+            }
+          },
+          {
+            "id": "89fa8f60c4edb20f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
+                "page": 23,
+                "left": -56,
+                "top": 88,
+                "zoom": 0.26875
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture4_sustainablemanufacturing_upload"
             }
           }
         ],
@@ -112,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -260,8 +303,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fee8e824fe10f1cd",
+  "active": "5034ccd4f80c43f5",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
+    "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
+    "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
+    "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
@@ -309,9 +356,6 @@
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/6) Shear Stresses in Bending.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
