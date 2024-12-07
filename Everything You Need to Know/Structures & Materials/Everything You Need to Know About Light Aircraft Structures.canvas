@@ -18,8 +18,6 @@
 		{"id":"6617095290216e9d","type":"group","x":293,"y":-400,"width":1431,"height":900,"label":"2nd Moment of Area"},
 		{"id":"d9dd5e5ea7e18a2c","type":"group","x":-1360,"y":-1720,"width":741,"height":1541,"label":"Mohr's Circle"},
 		{"id":"1bfc055a9d67b898","type":"text","text":"# The Torsion Centre","x":11630,"y":3039,"width":328,"height":123},
-		{"id":"161974e366489464","type":"file","file":"Images & Attachments/Pasted image 20241202132824.png","x":11834,"y":3202,"width":248,"height":400},
-		{"id":"e32573d1f71979e6","type":"text","text":"The shear centre also provides a favourable axis for torsion.\nTorsion about axis $\\hat{Z}$ that passes through the shear centre will generate minimum stresses over the section for any given applied torque, hence providing a configuration of lowest potential energy.\nTherefore the shear centre is also sometimes called the torsion centre.","x":11501,"y":3202,"width":333,"height":400},
 		{"id":"bba6d4b5773bffc3","type":"text","text":"# How To Solve","x":7800,"y":-60,"width":524,"height":71},
 		{"id":"9a1b8771eb13f6a5","type":"text","text":"### Step 1","x":7995,"y":11,"width":168,"height":50},
 		{"id":"e216bce18d4d4e4f","type":"text","text":"In **STEP 1** we write our section coordinates as a function of $s$. This is called **section parametrisation**.","x":7800,"y":61,"width":524,"height":79},
@@ -314,7 +312,9 @@
 		{"id":"ba5bd8d9f886c34e","type":"text","text":"# The Local Moment Arm","x":9890,"y":3039,"width":327,"height":123},
 		{"id":"44b3b51a7eb030d6","type":"file","file":"Images & Attachments/Screenshot 2024-09-28 133813.png","x":9770,"y":4262,"width":370,"height":470},
 		{"id":"91c2a0325420891a","type":"text","text":"# External Torque about $\\hat{Z}$","x":10000,"y":4146,"width":370,"height":116},
-		{"id":"26ffdfa0305b63b0","type":"text","text":"# Shear Centre\n","x":9897,"y":2840,"width":312,"height":82}
+		{"id":"26ffdfa0305b63b0","type":"text","text":"# Shear Centre\n","x":9897,"y":2840,"width":312,"height":82},
+		{"id":"e32573d1f71979e6","type":"text","text":"The shear centre also provides a favourable axis for torsion.\nTorsion about axis $\\hat{Z}$ that passes through the shear centre will generate minimum stresses over the section for any given applied torque, hence providing a configuration of lowest potential energy.\nTherefore the shear centre is also sometimes called the torsion centre.","x":11501,"y":3202,"width":333,"height":400},
+		{"id":"161974e366489464","type":"file","file":"Images & Attachments/Pasted image 20241202132824.png","x":11834,"y":3202,"width":248,"height":400}
 	],
 	"edges":[
 		{"id":"a9091d7fc7a4cfbd","fromNode":"0c55663b1a1fbbc6","fromSide":"bottom","toNode":"c7ca0c49141018f6","toSide":"top"},
