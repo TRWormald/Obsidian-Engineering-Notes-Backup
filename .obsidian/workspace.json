@@ -32,17 +32,33 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
                 "viewState": {
-                  "x": 8415.085792818501,
-                  "y": 4220.806916614832,
-                  "zoom": -0.7886587234850173
+                  "x": 5857.258275458096,
+                  "y": -111.8182578918022,
+                  "zoom": -0.44982175744625713
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Light Aircraft Structures"
             }
+          },
+          {
+            "id": "cbbd3a741f6a6fdb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+                "page": 6,
+                "left": 13,
+                "top": 59,
+                "zoom": 1.07
+              },
+              "icon": "lucide-file-text",
+              "title": "Structures & Materials Formula Sheet"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,8 +275,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d4c3cd66ea9ae6ae",
+  "active": "cbbd3a741f6a6fdb",
   "lastOpenFiles": [
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
@@ -271,7 +289,6 @@
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
@@ -303,7 +320,6 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
-    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/3) Closed Thin Walled Sections/1) Torsion of Closed Sections.md",
