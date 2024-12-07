@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9edb8be072f9dd1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
-                "viewState": {
-                  "x": 2245.811260423863,
-                  "y": 1152.8989489755795,
-                  "zoom": -2.8722246728058343
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About 2D Elasticity"
-            }
-          },
-          {
             "id": "23fcbafcbc6e5e65",
             "type": "leaf",
             "state": {
@@ -32,30 +15,13 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
                 "viewState": {
-                  "x": 560.8157178251123,
-                  "y": 4044.7327495788113,
-                  "zoom": -1.1654926163804253
+                  "x": 4384.392560722221,
+                  "y": 3213.5496515933196,
+                  "zoom": -2.228889888002104
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Metals"
-            }
-          },
-          {
-            "id": "d4027746163f7fdd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-                "viewState": {
-                  "x": 5341,
-                  "y": 2840,
-                  "zoom": -4
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Light Aircraft Structures"
             }
           },
           {
@@ -74,26 +40,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Sustainable Manufacturing"
             }
-          },
-          {
-            "id": "5abf49d74b5456eb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Polymers & Composites"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,10 +261,10 @@
   },
   "active": "23fcbafcbc6e5e65",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
