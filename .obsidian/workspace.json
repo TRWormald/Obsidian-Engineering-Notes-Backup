@@ -4,58 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "858bae8fc777a676",
+        "id": "946675222c95ac4b",
         "type": "tabs",
         "children": [
           {
-            "id": "1466992a664d448d",
+            "id": "95ca414db477172f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
-                "page": 1,
-                "left": -56,
-                "top": 543,
-                "zoom": 0.26875
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": 249,
+                  "zoom": -1.3545026863161644
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture2_Ecodesign"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           },
           {
-            "id": "e04fbb30dd182f1d",
+            "id": "d4c3cd66ea9ae6ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
-                "page": 1,
-                "left": -56,
-                "top": 543,
-                "zoom": 0.26875
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+                "viewState": {
+                  "x": 2293.6079927949086,
+                  "y": -842.7749827062121,
+                  "zoom": -0.9570970168798497
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture3_LCA(1)"
-            }
-          },
-          {
-            "id": "89fa8f60c4edb20f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
-                "page": 1,
-                "left": -56,
-                "top": 543,
-                "zoom": 0.26875
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture4_sustainablemanufacturing_upload"
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Light Aircraft Structures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,10 +259,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1466992a664d448d",
+  "active": "d4c3cd66ea9ae6ae",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
+    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
+    "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Intro To Sustainability.md",
@@ -284,7 +272,6 @@
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-    "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
