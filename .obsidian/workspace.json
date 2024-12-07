@@ -32,9 +32,9 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
                 "viewState": {
-                  "x": 5857.258275458096,
-                  "y": -111.8182578918022,
-                  "zoom": -0.44982175744625713
+                  "x": 6458.604991891653,
+                  "y": 2749.4973624964273,
+                  "zoom": -0.3558130083588734
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -48,17 +48,17 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-                "page": 6,
-                "left": 13,
-                "top": 59,
-                "zoom": 1.07
+                "page": 7,
+                "left": 14,
+                "top": 102,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "Structures & Materials Formula Sheet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +275,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cbbd3a741f6a6fdb",
+  "active": "d4c3cd66ea9ae6ae",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
