@@ -8,10 +8,6 @@
 		{"id":"29a53a39e6c2956d","type":"group","x":3200,"y":1440,"width":1685,"height":1160,"label":"Elastic Constraints"},
 		{"id":"526856f35447c27d","type":"group","x":-235,"y":1440,"width":2035,"height":896,"label":"Strain"},
 		{"id":"9516c244074af9a2","type":"group","x":1880,"y":1440,"width":1172,"height":1160,"label":"Strain Measurement"},
-		{"id":"12660d075cc7bacd","type":"text","text":"The computationally intensive post-processing of high-resolution images precluded the practical use of DIC until  recently. The measurements need to be done under controlled circumstances (e.g. constant lighting conditions) so will not replace strain gauges in all applications.","x":2692,"y":2224,"width":340,"height":340},
-		{"id":"a0fed895a7b31642","type":"text","text":"A camera tracks relative displacement $(u,v)$ of fine speckle pattern, from which strain field is calculated.","x":2692,"y":2034,"width":340,"height":150},
-		{"id":"4fdb71cf95a7628c","type":"text","text":"They use the change in resistance of a wire as its diameter changes as it is under strain to determine said strain's magnitude.","x":1900,"y":2137,"width":392,"height":140},
-		{"id":"df90a29e306249b8","type":"text","text":"A photo-elastic coating is applied to the structure, and the magnitude and direction of the stresses at any point can then be determined by examining the fringe patterns produced by a polarised light source.","x":2318,"y":2177,"width":336,"height":260},
 		{"id":"0e0f7579b73d1325","type":"text","text":"We can obtain the critical values as follows:\nFrom uniaxial tensile tests $\\sigma_{2}=\\sigma_{3}=0$, so:\n$$\\tau_{critical}=\\frac{|\\sigma_{1}-\\sigma_{2}|}{2}=\\frac{\\sigma_{Y}}{2}$$\n","x":806,"y":-1480,"width":381,"height":220},
 		{"id":"d9e85b08dea475f3","type":"file","file":"Images & Attachments/Pasted image 20240929113128.png","x":691,"y":-561,"width":342,"height":261},
 		{"id":"62e4dc1f62d5bf79","type":"text","text":"To find the new coordinate system, consider the equilibrium of an infinitesimal element (with unit depth) cut at an angle $\\theta$ (measured CCW from the Y-axis) on which a normal stress $\\theta_{x'x'}$ and shear stress $\\tau_{x'y'}$ act.","x":360,"y":-300,"width":673,"height":120},
@@ -109,7 +105,7 @@
 		{"id":"81b381bdf00522de","type":"text","text":"Equating these gives us:\n$$\\Huge G=\\frac{E}{2(1+v)}$$","x":2947,"y":3478,"width":320,"height":146},
 		{"id":"81ad754efe74114a","type":"text","text":"The maximum/minimum shear stress occurs at 45 degrees to the principal directions/axes.\nIt can be calculated to be:","x":4062,"y":982,"width":441,"height":138},
 		{"id":"185da514b2270d5d","type":"text","text":"$$\\Huge \\tau_{\\text{max, min}}=\\pm\\frac{\\sigma_{1}-\\sigma_{2}}{2}=\\pm\\sqrt{\\left(\\frac{\\sigma_{xx}-\\sigma_{yy}}{2}\\right)^{2}+\\tau_{xy}^{2}}$$","x":3937,"y":1120,"width":691,"height":160},
-		{"id":"0f394d29e0ef97ee","type":"text","text":"$$\\Huge \\begin{bmatrix}\\varepsilon_{x'x'}\\\\\\varepsilon_{y'y'}\\\\\\gamma_{x'y'}/2\\end{bmatrix}=\\begin{bmatrix}\\cos^{2}\\theta&\\sin^{2}\\theta&2\\sin\\theta\\cos\\theta\\\\\\sin^{2}\\theta&\\cos^{2}\\theta&-2\\sin\\theta\\cos\\theta\\\\-\\sin\\theta\\cos\\theta&\\sin\\theta\\cos\\theta&\\cos^{2}\\theta-\\sin^{2}\\theta\\end{bmatrix}\\begin{bmatrix}\\varepsilon_{xx}\\\\\\varepsilon_{yy}\\\\\\gamma_{xy}/2\\end{bmatrix}$$","x":973,"y":1823,"width":807,"height":180},
+		{"id":"0f394d29e0ef97ee","type":"text","text":"$$\\Huge \\begin{bmatrix}\\varepsilon_{x'x'}\\\\\\varepsilon_{y'y'}\\\\\\gamma_{x'y'}/2\\end{bmatrix}=\\begin{bmatrix}\\cos^{2}\\theta&\\sin^{2}\\theta&2\\sin\\theta\\cos\\theta\\\\\\sin^{2}\\theta&\\cos^{2}\\theta&-2\\sin\\theta\\cos\\theta\\\\-\\sin\\theta\\cos\\theta&\\sin\\theta\\cos\\theta&\\cos^{2}\\theta-\\sin^{2}\\theta\\end{bmatrix}\\begin{bmatrix}\\varepsilon_{xx}\\\\\\varepsilon_{yy}\\\\\\gamma_{xy}/2\\end{bmatrix}$","x":973,"y":1823,"width":807,"height":180},
 		{"id":"7550c0fe8baa1890","type":"text","text":"# Strain","x":-15,"y":1481,"width":250,"height":60},
 		{"id":"8dd28386c8ab6e62","type":"text","text":"# Plane Strain","x":-15,"y":1702,"width":250,"height":60},
 		{"id":"dd654199e8892d90","type":"text","text":"In plane stress, although $\\sigma_{zz}=0$, thickness $t$ may vary due to $v$ (Poisson's Ratio):","x":590,"y":1818,"width":300,"height":143},
@@ -155,7 +151,11 @@
 		{"id":"6ebf0084307f6310","type":"text","text":"$$\\Huge\\sigma=K\\frac{\\Delta V}{V_{0}}$$","x":3258,"y":1940,"width":429,"height":120},
 		{"id":"c29f4f309cc5de5c","type":"text","text":"Volumetric strain describes the change in material volume:\n$$\\Huge \\frac{\\Delta V}{V_{0}}=\\frac{V-V_{0}}{V_{0}}$$","x":3763,"y":1920,"width":327,"height":190},
 		{"id":"cfb800cc0e6c173c","type":"text","text":"As both shear and bulk moduli must be positive and finite the Poisson's ratio must be greater than -1 and less than 0.5:","x":4376,"y":2359,"width":489,"height":121},
-		{"id":"acf407f82b655d3c","type":"text","text":"$$\\boxed{\\Huge v\\in(-1,0.5)}$$","x":4519,"y":2480,"width":204,"height":100}
+		{"id":"acf407f82b655d3c","type":"text","text":"$$\\boxed{\\Huge v\\in(-1,0.5)}$$","x":4519,"y":2480,"width":204,"height":100},
+		{"id":"12660d075cc7bacd","type":"text","text":"The computationally intensive post-processing of high-resolution images precluded the practical use of DIC until  recently. The measurements need to be done under controlled circumstances (e.g. constant lighting conditions) so will not replace strain gauges in all applications.","x":2692,"y":2224,"width":340,"height":340},
+		{"id":"a0fed895a7b31642","type":"text","text":"A camera tracks relative displacement $(u,v)$ of fine speckle pattern, from which strain field is calculated.","x":2692,"y":2034,"width":340,"height":150},
+		{"id":"4fdb71cf95a7628c","type":"text","text":"They use the change in resistance of a wire as its diameter changes as it is under strain to determine said strain's magnitude.","x":1900,"y":2137,"width":392,"height":140},
+		{"id":"df90a29e306249b8","type":"text","text":"A photo-elastic coating is applied to the structure, and the magnitude and direction of the stresses at any point can then be determined by examining the fringe patterns produced by a polarised light source.","x":2318,"y":2177,"width":336,"height":260}
 	],
 	"edges":[
 		{"id":"7d2c678e3667750c","fromNode":"9ec41d25cce798aa","fromSide":"bottom","toNode":"fa31c11540be0f4f","toSide":"top"},
