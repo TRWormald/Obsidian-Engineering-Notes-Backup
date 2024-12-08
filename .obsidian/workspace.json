@@ -8,68 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bca2c19a213c3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) Structural Idealisation"
-            }
-          },
-          {
-            "id": "f039578cfb30fa37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-                "page": 8,
-                "left": 8,
-                "top": 785,
-                "zoom": 0.75
-              },
-              "icon": "lucide-file-text",
-              "title": "Structures & Materials Formula Sheet"
-            }
-          },
-          {
-            "id": "a58e4eda82b35577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multi-Cell Sections Notation"
-            }
-          },
-          {
-            "id": "cc14bb56573c085a",
+            "id": "446cedbbf6ce1c48",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
                 "viewState": {
-                  "x": 5584.286666249246,
-                  "y": 2863.165087131453,
-                  "zoom": -0.8303078436735924
+                  "x": 3976.192201126677,
+                  "y": 608.8037559403192,
+                  "zoom": -1.3042671249909648
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Light Aircraft Structures"
+              "title": "Everything You Need to Know About 2D Elasticity"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,15 +241,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cc14bb56573c085a",
+  "active": "446cedbbf6ce1c48",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
+    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-    "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-    "Backend/Home.canvas",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
