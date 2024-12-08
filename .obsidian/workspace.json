@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ca414db477172f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": 249,
-                  "zoom": -1.3545026863161644
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
             "id": "d4c3cd66ea9ae6ae",
             "type": "leaf",
             "state": {
@@ -32,29 +15,13 @@
               "state": {
                 "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
                 "viewState": {
-                  "x": 5425.262122030581,
-                  "y": -970.8523029846289,
-                  "zoom": -0.9643936049829033
+                  "x": 5716.382281578405,
+                  "y": 633.7730992190073,
+                  "zoom": -0.7461363140439883
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Everything You Need to Know About Light Aircraft Structures"
-            }
-          },
-          {
-            "id": "cbbd3a741f6a6fdb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-                "page": 7,
-                "left": -245,
-                "top": 21,
-                "zoom": 0.9
-              },
-              "icon": "lucide-file-text",
-              "title": "Structures & Materials Formula Sheet"
             }
           },
           {
@@ -63,19 +30,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+                "file": "Backend/Home.canvas",
                 "viewState": {
-                  "x": 3514.7875764742903,
-                  "y": 3318.346668325521,
-                  "zoom": -0.5018091518873666
+                  "x": 7.7218007254457905,
+                  "y": 313.72180072544575,
+                  "zoom": -0.7929628597242802
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About 2D Elasticity"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,11 +258,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cc14bb56573c085a",
+  "active": "d4c3cd66ea9ae6ae",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-    "Backend/Home.canvas",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
@@ -304,7 +271,6 @@
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Intro To Sustainability.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
