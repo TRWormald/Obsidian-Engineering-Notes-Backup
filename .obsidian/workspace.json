@@ -28,14 +28,17 @@
             "id": "366e8da5d1be102a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
-                "mode": "source",
-                "source": false
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+                "viewState": {
+                  "x": 4803.982214875862,
+                  "y": 2759.8146626293255,
+                  "zoom": -1.3240824989391373
+                }
               },
-              "icon": "lucide-file",
-              "title": "Mohr's Circle - 2D Elasticity"
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Metals"
             }
           }
         ],
@@ -258,8 +261,9 @@
   },
   "active": "366e8da5d1be102a",
   "lastOpenFiles": [
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
     "Backend/Home.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
@@ -267,7 +271,6 @@
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/2) Stress-Resultant Torque in Idealised Sections.md",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
