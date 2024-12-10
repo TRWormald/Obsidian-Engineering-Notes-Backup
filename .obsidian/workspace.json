@@ -11,17 +11,14 @@
             "id": "366e8da5d1be102a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
-                "viewState": {
-                  "x": 4803.982214875862,
-                  "y": 2759.8146626293255,
-                  "zoom": -1.3240824989391373
-                }
+                "file": "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Metals"
+              "icon": "lucide-file",
+              "title": "1) Multi-Cell Sections"
             }
           }
         ]
@@ -244,10 +241,11 @@
   "active": "366e8da5d1be102a",
   "lastOpenFiles": [
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+    "Backend/Home.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
-    "Backend/Home.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Untitled.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
@@ -259,7 +257,6 @@
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Intro To Sustainability.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Images & Attachments/Pasted image 20241206153353.png",
