@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4553be5df4144ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": 249,
-                  "zoom": -0.7929628597242802
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
             "id": "366e8da5d1be102a",
             "type": "leaf",
             "state": {
@@ -41,8 +24,7 @@
               "title": "Everything You Need to Know About Metals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
