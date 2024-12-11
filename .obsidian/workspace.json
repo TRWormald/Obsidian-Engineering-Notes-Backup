@@ -11,14 +11,17 @@
             "id": "366e8da5d1be102a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
-                "mode": "source",
-                "source": false
+                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+                "viewState": {
+                  "x": 7323.666106662408,
+                  "y": 4141.78973769287,
+                  "zoom": -0.4955074213533133
+                }
               },
-              "icon": "lucide-file",
-              "title": "1) Multi-Cell Sections"
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Light Aircraft Structures"
             }
           }
         ]
@@ -240,6 +243,7 @@
   },
   "active": "366e8da5d1be102a",
   "lastOpenFiles": [
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Backend/Home.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
@@ -285,7 +289,6 @@
     "Engineering Year 2/Structures & Materials/3) Metals/3) Steel Alloys.md",
     "Engineering Year 2/Structures & Materials/3) Metals/1) Crystal Structure of Metals.md",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/3) Closed Thin Walled Sections/1) Torsion of Closed Sections.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/4) Mohr's Circle.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/1) Fundementals/2) Cross-Section Properties.md",
