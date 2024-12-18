@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "46bfa9f95ad77369",
+        "id": "5f3fbfa251d767a5",
         "type": "tabs",
         "children": [
           {
-            "id": "366e8da5d1be102a",
+            "id": "a8e29fdb4117bac4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-                "viewState": {
-                  "x": 7323.666106662408,
-                  "y": 4141.78973769287,
-                  "zoom": -0.4955074213533133
-                }
+                "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+                "page": 51,
+                "left": 2,
+                "top": 150,
+                "zoom": 2.2888282035633183
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Everything You Need to Know About Light Aircraft Structures"
+              "icon": "lucide-file-text",
+              "title": "Bazarov -Design of Jet and Swirl Injectors"
             }
           }
         ]
@@ -241,11 +240,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "366e8da5d1be102a",
+  "active": "a8e29fdb4117bac4",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Backend/Home.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/Mohr's Circle - 2D Elasticity.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
