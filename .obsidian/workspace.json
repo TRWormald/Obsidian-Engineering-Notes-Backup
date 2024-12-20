@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "15e4e5ab7ea95235",
+        "id": "b5a44f5d3875600e",
         "type": "tabs",
         "children": [
           {
-            "id": "d0a7a889a091f832",
+            "id": "a9ffe2aee92fcdc9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+                "page": 40,
+                "left": -9,
+                "top": 116,
+                "zoom": 0.8771123123710579
+              },
+              "icon": "lucide-file-text",
+              "title": "Bazarov -Design of Jet and Swirl Injectors"
+            }
+          },
+          {
+            "id": "84e0651997c23081",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 203,
+                "left": -18,
+                "top": 34,
+                "zoom": 0.8212669739000021
               },
               "icon": "lucide-file-text",
               "title": "LiquidAtomization"
@@ -238,12 +256,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d0a7a889a091f832",
+  "active": "a9ffe2aee92fcdc9",
   "lastOpenFiles": [
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-    "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+    "Backend/Home.canvas",
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
