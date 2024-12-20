@@ -4,20 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5f3fbfa251d767a5",
+        "id": "a19313663ac6c28e",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e29fdb4117bac4",
+            "id": "5dcefce80a16c63e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
-                "page": 51,
-                "left": 2,
-                "top": 150,
-                "zoom": 2.2888282035633183
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Bazarov -Design of Jet and Swirl Injectors"
@@ -240,9 +238,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8e29fdb4117bac4",
+  "active": "5dcefce80a16c63e",
   "lastOpenFiles": [
     "Backend/Home.canvas",
+    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
@@ -261,7 +260,6 @@
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture1_Materials and Environment.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Intro To Sustainability.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Images & Attachments/Pasted image 20241206153353.png",
     "Images & Attachments/Pasted image 20241206153149.png",
     "Images & Attachments/Pasted image 20241206153108.png",
