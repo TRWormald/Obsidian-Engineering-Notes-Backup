@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b5a44f5d3875600e",
+        "id": "d257ef4470abfc5d",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ffe2aee92fcdc9",
+            "id": "e6b46052cae8a9c0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
-                "page": 14,
-                "left": -27,
-                "top": 576,
-                "zoom": 1.9
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": 249,
+                  "zoom": -0.7929628597242802
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Bazarov -Design of Jet and Swirl Injectors"
-            }
-          },
-          {
-            "id": "84e0651997c23081",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-                "page": 203,
-                "left": -18,
-                "top": 34,
-                "zoom": 0.8212669739000021
-              },
-              "icon": "lucide-file-text",
-              "title": "LiquidAtomization"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -242,11 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "e6b46052cae8a9c0",
   "lastOpenFiles": [
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
-    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
