@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a19313663ac6c28e",
+        "id": "15e4e5ab7ea95235",
         "type": "tabs",
         "children": [
           {
-            "id": "5dcefce80a16c63e",
+            "id": "d0a7a889a091f832",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
+                "page": 271,
+                "left": -18,
+                "top": 508,
+                "zoom": 0.8212669553193016
               },
               "icon": "lucide-file-text",
-              "title": "Bazarov -Design of Jet and Swirl Injectors"
+              "title": "LiquidAtomization"
             }
           }
         ]
@@ -238,8 +240,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5dcefce80a16c63e",
+  "active": "d0a7a889a091f832",
   "lastOpenFiles": [
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
@@ -273,7 +276,6 @@
     "Images & Attachments/Pasted image 20241205225419.png",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/1) Stress and Stress Transformation.md",
     "Images & Attachments/Pasted image 20241205212415.png",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "Engineering Year 2/Structures & Materials/3) Metals/6) Titanium Alloys.md",
     "Images & Attachments/Pasted image 20241205132550.png",
