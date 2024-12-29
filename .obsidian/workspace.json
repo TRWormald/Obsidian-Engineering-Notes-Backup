@@ -11,17 +11,12 @@
             "id": "79353f573a95ba35",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "Bazarov -Design of Jet and Swirl Injectors"
             }
           }
         ]
@@ -229,9 +224,9 @@
   },
   "active": "79353f573a95ba35",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
-    "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
