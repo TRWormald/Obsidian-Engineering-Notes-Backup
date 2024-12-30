@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0018848b597cf914",
+        "id": "bf453cb4274e1b60",
         "type": "tabs",
         "children": [
           {
-            "id": "e0c1ac1b5b8acae5",
+            "id": "3c77637545de1c7c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-                "page": 203,
-                "left": -21,
-                "top": 43,
-                "zoom": 0.7007918441051065
-              },
-              "icon": "lucide-file-text",
-              "title": "LiquidAtomization"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -226,13 +220,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e0c1ac1b5b8acae5",
+  "active": "3c77637545de1c7c",
   "lastOpenFiles": [
-    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
-    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
