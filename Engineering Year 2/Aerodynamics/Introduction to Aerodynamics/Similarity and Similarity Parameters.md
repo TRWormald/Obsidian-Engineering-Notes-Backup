@@ -1,2 +1,0 @@
-If two bodies are geometrically similar (i.e. the same shape but different sizes) then their flows will only be similar if the similarity parameters are the same.
-These parameters are values that arise from dimensional analysis, and 
