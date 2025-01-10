@@ -11,4 +11,7 @@ $$C_{p}=\frac{\Delta p}{\frac{1}{2}\rho V^{2}}=\frac{\text{pressure force}}{\tex
 The Reynolds number is the ratio of the inertia force to the viscous force:
 $$Re=\frac{\rho VL}{\mu}=\frac{VL}{\nu}=\frac{\text{inertia force}}{\text{viscous force}}$$
 With a low Reynolds number viscous forces are important, however with high Reynolds numbers, viscous effects are confined to a thin region near the body.
-###
+### Mach Number
+The Mach number is a ratio of the inertia force to the elastic force, and is a compressibility parameter.
+$$M=\frac{V}{a}=\sqrt{\frac{\rho V^{2}}{E_{V}}}=\frac{\text{inertia force}}{\text{elastic force}}$$
+Transitions from subsonic to transonic to supersonic have profound impacts on flow phenomena. With low Mach numbers compressibility effects can usually be neglected.
