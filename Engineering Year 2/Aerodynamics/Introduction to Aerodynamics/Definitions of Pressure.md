@@ -12,4 +12,4 @@ Where $\frac{1}{2}\rho V^{2}$ is the **dynamic pressure** - which is equal to th
 ### Pressure Definitions in Steady, Compressible Flow
 For steady compressible flow the equation relating static and total pressure is a bit more complicated due to variations in density.
 **Static pressure** is again due to the random motion of molecules.
-**Total pressure** is the pressure that would be experienced when the fluid is brought to rest isotopically.
+**Total pressure** is the pressure that would be experienced when the fluid is brought to rest isentropically.

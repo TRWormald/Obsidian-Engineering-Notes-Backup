@@ -1,0 +1,4 @@
+It is more difficult to model unsteady flows, than steady ones - however some interesting unsteady flows can be modelled as steady flows if the fluid motion relative to a moving, rather than a fixed coordinate system, is considered using a [[The Galilean Transform|Galilean Transform]].
+![[Pasted image 20250110181204.png|centre]]
+A common example of this is a plane travelling at cruise, if we model the system with a global coordinate system then the pressure at any point in space varies with time, however if we use a coordinate system based on the plane (moving with it) then the pressure at a given point in space about the plane is constant. This makes calculations far easier.
+*Applied to the Navier-Stokes equations, the transformation changes the velocity by the constant relative motion of the aircraft but leaves the STATIC pressure and temperature unchanged.*
