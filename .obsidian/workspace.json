@@ -11,10 +11,14 @@
             "id": "3c77637545de1c7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 1/Thermodynamics/The Work Equation for Non-Constant Force.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Work Equation for Non-Constant Force"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:The Work Equation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,11 +227,11 @@
   },
   "active": "3c77637545de1c7c",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
+    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-    "Backend/Home.canvas",
-    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/1) Multi-Cell Sections.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
