@@ -1,0 +1,1 @@
+Consider the special case of irrotational 
