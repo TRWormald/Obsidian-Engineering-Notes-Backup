@@ -11,17 +11,16 @@
             "id": "8fb1dbd2a5f7e29d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "page": 29,
+                "left": -30,
+                "top": 727,
+                "zoom": 0.5061274509803921
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "AVDASI2 2024 Requirements Specification (Issue 01)"
             }
           }
         ]
@@ -229,6 +228,7 @@
   },
   "active": "8fb1dbd2a5f7e29d",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",
     "Images & Attachments/Pasted image 20250110184926.png",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/4) Derivation of the 1D Euler Equation from the Navier-Stokes Equations.md",
@@ -240,7 +240,6 @@
     "Images & Attachments/Pasted image 20250110181204.png",
     "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics",
-    "Backend/Home.canvas",
     "Engineering Year 1/Thermodynamics/The Work Equation for Non-Constant Force.md",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
