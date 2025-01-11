@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12baa13b7f3233e1",
+        "id": "502955579d9d37f5",
         "type": "tabs",
         "children": [
           {
-            "id": "d709f1cccdcb779d",
+            "id": "8fb1dbd2a5f7e29d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "5) Potential Flow"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,11 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d709f1cccdcb779d",
+  "active": "8fb1dbd2a5f7e29d",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",
     "Images & Attachments/Pasted image 20250110184926.png",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/4) Derivation of the 1D Euler Equation from the Navier-Stokes Equations.md",
-    "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",
     "Images & Attachments/Pasted image 20250110184047.png",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/From Navier-Stokes to Bernoulli.md",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/3) Similarity and Similarity Parameters.md",
@@ -276,7 +279,6 @@
     "Images & Attachments/Pasted image 20241205212415.png",
     "Engineering Year 2/Structures & Materials/3) Metals/6) Titanium Alloys.md",
     "Images & Attachments/Pasted image 20241205132550.png",
-    "Images & Attachments/Pasted image 20241205132530.png",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
