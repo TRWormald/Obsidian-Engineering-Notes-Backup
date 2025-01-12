@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "502955579d9d37f5",
+        "id": "64561e964e1ae427",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb1dbd2a5f7e29d",
+            "id": "f345033b2a3a2290",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf"
+                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "page": 29,
+                "left": -30,
+                "top": 761,
+                "zoom": 0.5061274509803921
               },
               "icon": "lucide-file-text",
               "title": "AVDASI2 2024 Requirements Specification (Issue 01)"
@@ -222,9 +226,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8fb1dbd2a5f7e29d",
+  "active": "f345033b2a3a2290",
   "lastOpenFiles": [
     "Backend/Home.canvas",
+    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",
     "Images & Attachments/Pasted image 20250110184926.png",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/4) Derivation of the 1D Euler Equation from the Navier-Stokes Equations.md",
@@ -274,7 +279,6 @@
     "Images & Attachments/Pasted image 20241205212415.png",
     "Engineering Year 2/Structures & Materials/3) Metals/6) Titanium Alloys.md",
     "Images & Attachments/Pasted image 20241205132550.png",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
