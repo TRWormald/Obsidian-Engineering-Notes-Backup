@@ -17,4 +17,9 @@ These are the minimum number of coordinates that will be sought to define comple
 
 >Application of Newton's laws, while considering all degrees of freedom, leads to the equations which describe the motions of bodies under the influence of the applied (external) forces.
 
-These are the equations of motion and they come in the form of ordinary (or partial) diff
+These are the equations of motion and they come in the form of ordinary (or partial) differential equations involving time derivatives of the motion-defining coordinates.
+#### Terminology, Symbols, Notation, etc.
+Some initial statements:
+- Vibrations are mechanical oscillations about the *equilibrium configuration*
+- Vibrating systems typically possess or feature flexibility and inertia
+- Real vibrating systems also display mechanical energy "dissipation"
