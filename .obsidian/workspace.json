@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "64561e964e1ae427",
+        "id": "46be346882a1a4d1",
         "type": "tabs",
         "children": [
           {
-            "id": "f345033b2a3a2290",
+            "id": "7ef3ea105b9ddbb6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-                "page": 29,
-                "left": -30,
-                "top": 761,
-                "zoom": 0.5061274509803921
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 85.35001144767367,
+                  "y": -62.061069542253506,
+                  "zoom": -0.7929628597242802
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "AVDASI2 2024 Requirements Specification (Issue 01)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -226,8 +227,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f345033b2a3a2290",
+  "active": "7ef3ea105b9ddbb6",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
     "Backend/Home.canvas",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",

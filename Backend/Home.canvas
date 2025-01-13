@@ -4,7 +4,7 @@
 		{"id":"81bcbdc2f9447b14","type":"text","text":"# General To Do\n\n\n","x":160,"y":-422,"width":406,"height":337},
 		{"id":"0df518e5e9b3d6fb","type":"text","text":"# Reminders\n","x":-680,"y":-422,"width":406,"height":337},
 		{"id":"aa1eba7bdc8265c8","type":"text","text":"# Prep Work\n","x":160,"y":-35,"width":406,"height":435},
-		{"id":"eaef77cb9960c627","type":"text","text":"# Exam Info\n- All polymers Qns. are medium length\n- 2D stresses are 1/2 short questions\n- Metals includes aspects of manufacturing\n- Metals also has a question on phase diagrams and lever rule\n- Past exam questions for metals are very relevant\n- There will be **no** parallel axis theorem\n- There will be Mohr's circle\n- There will be a shear centre question\n- PDF file on Metallurgy on BB\n- Polymers will also have some Qns. and Ans on blackboard\nDerivations that need to be known\n- Stress transformation\n- Shear modulus\n(Look at the handouts for more info)\n- Need to know Ally designations\n- Review pros and cons of Ti alloys","x":-680,"y":80,"width":406,"height":840}
+		{"id":"eaef77cb9960c627","type":"text","text":"# Exam Info\n","x":-680,"y":80,"width":406,"height":320}
 	],
 	"edges":[
 		{"id":"995189c21c6b7f69","fromNode":"0df973b9350b98bb","fromSide":"right","toNode":"81bcbdc2f9447b14","toSide":"left"},
