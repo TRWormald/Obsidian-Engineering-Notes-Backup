@@ -11,17 +11,14 @@
             "id": "230b95e92bfd67a9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.14446747149969943
-                }
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Lifting Cylinder Flow"
             }
           }
         ]
@@ -229,17 +226,20 @@
   },
   "active": "230b95e92bfd67a9",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow over a Cylinder.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Galilean Transform.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Why isn't Bernoulli's Equation Enough.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
+    "Backend/Home.canvas",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Why isn't Bernoulli's Equation Enough.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Galilean Transform.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/How to solve Potential Flows.md",
-    "Backend/Home.canvas",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Aerodynamics/Introduction to Aerodynamics/5) Potential Flow.md",
@@ -265,10 +265,7 @@
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Engineering Year 2/Structures & Materials/2) 2D Elasticity/7) Failure Criteria.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
-    "Untitled.md",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/4) Idealised Sections/1) Structural Idealisation.md",
     "Engineering Year 2/Structures & Materials/Structures & Materials Formula Sheet.pdf",
-    "Engineering Year 2/Structures & Materials/1) Light Aircraft Structures/5) Multi-Cell Sections/Multi-Cell Sections Notation.md",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture4_sustainablemanufacturing_upload.pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture3_LCA(1).pdf",
     "Engineering Year 2/Structures & Materials/5) Sustainable Materials & Manufacturing/Lecture2_Ecodesign.pdf",
