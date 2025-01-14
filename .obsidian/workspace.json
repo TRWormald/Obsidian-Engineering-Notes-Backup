@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
+                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/2) Classifying PDEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Introduction to PDEs"
+              "title": "2) Classifying PDEs"
             }
           }
         ]
@@ -226,8 +226,9 @@
   },
   "active": "c60a271772b5c394",
   "lastOpenFiles": [
-    "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/2) Classifying PDEs.md",
+    "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
     "Images & Attachments/Pasted image 20250114121453.png",
