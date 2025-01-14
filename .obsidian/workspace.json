@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/1) Introduction.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/2) Newton's Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Introduction"
+              "title": "2) Newton's Method"
             }
           }
         ]
@@ -226,6 +226,7 @@
   },
   "active": "54adfa52224c3b11",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/1) Introduction.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
     "Images & Attachments/Pasted image 20250114102457.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
@@ -238,7 +239,6 @@
     "Images & Attachments/Pasted image 20250114001436.png",
     "Images & Attachments/Pasted image 20250114000958.png",
     "Images & Attachments/Pasted image 20250114000836.png",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/1) Introduction.md",
     "Images & Attachments/Pasted image 20250114000408.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity",
