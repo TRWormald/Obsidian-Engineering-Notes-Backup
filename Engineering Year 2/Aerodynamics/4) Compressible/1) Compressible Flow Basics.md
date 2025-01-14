@@ -46,3 +46,17 @@ $$h=e+\frac{p}{\rho}$$
 Which when simplified using $p=\rho RT$ and $e=c_{v}T$, and noting that $c_{v}+R=c_{p}$:
 $$h=c_{p}T$$
 Where $c_p$ is the specific heat at constant pressure (1004 for air at standard conditions)
+
+The ratio of specific heats $\gamma$:
+$$\gamma=\frac{c_{p}}{c_v}$$
+Note that this is $\approx 1.4$ for air at standard conditions.
+#### Entropy
+Entropy $s$ represents the degree of disorder or in other words how spread out the energy is.
+It determines the direction of the thermodynamic process - note that the actual value of $s$ is unimportant.
+However it should be noted that entropy always increases.
+
+It is defined as:
+$$ds=\frac{\delta q_{rev}}{T}=\frac{\delta q}{T}+ds_{irrev}$$
+Where:
+- $\delta q$ is the amount of heat added to the system at room temperature $T$
+- $ds_{irrev}$ is entropy increase due to dissipative phenomena (viscosity, thermal conductivity, and mass diffusion) occurring within the system - it is always positive.
