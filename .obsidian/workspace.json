@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Stiffness, Damping, and Inertia"
+              "title": "5) The Complete EOM for an Elementary System"
             }
           }
         ]
@@ -226,10 +226,12 @@
   },
   "active": "54adfa52224c3b11",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20250114102457.png",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
     "Images & Attachments/Pasted image 20250114101334.png",
     "Images & Attachments/Pasted image 20250114100914.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/3) Harmonic Vibration.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/Introduction to Rotorcraft Aerodynamics.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/2) Newton's Method.md",
@@ -263,7 +265,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/How to solve Potential Flows.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Circulation.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Images & Attachments/Pasted image 20250110184926.png",
     "Images & Attachments/Pasted image 20250110184047.png",
@@ -277,7 +278,6 @@
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Images & Attachments/Pasted image 20241206153353.png",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",

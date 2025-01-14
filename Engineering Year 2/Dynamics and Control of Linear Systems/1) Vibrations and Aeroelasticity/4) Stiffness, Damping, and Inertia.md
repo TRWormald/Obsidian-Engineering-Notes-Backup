@@ -14,4 +14,7 @@ A couple of types of damper are:
 ### Rigid Bodies and Inertia
 Newton's method introduces inertial forces and moments. These loads are in dynamic equilibrium with other applied and internal loads. Inertia properties such as mass and mass moment of inertia can be seen as a measure of resistance to acceleration.
 $$F_{I}=-m\ddot{x}~~~~~~~~\text{translational motion}$$
-$$M_{I,A}=-I_{A}\ddot\varphi~\text{rotaitonal motion}$$
+$$M_{I,A}=-I_{A}\ddot\varphi~~~~~~~~~~\text{rotational motion}$$
+Note that $I_{A}$ is the mass moment of inertia which can be calculated using:
+$$I_{A}=\int_{(m)} r^{2}_{A}~dm=I_{A,1}+I_{A,2}~+~ ...$$
+
