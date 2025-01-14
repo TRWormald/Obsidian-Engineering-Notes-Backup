@@ -23,3 +23,16 @@ Some initial statements:
 - Vibrations are mechanical oscillations about the *equilibrium configuration*
 - Vibrating systems typically possess or feature flexibility and inertia
 - Real vibrating systems also display mechanical energy "dissipation"
+
+>To move from a “real problem” to a “mathematical model”, we need to apply simplifications, approximations, abstraction, judgement, expertise, common sense, etc. With this “toolset”, we can arrive at a “mechanical model” which should capture the “essence of the problem”
+
+The simplest foundational example of a mechanical model of a vibrating system is:
+![[Pasted image 20250114000408.png]]
+
+There are also several different types of vibrations (including but not limited to):
+- Free vibrations - vibration when forcing not present
+- Forced vibrations - vibration when forcing present or applied
+- Periodic vibrations - vibratory motion described by a periodic function
+- Harmonic vibrations - vibratory motion described by a harmonic function (i.e. cosine)
+- Undamped/damped vibrations - monotonous vibration decaying toward the equilibrium configuration
+- Unstable vibrations - vibration growing without bounds.
