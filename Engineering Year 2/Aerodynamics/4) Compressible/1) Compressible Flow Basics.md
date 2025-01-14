@@ -15,4 +15,34 @@ The Navier-Stokes equations in a fixed Cartesian coordinate system describe unst
 - Two equations that come from the fundamental properties of the fluid
 These equations determine the behaviour of all the flow quantities such as density, the three components of velocity, temperature, pressure, energy, and viscosity.
 ### Conservation of Energy
-Energy cannot be created or destroyed, merely changed in form
+Energy cannot be created or destroyed, merely changed in form - therefore we need to balance:
+1) Fluid energy
+	1) Internal energy
+	2) Kinetic Energy
+	3) Potential energy
+With
+2) Heat transfer and work done
+	1) Work done by body forces
+	2) Work done by pressure forces
+	3) Heat transfer
+	4) Viscous dissipation
+
+Which necessitates the 2 equations of state for specific internal energy $e$ and temperature $T$.
+
+Typically these are the ideal gas law:
+$$p=\rho RT$$
+and the equation for a calorically perfect gas:
+$$e=c_{v}T$$Where $c_{v}$ is the specific heat at constant volume.
+### Basic Thermodynamics
+We consider a thermally perfect gas, so:
+$$p=\rho RT$$
+Where $R$ is the gas constant (287 for air)
+The gas is also calorically perfect therefore:
+$$e=c_{v}T$$
+Where $c_{v}$ is specific heat at constant volume (717 for air at standard conditions).
+
+We will also need specific enthalpy $h$ which is defined as:
+$$h=e+\frac{p}{\rho}$$
+Which when simplified using $p=\rho RT$ and $e=c_{v}T$, and noting that $c_{v}+R=c_{p}$:
+$$h=c_{p}T$$
+Where $c_p$ is the specific heat at constant pressure (1004 for air at standard conditions)
