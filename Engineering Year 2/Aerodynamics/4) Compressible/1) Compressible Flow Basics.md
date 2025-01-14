@@ -60,3 +60,26 @@ $$ds=\frac{\delta q_{rev}}{T}=\frac{\delta q}{T}+ds_{irrev}$$
 Where:
 - $\delta q$ is the amount of heat added to the system at room temperature $T$
 - $ds_{irrev}$ is entropy increase due to dissipative phenomena (viscosity, thermal conductivity, and mass diffusion) occurring within the system - it is always positive.
+
+#### Integrating the First Law of Thermodynamics
+The first law is as follows:
+$$de=\delta q+\delta w$$
+We can substitute in $\delta q$ from the second law, giving:
+$$T ds=de-\delta w$$
+Then for a reversible process:
+$$\delta w=-pdv$$
+Where $v$ is specific volume 1/$\rho$, hence:
+$$Tds=de+pdv$$
+We can do some rearrangement and substitution to give us:
+$$ds=c_{p}\frac{dT}{T}-R\frac{dp}{p}$$
+Which can be integrated between two positions in the flow, resulting in:
+$$s_{2}-s_{1}=c_{p}\ln\left(\frac{T_{2}}{T_{1}}\right)-R\ln\left(\frac{p_{2}}{p_{1}}\right)$$So for a reversible process where $s_{2}-s_{1}=0$:
+$$\frac{c_{p}}{R}\ln\left(\frac{T_{2}}{T_{1}}\right)=\ln\left(\frac{p_{2}}{p_{1}}\right)$$
+Resulting in:
+$$\frac{p_{2}}{p_{1}}=\left(\frac{T_{2}}{T_{1}}\right)^{\frac{\gamma}{\gamma-1}}$$
+And we can use the ideal gas law to relate this to density:
+$$\boxed{\frac{p_{2}}{p_{1}}=\left(\frac{T_{2}}{T_{1}}\right)^{\frac{\gamma}{\gamma-1}}=\left(\frac{\rho_{2}}{\rho_{1}}\right)^{\gamma}}$$
+This implies that:
+$$p=const\cdot\rho^{\gamma}$$
+Hence differentiating gives:
+$$\frac{dp}{d\rho}=\frac{\gamma p}{\rho}$$
