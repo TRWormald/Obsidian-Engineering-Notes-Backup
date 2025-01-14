@@ -5,6 +5,8 @@
 $$\text{stiffness}=\frac{\text{applied load}}{\text{deformation}}$$
 There are a couple of equations for stiffness, based on different types of springs:
 ![[Pasted image 20250114100914.png|centre]]
+#### Equivalent Stiffness
+We can also apply the concept of stiffness to other objects - which may not resemble springs, but however still resist deformation:
 ### Dampers and Viscous Damping
 
 > Damping is responsible for forces which oppose motion. Viscous dampers/damping resists motion with the forces proportional to the relative velocity experienced between the ends of the damping element.
