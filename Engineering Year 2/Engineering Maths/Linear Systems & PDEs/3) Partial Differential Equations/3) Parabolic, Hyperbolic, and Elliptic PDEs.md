@@ -24,4 +24,10 @@ To solve them we need:
 - A pair of boundary conditions in the space-like variable, one on each boundary (e.g. known displacement at each end)
 - Can be solved in an unbounded domain in the space-like variable
 ### Elliptic PDEs
-These are PDEs like [[1) Introduction to PDEs#]]
+These are PDEs like [[1) Introduction to PDEs#Laplace's Equation|Laplace's equation]]:
+- All have solutions that are at equilibrium
+- There is no "time-like" direction
+- Solutions are always smooth
+To solve them we need:
+- A closed domain
+- A single condition at every point on the boundary (e.g. a known temperature, or a known temperature gradient normal to the boundary)

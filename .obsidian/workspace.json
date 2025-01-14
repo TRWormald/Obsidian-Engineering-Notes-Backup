@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/3) Parabolic, Hyperbolic, and Elliptic PDEs.md",
+                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Parabolic, Hyperbolic, and Elliptic PDEs"
+              "title": "1) Introduction to PDEs"
             }
           }
         ]
@@ -226,8 +226,10 @@
   },
   "active": "c60a271772b5c394",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/4) How to Solve PDEs.md",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5).md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/3) Parabolic, Hyperbolic, and Elliptic PDEs.md",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/2) Classifying PDEs.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
@@ -266,8 +268,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Images & Attachments/Pasted image 20250110184926.png",
     "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics",
