@@ -4,8 +4,8 @@ Compressibility is effectively where density is a function of pressure.
 We can see how an increased Mach number changes the stagnation density (the density when the air is completely brought to a halt).
 > Note that density is also a function of:
 > - Temperature
-> - Energy
-> - Flight speed
+> -> and therefore Energy
+> -> and therefore Flight speed
 
 ### Navier-Stokes
 The Navier-Stokes equations in a fixed Cartesian coordinate system describe unsteady, viscous, compressible flow with body forces. In 3D there are 7 different unknown quantities, and the equations are:
@@ -30,9 +30,9 @@ With
 Which necessitates the 2 equations of state for specific internal energy $e$ and temperature $T$.
 
 Typically these are the ideal gas law:
-$$p=\rho RT$$
+$$\boxed{p=\rho RT}$$
 and the equation for a calorically perfect gas:
-$$e=c_{v}T$$Where $c_{v}$ is the specific heat at constant volume.
+$$\boxed{e=c_{v}T}$$Where $c_{v}$ is the specific heat at constant volume.
 ### Basic Thermodynamics
 We consider a thermally perfect gas, so:
 $$p=\rho RT$$
