@@ -23,5 +23,11 @@ The type of damping is determined by the part of the equation inside the bracket
 - $c^{2}/(4mk)>1$ then the system is overdamped
 - $c^{2}/(4mk)<1$ then the system is underdamped
 - $c^{2}/(4mk)=1$ then the system is critically damped
-We can again 
+
+The ratio $\frac{c}{2(mk)^{\frac{1}{2}}}$ is dimensionless and is called the damping ratio $\zeta$ so we can rewrite the equation above as:
+$$s_{1,2}=-\zeta\omega_{0}\pm\omega_{0}(\zeta^{2}-1)^\frac{1}{2}$$
 #### Underdamped Motion
+
+#### Overdamped Motion
+
+#### Critically Damped Motion
