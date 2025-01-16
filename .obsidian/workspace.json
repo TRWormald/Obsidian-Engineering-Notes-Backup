@@ -20,8 +20,25 @@
               "icon": "lucide-file",
               "title": "1) Lecture Notes 16-01-25"
             }
+          },
+          {
+            "id": "09ddf346d3a035a2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
+                "page": 3,
+                "left": -132,
+                "top": 817,
+                "zoom": 1.07
+              },
+              "icon": "lucide-file-text",
+              "title": "SSC Handbook 1.2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1) Lecture Notes 16-01-25"
+              "title": "Backlinks for SSC Handbook 1.2"
             }
           },
           {
@@ -112,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1) Lecture Notes 16-01-25"
+              "title": "Outgoing links from SSC Handbook 1.2"
             }
           },
           {
@@ -139,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md"
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1) Lecture Notes 16-01-25"
+              "title": "Outline of SSC Handbook 1.2"
             }
           },
           {
@@ -171,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1) Lecture Notes 16-01-25"
+              "title": "Graph of SSC Handbook 1.2"
             }
           }
         ]
@@ -223,11 +240,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "96e7e94573183b80",
+  "active": "09ddf346d3a035a2",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Signals Basics.md",
     "Backend/Home.canvas",
