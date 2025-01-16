@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fd70960c3aaed4c3",
+        "id": "64acff5f55f50ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "53faaf70f6e23af2",
+            "id": "59ff66c7207dc356",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.14446747149969943
-                }
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 846,
+                "zoom": 1.4979338842975207
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "SSC Handbook 1.1"
             }
           }
         ]
@@ -227,16 +226,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "53faaf70f6e23af2",
+  "active": "59ff66c7207dc356",
   "lastOpenFiles": [
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Signals Basics.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
+    "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20250115213654.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
     "Images & Attachments/Pasted image 20250115213530.png",
     "Images & Attachments/Pasted image 20250115213514.png",
     "Images & Attachments/Pasted image 20250115213506.png",
     "Images & Attachments/Pasted image 20250115212324.png",
-    "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics.md",
     "Images & Attachments/Pasted image 20250114212300.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/2) Classifying PDEs.md",
@@ -270,11 +272,8 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Galilean Transform.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Why isn't Bernoulli's Equation Enough.md",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
