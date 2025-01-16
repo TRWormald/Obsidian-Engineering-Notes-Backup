@@ -27,7 +27,19 @@ The type of damping is determined by the part of the equation inside the bracket
 The ratio $\frac{c}{2(mk)^{\frac{1}{2}}}$ is dimensionless and is called the damping ratio $\zeta$ so we can rewrite the equation above as:
 $$s_{1,2}=-\zeta\omega_{0}\pm\omega_{0}(\zeta^{2}-1)^\frac{1}{2}$$
 #### Underdamped Motion
-
+In underdamped motion:
+$$0<\zeta<1 \Rightarrow s_{1,2}=-\zeta\omega_{0}\pm \omega_{0}(\zeta ^{2}-1)^{\frac{1}{2}}$$
+Which can be further simplified to be:
+$$s_{1,2}=-\zeta \omega_{0}\pm i\omega_{0}\sqrt{1-\zeta ^{2}}$$
+From which we can say that:
+$$\omega_{D}=\omega_{0}\sqrt{1-\zeta^{2}}$$
+Where $\omega_D$ is the damped natural frequency.
+Hence solving the differential equation using the is we get:
+$$x(t)=Ae^{-\zeta\omega_{0}t}\cos(\omega_{D}t-\phi)$$
+Where the exponential is the decaying function, the first term inside the cosine is the harmonic motion with the natural damped frequency, and the final term is the phase lag due to damping.
 #### Overdamped Motion
-
+In overdamped motion:
+$$\zeta>1 \Rightarrow s_{1,2}=-\zeta\omega_{0}\pm \omega_{0}\sqrt{\zeta^{2}-1}$$
+Therefore solving the differential equation gives:
+$$x(t)=e^{-\zeta\omega_{0}t}(A_{1}+A-)$$
 #### Critically Damped Motion

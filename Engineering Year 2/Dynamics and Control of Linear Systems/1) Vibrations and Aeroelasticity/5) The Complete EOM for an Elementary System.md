@@ -5,3 +5,5 @@ $$ma+cv+kx=F(t)$$
 or:
 $$m\ddot{x}+c\dot{x}+kx=F(t)$$
 Note how this is an ordinary differential equation (ODE) in time with a non zero RHS.
+
+![[Pasted image 20250116150503.png|centre]]
