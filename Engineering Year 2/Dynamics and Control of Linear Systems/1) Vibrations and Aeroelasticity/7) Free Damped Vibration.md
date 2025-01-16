@@ -41,5 +41,10 @@ Where the exponential is the decaying function, the first term inside the cosine
 In overdamped motion:
 $$\zeta>1 \Rightarrow s_{1,2}=-\zeta\omega_{0}\pm \omega_{0}\sqrt{\zeta^{2}-1}$$
 Therefore solving the differential equation gives:
-$$x(t)=e^{-\zeta\omega_{0}t}(A_{1}+A-)$$
+$$x(t)=e^{-\zeta\omega_{0}t}(A_{1}e^{\omega_{0}\sqrt{\zeta^{2}-1}t}+A_{2}e^{-\omega_{0}\sqrt{\zeta^{2}-1}t})$$
+Where the oscillation is exponentially decaying aperiodic motion. Note that the terms inside the brackets represents a real non-oscillatory function.
 #### Critically Damped Motion
+In critically damped motion:
+$$\zeta=1\Rightarrow s_{1,2}=-\omega_{0}$$
+So there is a special solution due to having a double real root:
+$$x(t)=(A_{1}+A_{2}t)e^{-\omega_{0}t}$$

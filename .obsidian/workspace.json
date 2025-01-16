@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7) Free Damped Vibration"
+              "title": "Backlinks for 6) Free Undamped Vibration"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7) Free Damped Vibration"
+              "title": "Outgoing links from 6) Free Undamped Vibration"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md"
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7) Free Damped Vibration"
+              "title": "Outline of 6) Free Undamped Vibration"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 7) Free Damped Vibration"
+              "title": "Graph of 6) Free Undamped Vibration"
             }
           }
         ]
@@ -252,11 +252,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dbb1d4faf8d7a0d8",
+  "active": "3a89dc946669c3c9",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Images & Attachments/Pasted image 20250116150503.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
