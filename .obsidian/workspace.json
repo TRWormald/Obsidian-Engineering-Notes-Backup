@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7ab13540dbfbee",
+        "id": "fd70960c3aaed4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ad226434f8797d",
+            "id": "53faaf70f6e23af2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -0.14446747149969943
+                }
               },
-              "icon": "lucide-file",
-              "title": "7) Free Damped Vibration"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,11 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c4ad226434f8797d",
+  "active": "53faaf70f6e23af2",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Images & Attachments/Pasted image 20250115213654.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Images & Attachments/Pasted image 20250115213530.png",
     "Images & Attachments/Pasted image 20250115213514.png",
     "Images & Attachments/Pasted image 20250115213506.png",
@@ -252,7 +255,6 @@
     "Images & Attachments/Pasted image 20250114101334.png",
     "Images & Attachments/Pasted image 20250114100914.png",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/Introduction to Rotorcraft Aerodynamics.md",
-    "Images & Attachments/Pasted image 20250114001436.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics",
