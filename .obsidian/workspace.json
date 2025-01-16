@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 846,
-                "zoom": 1.4979338842975207
+                "page": 8,
+                "left": -87,
+                "top": 21,
+                "zoom": 0.89
               },
               "icon": "lucide-file-text",
               "title": "SSC Handbook 1.1"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:The Work Equation",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,9 +96,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AVDASI2 2024 Requirements Specification (Issue 01)"
+              "title": "Backlinks for SSC Handbook 1.1"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AVDASI2 2024 Requirements Specification (Issue 01)"
+              "title": "Outgoing links from SSC Handbook 1.1"
             }
           },
           {
@@ -141,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf"
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of AVDASI2 2024 Requirements Specification (Issue 01)"
+              "title": "Outline of SSC Handbook 1.1"
             }
           },
           {
@@ -161,8 +162,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "02a27b78e3287c7e",
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,15 +202,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AVDASI2 2024 Requirements Specification (Issue 01)"
+              "title": "Graph of SSC Handbook 1.1"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +225,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "59ff66c7207dc356",
+  "active": "1735a000869e643a",
   "lastOpenFiles": [
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Signals Basics.md",
