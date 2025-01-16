@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6) Free Undamped Vibration"
+              "title": "5) The Complete EOM for an Elementary System"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6) Free Undamped Vibration"
+              "title": "Backlinks for 5) The Complete EOM for an Elementary System"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6) Free Undamped Vibration"
+              "title": "Outgoing links from 5) The Complete EOM for an Elementary System"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md"
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6) Free Undamped Vibration"
+              "title": "Outline of 5) The Complete EOM for an Elementary System"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 6) Free Undamped Vibration"
+              "title": "Graph of 5) The Complete EOM for an Elementary System"
             }
           }
         ]
@@ -254,9 +254,9 @@
   },
   "active": "3a89dc946669c3c9",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
     "Images & Attachments/Pasted image 20250116150503.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
