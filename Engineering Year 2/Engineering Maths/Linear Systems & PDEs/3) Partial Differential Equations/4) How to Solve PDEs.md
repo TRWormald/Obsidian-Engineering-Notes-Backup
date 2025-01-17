@@ -13,4 +13,4 @@ There are:
 - Spectral methods
 - Relaxation methods
 
-However of these we will only be looking at **analytical methods**, specifically *separation of vairables* and *d'Alembert's method*.
+However of these we will only be looking at **analytical methods**, specifically *separation of variables* and *d'Alembert's method*.
