@@ -8,4 +8,22 @@ Consider the wave equation on a finite domain:
 $$\underbrace{u_{tt}=c^{2}u_{xx}}_{\text{wave equation}}~~~~~~~~\underbrace{0\le x\le L,~~~t\ge0}_\text{finite domain}$$
 subject to homogenous boundary conditions and initial conditions of known displacement and zero velocity:
 $$\underbrace{u(0,t)=u(L,t)=0 \text{~for all } t>0}_{\text{boundary conditions}}$$
-$$\underbrace{x(x,0)=f(x),~~}_{\text{initial conditions}}$$
+$$\underbrace{x(x,0)=f(x),~~u_{t}=(x,0)=0~\text{for all }0\le x\le L}_{\text{initial conditions}}$$
+For some given (non-zero) function $f(x)$.
+
+*Note that this means that the solution $u(x,t)\ne 0$, since its non-zero at time $t=0$* 
+#### Stage 1 - Assume a Separable Solution
+First, assume a separable solution:
+$$u(x,t)=X(x)T(t)$$
+Substituting this into the PDE we get:
+$$\frac{\partial^{2}}{\partial t}[X(x)T(t)]=c^{2} \frac{\partial^{2}}{\partial x^{2}}[X(x)T(t)]$$
+Which simplifies to:
+$$X(x)T''(t)=c^{2}X''(x)T(t)$$
+We can then divide both sides to get each side in terms of a single function and its derivatives:
+$$\frac{1}{c^{2}}\frac{T''(t)}{T(t)}=\frac{X''(x)}{X(x)}$$
+#### Stage 2 - The Separation Constant
+The LHS of the equation above is a function of time only, while the RHS is a function of space only. But $x$ and $t$ are independent variables. This  can only be true if both are equal to a constant.
+So:
+$$\frac{1}{c^{2}}\frac{T''(t)}{T(t)}=\frac{X''(x)}{X(x)}=\text{constant}=\mu $$
+Now we can separate the equations, into two separate ODEs, one for $X(x)$ and one for $T(t)$:
+$$\left{\begin{matrix}\frac{1}{c^{2}}\frac{T''(t)}{T(t)}= \\  =\frac{X''(x)}{X(x)}=\end{matrix}\right\$$
