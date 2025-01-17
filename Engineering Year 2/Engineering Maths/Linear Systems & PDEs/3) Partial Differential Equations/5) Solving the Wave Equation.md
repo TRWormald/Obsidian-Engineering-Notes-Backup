@@ -36,3 +36,7 @@ $$\left\{\begin{matrix}T''(t)=(kc)^{2}T(t) \\ X''(x)=k^2 X(x)\end{matrix}\right.
 ###### If $\mu<0$: 
 Then we write $\mu=-k^{2}$ for some $k>0$, then:
 $$\left\{\begin{matrix}T''(t)=-(kc)^{2}T(t) \\ X''(x)=-k^2 X(x)\end{matrix}\right.~~~\Rightarrow~~~\left\{\begin{matrix}T(t)=A\cos(kct)+B\sin(kct) \\ X(x)=C\cos(kx)+D\sin(kx)\end{matrix}\right.$$
+##### What Sign Should the Separation Constant Be?
+Effectively:
+- For the **wave equation** and the **heat equation** the separation constant must be negative
+- For **Laplace's equation** it depends on the boundary conditions (more details later)
