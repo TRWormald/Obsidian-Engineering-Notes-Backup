@@ -26,4 +26,13 @@ The LHS of the equation above is a function of time only, while the RHS is a fun
 So:
 $$\frac{1}{c^{2}}\frac{T''(t)}{T(t)}=\frac{X''(x)}{X(x)}=\text{constant}=\mu $$
 Now we can separate the equations, into two separate ODEs, one for $X(x)$ and one for $T(t)$:
-$$\left{\begin{matrix}\frac{1}{c^{2}}\frac{T''(t)}{T(t)}= \\  =\frac{X''(x)}{X(x)}=\end{matrix}\right\$$
+$$\left\{\begin{matrix}\frac{1}{c^{2}}\frac{T''(t)}{T(t)}=\mu \\  \frac{X''(x)}{X(x)}=\mu\end{matrix}\right.~~~~\Rightarrow\left\{\begin{matrix}T''(t)=\mu c^{2}T(t) \\ X''(x)=\mu X(x)\end{matrix}\right.$$
+Where $\mu$ is the **separation constant**
+#### Stage 3 - Solving the Separated ODEs
+We can solve the separated ODEs for $X(x)$ and $T(t)$ if we know the sign of the separation constant $\mu$. There are two choices:
+###### If $\mu>0$: 
+Then we write $\mu=k^{2}$ for some $k>0$, then:
+$$\left\{\begin{matrix}T''(t)=(kc)^{2}T(t) \\ X''(x)=k^2 X(x)\end{matrix}\right.~~~\Rightarrow~~~\left\{\begin{matrix}T(t)=Ae^{kct}+Be^{-kct} \\ X(x)=Ce^{kx}+De^{-kx}\end{matrix}\right.$$
+###### If $\mu<0$: 
+Then we write $\mu=-k^{2}$ for some $k>0$, then:
+$$\left\{\begin{matrix}T''(t)=-(kc)^{2}T(t) \\ X''(x)=-k^2 X(x)\end{matrix}\right.~~~\Rightarrow~~~\left\{\begin{matrix}T(t)=A\cos(kct)+B\sin(kct) \\ X(x)=C\cos(kx)+D\sin(kx)\end{matrix}\right.$$
