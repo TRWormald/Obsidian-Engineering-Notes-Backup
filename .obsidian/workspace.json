@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1593e84d373fba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5) Solving the Wave Equation"
-            }
-          },
-          {
             "id": "aa5f6d6b2662d3f6",
             "type": "leaf",
             "state": {
@@ -33,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "6) When can we use Separation of Variables"
-            }
-          },
-          {
-            "id": "c2d0437070742fec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -247,11 +223,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b1593e84d373fba0",
+  "active": "aa5f6d6b2662d3f6",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/3) Parabolic, Hyperbolic, and Elliptic PDEs.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/2) Classifying PDEs.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/6) When can we use Separation of Variables.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/4) How to Solve PDEs.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
