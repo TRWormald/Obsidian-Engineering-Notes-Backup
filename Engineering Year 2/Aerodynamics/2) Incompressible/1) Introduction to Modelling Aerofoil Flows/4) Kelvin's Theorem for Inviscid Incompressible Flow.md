@@ -7,3 +7,4 @@ i.e. there is ‘conservation of circulation’.
 This means that circulation (and hence lift) cannot be created in potential flow! 
 In a real flow it is the action of viscosity that leads to the generation of circulation.
 ### The Starting Vortex
+Consider an aerofoil that is initially at rest in a stationary fluid, then the effects of viscosity are negligible. The circulation about the aerofoil (which equals the line integral of velocity around any curve enclosing the aerofoil) is zero:
