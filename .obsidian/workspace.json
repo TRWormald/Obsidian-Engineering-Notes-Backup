@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) The Kutta Condition"
+              "title": "4) Kelvin's Theorem for Inviscid Incompressible Flow"
             }
           }
         ]
@@ -225,10 +225,12 @@
   },
   "active": "0770c6d83fde88cb",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
+    "Images & Attachments/Pasted image 20250119152211.png",
     "Images & Attachments/Pasted image 20250119150936.png",
     "Images & Attachments/Pasted image 20250119150708.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/2) The Joukowski Transformation.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
     "Images & Attachments/Pasted image 20250119150301.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
     "Images & Attachments/Pasted image 20250119145543.png",
@@ -264,8 +266,6 @@
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Lecture Notes 16-01-25.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Signals Basics.md",
-    "Images & Attachments/Pasted image 20250115213654.png",
-    "Images & Attachments/Pasted image 20250115213530.png",
     "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",

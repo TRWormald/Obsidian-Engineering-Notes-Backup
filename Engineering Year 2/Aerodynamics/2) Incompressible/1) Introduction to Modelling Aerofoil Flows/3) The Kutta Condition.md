@@ -11,4 +11,9 @@ Where the aft stagnation point is on the upper surface, therefore the flow has t
 
 So the effect of viscosity can be modelled in an inviscid flow by adding just enough circulation so that the flow leaves the T-E smoothly. **This is the Kutta Condition.**
 ![[Pasted image 20250119150936.png|centre]]
-The empirical Kutta condition fixes the value of circulation at any angle of attack
+The empirical Kutta condition fixes the value of circulation at any angle of attack, and hence the lift via:
+$$l=\rho U_\infty\Gamma$$
+The implications of this are that the velocities and hence pressures top and bottom must be equal:
+- For aerofoils with a finite T-E angle there must be a stagnation point at the trailing edge.
+- For a cusped T-E aerofoil the velocities on the top and bottom surfaces must have the same magnitude and direction at the trailing edge.
+![[Pasted image 20250119152211.png|centre]]
