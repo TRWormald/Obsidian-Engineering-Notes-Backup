@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5) Aerofoil Geometry"
+              "title": "4) Kelvin's Theorem for Inviscid Incompressible Flow"
             }
           }
         ]
@@ -225,9 +225,9 @@
   },
   "active": "0770c6d83fde88cb",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
     "Images & Attachments/Pasted image 20250119154902.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
     "Images & Attachments/Pasted image 20250119154741.png",
     "Images & Attachments/Pasted image 20250119154333.png",
     "Images & Attachments/Pasted image 20250119154112.png",
@@ -240,7 +240,6 @@
     "Images & Attachments/Pasted image 20250119150301.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
     "Images & Attachments/Pasted image 20250119145543.png",
-    "Images & Attachments/Pasted image 20250119145521.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
     "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics/5) Potential Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
