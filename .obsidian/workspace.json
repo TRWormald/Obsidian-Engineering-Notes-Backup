@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Conformal Transformation"
+              "title": "3) The Kutta Condition"
             }
           }
         ]
@@ -225,6 +225,11 @@
   },
   "active": "0770c6d83fde88cb",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20250119150708.png",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/2) The Joukowski Transformation.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
+    "Images & Attachments/Pasted image 20250119150301.png",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
     "Images & Attachments/Pasted image 20250119145543.png",
     "Images & Attachments/Pasted image 20250119145521.png",
     "Images & Attachments/Pasted image 20250119145509.png",
@@ -232,7 +237,6 @@
     "Images & Attachments/Pasted image 20250119144834.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
     "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics/5) Potential Flow.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lift Generation.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow.md",
     "Backend/Home.canvas",
@@ -262,13 +266,9 @@
     "Images & Attachments/Pasted image 20250115213654.png",
     "Images & Attachments/Pasted image 20250115213530.png",
     "Images & Attachments/Pasted image 20250115213514.png",
-    "Images & Attachments/Pasted image 20250115213506.png",
-    "Images & Attachments/Pasted image 20250115212324.png",
     "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/1) Introduction to PDEs.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5).md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics",
