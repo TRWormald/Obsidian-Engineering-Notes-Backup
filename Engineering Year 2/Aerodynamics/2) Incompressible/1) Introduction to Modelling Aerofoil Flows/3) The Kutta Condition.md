@@ -10,3 +10,5 @@ Where the aft stagnation point is on the upper surface, therefore the flow has t
 >In a real flow the action of viscosity is such that the flow leave the T-E smoothly, and the velocity there is finite.
 
 So the effect of viscosity can be modelled in an inviscid flow by adding just enough circulation so that the flow leaves the T-E smoothly. **This is the Kutta Condition.**
+![[Pasted image 20250119150936.png|centre]]
+The empirical Kutta condition fixes the value of circulation at any angle of attack
