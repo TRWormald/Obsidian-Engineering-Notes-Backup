@@ -25,4 +25,16 @@ For a rotor in hover, when the onset velocity $V=0$, we get that the induced vel
 $$v_{h}=\sqrt{\frac{T}{2\rho A}}$$
 With the induced power being:
 $$P=Tv_{h}~~~~\text{hence,}~~~~P_{h}=\frac{T^{\frac{2}{3}}}{\sqrt{2\rho A}}$$
+### Induced Velocity in Axial Flight
+> How does the induced velocity change in steady state axial (vertical) flight?
 
+Firstly, steady state means that the vertical acceleration of the helicopter is zero. This means that the helicopter is:
+- In a climb at constant speed
+- In a descent at constant speed
+- In hover condition
+
+Starting from:
+$$T_{Hover}=T_{AxialFlight}=T,$$
+$$2\rho Av_{h}^{2}=2\rho A(V+v)v$$
+If we then divide both sides by $v_{h}^{2}$, and plot the variation of $\frac{v}{v_{h}}$ as a function of $\frac{V}{v_{h}}$:
+$$\frac{v}{v_{h}}=\frac{-V_{c}}{2v_{h}}$$
