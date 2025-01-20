@@ -6,4 +6,7 @@ We can use alternative ways to indicate the presence of friction in our problems
 The equation of motion takes the form:
 ![[Pasted image 20250120152734.png|centre]]
 ### Free Vibration with Friction
-We shall now consider 
+We shall now consider free vibration with the effects of friction taken into account:
+![[Pasted image 20250120154339.png|centre]]
+The function $\text{sign}$ has three possible discrete values: -1, 0, and 1. Thus all three cases have to be considered independently:
+$$\text{sign}(\dot{x})=\left\{\begin(matrix)\end(ma\right.$$
