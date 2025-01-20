@@ -1,5 +1,6 @@
 We have previously looked at [[Actuator Disc Theory (Propellors)|actuator disk theory]].
 The **lifting rotor** in its most simplistic form is a propeller: mechanical energy is used to accelerate a mass of air to generate a lifting force.
+### Actuator Disc (Momentum) Theory
 Newton's law, states that $F=ma$ where $F$ is the rotor thrust $T$.
 ![[Pasted image 20250120143825.png|centre|250]]
 In the above diagram we apply Bernoulli's equation to either side of the actuator disk to get:
@@ -13,4 +14,15 @@ Which can be obtained from [[Control Volume Analysis Introduction|control volume
 
 
 Therefore we have:
+$$H_{1}-H_{0}=\frac{1}{2}\rho(2Vv_{1}+v_{1}^{2})=P'$$
+$$\frac{T}{A}=P'=\rho(V+v)v_{1}$$
+From which we can get:
+$$\frac{v_{1}}{2}=v~~~~\text{or}~~~~v_{1}=2v$$
+$$\text{Thrust:}~~~T=2\rho A(V+v)v$$
+$$\text{Power:}~~~P=T(V+v)$$
+### Momentum Theory in Hover
+For a rotor in hover, when the onset velocity $V=0$, we get that the induced velocity is:
+$$v_{h}=\sqrt{\frac{T}{2\rho A}}$$
+With the induced power being:
+$$P=Tv_{h}~~~~\text{hence,}~~~~P_{h}=\frac{T^{\frac{2}{3}}}{\sqrt{2\rho A}}$$
 
