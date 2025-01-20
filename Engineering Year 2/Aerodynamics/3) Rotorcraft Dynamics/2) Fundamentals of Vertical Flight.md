@@ -37,4 +37,7 @@ Starting from:
 $$T_{Hover}=T_{AxialFlight}=T,$$
 $$2\rho Av_{h}^{2}=2\rho A(V+v)v$$
 If we then divide both sides by $v_{h}^{2}$, and plot the variation of $\frac{v}{v_{h}}$ as a function of $\frac{V}{v_{h}}$:
-$$\frac{v}{v_{h}}=\frac{-V_{c}}{2v_{h}}$$
+$$\frac{v}{v_{h}}=-\frac{V_{c}}{2v_{h}}\pm\sqrt{\left(\left(\frac{V_{c}}{2v_{h}}\right)^{2}\pm1\right)}$$
+![[Pasted image 20250120150621.png|centre]]
+### The Universal Induced Velocity Diagram
+![[Pasted image 20250120150727.png]]

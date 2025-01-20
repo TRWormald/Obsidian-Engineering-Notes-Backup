@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/7) Free Damped Vibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Fundamentals of Vertical Flight"
+              "title": "7) Free Damped Vibration"
             }
           },
           {
@@ -239,8 +239,11 @@
   },
   "active": "3221324b39071325",
   "lastOpenFiles": [
-    "Control Volume Analysis.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
+    "Images & Attachments/Pasted image 20250120150727.png",
+    "Images & Attachments/Pasted image 20250120150621.png",
+    "Control Volume Analysis.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Images & Attachments/Pasted image 20250120143825.png",
     "Backend/Home.canvas",
@@ -257,9 +260,7 @@
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
     "Images & Attachments/Pasted image 20250119152211.png",
     "Images & Attachments/Pasted image 20250119150936.png",
-    "Images & Attachments/Pasted image 20250119150708.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/2) The Joukowski Transformation.md",
-    "Images & Attachments/Pasted image 20250119150301.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
     "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics/5) Potential Flow.md",
@@ -279,7 +280,6 @@
     "Engineering Year 1/Maths/Probability/Probability Distributions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/7) Solving the Heat Equation.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/6) Free Undamped Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
