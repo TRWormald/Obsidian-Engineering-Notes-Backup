@@ -51,4 +51,17 @@ $$\zeta=1\Rightarrow s_{1,2}=-\omega_{0}$$
 So there is a special solution due to having a double real root:
 $$x(t)=(A_{1}+A_{2}t)e^{-\omega_{0}t}$$
 ### Experimental Identification of Damping
-We can identify damping from the *free response* using the **Logarithmic Decrement**. Consider the free response of a 1DOF damped system in $t_{1}$ and $t_{1}+T_{D}$, where $T_{D}=2\pi/$
+We can identify damping from the *free response* using the **Logarithmic Decrement**. Consider the free response of a 1DOF damped system in $t_{1}$ and $t_{1}+T_{D}$, where $T_{D}=2\pi/\omega_{D}$ which is the period of damped motion.
+
+If we compare the position at $t_{1}$ and $t_{1}+T_{D}$ can be get an approximation of the level of damping:
+$$\frac{x(t_{1})}{x(t_{1}+T_{D})}=\frac{Xe^{-\zeta\omega_{0}t_{1}}\sin(\omega_{D}t_{1}+\varphi)}{Xe^{-\zeta\omega_{0}(t_{1}+T_D)}\sin(\omega_{D}(t_{1}+T_D)+\varphi)}$$
+Which can be shown to be equal to:
+$$\frac{x(t_{1})}{x(t_{1}+T_{D})}=e^{\zeta\omega_{0}T_{D}}$$
+Then:
+$$\Lambda=\ln\left(\frac{x(t_{1})}{t_{1}+T_{D}}\right)=\zeta\omega_{0}T_{D}=\frac{2\pi\zeta}{\sqrt{1-\zeta^{2}}}\approx2\pi\zeta$$
+Therefore:
+$$\zeta_{exp}\approx \frac{\Lambda}{2\pi}=\frac{\ln\left(\frac{x(t_{1})}{x(t_{1}+T_{D)}}\right)}{2\pi}$$
+Alternatively we can consider the two displacements separated by N periods $T_D$.
+This results in:
+$$\zeta_{exp}\approx \frac{1}{2\pi N}\ln\left(\frac{x(t_{1})}{x(t_{1}+NT_{D)}}\right)$$
+
