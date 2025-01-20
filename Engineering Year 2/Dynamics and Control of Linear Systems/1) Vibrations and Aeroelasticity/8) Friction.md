@@ -9,4 +9,10 @@ The equation of motion takes the form:
 We shall now consider free vibration with the effects of friction taken into account:
 ![[Pasted image 20250120154339.png|centre]]
 The function $\text{sign}$ has three possible discrete values: -1, 0, and 1. Thus all three cases have to be considered independently:
-$$\text{sign}(\dot{x})=\left\{\begin(matrix)\end(ma\right.$$
+$$\text{sign}(\dot{x})=\left\{\begin{matrix}\text{sign}(\dot{x})=-1:m\ddot{x}+kx=F_{f} \\ \text{sign}(\dot{x})=0: m\ddot{x}+kx=0\\ \text{sign}(\dot{x})=+1:m\ddot{x}+kx=-F_{f}\end{matrix}\right.$$
+Free vibration with Coulomb friction is represented as a sequence of undamped half-cycles with constant load. The key observations are:
+- Free vibrations decay linearly based on the relationship $x_{(j)}-x_{(j+2)}=4F_f/k$
+- Free vibration occurs at the undamped natural frequency $\omega_{0}$
+- Vibration stops when  $F_f>kx_{n}$ (when friction forces > elastic forces)
+### Friction vs Viscous Damping
+![[Pasted image 20250120154948.png]]
