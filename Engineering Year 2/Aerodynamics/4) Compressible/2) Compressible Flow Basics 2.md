@@ -56,3 +56,22 @@ $$\boxed{\frac{p_{02}}{p_{01}}=e^{-(\frac{s_{2}-s_{1}}{R})}}$$
 Hence for non-isentropic flow total pressure is "lost" - $\frac{p_{02}}{p_{01}}<1 \rightarrow p_{02}<p_{01}$
 However for isentropic flow total pressure is "conserved" - $\frac{p_{02}}{p_{01}}=1 \rightarrow p_{02}=p_{01}$
 ### The Speed of Sound
+The speed of sound is the rate of propagation of pressure information - it is instantaneous in an incompressible fluid, but has a finite velocity $a$ in compressible flow.
+We'll start by defining a *pressure pulse* which is moving at velocity $a$:
+![[Pasted image 20250121225802.png|centre|150]]
+With the downstream parameters being:
+![[Pasted image 20250121225904.png|centre|150]]
+We can assume the pulse is of infinitesimal strength, hence:
+- Changes in fluid properties are small
+- The process is adiabatic
+- The process is isentropic
+We will make use of a control volume moving with the wave front (Galilean Transform).
+And apply the momentum and continuity equations to flow through the control volume.
+All of this results in:
+$$\boxed{\frac{dp}{d\rho}=a^{2}}$$
+In other words the change in pressure over the change in density is equal to the speed of sound squared.
+If we get large changes in density from small changes in pressure - i.e. $dp/d\rho$ is small - then we say that the fluid is "compressible".
+Therefore:
+$$a^{2}\approx \frac{1}{\text{compressibility}}$$
+We can now apply the isentropic relation:
+$$dp$$
