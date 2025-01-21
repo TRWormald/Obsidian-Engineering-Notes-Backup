@@ -2,6 +2,7 @@ We have previously looked at [[Actuator Disc Theory (Propellors)|actuator disk t
 The **lifting rotor** in its most simplistic form is a propeller: mechanical energy is used to accelerate a mass of air to generate a lifting force.
 ### Actuator Disc (Momentum) Theory
 Newton's law, states that $F=ma$ where $F$ is the rotor thrust $T$.
+*Note that in the diagram below: $T=P'A$, or in other words the thrust produced by the rotor is equal to the rotor area multiplied by the pressure at the *
 ![[Pasted image 20250120143825.png|centre|250]]
 In the above diagram we apply Bernoulli's equation to either side of the actuator disk to get:
 $$H_{0}=P_{0}+ \frac{1}{2}\rho V^{2}=P_{1}+ \frac{1}{2}\rho (V+v)^{2}$$
