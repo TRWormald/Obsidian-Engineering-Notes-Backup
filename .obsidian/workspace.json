@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7802aecede42e87",
+        "id": "d09998e46e919bce",
         "type": "tabs",
         "children": [
           {
-            "id": "a64d0e554c8a4d58",
+            "id": "121ef6e961271c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
+                "file": "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5) Solving the Wave Equation"
-            }
-          },
-          {
-            "id": "4d1659e90ed25963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/6) When can we use Separation of Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6) When can we use Separation of Variables"
-            }
-          },
-          {
-            "id": "1bb1bafb59548c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/7) Solving the Heat Equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7) Solving the Heat Equation"
-            }
-          },
-          {
-            "id": "6e4139858c0126a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8) Solving Laplace's Equation"
+              "title": "2) Compressible Flow Basics 2"
             }
           }
         ]
@@ -265,18 +223,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a64d0e554c8a4d58",
+  "active": "121ef6e961271c0d",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics 1.md",
+    "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/7) Solving the Heat Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/6) When can we use Separation of Variables.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/4) How to Solve PDEs.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/3) Harmonic Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/2) Newton's Method.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/9) Intro to Forced Vibration.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
@@ -304,9 +264,7 @@
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/3) The Kutta Condition.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/2) The Joukowski Transformation.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
-    "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics/5) Potential Flow.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
