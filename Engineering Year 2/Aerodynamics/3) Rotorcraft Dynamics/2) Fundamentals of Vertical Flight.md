@@ -2,18 +2,22 @@ We have previously looked at [[Actuator Disc Theory (Propellors)|actuator disk t
 The **lifting rotor** in its most simplistic form is a propeller: mechanical energy is used to accelerate a mass of air to generate a lifting force.
 ### Actuator Disc (Momentum) Theory
 Newton's law, states that $F=ma$ where $F$ is the rotor thrust $T$.
-*Note that in the diagram below: $T=P'A$, or in other words the thrust produced by the rotor is equal to the rotor area multiplied by the pressure at the *
+*Note that in the diagram below: $T=P'A$, or in other words the thrust produced by the rotor is equal to the rotor area multiplied by the pressure difference across the rotor*
 ![[Pasted image 20250120143825.png|centre|250]]
 In the above diagram we apply Bernoulli's equation to either side of the actuator disk to get:
 $$H_{0}=P_{0}+ \frac{1}{2}\rho V^{2}=P_{1}+ \frac{1}{2}\rho (V+v)^{2}$$
 $$H_{1}=P_{0}+ \frac{1}{2}\rho (V+v_{1})^{2}=P_{1}+P'+ \frac{1}{2}\rho (V+v)^2$$
+*We cant use Bernoulli's equation across the rotor disc because it is a conservation of energy equation (along the streamline/stream tube) and the actuator disc is adding energy to the system - which fundamentally breaks the equation.*
+
 Subtracting $H_{0}$ from $H_{1}$ results in:
 $$H_{1}-H_{0}=\frac{1}{2}\rho(2Vv_{1}+v_{1}^{2})=P'$$
 However, the Thrust is equal to the change in axial momentum per unit time:
 $$\frac{T}{A}=P'=\rho(V+v)v_{1}$$
 Which can be obtained from [[Control Volume Analysis Introduction|control volume analysis]]. Where $A$ is the rotor disc area.
-
-
+Hence:
+$$T=2\rho A(V+v)v_{1}$$
+With the equation for power being:
+$$P=T(V+v)$$
 Therefore we have:
 $$H_{1}-H_{0}=\frac{1}{2}\rho(2Vv_{1}+v_{1}^{2})=P'$$
 $$\frac{T}{A}=P'=\rho(V+v)v_{1}$$
