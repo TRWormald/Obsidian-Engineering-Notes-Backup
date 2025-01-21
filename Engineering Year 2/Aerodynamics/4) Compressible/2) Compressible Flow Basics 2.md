@@ -27,3 +27,19 @@ Hence we get "compressible Bernoulli":
 $$\boxed{h_{0}=h+ \frac{1}{2}V^{2}=const.}$$
 Which we can also rewrite for a calorically perfect gas:
 $$\boxed{C_{p}T+ \frac{1}{2}V^{2}=const.=h_{0}=C_{p}T_{0}}$$
+Finally we can rewrite the above equation using Mach number and obtain an equation for the stagnation Temperature $T_{0}$:
+$$\boxed{T_{0}=T\left(1+\frac{(\gamma-1)M^{2}}{2}\right)}$$
+### A Return to Basic Thermodynamics
+For a calorically perfect gas:
+$$h=c_{p}T$$
+Hence:
+$$\boxed{c_{p}T+ \frac{V^{2}}{2}=c_{p}T_{0}}$$
+Where $T_{0}$ is the total or stagnation or reservoir temperature, more specifically it is the temperature of a fluid element brought to rest adiabatically.
+*No assumption about entropy made in derivation.*
+Note that:
+- In an isentropic process $T_0$, $p_0$ and $\rho_{0}$ are constant
+	- A sound wave
+- In a  non-isentropic (but adiabatic) process only $T_0$ is constant
+	- A shock wave
+#### The Link Between Total Pressure and Entropy
+Consider an adiabatic process from condition 1 to 2.
