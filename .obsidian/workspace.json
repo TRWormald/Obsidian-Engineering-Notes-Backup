@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e3608e5caa151a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8) Friction"
-            }
-          },
-          {
             "id": "aed0234e38fc1f40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/9) Intro to Forced Vibration.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/3) Harmonic Vibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9) Intro to Forced Vibration"
+              "title": "3) Harmonic Vibration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,12 +225,16 @@
   },
   "active": "aed0234e38fc1f40",
   "lastOpenFiles": [
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/3) Harmonic Vibration.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/2) Newton's Method.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
+    "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/9) Intro to Forced Vibration.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
-    "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20250120161608.png",
     "Images & Attachments/Pasted image 20250120161544.png",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Method of Undetermined Coefficients.md",
@@ -277,9 +266,6 @@
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/6) When can we use Separation of Variables.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/3) Parabolic, Hyperbolic, and Elliptic PDEs.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/2) Classifying PDEs.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/4) How to Solve PDEs.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
