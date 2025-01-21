@@ -34,25 +34,8 @@
               "icon": "lucide-file",
               "title": "9) Intro to Forced Vibration"
             }
-          },
-          {
-            "id": "08be65beffac3a29",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
-                "page": 15,
-                "left": 2,
-                "top": 241,
-                "zoom": 2.2000296430133557
-              },
-              "icon": "lucide-file-text",
-              "title": "Bazarov -Design of Jet and Swirl Injectors"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,10 +237,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "08be65beffac3a29",
+  "active": "6e3608e5caa151a6",
   "lastOpenFiles": [
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/9) Intro to Forced Vibration.md",
+    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Backend/Home.canvas",
@@ -277,7 +261,6 @@
     "Images & Attachments/Pasted image 20250120150727.png",
     "Images & Attachments/Pasted image 20250120150621.png",
     "Control Volume Analysis.md",
-    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Jet-Swirl Atomisers.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
