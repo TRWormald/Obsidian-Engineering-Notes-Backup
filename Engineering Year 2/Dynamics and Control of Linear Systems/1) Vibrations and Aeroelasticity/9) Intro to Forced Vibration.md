@@ -16,5 +16,9 @@ x_{H}&= Xe^{-\zeta\omega_{0}t}\sin(\omega_{D}t+\varphi)\\
 The **Total Solution** is obtained through the superposition of the complementary and particular solutions:
 $$\begin{align*}
 x&= x_{H}+x_{P}\\
-&= e^{-\zeta\omega_{0}t}(X_1\sin(\omega_{D}t)
+&= e^{-\zeta\omega_{0}t}(X_1\sin(\omega_{D}t)+X_{2}\cos(\omega_{D}t))+x_{forced}
 \end{align*}$$
+### Total Vibration Response
+![[Pasted image 20250120161544.png|centre]]
+![[Pasted image 20250120161608.png]]
+**Note: Constant force produces a steady-state static deflection (a new equilibrium position)**
