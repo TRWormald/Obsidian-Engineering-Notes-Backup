@@ -1,4 +1,4 @@
-Let us consider the equation of motion for a 1DOF system:
+'Let us consider the equation of motion for a 1DOF system:
 $$m\ddot{x}+c\dot{x}+kx=F(t)$$
 To solve this we:
 1) Solve the homogeneous ODE (the component due to free response)
