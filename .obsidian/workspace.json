@@ -35,7 +35,8 @@
               "title": "9) Intro to Forced Vibration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +238,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6e3608e5caa151a6",
+  "active": "aed0234e38fc1f40",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/9) Intro to Forced Vibration.md",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/8) Friction.md",
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Backend/Home.canvas",
