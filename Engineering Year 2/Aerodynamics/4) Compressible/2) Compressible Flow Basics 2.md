@@ -43,3 +43,16 @@ Note that:
 	- A shock wave
 #### The Link Between Total Pressure and Entropy
 Consider an adiabatic process from condition 1 to 2.
+First we will consider the path from condition 1 to condition 01 - the conditions at a stagnation point. This is an isentropic deceleration.
+Similarly if we go from 02 to 2 there is an isentropic acceleration.
+Going from 1 to 2 (assuming the flow is adiabatic) the entropy change between 1 and 2 equals the entropy change in stagnation values:
+$$s_{2}-s_{1}=c_{p}\ln\left(\frac{T_{2}}{T_{1}}\right)-R\ln\left(\frac{p_{2}}{p_{1}}\right)=c_{p}\ln\left(\frac{T_{02}}{T_{01}}\right)-R\ln\left(\frac{p_{02}}{p_{01}}\right)$$
+However for adiabatic flow:
+$$T_{01}=T_{02} \rightarrow \ln\left(\frac{T_{02}}{T_{01}}\right)=0$$
+Therefore the change in entropy is only dependant on the change of total pressure:
+$$-\frac{s_{2}-s_{1}}{R}=\ln\left(\frac{p_{02}}{P_{01}}\right)$$
+Or:
+$$\boxed{\frac{p_{02}}{p_{01}}=e^{-(\frac{s_{2}-s_{1}}{R})}}$$
+Hence for non-isentropic flow total pressure is "lost" - $\frac{p_{02}}{p_{01}}<1 \rightarrow p_{02}<p_{01}$
+However for isentropic flow total pressure is "conserved" - $\frac{p_{02}}{p_{01}}=1 \rightarrow p_{02}=p_{01}$
+### The Speed of Sound
