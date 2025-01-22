@@ -74,4 +74,26 @@ If we get large changes in density from small changes in pressure - i.e. $dp/d\r
 Therefore:
 $$a^{2}\approx \frac{1}{\text{compressibility}}$$
 We can now apply the isentropic relation:
-$$dp$$
+$$\frac{dp}{d\rho}= \frac{\gamma p}{\rho}$$So:
+$$a^{2}=\frac{\gamma p}{\rho}\Rightarrow \boxed{a=\sqrt{\gamma RT}}$$
+#### Mach Number
+The local Mach number is defined as:
+$$M=\frac{V}{a}\approx\frac{\text{directed KE}}{\text{random thermal energy}}$$
+Dynamic pressure $q$ can be given in terms of $M$:
+$$q= \frac{1}{2}\rho V^{2}=\frac{1}{2}\rho\gamma M^{2}$$
+From which it follows that the pressure coefficient is:
+$$C_{p}= \frac{p-p_{\infty}}{q_{\infty}}=\frac{2(p/p_{\infty}-1)}{\gamma M_{\infty}^{2}}$$
+#### Mach Cone
+We can visualise how pressure information passes through a fluid using Mach cones.
+For a point source in "still air":
+- Pressure wave radiates in all directions
+- Spherical wave front of radius $at$
+- All fluid is eventually disturbed
+![[Pasted image 20250121230941.png|centre|250]]
+However for a point source in a freestream:
+*(Where $u<a$)*
+- Spherical wave fronts are displaced downstream by distance $ut$
+- All of the fluid is still eventually disturbed
+![[Pasted image 20250121231104.png|centre]]
+Finally for sonic and supersonic freestreams:
+![[Pasted image 20250121231138.png|centre]]
