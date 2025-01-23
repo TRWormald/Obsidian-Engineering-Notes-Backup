@@ -4,20 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2406a685edea418a",
+        "id": "5e37e3bc635e214c",
         "type": "tabs",
         "children": [
           {
-            "id": "541319038b18231d",
+            "id": "5516f83150cc812d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
+                "page": 7,
+                "left": -10,
+                "top": 781,
+                "zoom": 1.529429550493852
+              },
+              "icon": "lucide-file-text",
+              "title": "SSC Handbook 1.3"
+            }
+          },
+          {
+            "id": "9f78e2068672ebe1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
                 "page": 1,
-                "left": -10,
+                "left": -20,
                 "top": 846,
-                "zoom": 1.529429550493852
+                "zoom": 0.7319592824027413
               },
               "icon": "lucide-file-text",
               "title": "SSC Handbook 1.4"
@@ -225,11 +241,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "541319038b18231d",
+  "active": "5516f83150cc812d",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Lecture Notes 23-01-25.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
-    "Backend/Home.canvas",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
+    "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/4) Compressible/0) Important Equations for Compressible Flow.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics 1.md",
@@ -266,11 +285,8 @@
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Jet-Swirl Atomisers.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
