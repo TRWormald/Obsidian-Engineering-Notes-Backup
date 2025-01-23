@@ -11,7 +11,9 @@ The FRFs can be used to:
 ![[Pasted image 20250123160957.png|centre]]
 #### Alternate forms of FRFs and Their Analysis
 ![[Pasted image 20250123161819.png]]
-
+$$\omega_{max}=\omega_{0}\sqrt{1-2\zeta^{2}}$$
+So the maximum resonance occurs very close to the undamped natural frequency of the system, and even closer to the damped natural frequency:
+$$\omega_{D}=\sqrt{1-\zeta^{2}}$$
 ### Solution to Unbalanced Excitation and the Unbalanced Response
 ![[Pasted image 20250123161324.png|centre]]
 #### The Unbalanced Response Function
