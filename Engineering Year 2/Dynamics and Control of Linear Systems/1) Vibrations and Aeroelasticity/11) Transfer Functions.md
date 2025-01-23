@@ -11,6 +11,7 @@ The FRFs can be used to:
 ![[Pasted image 20250123160957.png|centre]]
 #### Alternate forms of FRFs and Their Analysis
 ![[Pasted image 20250123161819.png]]
+
 ### Solution to Unbalanced Excitation and the Unbalanced Response
 ![[Pasted image 20250123161324.png|centre]]
 #### The Unbalanced Response Function
