@@ -41,16 +41,14 @@
             "id": "9f78e2068672ebe1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
-                "page": 5,
-                "left": -10,
-                "top": 684,
-                "zoom": 1.529429550493852
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/10) Harmonic Excitation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SSC Handbook 1.4"
+              "icon": "lucide-file",
+              "title": "10) Harmonic Excitation"
             }
           }
         ],
@@ -258,11 +256,13 @@
   },
   "active": "9f78e2068672ebe1",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/11) Transfer Functions.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/10) Harmonic Excitation.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Lecture Notes 23-01-25.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.1.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/4) Compressible/0) Important Equations for Compressible Flow.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
@@ -299,7 +299,6 @@
     "Control Volume Analysis.md",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Jet-Swirl Atomisers.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/4) Kelvin's Theorem for Inviscid Incompressible Flow.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
