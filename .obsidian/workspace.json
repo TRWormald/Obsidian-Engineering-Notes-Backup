@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
                 "page": 1,
-                "left": -26,
-                "top": 845,
-                "zoom": 0.5480245918161661
+                "left": -10,
+                "top": 846,
+                "zoom": 1.529429550493852
               },
               "icon": "lucide-file-text",
-              "title": "SSC Handbook 1.3"
+              "title": "SSC Handbook 1.4"
             }
           }
         ]
@@ -227,9 +227,9 @@
   },
   "active": "541319038b18231d",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.4.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
     "Engineering Year 2/Aerodynamics/4) Compressible/0) Important Equations for Compressible Flow.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics 1.md",
