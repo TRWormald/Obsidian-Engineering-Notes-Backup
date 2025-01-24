@@ -101,4 +101,14 @@ Which gives:
 $$u(x,0)\sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi x}{L}\right)=f(x)$$
 From this we want to find the $b_{n}$'s, given $f(x)$. *In fact we have already learnt how to do this, using a [[4) Odd and Even Periodic Extensions#The Half-Range Sine Series|Half Range Sine Series]]*
 $$b_{n}=\frac{2}{L}\int_{0}^{L}f(x)\sin\left(\frac{n\pi x}{L}\right)~dx$$
-So the particular solution to the PDE 
+So the particular solution to the PDE and all the boundary conditions is:
+$$u(x,t)=\sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi x}{L}\right)\cos\left(\frac{n\pi ct}{L}\right)$$
+Where $b_{n}$ is calculated using the equation above.
+### Summary of the Method of Separation
+1) Substitute into the PDE, and separate the variables
+2) Decide on the sign of the separation constant
+3) Solve the separated ODEs
+4) Separate, and apply, the homogeneous boundary and initial conditions
+5) Put the separated pieces back together and sum to find the general solution
+6) Apply the non-homogeneous boundary/initial conditions and use a Fourier half range series to find the particular solution
+### Worked Example 5.1
