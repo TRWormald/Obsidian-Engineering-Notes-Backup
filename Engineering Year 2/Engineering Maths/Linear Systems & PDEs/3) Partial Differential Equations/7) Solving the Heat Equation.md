@@ -61,4 +61,6 @@ Setting $t=0$ in the general solution we get:
 $$h(x)=u(x,0)=\frac{a_{0}}{2}+\sum\limits_{n=1}^{\infty}a_{n}\cos\left(\frac{n\pi x}{L}\right)$$
 Which is just the Fourier half-range cosine series expansion of $h(x)$:
 $$a_{n}=\frac{2}{L}\int_{0}^{L}h(x)\cos\left(\frac{n\pi x}{L}\right)~dx$$
-
+So the general solution is:
+$$u(x,t)=\frac{a_{0}}{2}+\sum\limits_{n=1}^{\infty}a_{n}\cos\left(\frac{n\pi x}{L}\right)e^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
+With the $a_n$ coefficients being given by the equation above.
