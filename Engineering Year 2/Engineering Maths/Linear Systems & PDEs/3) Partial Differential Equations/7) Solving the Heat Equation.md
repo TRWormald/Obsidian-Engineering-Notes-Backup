@@ -53,5 +53,12 @@ $$T(t)=Ae^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
 Which we can multiply together to obtain the PDE:
 $$u_{n}(x,t)=a_{n}\cos\left(\frac{n\pi x}{L}\right)e^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
 Which we can turn into the general solution by summing all the values, getting:
-$$u(x,t)=\sum\limits_{n=0}^{\infty}a_{n}\cos\left(\frac{n\pi x}{L}\right)e^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
+$$u(x,t)=\frac{a_{0}}{2}+\sum\limits_{n=1}^{\infty}a_{n}\cos\left(\frac{n\pi x}{L}\right)e^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
 #### Step 5 - Apply the Non-Homogeneous Initial Conditions
+Our final step is to satisfy the initial condition:
+$$u(x,0)=h(x)$$
+Setting $t=0$ in the general solution we get:
+$$h(x)=u(x,0)=\frac{a_{0}}{2}+\sum\limits_{n=1}^{\infty}a_{n}\cos\left(\frac{n\pi x}{L}\right)$$
+Which is just the Fourier half-range cosine series expansion of $h(x)$:
+$$a_{n}=\frac{2}{L}\int_{0}^{L}h(x)\cos\left(\frac{n\pi x}{L}\right)~dx$$
+
