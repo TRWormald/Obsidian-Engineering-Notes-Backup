@@ -16,3 +16,9 @@ We'll focus on problems with three homogeneous boundary conditions and one non-h
 #### The Separation Constant for Laplace's Equation
 To solve Laplace's equation, we look for a separable solution as usual:
 $$u(x,y)=X(x)Y(y)$$
+Substituting this into the PDE gives us:
+$$X''(x)Y(y)+X(x)Y''(y)=0$$
+Which simplifies to:
+$$\frac{{X''(x)}}{X(x)}=-\frac{Y''(y)}{Y(y)}=\mu$$
+**But what sign should $\mu$ take?**
+Choosing the separation constant isn't quite as easy as for the heat and wave equations. The right choice depends on the homogeneous boundary conditions:
