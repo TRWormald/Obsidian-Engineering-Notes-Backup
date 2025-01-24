@@ -10,3 +10,9 @@ And an initial temperature distribution:
 $$u(x,0)=h(x)$$
 For all $0\le x\le L$.
 #### Step 1 - Separate the Variables
+We assume that the solution is separable so:
+$$\frac{\partial u}{\partial t}=\alpha ^{2}\frac{\partial^{2}u}{\partial x}$$
+Becomes:
+$$T'(t)X(x)=\alpha^{2}T(t)X''(x)$$
+Allowing us to separate the variables:
+$$\frac{1}{\alpha^{2}} \frac{T'(x)}{T(t)}=\frac{X''(x)}{X(x)}$$
