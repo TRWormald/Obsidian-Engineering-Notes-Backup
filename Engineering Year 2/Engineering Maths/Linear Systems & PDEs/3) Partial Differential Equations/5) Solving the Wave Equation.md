@@ -79,4 +79,6 @@ $$T(t)=A\cos(kct)$$
 for some arbitrary constant A.
 We also know that $k=n\pi/L$, so:
 $$T(t)=A\cos\left(\frac{n\pi ct}{L}\right)$$
-
+#### Step 6 - Putting the Pieces Together
+From the solving of the ODEs we can combine them back to get the PDE:
+$$u(x,t)=X(x)T(t)=b\sin\left(\frac{n\pi x}{L}\right)\cos(\frac{n\pi ct}{L})$$
