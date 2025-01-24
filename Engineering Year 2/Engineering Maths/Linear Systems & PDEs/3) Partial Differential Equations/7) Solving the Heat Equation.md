@@ -33,3 +33,20 @@ $$X(x)=B\cos(kx)+C\sin(kx)$$
 #### Step 3 - Separate and Apply the Homogeneous Boundary Conditions
 The homogeneous boundary conditions are:
 $$u_{x}(0,t)=u_x(L,t)=0$$
+Which we can separate to obtain:
+$$X'(0)T(t)=0$$
+and
+$$X'(L)T(t)=0$$
+From which it is obvious that:
+$$X'(0)=X'(L)=0$$
+Applying these to $X(x)$ gives us:
+$$X'(x)=-Bk\sin(kx)+Ck\cos(kx)$$
+So:
+$$Ck=0$$
+$$-Bk\sin(kL)=0$$
+Hence:
+$$k=\frac{n\pi}{L}$$
+#### Step 4 - Put the Pieces Together and Find the General Solution
+So substituting this back into the ODEs gives:
+$$X(x)=B\cos\left(\frac{n\pi x }{L}\right)$$
+$$T(t)=Ae^{-\left(\frac{n\pi\alpha}{L}^2\right)}$$
