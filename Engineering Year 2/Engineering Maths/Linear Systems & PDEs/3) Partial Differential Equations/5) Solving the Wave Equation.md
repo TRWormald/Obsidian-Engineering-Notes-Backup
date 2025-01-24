@@ -112,3 +112,9 @@ Where $b_{n}$ is calculated using the equation above.
 5) Put the separated pieces back together and sum to find the general solution
 6) Apply the non-homogeneous boundary/initial conditions and use a Fourier half range series to find the particular solution
 ### Worked Example 5.1
+![[WhatsApp Image 2025-01-24 at 15.30.19_6a62d7a4.jpg|centre]]
+![[WhatsApp Image 2025-01-24 at 15.30.19_fad3afa8.jpg]]
+![[WhatsApp Image 2025-01-24 at 15.30.19_a06ef062.jpg]]
+![[WhatsApp Image 2025-01-24 at 15.30.19_db7d8ee4.jpg]]
+![[WhatsApp Image 2025-01-24 at 15.30.19_4924c759.jpg]]
+![[WhatsApp Image 2025-01-24 at 15.30.19_19abff8e.jpg]]
