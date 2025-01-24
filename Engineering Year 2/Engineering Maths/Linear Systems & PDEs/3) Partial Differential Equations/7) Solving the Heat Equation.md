@@ -29,4 +29,7 @@ $$T'(t)=-(\alpha k)^{2} T(t)$$
 $$X''(x)=-k^{2} X(x)$$
 Both of which are easy to solve:
 $$T(t)=Ae^{-(\alpha k)^{2}t}$$
-$$X(x)=B\cos(kx)+$$
+$$X(x)=B\cos(kx)+C\sin(kx)$$
+#### Step 3 - Separate and Apply the Homogeneous Boundary Conditions
+The homogeneous boundary conditions are:
+$$u_{x}(0,t)=u_x(L,t)=0$$
