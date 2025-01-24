@@ -22,3 +22,16 @@ Which simplifies to:
 $$\frac{{X''(x)}}{X(x)}=-\frac{Y''(y)}{Y(y)}=\mu$$
 **But what sign should $\mu$ take?**
 Choosing the separation constant isn't quite as easy as for the heat and wave equations. The right choice depends on the homogeneous boundary conditions:
+
+As usual there are two possibilities, either $\mu$ is negative or it is positive which gives different solutions to the ODEs:
+If $\mu=-k^{2}<0$ then:
+$$\left\{\begin{matrix}X''(x)=-k^{2}X(x) \\ Y''(y)=k^2 Y(y)\end{matrix}\right.~~~\Rightarrow~~~\left\{\begin{matrix}X(x)=A\cos(kx)+B\sin(kx) \\ Y(y)=Ce^{ky}+De^{-ky}\end{matrix}\right.$$
+Or if $\mu=k^{2}>0$, so that: 
+$$\left\{\begin{matrix}X''(x)=k^{2}X(x) \\ Y''(y)=-k^2 Y(y)\end{matrix}\right.~~~\Rightarrow~~~\left\{\begin{matrix}X(x)=Ce^{ky}+De^{-ky} \\Y(y)=A\cos(ky)+B\sin(ky)  \end{matrix}\right.$$
+
+Since there is exactly one non-homogeneous boundary condition, that means that two opposite sides of the domain have homogeneous boundary conditions: $u$, or its normal derivative, equal to zero:
+![[Pasted image 20250124180821.png|centre]]
+In the first case above, separating the boundary conditions gives $X=0$ or $X'=0$ at both $x=0$ and $x=L$. So $X(x)$ must be $\sin$ and $\cos$ (i.e. when $\mu$ is less than zero).
+
+In the second case separating the boundary conditions gives $Y=0$ or $Y'=0$ at both $y=0$ and $y=L$. So $Y(y)$ must be $\sin$ and $\cos$ (i.e. when $\mu$ is more than zero).
+### Worked Example 5.2
