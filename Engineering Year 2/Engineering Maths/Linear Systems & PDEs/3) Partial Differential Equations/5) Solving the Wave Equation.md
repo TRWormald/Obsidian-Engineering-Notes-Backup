@@ -53,3 +53,12 @@ Which can't be true. So we must have $X(0)=0$
 If we separate the boundary ($u=0 \text{ at } x=0,L$ for all $t>0$) and initial conditions ($u_{t}=0$ at $t=0$ for all $0\le x\le L$) in the same way, we get:
 $$X(0)=X(L)=0$$
 $$T'(0)=0$$
+#### Step 5 - Solve the Separated ODEs and apply Homogeneous Boundary Conditions
+For a wave equation we need a $\mu<0$ so we write $\mu$ as $-k^2$ for some $k>0$. Then:
+$$\left\{\begin{matrix}T''(t)=-(kc)^{2}T(t) \\ X''(x)=-k^2 X(x)\end{matrix}\right.~~~\Rightarrow~~~\left\{\begin{matrix}T(t)=A\cos(kct)+B\sin(kct) \\ X(x)=C\cos(kx)+D\sin(kx)\end{matrix}\right.$$
+We then apply the separated boundary conditions for $X$. First at $x=0$:
+$$X(0)=C\cos(k\cdot0)+D\sin(k\cdot0)$$
+When $x=0$, $X(0)=C=0$, so applying that to when $x=x$:
+$$X(x)=D\sin(kx)$$
+And when $x=L$:
+$$0=X(L)=D\sin(kL) \Rightarrow \sin$$
