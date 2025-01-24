@@ -50,6 +50,6 @@ i.e. $u$ is a function of $x$ and $t$, with $x$ always being equal to zero, and 
 Therefore either $X(0)=0$ or $T(t)=0$. The latter implies that:
 $$u(x,t)=X(x)T(t)=0$$
 Which can't be true. So we must have $X(0)=0$
-If we separate the boundary ($u=0 \text{ at } x=0,L$ for all $t>0$)
+If we separate the boundary ($u=0 \text{ at } x=0,L$ for all $t>0$) and initial conditions ($u_{t}=0$ at $t=0$ for all $0\le x\le L$) in the same way, we get:
 $$X(0)=X(L)=0$$
 $$T'(0)=0$$
