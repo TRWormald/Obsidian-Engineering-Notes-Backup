@@ -15,4 +15,7 @@ $$\frac{\partial u}{\partial t}=\alpha ^{2}\frac{\partial^{2}u}{\partial x}$$
 Becomes:
 $$T'(t)X(x)=\alpha^{2}T(t)X''(x)$$
 Allowing us to separate the variables:
-$$\frac{1}{\alpha^{2}} \frac{T'(x)}{T(t)}=\frac{X''(x)}{X(x)}$$
+$$\frac{1}{\alpha^{2}} \frac{T'(t)}{T(t)}=\frac{X''(x)}{X(x)}$$
+And since time is not dependant on space, or vice versa the above must be equal to a constant $\mu$ ([[5) Solving the Wave Equation#What Sign Should the Separation Constant Be?|The Separation Constant]]) allowing us to generate 2 ODEs with the above equation:
+$$T'(t)=\alpha^{2}\mu T(t)$$
+$$X''(x)=\mu X(x)$$
