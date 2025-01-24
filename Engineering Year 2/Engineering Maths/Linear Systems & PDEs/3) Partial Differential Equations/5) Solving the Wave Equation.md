@@ -40,3 +40,16 @@ $$\left\{\begin{matrix}T''(t)=-(kc)^{2}T(t) \\ X''(x)=-k^2 X(x)\end{matrix}\righ
 Effectively:
 - For the **wave equation** and the **heat equation** the separation constant must be negative
 - For **Laplace's equation** it depends on the boundary conditions (more details later)
+#### Step 4 - Separating the Boundary/Initial Conditions
+We can also separate the boundary and initial conditions, but only if they are **homogeneous** (i.e. function value equal to zero)
+For example:
+*If we have that $u$=0 at $x=0$ for all $t>0$, then:*
+$$0=u(0,t)=X(0)T(t)$$
+i.e. $u$ is a function of $x$ and $t$, with $x$ always being equal to zero, and therefore $u$ is always equal to zero. $t$ can be any value as it doesn't change the value of $x$ and hence the value of $u$.
+
+Therefore either $X(0)=0$ or $T(t)=0$. The latter implies that:
+$$u(x,t)=X(x)T(t)=0$$
+Which can't be true. So we must have $X(0)=0$
+If we separate the boundary ($u=0 \text{ at } x=0,L$ for all $t>0$)
+$$X(0)=X(L)=0$$
+$$T'(0)=0$$
