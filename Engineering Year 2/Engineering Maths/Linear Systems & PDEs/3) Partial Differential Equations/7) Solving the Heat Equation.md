@@ -19,3 +19,14 @@ $$\frac{1}{\alpha^{2}} \frac{T'(t)}{T(t)}=\frac{X''(x)}{X(x)}$$
 And since time is not dependant on space, or vice versa the above must be equal to a constant $\mu$ ([[5) Solving the Wave Equation#What Sign Should the Separation Constant Be?|The Separation Constant]]) allowing us to generate 2 ODEs with the above equation:
 $$T'(t)=\alpha^{2}\mu T(t)$$
 $$X''(x)=\mu X(x)$$
+We know that for the heat equation the separation constant must be negative so:
+$$\mu=-k^{2}$$
+#### Step 2 - Solve the Separated ODEs
+Knowing that $\mu=-k^{2}$:
+$$\frac{1}{\alpha^{2}} \frac{T'(t)}{T(t)}=\frac{X''(x)}{X(x)}=-k^{2}<0$$
+So we get the two ODEs:
+$$T'(t)=-(\alpha k)^{2} T(t)$$
+$$X''(x)=-k^{2} X(x)$$
+Both of which are easy to solve:
+$$T(t)=Ae^{-(\alpha k)^{2}t}$$
+$$X(x)=B\cos(kx)+$$
