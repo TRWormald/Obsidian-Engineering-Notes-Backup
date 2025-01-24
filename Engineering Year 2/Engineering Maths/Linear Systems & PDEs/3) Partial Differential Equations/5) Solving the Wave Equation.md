@@ -81,4 +81,24 @@ We also know that $k=n\pi/L$, so:
 $$T(t)=A\cos\left(\frac{n\pi ct}{L}\right)$$
 #### Step 6 - Putting the Pieces Together
 From the solving of the ODEs we can combine them back to get the PDE:
-$$u(x,t)=X(x)T(t)=b\sin\left(\frac{n\pi x}{L}\right)\cos(\frac{n\pi ct}{L})$$
+$$u(x,t)=X(x)T(t)=b\sin\left(\frac{n\pi x}{L}\right)\cos\left(\frac{n\pi ct}{L}\right)$$
+Where $b=AD$ is any constant, and $n$ is any integer. It satisfies the PDE and the homogeneous boundary and initial conditions, i.e:
+$$u_{tt}=c^{2}u_{xx}$$
+$$u(0,t)=0,~~~u(L,t)=0,~~~ u_{t}(x,0)=0$$
+But not the non-homogeneous initial condition:
+$$u(x,0)=f(x)$$
+##### Linearity and the General Solution
+The solution to the PDE that we've just found is valid for any integer $n$.
+We can add any linear combination of them, with any integer values of $n$, and any multiplicative constant $b$, and still have a soltion.
+
+So the general solution of the PDE + homogeneous boundary and initial conditions is:
+$$u(x,t)=\sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi x}{L}\right)\cos\left(\frac{n\pi ct}{L}\right)$$
+This solution has infinitely many constants of integration $b_{n}$.
+#### Step 7 - Applying the Non-Homogeneous Initial Conditions
+We need to apply the initial condition:
+$$u(x,0)=f(x),~~~~\text{for}~~~~0\le x\le L$$
+Which gives:
+$$u(x,0)\sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi x}{L}\right)=f(x)$$
+From this we want to find the $b_{n}$'s, given $f(x)$. *In fact we have already learnt how to do this, using a [[4) Odd and Even Periodic Extensions#The Half-Range Sine Series|Half Range Sine Series]]*
+$$b_{n}=\frac{2}{L}\int_{0}^{L}f(x)\sin\left(\frac{n\pi x}{L}\right)~dx$$
+So the particular solution to the PDE 
