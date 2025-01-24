@@ -98,7 +98,7 @@ This solution has infinitely many constants of integration $b_{n}$.
 We need to apply the initial condition:
 $$u(x,0)=f(x),~~~~\text{for}~~~~0\le x\le L$$
 Which gives:
-$$u(x,0)\sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi x}{L}\right)=f(x)$$
+$$u(x,0)=\sum\limits_{n=1}^{\infty}b_{n}\sin\left(\frac{n\pi x}{L}\right)=f(x)$$
 From this we want to find the $b_{n}$'s, given $f(x)$. *In fact we have already learnt how to do this, using a [[4) Odd and Even Periodic Extensions#The Half-Range Sine Series|Half Range Sine Series]]*
 $$b_{n}=\frac{2}{L}\int_{0}^{L}f(x)\sin\left(\frac{n\pi x}{L}\right)~dx$$
 So the particular solution to the PDE and all the boundary conditions is:
