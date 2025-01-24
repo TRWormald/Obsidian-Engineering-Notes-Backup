@@ -49,4 +49,9 @@ $$k=\frac{n\pi}{L}$$
 #### Step 4 - Put the Pieces Together and Find the General Solution
 So substituting this back into the ODEs gives:
 $$X(x)=B\cos\left(\frac{n\pi x }{L}\right)$$
-$$T(t)=Ae^{-\left(\frac{n\pi\alpha}{L}^2\right)}$$
+$$T(t)=Ae^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
+Which we can multiply together to obtain the PDE:
+$$u_{n}(x,t)=a_{n}\cos\left(\frac{n\pi x}{L}\right)e^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
+Which we can turn into the general solution by summing all the values, getting:
+$$u(x,t)=\sum\limits_{n=0}^{\infty}a_{n}\cos\left(\frac{n\pi x}{L}\right)e^{-\left(\frac{n\pi\alpha}{L}\right)^{2}t}$$
+#### Step 5 - Apply the Non-Homogeneous Initial Conditions
