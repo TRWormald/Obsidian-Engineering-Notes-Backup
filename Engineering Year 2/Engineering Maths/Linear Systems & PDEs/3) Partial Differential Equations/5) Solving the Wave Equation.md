@@ -61,4 +61,22 @@ $$X(0)=C\cos(k\cdot0)+D\sin(k\cdot0)$$
 When $x=0$, $X(0)=C=0$, so applying that to when $x=x$:
 $$X(x)=D\sin(kx)$$
 And when $x=L$:
-$$0=X(L)=D\sin(kL) \Rightarrow \sin$$
+$$0=X(L)=D\sin(kL) \Rightarrow \sin(kL)=0$$
+Therefore:
+$$\boxed{kL=n\pi}$$ for some integer $n$.
+Hence we can then solve for $k$:
+$$k=\frac{n\pi}{L}$$
+And also for the solution to the ODE:
+$$X(x)=D\sin\left(\frac{n\pi x}{L}\right)$$
+We also have that $T'(0)=0$ So recalling that:
+$$T(t)=A\cos(kct)+B\sin(kct)$$
+We can get that:
+$$T'(t)=-kcA\sin(kct)=kcB\cos(kct)$$
+Thus:
+$$T'(0)=0=-kcA\cdot0+kcB\cdot 1=kcB$$
+Which gives us $B=0$. Hence:
+$$T(t)=A\cos(kct)$$
+for some arbitrary constant A.
+We also know that $k=n\pi/L$, so:
+$$T(t)=A\cos\left(\frac{n\pi ct}{L}\right)$$
+
