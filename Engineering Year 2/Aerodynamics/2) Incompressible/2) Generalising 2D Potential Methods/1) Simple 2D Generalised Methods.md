@@ -39,3 +39,20 @@ The boundary condition at the body surface is a streamline at the control points
 2) An alternative approach specifies the potential on the body surface to make it a streamline. This is called a **Dirichlet** condition.
 *In this example/course we will use the **Neumann Condition***.
 #### The Solution Process
+First we work out the surface normal $\vec{n}_{i}$ to the body at the control points and hence the surface normal component of the velocity induced by each source at every control point. So for example, for source $j$ the normal velocity induced at control point $i$ is given by:
+$$(V_{n})_{i,j}=a_{i,j}\Lambda_{j}$$
+Where $a$ is the velocity influence coefficient.
+The boundary condition of no normal flow is then applied at each control point by combining the surface normal velocities induced by all the sources and the freestream.
+$$\sum\limits_{j=1}^{N}a_{i,j}\Lambda_{j}+\vec{V}_\infty\cdot\vec{n}_{i}=0$$
+Combining these equations for all $N$ control points yields a linear set of equations to solve one of the form:
+$$A\vec\Lambda=\vec{R}$$
+Where:
+$$\vec\Lambda=[\Lambda_1,\Lambda_{2},...,\Lambda_{n}]^T$$
+$$\vec{R}=[R_{1},R_{2},...,R_{N}]^{T}$$
+$$A \text{ is a matrix with entries } a_{i,j}$$
+This equation is then solved for the point sources strengths and then secondary quantities such as pressures, forces, and off body velocities predicted by the model can be calculated.
+### Summary of the Process of Model Generation
+1) Geometry Discretisation
+2) Calculation of *influence coefficients* and *influence matrix* equation
+3) Solution of the linear set of equations
+4) Secondary calculations: pressures, forces, off-body velocities
