@@ -67,4 +67,12 @@ The graphs below show the tangential surface velocity $V_{t}$:
 Note again how they all look good, except for the one in  the top right (which we had issues with before).
 These graphs indicate that:
 - If we have a small number of sources then their location impacts the accuracy of the results.
-- However if we increase the number of sources then the model becomes more accurate and 
+- However if we increase the number of sources then the model becomes more accurate
+Again we can see this with the graphs of surface pressures:![[Pasted image 20250125164336.png]]
+We can also observe the radial surface velocity - for the analytical solution we get that there is zero radial velocity, however with the numerical solutions this isn't necessarily the case:
+![[Pasted image 20250125164613.png|centre]]
+Here we can see that all of the control points have the correct velocities (as we have locked them to zero) but we cant control the velocity between the control points. Note how the bottom left graph shows the best solution with the error dropping to 1.5x10^-3 in error.
+**Lets now observe what happens if we place the sources in a circular pattern with a reduced radius:**
+![[Pasted image 20250125165041.png|centre]]
+Here it is much more obvious that the position plays a much greater role in the quality of the model, the top right example is awful, with streamlines passing straight through the body.
+Again looking at the tangential velc
