@@ -26,4 +26,16 @@ We will return to point vortex models for thin aerofoils since a means to enforc
 ### Example - A Generalised Point Source Model
 >A non-lifting flow over a body is to be modelled using point sources added to a freestream
 
-First $N$ locations are chosen for the point sources. The sources have unknown strength $\Lambda_{j}$. The impact of the 
+First $N$ locations are chosen for the point sources (**singularities**). The sources have unknown strength $\Lambda_{j}$. *Note: The impact of the placement of sources will be considered later.*
+
+Since there are $N$ unknown strengths and we don't have to worry about fixing circulation then the streamline condition can be enforced at $N$ locations on the body. 
+These locations are called **control points** or **collocation points**.
+The diagram below shows the method pictorially:
+![[Pasted image 20250125145631.png|centre]]
+*Note: The singularities must be placed within the geometry as we cannot have locations where flow tends to infinity in the flow field.*
+
+The boundary condition at the body surface is a streamline at the control points can be applied in two ways:
+1) The first way is by directly setting the flow velocity normal to the body surface at the control points to be zero. This is called a **Neumann** condition.
+2) An alternative approach specifies the potential on the body surface to make it a streamline. This is called a **Dirichlet** condition.
+*In this example/course we will use the **Neumann Condition***.
+#### The Solution Process
