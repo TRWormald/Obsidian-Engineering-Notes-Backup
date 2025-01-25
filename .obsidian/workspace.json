@@ -11,17 +11,14 @@
             "id": "a146bc969ff5537a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": -57,
-                  "y": -11,
-                  "zoom": -0.11567020719226444
-                }
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "1) Simple 2D Generalised Methods"
             }
           }
         ]
@@ -228,6 +225,9 @@
   },
   "active": "a146bc969ff5537a",
   "lastOpenFiles": [
+    "Backend/Home.canvas",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
     "Images & Attachments/Pasted image 20250124180821.png",
@@ -243,7 +243,6 @@
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/1) Fourier Series/2) Frequency Analysis of Periodic Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/1) Fourier Series/3) Fourier Series of Even and Odd Functions.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/1) Fourier Series/4) Odd and Even Periodic Extensions.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/SSC Handbook 1.3.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/11) Transfer Functions.md",
     "Images & Attachments/Pasted image 20250123161819.png",
@@ -268,12 +267,10 @@
     "Engineering Year 1/Fluids/Control Volume Analysis/Actuator Disc Theory/Actuator Disc Theory (Propellors).md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Method of Undetermined Coefficients.md",
-    "Engineering Year 1/Maths/ODEs/ODEs Week 3/The Resonant Case.md",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
