@@ -91,4 +91,26 @@ Using the control points as illustrated in the diagram above (i.e. where they ar
 However if we move the foremost and rearmost control points closer to the leading and trailing edges respectively then we get a much better plot which aligns with the analytical solution.
 ### Panel Methods
 The 2D generalised models considered thus far have many similarities to 2D panel methods. This is particularly the case if the location of the singularities and control points is linked to modelling the geometry with panels.
-However most methods referred to in literature as 2D panel methods don't use individual discrete point elements. Instead distributed elements are used where the sources, doublets, and vortices are distributed 
+However most methods referred to in literature as 2D panel methods don't use individual discrete point elements. Instead distributed elements are used where the sources, doublets, and vortices are distributed continuously along a line.
+
+The terminology "panel" method comes from the 3D equivalents of the 2D elements used here:
+![[Pasted image 20250125170419.png]]
+- A point source in 2D is equivalent to a line source in 3D
+- So line source in 2D is equivalent to a surface element in 3D
+The distributed elements are called sheet, surface, or panel elements due to their form in 3D. Hence the use of the name "panel" methods.
+
+**So What Flows Can "Distributed" Elements Model?**
+As with point elements it depends on whether modelling a non-lifting or a lifting flow:
+- Distributed sources/sinks can be used to model flows over non-lifting bodies.
+- Distributed doublets can be used to model flows over lifting and non-lifting bodies
+- Distributed vortices can be used to model flows over lifting and non-lifting bodies.
+#### The 2D source Sheet
+![[Pasted image 20250125170736.png|centre]]
+Above is an edge view of a source sheet - by taking an infinitesimal element of the sheet we can treat it like a point source and therefore use all of our equations on it like normal.
+We effectively have a line with a source strength as a function of length along the line $\lambda=\lambda(s)$. So each elemental length of the line $ds$ would behave like a miniature source of strength $d\Lambda=\lambda ds$.
+
+The velocity potential, and stream function at point $P$ due to a small element $ds$ of the sheet is:
+$$d\phi=\frac{\lambda (s)~ds}{2\pi}\ln r$$
+$$d\psi=\frac{\lambda (s)~ds}{2\pi}\theta$$
+Then the velocity potential and stream function at point $P$ due to the whole sheet is:
+$$\phi(x,z)=\int_{a}^{b}$$
