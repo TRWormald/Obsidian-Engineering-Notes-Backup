@@ -75,4 +75,20 @@ Here we can see that all of the control points have the correct velocities (as w
 **Lets now observe what happens if we place the sources in a circular pattern with a reduced radius:**
 ![[Pasted image 20250125165041.png|centre]]
 Here it is much more obvious that the position plays a much greater role in the quality of the model, the top right example is awful, with streamlines passing straight through the body.
-Again looking at the tangential velc
+Again looking at the tangential velocity:
+![[Pasted image 20250125165301.png|centre]]
+And the pressure:
+![[Pasted image 20250125165325.png|centre]]
+We see a similar pattern.
+And again looking at the radial velcocity:
+![[Pasted image 20250125165400.png|centre]]
+Shows that increasing the number of points whilst they are further away from the body of the surface massively increases accuracy.
+### Solution for a Symmetric Aerofoil - Centreline
+Let's now look at the solution for a symmetric aerofoil when the sources are along the centreline:
+![[Pasted image 20250125165647.png|centre]]
+Using the control points as illustrated in the diagram above (i.e. where they are directly above the sources which are at the centre of each "panel") we get the poor plot shown below:
+![[Pasted image 20250125165659.png|centre]]
+However if we move the foremost and rearmost control points closer to the leading and trailing edges respectively then we get a much better plot which aligns with the analytical solution.
+### Panel Methods
+The 2D generalised models considered thus far have many similarities to 2D panel methods. This is particularly the case if the location of the singularities and control points is linked to modelling the geometry with panels.
+However most methods referred to in literature as 2D panel methods don't use individual discrete point elements. Instead distributed elements are used where the sources, doublets, and vortices are distributed 
