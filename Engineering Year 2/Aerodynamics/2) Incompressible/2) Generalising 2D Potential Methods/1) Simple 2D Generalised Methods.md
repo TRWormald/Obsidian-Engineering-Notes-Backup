@@ -56,3 +56,15 @@ This equation is then solved for the point sources strengths and then secondary 
 2) Calculation of *influence coefficients* and *influence matrix* equation
 3) Solution of the linear set of equations
 4) Secondary calculations: pressures, forces, off-body velocities
+### Where Should We Place Point Sources and Control Points
+The most common approach with point sources is to place sources on the line of symmetry. We will consider this placement first using a circular cylinder as an example.
+We are doing this because we have an analytic potential solution.
+In the following figures circles represent sources and crosses the control points.
+![[Pasted image 20250125163753.png|centre]]
+All of these look very similar to the analytical solution, however if we observe the case in the top right we can see that there are issues with having **a few sources positioned close to the edge of the body**.
+The graphs below show the tangential surface velocity $V_{t}$:
+![[Pasted image 20250125164103.png|centre]]
+Note again how they all look good, except for the one in  the top right (which we had issues with before).
+These graphs indicate that:
+- If we have a small number of sources then their location impacts the accuracy of the results.
+- However if we increase the number of sources then the model becomes more accurate and 
