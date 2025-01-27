@@ -29,7 +29,7 @@ $$\text{Power:}~~~P=T(V+v)$$
 For a rotor in hover, when the onset velocity $V=0$, we get that the induced velocity is:
 $$v_{h}=\sqrt{\frac{T}{2\rho A}}$$
 With the induced power being:
-$$P=Tv_{h}~~~~\text{hence,}~~~~P_{h}=\frac{T^{\frac{2}{3}}}{\sqrt{2\rho A}}$$
+$$P=Tv_{h}~~~~\text{hence,}~~~~P_{h}=\frac{T^{\frac{3}{2}}}{\sqrt{2\rho A}}$$
 ### Induced Velocity in Axial Flight
 > How does the induced velocity change in steady state axial (vertical) flight?
 
