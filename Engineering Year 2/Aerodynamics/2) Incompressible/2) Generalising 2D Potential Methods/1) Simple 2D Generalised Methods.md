@@ -43,7 +43,7 @@ First we work out the surface normal $\vec{n}_{i}$ to the body at the control po
 $$(V_{n})_{i,j}=a_{i,j}\Lambda_{j}$$
 Where $a$ is the velocity influence coefficient.
 The boundary condition of no normal flow is then applied at each control point by combining the surface normal velocities induced by all the sources and the freestream.
-$$\boxed{\sum\limits_{j=1}^{N}a_{i,j}\Lambda_{j}+\underbrace{\vec{V}_\infty\cdot\vec{n}_{i}}_{\text{Component of velocity} fr}=0}$$
+$$\boxed{\sum\limits_{j=1}^{N}\underbrace{a_{i,j}\Lambda_{j}}_{\begin{matrix}\text{Componenet of} \\ \text{velocity from sources}\end{matrix}}+\underbrace{\vec{V}_\infty\cdot\vec{n}_{i}}_{\begin{matrix}\text{Componenet of} \\ \text{velocity from freestream}\end{matrix}}}$$
 Combining these equations for all $N$ control points yields a linear set of equations to solve one of the form:
 $$\boxed{A\vec\Lambda=\vec{R}}$$
 Where:
@@ -107,7 +107,7 @@ As with point elements it depends on whether modelling a non-lifting or a liftin
 #### The 2D source Sheet
 ![[Pasted image 20250125170736.png|centre]]
 Above is an edge view of a source sheet - by taking an infinitesimal element of the sheet we can treat it like a point source and therefore use all of our equations on it like normal.
-We effectively have a line with a source strength as a function of length along the line $\lambda=\lambda(s)$. So each elemental length of the line $ds$ would behave like a miniature source of strength $d\Lambda=\lambda ds$.
+We effectively have a line with a source strength per unit length along the line $\lambda=\lambda(s)$. So each elemental length of the line $ds$ would behave like a miniature source of strength $d\Lambda=\lambda ds$.
 
 The velocity potential, and stream function at point $P$ due to a small element $ds$ of the sheet is:
 $$d\phi=\frac{\lambda (s)~ds}{2\pi}\ln r$$
