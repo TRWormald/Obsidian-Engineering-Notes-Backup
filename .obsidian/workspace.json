@@ -6,6 +6,7 @@
       {
         "id": "0d42dcb85283dad2",
         "type": "tabs",
+        "dimension": 45.813586097946285,
         "children": [
           {
             "id": "c3bac1f9fff22192",
@@ -54,6 +55,29 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "a4e92e19d82eb6c1",
+        "type": "tabs",
+        "dimension": 54.18641390205371,
+        "children": [
+          {
+            "id": "7badbd6bb1dd8cbf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
+                "page": 3,
+                "left": -14,
+                "top": 218,
+                "zoom": 1.048412168195739
+              },
+              "icon": "lucide-file-text",
+              "title": "9) Slides - d'Alembert's Method"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,9 +281,10 @@
   },
   "active": "b874002aa0e4b92d",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5-8) Slides - Solving Heat,Wave, and Laplace.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Second Derivatives of Vector Fields.md",
     "Engineering Year 2/Engineering Maths/Vector Calculus/Vector Fields/Untitled.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/13) Intro to 2DOF Systems.md",
@@ -302,8 +327,6 @@
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
