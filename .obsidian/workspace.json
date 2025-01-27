@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/1) Introduction to Rotorcraft Aerodynamics.md",
+                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Introduction to Rotorcraft Aerodynamics"
+              "title": "2) Fundamentals of Vertical Flight"
             }
           },
           {
@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
+                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Fundamentals of Vertical Flight"
+              "title": "3) Axial Flow States"
             }
           }
         ],
@@ -257,8 +257,13 @@
   },
   "active": "b874002aa0e4b92d",
   "lastOpenFiles": [
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/1) Introduction to Rotorcraft Aerodynamics.md",
+    "Images & Attachments/Pasted image 20250127154044.png",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/1) Introduction to Rotorcraft Aerodynamics.md",
+    "Images & Attachments/Pasted image 20250127153610.png",
+    "Images & Attachments/Pasted image 20250127153608 1.png",
+    "Images & Attachments/Pasted image 20250127153608.png",
     "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
@@ -273,9 +278,6 @@
     "Images & Attachments/Pasted image 20250125165400.png",
     "Images & Attachments/Pasted image 20250125165325.png",
     "Images & Attachments/Pasted image 20250125165301.png",
-    "Images & Attachments/Pasted image 20250125165041.png",
-    "Images & Attachments/Pasted image 20250125164613.png",
-    "Images & Attachments/Pasted image 20250125164336.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2).md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
@@ -297,8 +299,6 @@
     "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics 1.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/4) How to Solve PDEs.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/3) Harmonic Vibration.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/4) Stiffness, Damping, and Inertia.md",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows",
