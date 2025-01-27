@@ -41,4 +41,21 @@ However higher rates of descent can be problematic, both in analysis and in pilo
 We can summarise the data we've got in the Universal Induced Velocity Curve.
 Note that the dark area is literally a "grey area" as it cannot be solved analytically, and therefore comprises of empirical results obtained by flight tests.
 ![[Pasted image 20250127155117.png|centre]]
-*Note as well *
+*Note as well that the induced velocity ($y$) and the rotors vertical velocity ($x$) have been non-dimensionalised by the rotor induced velocity in the hover.*
+### Helicopters in Autorotation
+**It is important to design for low autorotation rates.**
+In general (*Note that this very much depends upon rotor diameter and helicopter weight*), helicopters settle upon an autorotational descent rate such that:
+$$\boxed{\frac{V}{v_{h}}\approx-1.7}$$
+In a steady autorotative descent, $T=$ thrust in hover, so:
+$$T=2\rho Av_{h}^{2}$$
+The rotor has no net flow through it, so it can be likened to a solid disc of area $A$. Which means that it has *Flat Plate Drag*:
+$$D=\frac{1}{2}\rho V^{2}A C_{D}$$
+The drag is equal to the thrust as there are no other forces acting upon the rotor, therefore we can equate the equations:
+$$\frac{1}{2}\rho V^{2}A C_{D}=2\rho Av_{h}^{2}$$
+So:
+$$C_{D}=\frac{4}{\left(\frac{V}{v_{h}}\right)^{2}}$$
+Now for $V/v_{h}=-1/7$, $C_{D}=1.38$ which is effectively the drag coefficient of a parachute.
+#### The Effect of Horizontal Speed on Autorotation
+The graph below shows the impact of horizontal speed on the rate of descent during autorotation:
+![[Pasted image 20250127160002.png|centre]]
+Note how greater levels of horizontal speed results in a greater rate of descent.
