@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c60a3f5dcbc742d2",
+        "id": "0d42dcb85283dad2",
         "type": "tabs",
         "children": [
           {
-            "id": "a146bc969ff5537a",
+            "id": "4fcd8d7d988507ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "1) Simple 2D Generalised Methods"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -223,8 +226,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a146bc969ff5537a",
+  "active": "4fcd8d7d988507ad",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
     "Images & Attachments/Pasted image 20250125170736.png",
     "Images & Attachments/Pasted image 20250125170419.png",
     "Images & Attachments/Pasted image 20250125165659.png",
@@ -235,9 +239,7 @@
     "Images & Attachments/Pasted image 20250125165041.png",
     "Images & Attachments/Pasted image 20250125164613.png",
     "Images & Attachments/Pasted image 20250125164336.png",
-    "Images & Attachments/Pasted image 20250125164334 1.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2).md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",

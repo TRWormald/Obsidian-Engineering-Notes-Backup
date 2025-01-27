@@ -113,4 +113,5 @@ The velocity potential, and stream function at point $P$ due to a small element 
 $$d\phi=\frac{\lambda (s)~ds}{2\pi}\ln r$$
 $$d\psi=\frac{\lambda (s)~ds}{2\pi}\theta$$
 Then the velocity potential and stream function at point $P$ due to the whole sheet is:
-$$\phi(x,z)=\int_{a}^{b}$$
+$$\phi(x,z)=\int_{a}^{b}\frac{\lambda (s)}{2\pi}\ln r~ds$$
+$$\psi(x,z)=\int_{a}^{b}\frac{\lambda (s)}{2\pi}\theta~ds$$
