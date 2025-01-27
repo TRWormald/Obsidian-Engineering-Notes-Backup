@@ -18,3 +18,17 @@ In order to find travelling wave solutions we must note the following:
 > 2) Fixed shape $g$, moving to the left, at speed $c$
 
 #### Proof of the Travelling Wave Solution
+To begin the proof we just substitute the d'Alembert solution into the wave equation, to do this we need to find partial derivatives of $u(x,t)$ with respect of $x$ and $t$:
+If $u(x,t)=f(x-ct)+g(x+ct)$ then:
+$$\frac{\partial u}{\partial t}=\frac{\partial}{\partial t}f(x-ct)+\frac{\partial}
+{\partial t} g(x+ct)$$
+Make a change of variables so that: $\xi=x-ct$ $\eta=x+ct$, and use the chain rule:
+$$\begin{align*}
+&= \frac{\partial}{\partial t}f(\xi)+\frac{\partial}{\partial t}g(\eta)\\
+&= \frac{\partial\xi}{\partial t}
+\frac{d}{d\xi}f(\xi)+\frac{\partial\eta}{\partial t} \frac{d}{d\eta}g(\eta)\\
+&= -cf'(\xi)+cg'(\eta)\\
+&= -cf'(x-ct)+cg'(x+ct)\end{align*}$$
+We can use the same technique to find all the partial derivatives of $u(x,t)=f(x-ct)+g(x+ct)$ with respect to $x$ and $t$:
+$$u_t=-cf'(x-ct)+cg'(x+ct)$$
+$$$$
