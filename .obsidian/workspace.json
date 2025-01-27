@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fcd8d7d988507ad",
+            "id": "445e095d3973f843",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "1) Simple 2D Generalised Methods"
             }
           }
         ]
@@ -226,9 +223,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4fcd8d7d988507ad",
+  "active": "445e095d3973f843",
   "lastOpenFiles": [
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
+    "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20250125170736.png",
     "Images & Attachments/Pasted image 20250125170419.png",
     "Images & Attachments/Pasted image 20250125165659.png",
@@ -240,7 +239,6 @@
     "Images & Attachments/Pasted image 20250125164613.png",
     "Images & Attachments/Pasted image 20250125164336.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2).md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",

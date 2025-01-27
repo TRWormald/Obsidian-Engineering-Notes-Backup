@@ -43,9 +43,9 @@ First we work out the surface normal $\vec{n}_{i}$ to the body at the control po
 $$(V_{n})_{i,j}=a_{i,j}\Lambda_{j}$$
 Where $a$ is the velocity influence coefficient.
 The boundary condition of no normal flow is then applied at each control point by combining the surface normal velocities induced by all the sources and the freestream.
-$$\sum\limits_{j=1}^{N}a_{i,j}\Lambda_{j}+\vec{V}_\infty\cdot\vec{n}_{i}=0$$
+$$\boxed{\sum\limits_{j=1}^{N}a_{i,j}\Lambda_{j}+\underbrace{\vec{V}_\infty\cdot\vec{n}_{i}}_{\text{Component of velocity} fr}=0}$$
 Combining these equations for all $N$ control points yields a linear set of equations to solve one of the form:
-$$A\vec\Lambda=\vec{R}$$
+$$\boxed{A\vec\Lambda=\vec{R}}$$
 Where:
 $$\vec\Lambda=[\Lambda_1,\Lambda_{2},...,\Lambda_{n}]^T$$
 $$\vec{R}=[R_{1},R_{2},...,R_{N}]^{T}$$
