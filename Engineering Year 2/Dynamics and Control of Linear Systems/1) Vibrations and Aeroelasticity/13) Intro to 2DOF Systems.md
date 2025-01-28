@@ -11,4 +11,18 @@ The main characteristics of this system are:
 - Two DOFs and, therefore, two equations of motion
 - Two applied forces $f_{1}$ and $f_{2}$ acting on the lumped masses
 - Three springs with the stiffness parameters $k_{1}$, $k_{2}$, and $k_{3}$
-- No 
+- No damping (undamped system) - there is also no friction and no rolling resistance
+#### Parametrising the 2DOF System
+![[Pasted image 20250128122945.png|centre]]
+#### The Free Body Diagram
+![[Pasted image 20250128123009.png|centre]]
+Note how that since we have assumed that $x_{1}<x_{2}$ the spring in the centre is in tension.
+We can therefore generate the equations of dynamic equilibrium (in the horizontal direction only):
+$$\text{Block 1: }-F_{S1}-F_{I1}+F_{S2}+f_{1}=0$$
+$$\text{Block 2: }-F_{S2}-F_{I2}-F_{S3}+f_{2}=0$$
+We can then substitute the equations for the forces in (they're all springs or inertial forces):
+$$\text{Block 1: }-k_{1}x_{1}-m_1\ddot{x}_{1}+k_{2}(x_{2}-x_{1})+f_{1}=0$$
+$$\text{Block 2: }-k_{2}(x_{2}-x_{1})-m_2\ddot{x}_{2}-k_{3}x_{3}+f_{2}=0$$
+Which can be simplified to:
+$$\text{Block 1: }m_{1}\ddot{x}_{1}+(k_{1}+k_{2})x_{1}-k_{2}x_{2}=f_{1}$$
+$$\text{Block 2: }m_{2}\ddot{x}_{2}-k_{2}$$
