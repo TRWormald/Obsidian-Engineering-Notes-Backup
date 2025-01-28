@@ -6,6 +6,7 @@
       {
         "id": "7791bf295bf1e78e",
         "type": "tabs",
+        "dimension": 41.95270785659802,
         "children": [
           {
             "id": "610f8254106a7837",
@@ -26,6 +27,7 @@
       {
         "id": "621c17c81c026c6f",
         "type": "tabs",
+        "dimension": 58.04729214340198,
         "children": [
           {
             "id": "127d68123609464a",
@@ -34,10 +36,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
-                "page": 8,
-                "left": -15,
-                "top": 166,
-                "zoom": 0.9988027596060353
+                "page": 9,
+                "left": -4,
+                "top": 84,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "9) Slides - d'Alembert's Method"
@@ -245,10 +247,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "127d68123609464a",
+  "active": "610f8254106a7837",
   "lastOpenFiles": [
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
+    "Images & Attachments/Pasted image 20250128153310.png",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/13) Intro to 2DOF Systems.md",
     "Images & Attachments/Pasted image 20250128123009.png",
