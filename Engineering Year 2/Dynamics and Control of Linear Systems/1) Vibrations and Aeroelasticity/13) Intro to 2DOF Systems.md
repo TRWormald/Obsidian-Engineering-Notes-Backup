@@ -25,4 +25,8 @@ $$\text{Block 1: }-k_{1}x_{1}-m_1\ddot{x}_{1}+k_{2}(x_{2}-x_{1})+f_{1}=0$$
 $$\text{Block 2: }-k_{2}(x_{2}-x_{1})-m_2\ddot{x}_{2}-k_{3}x_{3}+f_{2}=0$$
 Which can be simplified to:
 $$\text{Block 1: }m_{1}\ddot{x}_{1}+(k_{1}+k_{2})x_{1}-k_{2}x_{2}=f_{1}$$
-$$\text{Block 2: }m_{2}\ddot{x}_{2}-k_{2}$$
+$$\text{Block 2: }m_{2}\ddot{x}_{2}-k_{2}x_{1}+(k_{2}+k_{3})x_{2}=f_{2}$$
+**With these EOMs found we can now represent them in matrix form:**
+$$\begin{bmatrix}m_{1}&0\\0&m_{2}\end{bmatrix}\begin{bmatrix}\ddot{x}_{1}\\\ddot{x}_{2}\end{bmatrix}+\begin{bmatrix}k_{1}+k_{2}&-k_{2}\\-k_{2}&k_{2}+k_{3}\end{bmatrix}\begin{bmatrix}x_{1}\\x_{2}\end{bmatrix}=\begin{bmatrix}f_{1}\\f_{2}\end{bmatrix}$$
+Which we can represent using the following notation:
+$$\mathbf{M}\ddot{\mathbf{x}}+\mathbf{K}\mathbf{x}=\mathbf{f}(t)$$
