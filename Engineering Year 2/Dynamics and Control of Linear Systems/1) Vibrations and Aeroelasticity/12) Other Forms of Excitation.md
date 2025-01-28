@@ -1,0 +1,1 @@
+We have [[10) Harmonic Excitation|previously]] looked at Force, Unbalance, and Base Excitation, and the [[11]]
