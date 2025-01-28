@@ -31,4 +31,12 @@ $$\begin{align*}
 &= -cf'(x-ct)+cg'(x+ct)\end{align*}$$
 We can use the same technique to find all the partial derivatives of $u(x,t)=f(x-ct)+g(x+ct)$ with respect to $x$ and $t$:
 $$u_t=-cf'(x-ct)+cg'(x+ct)$$
-$$$$
+$$u_{tt}=c^{2}f''(x-ct)+c^{2}g''(x+ct)$$
+$$u_{x}=f'(x-ct)+g'(x+ct)$$
+$$u_{xx}=f''(x-ct)+g''(x+ct)$$
+Hence:
+$$\begin{align*}
+u_{tt}&= c^{2}f''(x-ct)+c^{2}g''(x+ct)\\
+&= c^{2}[f''(x-ct)+g''(x+ct)]=c^{2}u_{xx}
+\end{align*}$$
+Which proves that the d'Alembert method is valid.
