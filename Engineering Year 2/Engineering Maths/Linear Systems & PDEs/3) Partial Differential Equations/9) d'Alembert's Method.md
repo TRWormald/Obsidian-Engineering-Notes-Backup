@@ -40,3 +40,4 @@ u_{tt}&= c^{2}f''(x-ct)+c^{2}g''(x+ct)\\
 &= c^{2}[f''(x-ct)+g''(x+ct)]=c^{2}u_{xx}
 \end{align*}$$
 Which proves that the d'Alembert method is valid.
+### Walk Through Example 
