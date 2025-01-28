@@ -47,5 +47,10 @@ $$\frac{I}{m}=\dot{x}(T_{P})$$
 We can then think about solving the equation of motion:
 $$m\ddot{x}+c\dot{x}+kx=F(t)$$
 So:
-$$x(t)=e^-\zeta$$
+$$x(t)=e^{-\zeta \omega_{0}t}(A\cos(\omega_{D}t)+B\sin(\omega_{D}t))$$
+With the assumption that $T_{P}\rightarrow 0$ (i.e. the impulse occurs close to time 0) therefore:
+$$x(0)=0,~~~~~~~\dot{x}(0)=\frac{I}{m}$$
+$$I=\int_{0}^{T_{P}}F(t)dt$$
 
+We can then obtain the solution by substituting the initial conditions into the general solution:
+$$\boxed{x(t)=\frac{I}{m\omega_{D}}e^{-\zeta\omega_{0}t}\sin(\omega_Dt)}$$
