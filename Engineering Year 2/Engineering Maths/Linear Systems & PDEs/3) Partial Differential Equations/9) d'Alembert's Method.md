@@ -77,4 +77,17 @@ $$\boxed{g(x)=\frac{1}{2}(F(x)+K)}$$
 Substituting these functions back into d'Alembert's solution gets $u(x,t)$:
 $$\boxed{u(x,t)=\frac{1}{2}F(x-ct)+ \frac{1}{2}F(x+ct)}$$
 Where:
-$$F(x)=\left\{\begin{matrix}1+x &-1\le x<0\\1-x & 0\le x\le 1\\\end{matrix}\right.$$
+$$F(x)=\left\{\begin{matrix}1+x &-1\le x<0\\1-x & 0\le x\le 1\\0&\text{otherwise}\end{matrix}\right.$$
+#### Step 5 - Plot the Solution Profile
+![[Pasted image 20250128154648.png|centre]]
+![[Pasted image 20250128154703.png]]
+### d'Alembert Method with a Semi-Infinite Domain
+Suppose we wish to solve the wave equation on  a semi-infinite domain:
+$$u_{tt}=c^{2}u_{xx},~~~~~~~~0<x<\infty,~~~t>0$$
+This time, the process is slightly more involved:
+1) We use the d'Alembert solution
+2) Then we apply the initial conditions to find the functions $f$ and $g$, as before. However the first solution we get will only be valid for $x>ct$
+3) To find the solution for $0<x<ct$ we will need to apply the boundary condition (known $u$ or $u_{x}$ at $x=0$ for all $t>0$)
+4) Then patch the two pieces together
+## Worked Example 6.1
+## Worked Example 6.2
