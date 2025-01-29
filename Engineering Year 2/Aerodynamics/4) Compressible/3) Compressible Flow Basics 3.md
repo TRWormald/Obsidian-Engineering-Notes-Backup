@@ -16,4 +16,31 @@ Recalling from earlier that we simplified the Navier-Stokes equations to obtain 
 $$dp=-\rho V~dV$$
 ### 1D Isentropic Duct Flow (or along a streamline)
 Let's model flow in a duct with slowly changing area $A$, therefore:
-- The angle 
+- The angle between streamlines is small
+- The impact of the boundary layer is small
+Flow is therefore inviscid and effectively one dimensional - so let's assume inviscid, steady flow, with negligible height variation.
+
+The momentum equation is the 1D Euler Equation from earlier:
+$$dp=-\rho V~dV~~~~\Rightarrow~~~~\frac{dp}{\rho}+V~dV=0$$
+And the continuity equation is given by the derivative of mass flow:
+$$\dot{m}=\rho AV~~~ \Rightarrow~~~ \frac{dV}{V}+ \frac{dA}{A}+ \frac{d\rho}{\rho}=0$$
+From which we can obtain:
+$$\frac{dV}{V}+ \frac{dA}{A}- \frac{V^{2}}{a^{2}} \frac{dV}{V}=0$$
+### Area Velocity Variation (Adiabatic Flow)
+We can take the equation:
+$$\frac{dV}{V}+ \frac{dA}{A}- \frac{V^{2}}{a^{2}} \frac{dV}{V}=0$$
+And substitute to get:
+$$\frac{dA}{A}=(M^{2}-1) \frac{dV}{V}$$
+*Note that this only applies for adiabatic flow.*
+Which is a direct relation between area variation and velocity variation.
+We can now introduce the element of length along the duct or streamline $dx$:
+$$(M^{2}-1) \frac{1}{V} \frac{dV}{dx}=\frac{1}{A} \frac{dA}{dx}$$
+Consider an accelerating flow $dV/dx>0$:
+- M<1 then $dA/dx<0$ therefore a converging duct
+- M>1 then $dA/dx>0$ therefore a diverging duct
+- M=1 then $dA/dx=0$ therefore minimum area (i.e. a throat)
+### Area Ratio
+Sonic duct flow can only occur at a throat (i.e. where the area is a local minimum)
+When $M=1$ here, this area is also the "critical" area $A^{*}$.
+The critical area is often used as a reference area in compressible flow.
+Use isentropic equations to relate local area $A$ and mach nu
