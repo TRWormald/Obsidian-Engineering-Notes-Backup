@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7791bf295bf1e78e",
-        "type": "tabs",
-        "dimension": 41.95270785659802,
-        "children": [
-          {
-            "id": "610f8254106a7837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9) d'Alembert's Method"
-            }
-          }
-        ]
-      },
-      {
         "id": "621c17c81c026c6f",
         "type": "tabs",
-        "dimension": 58.04729214340198,
         "children": [
           {
             "id": "127d68123609464a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf"
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": -57,
+                  "y": -11,
+                  "zoom": -0.08578848720577972
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "9) Slides - d'Alembert's Method"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -243,13 +226,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "610f8254106a7837",
+  "active": "127d68123609464a",
   "lastOpenFiles": [
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
+    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
     "Images & Attachments/Pasted image 20250128154703.png",
     "Images & Attachments/Pasted image 20250128154648.png",
     "Images & Attachments/Pasted image 20250128153310.png",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/13) Intro to 2DOF Systems.md",
     "Images & Attachments/Pasted image 20250128123009.png",
@@ -262,7 +245,6 @@
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/12) Other Forms of Excitation.md",
     "Images & Attachments/Pasted image 20250128113221.png",
     "Images & Attachments/Pasted image 20250128113158.png",
-    "Images & Attachments/Pasted image 20250128113028.png",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5-8) Slides - Solving Heat,Wave, and Laplace.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/8) Solving Laplace's Equation.md",
