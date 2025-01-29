@@ -43,4 +43,17 @@ Consider an accelerating flow $dV/dx>0$:
 Sonic duct flow can only occur at a throat (i.e. where the area is a local minimum)
 When $M=1$ here, this area is also the "critical" area $A^{*}$.
 The critical area is often used as a reference area in compressible flow.
-Use isentropic equations to relate local area $A$ and mach nu
+Use isentropic equations to relate local area $A$ and Mach number to $A^{*}$:
+$$\rho A V=\rho^{*}A^{*}V^{*}$$
+$$V=Ma\Rightarrow V^{*}=a^{*}$$
+Hence:
+$$\rho AMa=\rho^{*}A^{*}a^{*}$$
+Leading to:
+$$\frac{A}{A^{*}}=\frac{\rho^{*}}{\rho} \frac{a^{*}}{a} \frac{1}{M}$$
+Then using the relations:
+$$\frac{\rho^{*}}{\rho}=\frac{\rho^{*}}{\rho_{0}}\frac{\rho_{0}}{\rho}$$
+And a similar one for the speed of sound, we can obtain:
+$$\frac{A}{A^{*}}=\frac{1}{M}\left\{ \frac{2}{\gamma+1}\left(1+ \frac{\gamma-1}{2} M^{2}\right)\right\}^{\frac{\gamma+1}{2(\gamma-1)}}$$
+Which has two solutions, M>1 and M<1.
+![[Pasted image 20250129104331.png|centre]]
+### The Laval Nozzle
