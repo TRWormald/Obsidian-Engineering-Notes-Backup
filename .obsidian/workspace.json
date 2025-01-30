@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "621c17c81c026c6f",
+        "id": "5a86e1c14130158c",
         "type": "tabs",
         "children": [
           {
-            "id": "127d68123609464a",
+            "id": "c8cdb469ce5f7803",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "3) Compressible Flow Basics 3"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -223,13 +226,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "127d68123609464a",
+  "active": "c8cdb469ce5f7803",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
     "Images & Attachments/Pasted image 20250129104331.png",
     "Images & Attachments/Pasted image 20250129102543.png",
     "Images & Attachments/Pasted image 20250129102434.png",
     "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
@@ -241,7 +244,6 @@
     "Images & Attachments/Pasted image 20250128122945.png",
     "Images & Attachments/Pasted image 20250128122510.png",
     "Images & Attachments/Pasted image 20250128121313.png",
-    "Images & Attachments/Pasted image 20250128121237.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/10) Harmonic Excitation.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/11) Transfer Functions.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/12) Other Forms of Excitation.md",
