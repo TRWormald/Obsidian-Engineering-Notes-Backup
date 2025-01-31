@@ -127,3 +127,8 @@ The pressure inside the cabin obviously results in stress due to the pressure di
 We can calculate the two stresses in the following ways:
 $$\text{Hoop Stress}=\sigma_{hoop}=\frac{Pr}{t}$$
 $$\text{Axial Stress}=\sigma_{axial}=\frac{Pr}{2}\cdot t_e$$
+
+> [!PDF|255, 208, 0] [[1) SSC Handbook 1.1.pdf#page=3&annotation=522R|1) SSC Handbook 1.1, p.3]]
+> > stly experience the world in the temporal (time) domain, that is we experience the world as changes over time. There are so
+> 
+> 

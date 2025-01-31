@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95c8475b7cc297e0",
+        "id": "a0c980387202236d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c61723c922a7ddd",
+            "id": "d80fbc215a8119a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) Lecture Notes 30-01-25.md",
+                "file": "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Lecture Notes 30-01-25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a3503949baf3cf4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16ad1834628194eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) SSC Handbook 1.5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3) SSC Handbook 1.5"
+              "title": "3) Compressible Flow Basics 3"
             }
           }
         ]
@@ -58,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -241,12 +224,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "16ad1834628194eb",
+  "active": "d80fbc215a8119a9",
   "lastOpenFiles": [
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) Lecture Notes 30-01-25.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) SSC Handbook 1.5.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.3.pdf",
     "Backend/Home.canvas",
+    "Engineering Year 1/Structures/Torsion of Shafts.md",
+    "Shear Stress.md",
+    "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) SSC Handbook 1.1.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/13) Intro to 2DOF Systems.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) SSC Handbook 1.5.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) Lecture Notes 30-01-25.md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.3.pdf",
     "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
     "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
     "Images & Attachments/Pasted image 20250129104331.png",
@@ -258,7 +246,6 @@
     "Images & Attachments/Pasted image 20250128154703.png",
     "Images & Attachments/Pasted image 20250128154648.png",
     "Images & Attachments/Pasted image 20250128153310.png",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/13) Intro to 2DOF Systems.md",
     "Images & Attachments/Pasted image 20250128123009.png",
     "Images & Attachments/Pasted image 20250128122945.png",
     "Images & Attachments/Pasted image 20250128122510.png",
@@ -282,12 +269,8 @@
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2).md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/5) Solving the Wave Equation.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/7) Solving the Heat Equation.md",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/6) When can we use Separation of Variables.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.4.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) SSC Handbook 1.2.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) SSC Handbook 1.1.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",

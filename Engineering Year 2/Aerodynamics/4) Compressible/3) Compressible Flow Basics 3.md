@@ -25,16 +25,16 @@ $$dp=-\rho V~dV~~~~\Rightarrow~~~~\frac{dp}{\rho}+V~dV=0$$
 And the continuity equation is given by the derivative of mass flow:
 $$\dot{m}=\rho AV~~~ \Rightarrow~~~ \frac{dV}{V}+ \frac{dA}{A}+ \frac{d\rho}{\rho}=0$$
 From which we can obtain:
-$$\frac{dV}{V}+ \frac{dA}{A}- \frac{V^{2}}{a^{2}} \frac{dV}{V}=0$$
+$$\boxed{\frac{dV}{V}+ \frac{dA}{A}- \frac{V^{2}}{a^{2}} \frac{dV}{V}=0}$$
 ### Area Velocity Variation (Adiabatic Flow)
 We can take the equation:
 $$\frac{dV}{V}+ \frac{dA}{A}- \frac{V^{2}}{a^{2}} \frac{dV}{V}=0$$
 And substitute to get:
-$$\frac{dA}{A}=(M^{2}-1) \frac{dV}{V}$$
+$$\boxed{\frac{dA}{A}=(M^{2}-1) \frac{dV}{V}}$$
 *Note that this only applies for adiabatic flow.*
 Which is a direct relation between area variation and velocity variation.
 We can now introduce the element of length along the duct or streamline $dx$:
-$$(M^{2}-1) \frac{1}{V} \frac{dV}{dx}=\frac{1}{A} \frac{dA}{dx}$$
+$$\boxed{(M^{2}-1) \frac{1}{V} \frac{dV}{dx}=\frac{1}{A} \frac{dA}{dx}}$$
 Consider an accelerating flow $dV/dx>0$:
 - M<1 then $dA/dx<0$ therefore a converging duct
 - M>1 then $dA/dx>0$ therefore a diverging duct
@@ -53,7 +53,7 @@ $$\frac{A}{A^{*}}=\frac{\rho^{*}}{\rho} \frac{a^{*}}{a} \frac{1}{M}$$
 Then using the relations:
 $$\frac{\rho^{*}}{\rho}=\frac{\rho^{*}}{\rho_{0}}\frac{\rho_{0}}{\rho}$$
 And a similar one for the speed of sound, we can obtain:
-$$\frac{A}{A^{*}}=\frac{1}{M}\left\{ \frac{2}{\gamma+1}\left(1+ \frac{\gamma-1}{2} M^{2}\right)\right\}^{\frac{\gamma+1}{2(\gamma-1)}}$$
+$$\boxed{\frac{A}{A^{*}}=\frac{1}{M}\left\{ \frac{2}{\gamma+1}\left(1+ \frac{\gamma-1}{2} M^{2}\right)\right\}^{\frac{\gamma+1}{2(\gamma-1)}}}$$
 Which has two solutions, M>1 and M<1.
 ![[Pasted image 20250129104331.png|centre]]
 ### The Laval Nozzle

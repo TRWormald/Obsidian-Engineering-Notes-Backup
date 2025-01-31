@@ -2,27 +2,27 @@ When calculating the torsion in shafts we make several assumptions:
 
 1) The Shaft is in Pure Torsion (i.e. there are no other loads applied to the Shaft)
 2) The rotations applied to the shaft are small (This is important so that we can use small angle approximations later
-\
+
 To derive the equation relating load to angle of deformation we need to work backwards:
-\
+
 Define Deformation ($\phi$) -> Define Strains ($\gamma$) -> Define Stress ($\tau$)-> Define Load ($T$)
 
 ## Defining the Deformation
 Consider a shaft which is clamped at one end with length $L$ and radius $R$. Now consider a point/particle at the end of the shaft (at the radius) and its motion as Torsion is applied.
 The point's motion can be defined by the equation:
-\
+
 $$s=\phi R$$
 Where:
 $s$ is the distance around the centre of the shaft that the particle has traversed
 $\phi$ is the angle that the shaft has been rotated by (in radians)
 $R$ is the radius of the shaft
-\
+
 Now consider: 
 1) The fact that $s$ decreases as we move closer to the clamp
 2) The fact that $s$ decreases as we move closer to the centre of the shaft
-\
+
 From this we can deduce that $s$ must be a function of the distance from the clamp and the distance from the centre of the shaft, hence:
-\
+
 $$s(x,r)=\phi (x)r$$
 \
 Where:
