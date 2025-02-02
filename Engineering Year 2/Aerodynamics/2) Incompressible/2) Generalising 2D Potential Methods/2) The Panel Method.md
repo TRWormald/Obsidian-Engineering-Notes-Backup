@@ -52,4 +52,18 @@ The vortex sheet is a line of "infinitesimal" vortices of strength $d\Gamma=\gam
 Where $\gamma=\gamma(s)$ is the vortex strength per unit length along the sheet (this is sometimes referred to as the vorticity distribution).
 
 The velocity potential, stream function, and tangential velocity at point $P$ due to an element of the sheet is:
-$$d\phi=-\frac{\g}{}$$
+$$d\phi=-\frac{\gamma~ds}{2\pi}\theta$$
+$$d\psi=\frac{\gamma~ds}{2\pi}\ln r$$
+$$dV_\theta=-\frac{\gamma~ds}{2\pi r}$$
+Then the velocity potential and steam function at point $P$ due to the whole sheet is:
+$$\phi=-\int_{a}^{b}\frac{\gamma}{2\pi}\theta ~ds$$
+$$\psi=\int_{b}^{a}\frac{\gamma}{2\pi}\ln r~ds$$
+### Vortex Sheet Strength
+The total circulation around a finite length of the sheet is:
+$$\Gamma=\int_{a}^{b}\gamma~ds$$
+The discontinuity in velocity across the sheet, which is the local jump in tangential velocity, is equal to the local sheet strength:
+$$\gamma=v_{t1}-v_{t2}$$
+![[Pasted image 20250202174836.png|centre]]
+### 2D Vortex Sheet
+![[Pasted image 20250202174903.png|centre]]
+## Doublet Sheets
