@@ -72,4 +72,11 @@ Therefore the mass flow through the duct is also unaffected.
 Mass flow can be written in non-dimensional form:
 $$\boxed{\frac{\dot{m}\sqrt{RT_0}}{Ap_{0}}=\sqrt{\gamma}\frac{p/p_{0}}{\sqrt{T/T_0}}M=f(\gamma,M)}$$
 So the mass flow is a function of $\gamma$ and $M$ only.
-If the nozzle is choked then using maximum values for all variables (from tables) then the mass flow rate is 0.685
+If the nozzle is choked then using maximum values for all variables (from tables) then the mass flow rate is 0.685 at Mach 1.
+The Maximum choked mass flow is then:
+$$\dot{m}_{max}=0.685\frac{A_{t}p_{0}}{\sqrt{RT_{0}}}=0.0404\frac{A_{t}p_{0}}{\sqrt{T_{0}}}$$
+### Flow Visualisation
+![[Pasted image 20250202160619.png|centre]]
+![[Pasted image 20250202160632.png|centre]]
+![[Pasted image 20250202160642.png|centre]]
+![[Pasted image 20250202160703.png|centre]]

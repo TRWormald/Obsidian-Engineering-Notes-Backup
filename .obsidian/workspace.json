@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
+                "file": "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Compressible Flow Basics 3"
+              "title": "Uniform Horizontal Flow"
             }
           }
         ]
@@ -226,9 +226,20 @@
   },
   "active": "79b9d42921a3dbe9",
   "lastOpenFiles": [
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/How to solve Potential Flows.md",
+    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/From Navier-Stokes to Bernoulli.md",
+    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
+    "Images & Attachments/Pasted image 20250202160703.png",
+    "Images & Attachments/Pasted image 20250202160642.png",
+    "Images & Attachments/Pasted image 20250202160632.png",
+    "Images & Attachments/Pasted image 20250202160619.png",
     "Images & Attachments/Pasted image 20250202154923.png",
     "Backend/Home.canvas",
-    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Shear Stress.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
@@ -246,11 +257,6 @@
     "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
     "Images & Attachments/Pasted image 20250128154703.png",
     "Images & Attachments/Pasted image 20250128154648.png",
-    "Images & Attachments/Pasted image 20250128153310.png",
-    "Images & Attachments/Pasted image 20250128123009.png",
-    "Images & Attachments/Pasted image 20250128122945.png",
-    "Images & Attachments/Pasted image 20250128122510.png",
-    "Images & Attachments/Pasted image 20250128121313.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/10) Harmonic Excitation.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/11) Transfer Functions.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/12) Other Forms of Excitation.md",
@@ -263,12 +269,6 @@
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/1) Introduction to Rotorcraft Aerodynamics.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
-    "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics/4) Derivation of the 1D Euler Equation from the Navier-Stokes Equations.md",
-    "Engineering Year 2/Aerodynamics/1) Introduction to Aerodynamics/5) Potential Flow.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/1) Conformal Transformation.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/5) Aerofoil Geometry.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2).md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.4.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) SSC Handbook 1.2.pdf",
