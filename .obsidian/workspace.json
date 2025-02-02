@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
+                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Axial Flow States"
+              "title": "4) Sustained Hover (1)"
             }
           }
         ]
@@ -226,8 +226,10 @@
   },
   "active": "5c418d2509bf1186",
   "lastOpenFiles": [
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
+    "Images & Attachments/Pasted image 20250202202944.png",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
     "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20250202181453.png",
@@ -266,8 +268,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/How to solve Potential Flows.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) SSC Handbook 1.1.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) SSC Handbook 1.5.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.3.pdf",
