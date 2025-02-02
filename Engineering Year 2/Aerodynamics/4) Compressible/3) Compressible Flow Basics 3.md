@@ -57,3 +57,9 @@ $$\boxed{\frac{A}{A^{*}}=\frac{1}{M}\left\{ \frac{2}{\gamma+1}\left(1+ \frac{\ga
 Which has two solutions, M>1 and M<1.
 ![[Pasted image 20250129104331.png|centre]]
 ### The Laval Nozzle
+Gustave de Laval Designed a steam turbine using the isentropic area ratio and the compressible Bernoulli equation:
+$$p_{0}=p\left(1+ \frac{\gamma-1}{2}M^{2}\right)^\frac{\gamma}{\gamma-1}$$
+Which has infinitely many solutions depending on $p_e$ but only 2 isentropic solutions sonic at the throat:
+![[Pasted image 20250202154923.png|centre]]
+Note how that $p_{e}$ is the exit pressure of the nozzle.
+The utility of this is that if we have a converging diverging nozzle with sonic flow at the throat, then as we expand it the temperature and pressure drop whilst the velocity increases. This allows us to extract the energy f

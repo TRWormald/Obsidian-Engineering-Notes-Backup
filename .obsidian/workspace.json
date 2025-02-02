@@ -11,17 +11,14 @@
             "id": "79b9d42921a3dbe9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "3) Compressible Flow Basics 3"
             }
           }
         ]
@@ -229,8 +226,9 @@
   },
   "active": "79b9d42921a3dbe9",
   "lastOpenFiles": [
-    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
+    "Images & Attachments/Pasted image 20250202154923.png",
     "Backend/Home.canvas",
+    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
     "Engineering Year 1/Structures/Torsion of Shafts.md",
     "Shear Stress.md",
     "Engineering Year 1/AVDASI/Structures/Fuselage Design and Analysis.md",
