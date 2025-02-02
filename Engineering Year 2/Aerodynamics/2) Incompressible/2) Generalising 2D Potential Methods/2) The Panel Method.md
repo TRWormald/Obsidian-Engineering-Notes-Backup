@@ -66,4 +66,36 @@ $$\gamma=v_{t1}-v_{t2}$$
 ![[Pasted image 20250202174836.png|centre]]
 ### 2D Vortex Sheet
 ![[Pasted image 20250202174903.png|centre]]
-## Doublet Sheets
+### Doublet Sheets
+We can replace a vortex element by a doublet sheet element with an appropriate strength distribution.
+e.g. A 2D flat panel with a constant vortex strength distribution could be replaced by a linear doublet strength distribution on the same panel (note the gradient of the doublet strength depends on the direction defined as the positive direction for the doublet).
+### 2D Vortex Panel Methods
+- An arbitrary body can be modelled by covering the surface with a vortex sheet
+- The sheet strength $\gamma(s)$  is chosen so that the combined action of $\gamma(s)$ and the freestream velocity makes the surface a streamline. Also need to enforce a Kutta condition in order to ensure correct physical solution.
+- This cannot be solved analytically for arbitrary bodies and is usually solved numerically using a panel method.
+#### Constant Vortex Panel Methods
+If there are N panels then to create a set of equations to solve for the constant panel strengths $\gamma_{j}$  , a “surface is a streamline” condition is applied at the control points. Gives $N$ equations.
+
+We also need an equation to enforce the Kutta condition. In 2D one way this can be done is by setting:
+$$\gamma_{1}+\gamma_{N}=0$$
+We have $N$ unknowns but $N+1$ equations. Solve by deleting one of the control point equations or using a least squares approach.
+#### Linear Vortex Panel Methods
+There are $N$ panels with the strength of the panels specified at each end so $N+1$ unknowns. For panel $j$, panel strengths at ends are $\gamma_{j}$  and $\gamma_{j+1}$ there is then a linear variation in between, as shown for a source panel. A “surface is a streamline” condition is applied at control points on each panel giving N equations.
+
+Again we need to enforce the Kutta condition using:
+$$\gamma_{1}+\gamma_{N}=0$$
+Now we have $N+1$ unknowns and $N+1$ equations.
+### Lifting Flow Vortex Panel Solutions
+![[Pasted image 20250202181154.png|centre]]
+Note how the linear vortex panels are much more accurate at the peak of the negative pressure distribution curve, more accurately modelling the lift generated.
+## From 2D to 3D
+3D panel methods are very similar to 2D methods, after selecting a singularity type the same four steps are needed:
+1) Geometry Discretisation
+2) Calculation of Influence Coefficients and Influence Matrix equations
+3) Solution of the linear set of equations
+4) Secondary calculations: pressures, forces, off-body velocities etc.
+### Point and Distributed Elements in 3D
+![[Pasted image 20250202181414.png|centre]]
+3D distributed element expressions are found by considering small element of a surface, using the 3D point singularity formula for the small element and then integrating over the surface.
+### Surface Panelling
+Paneling of 3D geometries is more complex, especially for complex geometries. Most commonly used approaches use quadrilateral or triangular panels, created from a mesh of points on the body surface.
