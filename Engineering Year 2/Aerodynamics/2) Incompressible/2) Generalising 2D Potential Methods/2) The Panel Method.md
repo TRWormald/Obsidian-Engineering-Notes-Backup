@@ -99,3 +99,25 @@ Note how the linear vortex panels are much more accurate at the peak of the nega
 3D distributed element expressions are found by considering small element of a surface, using the 3D point singularity formula for the small element and then integrating over the surface.
 ### Surface Panelling
 Paneling of 3D geometries is more complex, especially for complex geometries. Most commonly used approaches use quadrilateral or triangular panels, created from a mesh of points on the body surface.
+![[Pasted image 20250202181453.png|centre]]
+It is always possible to join 3 points on geometry with a fat panel, but 4 arbitrary points don't necessarily lie on a plane.
+This means that curved panels are sometimes required, however:
+- This makes the expressions for velocities induced by the panel and after the panel more complicated to evaluate
+- There can be gaps between panels if the curved edges don't match exactly.
+
+Sometimes the geometry is approximated so that flat panels can be used. This means there is some compromise on the accuracy of the representation so that the mash points are not necessarily lying on the true geometry and gaps can arise between panels. These cause "leakage" which causes errors in solutions.
+### Wake Modelling
+- A wing sheds vorticity into the wake. 
+- It is crucial to shed the wake in the most physically realistic way to get the correct lift. 
+- In steady 2D flow the Kutta condition is sufficient to get the correct lift. It implies conditions on pressure and velocity at TE, but we normally focus on the velocity when implementing it. 
+- In 3D again want to shed the wake smoothly, but the Kutta condition is implemented via a pressure condition to allow for spanwise flow. Modelling of the wake behind the wing is also important. A 2D Kutta condition will work adequately if the wing is not highly swept. 
+ - Will see more on wake modelling in a later lecture.
+## Notes
+Panel methods can be used for arbitrary shapes and extended easily to 3D
+However:
+- Only for low speeds
+- No viscous effects
+- No shocks
+We can however extend their use using:
+- Compressibility corrections
+- Coupling to boundary layer solvers, aeroelastic representations, thermal effects, etc.
