@@ -27,3 +27,31 @@ If $\frac{T}{P}=PL$ (known as power loading) and $\frac{T}{A}=DL$ (known as disk
 $$PL=1.565*\text{FoM}*\frac{1}{\sqrt{DL}}$$
 This relationship can be plotted if the Figure of Merit is known, then for a given disk loading the power loading may be found from the graph:
 ![[Pasted image 20250202204043.png|centre]]
+### Rotor Performance Coefficients
+The general thrust coefficient:
+$$T_{c}=\frac{T}{\rho V^{2}D^{2}}$$
+has limited value for helicopter rotors has it has infinite value at $V=0$.
+A more suitable coefficient is:
+$$C_{T}=\frac{T}{\rho A(\Omega R)^{2}}$$
+Which gives a thrust coefficient based upon tip rotor speed $\Omega R$ and rotor disk area $A$.
+
+Note that, whilst the above equation for $C_{T}$ has become the accepted form some textbooks might show:
+$$C_{T}=\frac{T}{\frac{1}{2}\rho V^{2}_{T}A}$$
+Where $V_{T}=\Omega R$, or some other variation on this theme.
+#### The Torque and Power Coefficients
+Similarly:
+$$C_{Q}=\frac{Q}{\rho A(\Omega R)^{2}}$$
+$$C_{P}=\frac{P}{\rho A(\Omega R)^{3}}$$
+Therefore $C_{P}=C_{Q}$
+#### The Advance and Inflow Ratios
+it is also normal to express the forward speed $V$ of the helicopter relative to the tip speed parameter $\Omega R$ - this is called the Advance Ratio $\mu$, thus:
+$$\mu =\frac{V}{\Omega R}$$
+In a similar way, the flow through the rotor ($v$ in hover, but $V_{V}+v$ otherwise) is non-dimensionalised by $\Omega R$ and this is called the inflow ratio $\lambda$, thus:
+$$\lambda=\frac{V_{V}+v}{\Omega R}$$
+Note that in hover $V_{V}=0$.
+#### The Figure of Merit
+We previously defined the figure of merit in terms of thrust, power and velocity, however we can also use the relations that we have just found above to calculate it in terms of the non-dimensionalised coefficients:
+$$\text{FoM}=0.707\frac{C_{T}^\frac{2}{3}}{C_{Q}}$$
+With an important intermediary step being figuring out that:
+$$\lambda=\sqrt{\frac{C_{T}}{2}}$$
+When the rotorcraft is in hover (i.e. when $V_{V}=0)$.
