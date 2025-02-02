@@ -40,3 +40,16 @@ And $\mathbf{A}$ is a matrix with entries $a_i,j$ the influence coefficients.
 For aerofoils:
 ![[Pasted image 20250202171201.png|centre]]
 ### Linear Source Methods
+Another common approach is to assume that $\lambda(s)$ varies linearly along a panel. The only difference in method is the calculation of the influence coefficients (which is beyond the scope of this course).
+If we assume that value of $\lambda$ at the ends of each panel are equal to $\lambda_{j}$ and $\lambda_{j+1}$. Then the variation on the panel is:
+$$\lambda(s)=\lambda_{j}+\frac{s-s_{j}}{\Delta s_{j}}(\lambda_{j+1}-\lambda_{j})$$
+#### Constant vs Linear Panels
+![[Pasted image 20250202174212.png|centre]]
+Here we can see that there is a much more gradual change between the panels rather than the "stepped" approach.
+## 2D Vortex Sheet
+The vortex sheet is a line of "infinitesimal" vortices of strength $d\Gamma=\gamma~ds$
+![[Pasted image 20250202174339.png|centre]]
+Where $\gamma=\gamma(s)$ is the vortex strength per unit length along the sheet (this is sometimes referred to as the vorticity distribution).
+
+The velocity potential, stream function, and tangential velocity at point $P$ due to an element of the sheet is:
+$$d\phi=-\frac{\g}{}$$
