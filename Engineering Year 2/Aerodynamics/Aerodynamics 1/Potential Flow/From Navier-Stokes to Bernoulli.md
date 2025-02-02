@@ -4,7 +4,7 @@ By making several assumptions we can derive [[Bernoulli's Equation]] from the Na
 2) Steady flow
 3) No Body Forces (like gravity)
 4) The flow is along a [[Streamline]]
-6) There is [[Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow]]
+6) There is [[Engineering Year 2/Aerodynamics/Aerodynamics 1/Potential Flow/Irrotational Flow]]
 7) The flow is Incompressible
 8) The flow is [[Adiabatic]]
 \

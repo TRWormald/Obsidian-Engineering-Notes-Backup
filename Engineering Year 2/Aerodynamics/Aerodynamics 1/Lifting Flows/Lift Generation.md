@@ -18,7 +18,7 @@ So:
 $$\frac{1}{2}\rho U_{\infty}^{2}C_{p}=p-p_{\infty}$$
 Hence:
 $$L=-\frac{1}{2}\rho U_{\infty}^{2}\int_{0}^{2\pi}C_{p}\sin\theta\cdot d\theta$$
-We've already calculated our $C_{p}$ [[Engineering Year 1/AVDASI/Aerodynamics/Lifting Flows/Lifting Cylinder Flow#Calculating the Velocities and the Pressure Coefficient|here]] so:
+We've already calculated our $C_{p}$ [[Engineering Year 2/Aerodynamics/Aerodynamics 1/Lifting Flows/Lifting Cylinder Flow#Calculating the Velocities and the Pressure Coefficient|here]] so:
 $$L=-\frac{1}{2}\rho U_{\infty}^{2}\int_{0}^{2\pi}\left(1-4\sin^{2}\theta- \frac{2\Gamma\sin\theta}{U_{\infty}\pi R}-{\left(\frac{\Gamma}{2U_{\infty}\pi R}\right)^{2}}\right)\sin\theta\cdot d\theta$$
 Which evaluates to:
 $$L=\rho U_\infty\Gamma$$

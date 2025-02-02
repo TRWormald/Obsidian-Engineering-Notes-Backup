@@ -8,7 +8,7 @@ Below is an example:
 We can replicate this by imagining the aircraft stationary in a wind tunnel. The wind tunnel has steady onset flow of $V_{\text{aircraft}}$ and the inlet pressure is adjusted so that the static pressure of the onset flow is equal to atmospheric.
 ![[Pasted image 20240426104742.png|center]]
 If the wind tunnel is large enough for the streamlines to be unaffected by the tunnel walls then the flow speed relative to the aircraft and the pressure would be identical in both cases.
-This is due to us performing a [[The Galilean Transform|Galilean Transform]] on the first scenario to achieve the second.
+This is due to us performing a [[Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/The Galilean Transform|Galilean Transform]] on the first scenario to achieve the second.
 **These are referred to as similar flows.**
 \
 However if the fluid starts from atmospheric pressure, when it is accelerated the static pressure will decrease - meaning that the pressure isn't the same in both cases - and if the pressures are different how can the speeds be the same.

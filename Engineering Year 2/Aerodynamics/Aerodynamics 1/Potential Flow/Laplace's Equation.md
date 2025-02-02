@@ -1,7 +1,7 @@
 Kelvin's Theorem:
 "*In the absence of viscous forces and discontinuities the flow will remain irrotational*"
 \
-We know how [[Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Irrotational Flow]] is defined, and discontinuities come from free surfaces (multi-phase flows) or shock waves (only present in compressible flows). Inviscid incompressible flows are always irrotational.
+We know how [[Engineering Year 2/Aerodynamics/Aerodynamics 1/Potential Flow/Irrotational Flow]] is defined, and discontinuities come from free surfaces (multi-phase flows) or shock waves (only present in compressible flows). Inviscid incompressible flows are always irrotational.
 \
 For incompressible flows the mass conservation equation becomes:
 \
