@@ -62,4 +62,14 @@ $$p_{0}=p\left(1+ \frac{\gamma-1}{2}M^{2}\right)^\frac{\gamma}{\gamma-1}$$
 Which has infinitely many solutions depending on $p_e$ but only 2 isentropic solutions sonic at the throat:
 ![[Pasted image 20250202154923.png|centre]]
 Note how that $p_{e}$ is the exit pressure of the nozzle.
-The utility of this is that if we have a converging diverging nozzle with sonic flow at the throat, then as we expand it the temperature and pressure drop whilst the velocity increases. This allows us to extract the energy f
+The utility of this is that if we have a converging diverging nozzle with sonic flow at the throat, then as we expand it the temperature and pressure drop whilst the velocity increases. This allows us to extract energy from the flow using a turbine.
+> The most important thing to remember is that the flow characteristics are based on the relationship between $p_0$ and $p_e$ - if the ratio is sufficiently high then the flow can choke and become supersonic.
+### Choking
+Once Mach 1 is reached at the throat further reductions in $p_e$ have no effect on subsonic flow upstream - i.e. no pressure information can propagate past the throat.
+Therefore the mass flow through the duct is also unaffected.
+> If there is a sonic throat the duct is "choked"
+
+Mass flow can be written in non-dimensional form:
+$$\boxed{\frac{\dot{m}\sqrt{RT_0}}{Ap_{0}}=\sqrt{\gamma}\frac{p/p_{0}}{\sqrt{T/T_0}}M=f(\gamma,M)}$$
+So the mass flow is a function of $\gamma$ and $M$ only.
+If the nozzle is choked then using maximum values for all variables (from tables) then the mass flow rate is 0.685
