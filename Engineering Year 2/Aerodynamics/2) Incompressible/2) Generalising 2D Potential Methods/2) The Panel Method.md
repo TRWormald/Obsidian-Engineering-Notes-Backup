@@ -79,6 +79,9 @@ If there are N panels then to create a set of equations to solve for the constan
 We also need an equation to enforce the Kutta condition. In 2D one way this can be done is by setting:
 $$\gamma_{1}+\gamma_{N}=0$$
 We have $N$ unknowns but $N+1$ equations. Solve by deleting one of the control point equations or using a least squares approach.
+*Note that this means that we have*:
+$$\mathbf{A\vec{\gamma}}=\mathbf{\vec{R}}~~~\Rightarrow~~~\mathbf{A\vec{\gamma}}-\mathbf{\vec{R}}=\mathbf{\vec{\varepsilon}}$$
+*Where $\varepsilon$ is the error function - which we minimise in a least squares approach. (But this is outside of scope.*
 #### Linear Vortex Panel Methods
 There are $N$ panels with the strength of the panels specified at each end so $N+1$ unknowns. For panel $j$, panel strengths at ends are $\gamma_{j}$  and $\gamma_{j+1}$ there is then a linear variation in between, as shown for a source panel. A “surface is a streamline” condition is applied at control points on each panel giving N equations.
 
