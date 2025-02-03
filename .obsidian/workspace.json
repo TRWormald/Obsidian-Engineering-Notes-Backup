@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a53b7457ece9123f",
+        "id": "105e7f26f5360a37",
         "type": "tabs",
         "children": [
           {
-            "id": "5c418d2509bf1186",
+            "id": "b62bfc2ff01e16c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Sustained Hover (1)"
+              "title": "1) Simple 2D Generalised Methods"
+            }
+          },
+          {
+            "id": "86e75b205f315d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) The Panel Method"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,24 +239,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5c418d2509bf1186",
+  "active": "76ad3b8cbd3db5c5",
   "lastOpenFiles": [
+    "R2S/TURBOPUMPS/Constant Speed Drives",
+    "R2S/TURBOPUMPS/Tap-Off Cycle",
+    "R2S/TURBOPUMPS",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
     "Images & Attachments/Pasted image 20250202204043.png",
     "Images & Attachments/Pasted image 20250202203315.png",
     "Images & Attachments/Pasted image 20250202203116.png",
     "Images & Attachments/Pasted image 20250202202944.png",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
-    "Backend/Home.canvas",
     "Images & Attachments/Pasted image 20250202181453.png",
     "Images & Attachments/Pasted image 20250202181414.png",
     "Images & Attachments/Pasted image 20250202181154.png",
     "Images & Attachments/Pasted image 20250202174903.png",
     "Images & Attachments/Pasted image 20250202174836.png",
     "Images & Attachments/Pasted image 20250202174339.png",
-    "Images & Attachments/Pasted image 20250202174212.png",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
@@ -267,12 +285,9 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Source & Sink.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Laplace's Equation.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) SSC Handbook 1.1.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/3) SSC Handbook 1.5.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.3.pdf",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/AVDASI2 2024 Requirements Specification (Issue 01).pdf",
-    "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) Slides - d'Alembert's Method.pdf",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
