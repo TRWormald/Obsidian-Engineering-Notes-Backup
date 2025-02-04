@@ -2,8 +2,8 @@ We saw in the previous lecture that the equation of motion for a NDOF system wit
 $$\mathbf{M\ddot{x}}+\mathbf{Kx}=\mathbf{f}(t)$$
 ![[Pasted image 20250204115743.png|centre]]
 Here we'll be looking at:
-- Free response
-- Eigenvalue problem
+- [[14) Free Vibration Characteristics#Free Vibration Response|Free Vibration Response]]
+- [[14) Free Vibration Characteristics#The Eigenvalue Problem|The Eigenvalue Problem]]
 - The characteristic equation
 - Numerical solutions using MATLAB
 ### Free Vibrations
@@ -21,6 +21,22 @@ Where $\mathbf{x}$ is the vector of displacements, $\mathbf{a}$ is the vector of
 We use the assumed motion function to find the free response of the system:
 $$\begin{align*}
 \mathbf{x}&= \mathbf{a}\sin(\omega t +\varphi)\\
-\mathbf{\dot{x}}&= \omega\mathbf{a}\sin(\omega t +\varphi)\\
-\mathbf{\fdot{x}}&= \omega\mathbf{a}\sin(\omega t +\varphi)
+\mathbf{\dot{x}}&= \omega\mathbf{a}\cos(\omega t +\varphi)\\
+\mathbf{\ddot{x}}&= -\omega^{2}\mathbf{a}\sin(\omega t +\varphi)
 \end{align*}$$
+We substitute the vector of displacements and accelerations to the EOM:
+$$-\omega^{2}\mathbf{M~a}\sin(\omega t +\varphi)+\mathbf{K~a}\sin(\omega t +\varphi)=\mathbf{0}$$
+So:
+$$(\mathbf{K}-\omega^{2}\mathbf{M})\mathbf{a}\sin(\omega t+\varphi)=\mathbf{0}$$
+This equation is valid for all time instants, therefore:
+$$(\mathbf{K}-\omega^{2}\mathbf{M})\mathbf{a}=\mathbf{0}$$
+Hence we have obtained a linear (matrix) equation with the unknown vector of amplitudes $\mathbf{a}$ and unknown frequency $\omega$. This problem is called the *Eigenvalue Problem*.
+### The Eigenvalue Problem
+The eigenvalue problem is:
+$$(\mathbf{K}-\omega^{2}\mathbf{M})\mathbf{a}=\mathbf{0}
+$$
+For 2DOF system, this problem has two solutions: $\omega_{1}^{2}, \mathbf{a_{1}}$ and $\omega^{2}_{2},\mathbf{a}_{2}$. The values $\omega_{i}^{2}$ are called eigenvalues and the vectors $\mathbf{a_{i}}$ are called eigenvectors or mode shapes.
+Eigenvalues are squares of the undamped natural frequencies $\omega_{i}$.
+
+We will consider two different ways of solving the eigenvalue problem:
+- For *small* systems (e.g. 2DOF) we can use the analytical method, while for larger 
