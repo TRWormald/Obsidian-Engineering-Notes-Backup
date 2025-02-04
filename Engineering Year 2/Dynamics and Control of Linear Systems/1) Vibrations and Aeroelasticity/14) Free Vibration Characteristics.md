@@ -39,4 +39,27 @@ For 2DOF system, this problem has two solutions: $\omega_{1}^{2}, \mathbf{a_{1}}
 Eigenvalues are squares of the undamped natural frequencies $\omega_{i}$.
 
 We will consider two different ways of solving the eigenvalue problem:
-- For *small* systems (e.g. 2DOF) we can use the analytical method, while for larger 
+- For *small* systems (e.g. 2DOF) we can use the analytical method
+- While for larger problems, or where larger calculations are needed, we use the *numerical* method which is available in MATLAB
+![[Pasted image 20250204121528.png|centre]]
+#### Solving the Eigenvalue Problem
+ The eigenvalue problem:
+$$(\mathbf{K}-\omega^{2}\mathbf{M})\mathbf{a}=\mathbf{0}$$
+For this system of linear equations there are two types of solutions:
+- *One trivial solution*, where $\mathbf{a}=0$ (zero amplitude of vibration = no vibration)
+- *Non-trivial solutions*, where $\mathbf{a}\ne 0$ (non-zero vibration amplitudes)
+##### The Analytical Solution
+We are interested in the non-trivial solutions. Assuming that $\mathbf{a}\ne 0$, the condition for the non-trivial solutions is that the determinant of the system matrix is zero. Therefore:
+$$\boxed{\det(\mathbf{K}-\omega^{2}\mathbf{M})=0}$$
+##### The Numerical Solution
+An alternative approach to solving this problem uses numerical methods. MATLAB can determine all eigenvalues and eigenvectors of the standard problem:
+$$(\mathbf{K}-\omega_{i}^{2}\mathbf{M})\mathbf{a_{i}}=\mathbf{0}~~~\Rightarrow~~~\mathbf{Ka_i}=\lambda_{i}\mathbf{Ma_{i}},~~~ \lambda_i=\omega_{i}^{2}$$
+So:
+>K=...      % stiffness matrix
+>M=...     % mass matrix
+>$[$Evec,Eval$]$=eig(K,M);
+
+### Example
+![[Pasted image 20250204122327.png|centre]]
+![[Pasted image 20250204122340.png|centre]]
+![[Pasted image 20250204122406.png|centre]]
