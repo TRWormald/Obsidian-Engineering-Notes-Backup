@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/14) Free Vibration Characteristics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Sustained Hover (1)"
+              "title": "14) Free Vibration Characteristics"
             }
           }
         ]
@@ -226,6 +226,9 @@
   },
   "active": "e7ec04ea4f46ef90",
   "lastOpenFiles": [
+    "Images & Attachments/Pasted image 20250204115743.png",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/14) Free Vibration Characteristics.md",
     "Backend/Home.canvas",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
@@ -240,7 +243,6 @@
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
     "Images & Attachments/Pasted image 20250202204043.png",
     "Images & Attachments/Pasted image 20250202203315.png",
     "Images & Attachments/Pasted image 20250202203116.png",
@@ -271,7 +273,6 @@
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Non-Lifting Flows/Flow around a Semi-Infinite Body.md",
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
-    "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Doublet.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
