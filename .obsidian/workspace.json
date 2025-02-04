@@ -11,16 +11,14 @@
             "id": "86e75b205f315d23",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
-                "page": 3,
-                "left": -10,
-                "top": 828,
-                "zoom": 1.5511071536574712
+                "file": "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "JAFM_Volume 11_Issue 5_Pages 1377-1386"
+              "icon": "lucide-file",
+              "title": "Swirl Atomizers"
             }
           }
         ]
@@ -228,16 +226,16 @@
   },
   "active": "86e75b205f315d23",
   "lastOpenFiles": [
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
