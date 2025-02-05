@@ -10,3 +10,5 @@ Where the PDF gives the value of $f_{X}$ at a given $x$.
 The CDF (or cumulative density function) is the probability of $X\le x$ and can be calculated using:
 $$\Pr(X\le x)=F_X(x)=\int_{-\infty}^{x}f_{x}~dx$$
 ![[Pasted image 20250205171148.png|centre|350]]
+### The Standard Normal
+We can also define the standard normal, which is where we set the standard deviation to one and the mean to 
