@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
+                "file": "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Probability Basics and the Central Limit Theorem"
+              "title": "3) Compressible Flow Basics 3"
             }
           }
         ]
@@ -226,8 +226,8 @@
   },
   "active": "01a4d36ffc659b01",
   "lastOpenFiles": [
-    "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
+    "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Applied Statistics",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/15) Response due to Initial Conditions.md",
     "Images & Attachments/Pasted image 20250204124149.png",
