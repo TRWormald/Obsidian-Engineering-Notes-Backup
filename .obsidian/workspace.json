@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
+                "file": "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Compressible Flow Basics 3"
+              "title": "4) Shockwaves and Expansions 1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.50152587890625
+    "width": 318.50152587890625
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -226,6 +226,8 @@
   },
   "active": "01a4d36ffc659b01",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
+    "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Engineering Maths/Applied Statistics",
@@ -271,7 +273,6 @@
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Irrotational Flow.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/How to solve Potential Flows.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/From Navier-Stokes to Bernoulli.md",
-    "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Non-Lifting Flows/Flow over a Cylinder.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
