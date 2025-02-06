@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8e325420dbbb83",
+        "id": "2d27b83a73fac53e",
         "type": "tabs",
         "children": [
           {
-            "id": "b5134c26c28d04df",
+            "id": "7e7e8205e09de88a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) Lecture Notes 06-02-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Shockwaves and Expansions 1"
+              "title": "4) Lecture Notes 06-02-25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c79e9a0da928423e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3f4499487d0b22",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) SSC Handbook 1.6.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 846,
+                "zoom": 1.4966740576496673
+              },
+              "icon": "lucide-file-text",
+              "title": "4) SSC Handbook 1.6"
             }
           }
         ]
@@ -78,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.50152587890625
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -224,16 +246,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b5134c26c28d04df",
+  "active": "3b3f4499487d0b22",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) Lecture Notes 06-02-25.md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) SSC Handbook 1.6.pdf",
+    "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/3) Tails, Errors, and Significance Levels.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/2) Introduction to Hypothesis Testing.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
     "Images & Attachments/Pasted image 20250205171148.png",
     "Images & Attachments/Pasted image 20250205170435.png",
     "Untitled.md",
-    "Backend/Home.canvas",
-    "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/15) Response due to Initial Conditions.md",
@@ -256,7 +280,6 @@
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
-    "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
@@ -271,8 +294,6 @@
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Lifting Flows/Circulation.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Why isn't Bernoulli's Equation Enough.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/The Galilean Transform.md",
-    "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Laplace's Equation.md",
-    "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/The Coefficient of Pressure - From Bernoulli's Equation.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
