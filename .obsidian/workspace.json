@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2d27b83a73fac53e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e7e8205e09de88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) Lecture Notes 06-02-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4) Lecture Notes 06-02-25"
-            }
-          }
-        ]
-      },
-      {
         "id": "c79e9a0da928423e",
         "type": "tabs",
         "children": [
@@ -31,16 +11,14 @@
             "id": "3b3f4499487d0b22",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) SSC Handbook 1.6.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 846,
-                "zoom": 1.4966740576496673
+                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/2) Newton's Method.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4) SSC Handbook 1.6"
+              "icon": "lucide-file",
+              "title": "2) Newton's Method"
             }
           }
         ]
@@ -248,9 +226,13 @@
   },
   "active": "3b3f4499487d0b22",
   "lastOpenFiles": [
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) SSC Handbook 1.3.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
+    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
+    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) SSC Handbook 1.6.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) Lecture Notes 06-02-25.md",
     "Backend/Home.canvas",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/4) SSC Handbook 1.6.pdf",
     "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/3) Tails, Errors, and Significance Levels.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/2) Introduction to Hypothesis Testing.md",
@@ -271,15 +253,12 @@
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/14) Free Vibration Characteristics.md",
     "Images & Attachments/Pasted image 20250204122421.png",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
-    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
-    "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/rpl_swirl_injector_design_packet_draft.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/out.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/20020045359 - NASA.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Swirl Injectors/955-968.pdf",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/yu-et-al-2024-the-design-and-validation-process-of-a-coaxial-swirl-injector-plate-for-bipropellant-liquid-rocket.pdf",
-    "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/ADA410862 - Mainly Looks at Data.pdf",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/1) Simple 2D Generalised Methods.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
