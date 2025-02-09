@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/2) Potentials Models of Flows Past Aerofoils.md",
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/3) Thin Aerofoil Assumptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Potentials Models of Flows Past Aerofoils"
+              "title": "3) Thin Aerofoil Assumptions"
             }
           }
         ]
@@ -226,8 +226,13 @@
   },
   "active": "d90b2857693a6f04",
   "lastOpenFiles": [
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/1) Recap on Vortex Sheets.md",
+    "Images & Attachments/Pasted image 20250209223527.png",
+    "Images & Attachments/Pasted image 20250209223352.png",
+    "Images & Attachments/Pasted image 20250209223146.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/2) Potentials Models of Flows Past Aerofoils.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/3) Thin Aerofoil Assumptions.md",
+    "Images & Attachments/Pasted image 20250209222711.png",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/1) Recap on Vortex Sheets.md",
     "Images & Attachments/Pasted image 20250209221956.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory",
@@ -256,9 +261,6 @@
     "Images & Attachments/Pasted image 20250204124134.png",
     "Images & Attachments/Pasted image 20250204124116.png",
     "Images & Attachments/Pasted image 20250204124100.png",
-    "Images & Attachments/Pasted image 20250204124046.png",
-    "Images & Attachments/Pasted image 20250204124015.png",
-    "Images & Attachments/Pasted image 20250204123945.png",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/14) Free Vibration Characteristics.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
     "R2S/Coaxial Swirl Injectors/Studies/Relating to Coax Injectors/JAFM_Volume 11_Issue 5_Pages 1377-1386.pdf",
@@ -271,8 +273,6 @@
     "Engineering Year 1/AVDASI/Aerodynamics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Elementary Flow/Uniform Horizontal Flow.md",
     "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Elementary Flow/Point Vortex Flow.md",
-    "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Elementary Flow/Doublet.md",
-    "Engineering Year 2/Aerodynamics/0) Potential Flow Basics/Potential Flow/Elementary Flow/Point Source & Sink.md",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
