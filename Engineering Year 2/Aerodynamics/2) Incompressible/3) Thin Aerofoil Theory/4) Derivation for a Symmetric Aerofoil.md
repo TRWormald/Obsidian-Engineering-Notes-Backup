@@ -28,3 +28,10 @@ $$x=\frac{c}{2}(1-\cos\theta_{0})$$
 ![[Pasted image 20250209225451.png|centre]]
 Once substituting the Fundamental Thin Aerofoil Equation becomes:
 $$\boxed{\boxed{\frac{1}{2\pi}\int_{0}^{\pi}\frac{\gamma(\theta)~\sin\theta}{(\cos\theta-\cos\theta_{0})}d\theta=V_{\infty}\alpha}}$$
+This is solved using *integral equation theory*. We don't need to solve this. Given a function you need to be able to substitute in and confirm it is the solution of the equation (just don't forget the Kutta Condition)
+### Exemplar
+For a symmetric aerofoil the given function would be:
+$$\boxed{\gamma(\theta)=2\alpha V_{\infty}\frac{1+\cos\theta}{\sin\theta}}$$
+To prove it is the solution you need to show that:
+1) It satisfies the equation
+2) $\gamma(\pi)=0$ i.e. the Kutta condition at the TE is satisfied

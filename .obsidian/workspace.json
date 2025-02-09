@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/4) Derivation for a Symmetric Aerofoil.md",
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/5) Lift Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Derivation for a Symmetric Aerofoil"
+              "title": "5) Lift Distribution"
             }
           }
         ]
@@ -226,6 +226,9 @@
   },
   "active": "d90b2857693a6f04",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/5) Lift Distribution.md",
+    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/4) Derivation for a Symmetric Aerofoil.md",
     "Images & Attachments/Pasted image 20250209225451.png",
     "Images & Attachments/Pasted image 20250209224600.png",
     "Images & Attachments/Pasted image 20250209224559 1.png",
@@ -233,15 +236,12 @@
     "Images & Attachments/Pasted image 20250209224405.png",
     "Images & Attachments/Pasted image 20250209224304.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/3) Thin Aerofoil Assumptions.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/4) Derivation for a Symmetric Aerofoil.md",
     "Images & Attachments/Pasted image 20250209223703.png",
     "Images & Attachments/Pasted image 20250209223527.png",
     "Images & Attachments/Pasted image 20250209223352.png",
     "Images & Attachments/Pasted image 20250209223146.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/2) Potentials Models of Flows Past Aerofoils.md",
-    "Images & Attachments/Pasted image 20250209222711.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/1) Recap on Vortex Sheets.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory",
     "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
     "Backend/Home.canvas",
