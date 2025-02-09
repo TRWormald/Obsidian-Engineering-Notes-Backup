@@ -9,4 +9,9 @@ The lift curve slope $a_{0}$ for this model of a symmetric aerofoil is:
 $$a_{0}=2\pi$$
 ### Method 2
 Consider each infinitesimal element of the sheet as contributing to the lift:
-$$dl=\rho_{\infty}V_{\infty}d\Gamma$$
+$$dl=\rho_{\infty}V_{\infty}d\Gamma=\rho_{\infty}V_{\infty}\gamma(\xi)~d\xi$$
+i.e. the vortex sheet strength distribution $\gamma(\theta)$ or $\gamma(\xi)$ corresponds to a constant scaling of the chordwise lift distribution on the aerofoil.
+Note that there is a singularity at the leading edge.
+Then on integration:
+$$l=\rho_{\infty}V_{\infty}\Gamma=\pi\alpha c\rho_{\infty}V_{\infty}^{2}$$
+$$\boxed{C_{L}=a_{0}\alpha=2\pi \alpha}$$
