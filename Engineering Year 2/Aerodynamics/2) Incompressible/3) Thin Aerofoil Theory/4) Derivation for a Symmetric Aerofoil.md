@@ -10,4 +10,21 @@ At a point $x$ on the chordline the vortex-induced velocity normal to the line i
 This is found by considering the velocity induced by a small element of the vortex sheet with strength $\gamma(\xi)d\xi$ located at distance $\xi$ from the origin on the chordline:
 ![[Pasted image 20250209224600.png]]
 So using $v_{\theta}=-\frac{\Gamma}{2\pi r}$:
-$$dw(x)=-\frac{}{}$$
+$$dw(x)=-\frac{\gamma(\xi)~d\xi}{2\pi(x-\xi)}$$
+Then integrating to find total velocity induced by the whole sheet is:
+$$\boxed{w(x)=- \frac{1}{2\pi}\int_{0}^{c}\frac{\gamma(\xi)}{x-\xi}~d\xi}$$
+The no normal flow condition is then:
+$$\boxed{V_{\infty}\sin(\alpha)+w(x)=0}$$
+And for small angles:
+$$V_\infty\alpha+w(x)=0$$
+So substituting this becomes:
+$$\boxed{\boxed{\frac{1}{2\pi}\int_{0}^{c}\frac{\gamma(\xi)~d\xi}{(x-\xi)}=V_{\infty}\alpha}}$$
+This is the special form of the FUNDAMENTAL THIN AEROFOIL EQUATION for a symmetric aerofoil.
+This **must be solved subject to the [[3) The Kutta Condition|Kutta Condition]]**
+### The Fundamental Thin Aerofoil Equation
+To solve this equation we use the following transformation:
+$$\xi=\frac{c}{2}(1-\cos\theta)$$
+$$x=\frac{c}{2}(1-\cos\theta_{0})$$
+![[Pasted image 20250209225451.png|centre]]
+Once substituting the Fundamental Thin Aerofoil Equation becomes:
+$$\boxed{\boxed{\frac{1}{2\pi}\int_{0}^{\pi}\frac{\gamma(\theta)~\sin\theta}{(\cos\theta-\cos\theta_{0})}d\theta=V_{\infty}\alpha}}$$
