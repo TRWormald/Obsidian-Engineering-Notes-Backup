@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "25428474d0e72e10",
+        "id": "a62a30b32573b746",
         "type": "tabs",
         "children": [
           {
-            "id": "d90b2857693a6f04",
+            "id": "306230df908e131b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/7) Thin Aerofoil Theory vs Experimental Results.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "7) Thin Aerofoil Theory vs Experimental Results"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -224,12 +227,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d90b2857693a6f04",
+  "active": "306230df908e131b",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/7) Thin Aerofoil Theory vs Experimental Results.md",
     "Images & Attachments/Pasted image 20250209231620.png",
     "Images & Attachments/Pasted image 20250209231603.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/6) Pitching Moment.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/7) Thin Aerofoil Theory vs Experimental Results.md",
     "Images & Attachments/Pasted image 20250209231121.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/5) Lift Distribution.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/2) Generalising 2D Potential Methods/2) The Panel Method.md",
@@ -242,7 +245,6 @@
     "Images & Attachments/Pasted image 20250209224304.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/3) Thin Aerofoil Assumptions.md",
     "Images & Attachments/Pasted image 20250209223703.png",
-    "Images & Attachments/Pasted image 20250209223527.png",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/2) Potentials Models of Flows Past Aerofoils.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/1) Recap on Vortex Sheets.md",
     "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory",
