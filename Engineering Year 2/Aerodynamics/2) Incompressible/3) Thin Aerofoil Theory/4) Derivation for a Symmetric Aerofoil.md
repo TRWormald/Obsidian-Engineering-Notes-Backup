@@ -9,7 +9,7 @@ To make the chord line a streamline there must be no flow normal to it. So we ne
 At a point $x$ on the chordline the vortex-induced velocity normal to the line is $w(x)$.
 This is found by considering the velocity induced by a small element of the vortex sheet with strength $\gamma(\xi)d\xi$ located at distance $\xi$ from the origin on the chordline:
 ![[Pasted image 20250209224600.png]]
-So using $v_{\theta}=-\frac{\Gamma}{2\pi r}$:
+So using $v_{\theta}=-\frac{\Gamma}{2\pi r}$ (we're assuming that a small element of the vortex sheet is a vortex):
 $$dw(x)=-\frac{\gamma(\xi)~d\xi}{2\pi(x-\xi)}$$
 Then integrating to find total velocity induced by the whole sheet is:
 $$\boxed{w(x)=- \frac{1}{2\pi}\int_{0}^{c}\frac{\gamma(\xi)}{x-\xi}~d\xi}$$
