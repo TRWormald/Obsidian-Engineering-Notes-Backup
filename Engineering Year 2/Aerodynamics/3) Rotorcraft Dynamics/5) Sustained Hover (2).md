@@ -56,4 +56,23 @@ L&= \int_{0}^{R}\frac{N}{2}\rho \Omega^{2}rRa(\theta_{t}-\phi_{t})c~dr\\
 &= \frac{N}{4}\rho\Omega^{2}R^{3}a(\theta_{t}-\phi_{t})c~~~~~~~(\approx T)
 \end{align*}$$
 So:
-$C_{T=}$
+$$\begin{align*}
+C_{T}&= \frac{T}{\rho A (\Omega R)^{2}}=\frac{N}{4}\frac{\rho\Omega^{2}a R^{3}(\theta_t-\phi_{t})c}{\rho\pi\Omega^{2}R^{4}}\\\\
+
+&= \frac{Na(\theta_t-\phi_{t})c}{4\pi R}
+\end{align*}$$
+Or:
+$$C_{T}=\frac{\sigma}{4}a(\theta_{t}-\phi_{t}),~~~~\text{where}~~\sigma=\frac{Nc}{\pi R}$$
+### The Effect of Blade Profile Drag and Rotor Solidity
+The rotor blade element of drag is composed of two components; the profile drag and the induced drag. The resultant drag in the plane of the rotor is:
+$$dD\cos\phi+dL\sin\phi$$
+Since $\phi$ is small this can be written as:
+$$dD+dL\phi$$
+Or in coefficient form as:
+$$C_{d_{0}}+\phi C_{l}$$
+Thus the in plane drag torque due to this element is:
+$$dQ=\frac{N}{2}\rho(\Omega r)^{2}c(C_{d_{0}}+\phi C_{l})r~dr$$
+Assuming that $C_{d_{0}}=\delta$ is relatively constant over the range of $\alpha$ then we can assume that $C_{d_{0}}$ is a constant.
+Using our previous assumptions and plugging them into the torque equation we can eventually derive that:
+$$\boxed{\boxed{FoM=0.707\frac{C_{T}^{\frac{3}{2}}}{\frac{C_{T}^{\frac{3}{2}}}{\sqrt{2}}+\frac{\sigma\delta}{8}}}}$$
+![[Pasted image 20250211105007.png|centre]]
