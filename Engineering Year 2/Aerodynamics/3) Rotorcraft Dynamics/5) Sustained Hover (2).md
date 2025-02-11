@@ -35,3 +35,25 @@ dv&= \sqrt{\frac{dT}{4\rho \pi r~dr}}\\
 So $dv$ is proportional to:
 $$\sqrt{\frac{r^{2}\alpha_{r}}{r}}=\sqrt{r\alpha_{r}}$$
 So for constant $v$, $\alpha_r$ is proportional to $\frac{1}{r}$.
+![[Pasted image 20250211103134.png|centre]]
+### Ideal Blade Twist
+Ideal Blade Twist results in a constant induced velocity across the rotor disk.
+It has been seen that for this to be the case, then $\alpha_{r}\propto \frac{1}{r}$.
+For this to be the case:
+$$\alpha_{r}=(\theta-\phi)=\frac{R}{r}(\theta_{t}-\phi_{t})$$
+So $\phi=\phi_{t} \frac{R}{r}$, where $\phi_{t}$ is the inflow angle at the tip.
+Similarly the blade pitch angle:
+$$\theta=\theta_{t} \frac{R}{r},\text{where }\theta_{t}\text{ is the pitch angle at the tip}$$
+Thus by careful design the ideal inflow can be achieved by blade twist, or blade planform taper, or a combination of the two.
+Unfortunately the other requirements for ideal conditions (zero profile drag, tip losses and swirl in the wake) are not so easily met and must, at best, be minimised.
+### Thrust Coefficient for a Rotor with Ideally Twisted Blades
+![[Pasted image 20250211102603.png|centre|centre]]
+For the diagram above:
+$$dL=\frac{1}{2}\rho (\Omega r)^{2}a \frac{R}{r}(\theta_{t}-\phi_{t})c~dr$$
+So:
+$$\begin{align*}
+L&= \int_{0}^{R}\frac{N}{2}\rho \Omega^{2}rRa(\theta_{t}-\phi_{t})c~dr\\
+&= \frac{N}{4}\rho\Omega^{2}R^{3}a(\theta_{t}-\phi_{t})c~~~~~~~(\approx T)
+\end{align*}$$
+So:
+$C_{T=}$
