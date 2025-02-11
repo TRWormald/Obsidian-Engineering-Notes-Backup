@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "R2S/Preliminary Design Review P04.pdf",
-                "page": 26,
-                "left": 27,
-                "top": 735,
-                "zoom": 0.82
+                "page": 19,
+                "left": 38,
+                "top": 680,
+                "zoom": 1.42
               },
               "icon": "lucide-file-text",
               "title": "Preliminary Design Review P04"
@@ -246,10 +246,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5538728731f66345",
+  "active": "4c5356be90c138c6",
   "lastOpenFiles": [
-    "R2S/Preliminary Design Review P04.pdf",
     "R2S/PDR Notes.md",
+    "R2S/Preliminary Design Review P04.pdf",
     "Backend/Home.canvas",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/5) Sustained Hover (2).md",
