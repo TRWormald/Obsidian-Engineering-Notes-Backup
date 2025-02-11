@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "PDR Notes"
             }
-          }
-        ]
-      },
-      {
-        "id": "b41ffb9b8b498aa4",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4c5356be90c138c6",
             "type": "leaf",
@@ -34,16 +28,17 @@
               "type": "pdf",
               "state": {
                 "file": "R2S/Preliminary Design Review P04.pdf",
-                "page": 19,
-                "left": 38,
-                "top": 680,
-                "zoom": 1.42
+                "page": 1,
+                "left": -379,
+                "top": 845,
+                "zoom": 0.68
               },
               "icon": "lucide-file-text",
               "title": "Preliminary Design Review P04"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
