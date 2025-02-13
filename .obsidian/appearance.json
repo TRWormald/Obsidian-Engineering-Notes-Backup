@@ -5,7 +5,6 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "ImageCentering",
-    "Tom-Images",
-    "CanvassCentering"
+    "Tom-Images"
   ]
 }
