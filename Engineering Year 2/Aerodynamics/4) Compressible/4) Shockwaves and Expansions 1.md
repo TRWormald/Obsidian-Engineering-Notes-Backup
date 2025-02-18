@@ -37,3 +37,25 @@ Whereas shockwaves are finite pressure waves, and as a result the flow is no lon
 > - Total Density
 
 **But not in total temperature - why is this?**
+Its because it is an adiabatic process.
+
+A shockwave is the line along which downstream purturbations coalesce when they meet a supersonic upstream zone.
+![[Pasted image 20250218130742.png|centre]]
+![[Pasted image 20250218130750.png|centre]]
+The shockwave is ~60 molecular mean free paths (MFP) wide, so <<< thinner than anything else. We do not need to use models on this scale - the Euler equations are still satisfactory.
+
+Similar to a breaking wave on a beach - what we are interested in is the pressure behind the shock (analogous to the height of the water) related to its Mach number (the speed of the wave hitting the beach). We are not interested in the frothing white region near the front (since its ~60MFP).
+
+A normal shock takes the flow irreversibly from > Mach 1 (supersonic) to < Mach 1 (subsonic).
+
+For oblique shocks the flow is irreversibly reduced in speed with two solutions called strong (always takes flow from supersonic to subsonic) and weak (for most cases the flow is taken from supersonic to slower supersonic, but can be just subsonic near maximum deflection).
+
+**Continuing the Hydraulic Analogy:**
+Surface water waves travel at a set speed - the Froude Number (Fr) is the ratio between the speed of the water and the speed of these waves. It is analogous to Mach number.
+
+So if we get some water moving at Fr>1 we should see behaviour similar to shockwaves.
+![[Pasted image 20250218131343.png|centre]]
+## Normal Shock Waves
+![[Pasted image 20250218131448.png|centre]]
+As mentioned before, shockwaves are a discontinuity in supersonic flow, due to a "large disturbance".
+There is compression and deceleration of the air.
