@@ -59,3 +59,15 @@ So if we get some water moving at Fr>1 we should see behaviour similar to shockw
 ![[Pasted image 20250218131448.png|centre]]
 As mentioned before, shockwaves are a discontinuity in supersonic flow, due to a "large disturbance".
 There is compression and deceleration of the air.
+
+We take a similar approach to a sound wave:
+- We have a control volume moving up with the shock
+- With station numbers 1&2 up-/down-stream
+
+The shock has finite strength, hence:
+- The process is adiabatic - i.e. the changes are too rapid for heat transfer
+- The process is non-isentropic - but still inviscid
+- Changes in fluid properties $p$, $\rho$, and $u$ are "large".
+
+We apply momentum, continuity, and energy equations to flow through the control volume:
+- And rewrite in terms of Mach number $M$ and speed of sound $a$.
