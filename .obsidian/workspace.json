@@ -4,41 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "80c3657386780c36",
+        "id": "a40ab33238ce5b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e9dfa45813b0c77",
+            "id": "0650064a217ec979",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.1.pdf",
-                "page": 5,
-                "zoom": -0.05039306591413022
+                "file": "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/5) Sustained Hover (2).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SSC Handbook 2.1"
+              "icon": "lucide-file",
+              "title": "5) Sustained Hover (2)"
             }
           },
           {
-            "id": "71dbda8d463177e0",
+            "id": "1f6cb5fd2c9330ef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.2.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 846,
-                "zoom": 0.7042430961499698
+                "file": "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SSC Handbook 2.2"
+              "icon": "lucide-file",
+              "title": "4) Shockwaves and Expansions 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,16 +238,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "0650064a217ec979",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
+    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/5) Sustained Hover (2).md",
+    "Backend/Home.canvas",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.1.pdf",
+    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.2.pdf",
     "R2S/Coaxial Swirl Injectors/Main_Chamber_Injectors_For_Advanced_Hydrocarbon_Bo.pdf",
     "R2S/Coaxial Swirl Injectors/Experimental_Study_on_Simplex_Swirl_Injector_Dynam.pdf",
     "R2S/Coaxial Swirl Injectors/cfdInjector.pdf",
     "R2S/Coaxial Swirl Injectors/kim2007.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.1.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.2.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/1) Lecture Notes 13-02-25.md",
-    "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Section 1",
     "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
@@ -259,10 +258,8 @@
     "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
     "R2S/Coaxial Swirl Injectors/Notes/DesignOfSwirlAtomiser.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/LiquidAtomization.pdf",
-    "R2S/Coaxial Swirl Injectors/Notes/Bazarov -Design of Jet and Swirl Injectors.pdf",
     "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
     "R2S/PDR Notes.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/5) Sustained Hover (2).md",
     "Images & Attachments/Pasted image 20250211105007.png",
     "Images & Attachments/Pasted image 20250211103134.png",
     "Images & Attachments/Pasted image 20250211102603.png",
@@ -286,7 +283,6 @@
     "Engineering Year 2/Aerodynamics/2) Incompressible/1) Introduction to Modelling Aerofoil Flows/2) The Joukowski Transformation.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/2) Newton's Method.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/1) Section 1/4) Lecture Notes 06-02-25.md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/3) Tails, Errors, and Significance Levels.md",
     "Engineering Year 2/Engineering Maths/Applied Statistics/2) Introduction to Hypothesis Testing.md",
     "Untitled.md",
