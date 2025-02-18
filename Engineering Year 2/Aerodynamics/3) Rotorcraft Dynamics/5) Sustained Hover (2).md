@@ -76,3 +76,17 @@ Assuming that $C_{d_{0}}=\delta$ is relatively constant over the range of $\alph
 Using our previous assumptions and plugging them into the torque equation we can eventually derive that:
 $$\boxed{\boxed{FoM=0.707\frac{C_{T}^{\frac{3}{2}}}{\frac{C_{T}^{\frac{3}{2}}}{\sqrt{2}}+\frac{\sigma\delta}{8}}}}$$
 ![[Pasted image 20250211105007.png|centre]]
+In hover, we can again use SAA, so $L=T=W$, so the weight is the summation of all the blade elemental lift force, therefore:
+$$\boxed{\bar{C}_{L}=6\frac{C_{T}}{\sigma}}$$
+Where $\bar{C_{L}}$ is the mean lift coefficient, and $\sigma=\frac{N c}{\pi R}$.
+When plotted against the FoM, the effect of solidity becomes apparent:
+![[Pasted image 20250218124212.png|centre]]
+Reducing rotor solidity increases the FoM, but with diminishing effect at higher $C_{T}/\sigma$.
+### Rotor Blade Tip Loss Factors
+![[Pasted image 20250218124304.png|centre]]
+Unlike the actuator disk, a real rotor blade cannot support lift right out to the blade tip. A tip loss factor B (usually 0.95 -0.97) can be used in analysis whereby it is assumed that blade drag exists over the entire blade length but no lift is generated outboard of radius BR.
+### Blade Loading and Blade Coning
+![[Pasted image 20250218124404.png|centre]]
+Generally the rotor blade has the facility to freely flap about a hinge at the rotor hub. To prevent the blade drooping too much in the static case, droop stops are usually employed.
+![[Pasted image 20250218124458.png|centre]]
+As the rotor starts to turn, the C.F. lifts the blades off the droop stop. With increasing rotor speeds the droop stops are automatically withdrawn.
