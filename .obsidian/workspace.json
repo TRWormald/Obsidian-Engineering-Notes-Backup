@@ -25,12 +25,16 @@
             "id": "03459f42108f3985",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "R2S/Coaxial Swirl Injectors/kim2007.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 574,
+                "zoom": 1.5001101875807867
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file-text",
+              "title": "kim2007"
             }
           }
         ],
@@ -238,6 +242,8 @@
   },
   "active": "03459f42108f3985",
   "lastOpenFiles": [
+    "R2S/Coaxial Swirl Injectors/Experimental_Study_on_Simplex_Swirl_Injector_Dynam.pdf",
+    "R2S/Coaxial Swirl Injectors/cfdInjector.pdf",
     "Images & Attachments/Pasted image 20250218131448.png",
     "Images & Attachments/Pasted image 20250218131343.png",
     "Images & Attachments/Pasted image 20250218130750.png",
@@ -249,14 +255,11 @@
     "Images & Attachments/Pasted image 20250218124404.png",
     "Images & Attachments/Pasted image 20250218124304.png",
     "Images & Attachments/Pasted image 20250218124212.png",
-    "Images & Attachments/Pasted image 20250218124153.png",
     "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
     "Backend/Home.canvas",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.1.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.2.pdf",
     "R2S/Coaxial Swirl Injectors/Main_Chamber_Injectors_For_Advanced_Hydrocarbon_Bo.pdf",
-    "R2S/Coaxial Swirl Injectors/Experimental_Study_on_Simplex_Swirl_Injector_Dynam.pdf",
-    "R2S/Coaxial Swirl Injectors/cfdInjector.pdf",
     "R2S/Coaxial Swirl Injectors/kim2007.pdf",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/1) Lecture Notes 13-02-25.md",
     "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2",
