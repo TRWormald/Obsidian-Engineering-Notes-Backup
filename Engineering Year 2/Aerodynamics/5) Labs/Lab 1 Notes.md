@@ -71,6 +71,12 @@ $$\frac{-0.0335}{-0.13}=\frac{x_{AC}}{c}=0.239$$
 ##### Calculate the ratio of the projected frontal area of the aerofoil to the cross sectional area of the tunnel (0.6 x 0.6m) for small to high incidences. This is termed the blockage factor - is it acceptably small? What does this imply about measurements at higher incidences? Recall the aerofoil is 15% thick, and the chord is about 25cm.
 Generally we don't want a blockage factor greater than 5%.
 The thickness of the aerofoil is:
-$$0.25*0.15=0.7$$
+$$0.25*0.15=0.0375$$
+Which we can multiply by the width:
+$$0.0375*0.6=0.0225$$
+At lower AoA the blockage factor is acceptable - however at higher AoA it is not.
 ##### How will flap deployment change the handling of an aircraft?
+The aircraft will stall at a lower speed, allow us to operate at lower AoA (so we can see the runway), and creates a nose-down pitching moment.
 ##### What is hysteresis, what causes it and what does this imply for recovery of a stalled aircraft? Note in free air hysteretic effects will be smaller than seen in the confined space of this wind tunnel owing to wall effects.
+Hysteresis means that the flow doesn't immediately reconnect when you decrease your AoA below the stall angle. This means that you have to go much below the stall angle before the values reunite again.
+For the recovery of a stalled aircraft you have to overcorrect the stall. 
