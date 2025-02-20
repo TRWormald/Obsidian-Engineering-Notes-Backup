@@ -59,13 +59,18 @@ Where $\mathbf{d}$ is the vector from the reference point to the location for th
 ##### Sketch the influence of boundary layer transition on $C_{p}$ vs. $\frac{x}{c}$
 
 ##### Contributions to $C_{d}$ come from skin friction and normal pressure forces/ Which are measurable in this experiment? Why would it be unwise to measure $C_{d}$ by surface integration?
-
+We get normal pressure forces, but not the skin friction. We could use a load cell/strain gauge at the connection point to determine the total drag.
 ##### What effect to the wind tunnel walls have on $C_{l_{max}}$
+They compress the flow above and below the aerofoil - meaning that the velocity over the wing is greater and hence generate more lift.
+The walls also force the flow to stay attached for longer - meaning that we have a higher $C_{l_{max}}$.
 ##### The aerodynamic centre $x_{ac}$ is the location about which pitching moments do not change with angle of attack, $i.e.~~ \frac{dC_{m_{AC}}}{d\alpha}=0$
 $$M_{LE}=M_{AC}-Lx_{AC}$$
 $$\frac{dC_{m_{LE}}}{d\alpha}=-\frac{dC_{l}}{d\alpha}\frac{x_{AC}}{c}$$
 Now calculate $x_{ac}$:
-
+$$\frac{-0.0335}{-0.13}=\frac{x_{AC}}{c}=0.239$$
 ##### Calculate the ratio of the projected frontal area of the aerofoil to the cross sectional area of the tunnel (0.6 x 0.6m) for small to high incidences. This is termed the blockage factor - is it acceptably small? What does this imply about measurements at higher incidences? Recall the aerofoil is 15% thick, and the chord is about 25cm.
+Generally we don't want a blockage factor greater than 5%.
+The thickness of the aerofoil is:
+$$0.25*0.15=0.7$$
 ##### How will flap deployment change the handling of an aircraft?
 ##### What is hysteresis, what causes it and what does this imply for recovery of a stalled aircraft? Note in free air hysteretic effects will be smaller than seen in the confined space of this wind tunnel owing to wall effects.
