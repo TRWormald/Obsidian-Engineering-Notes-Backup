@@ -1,6 +1,11 @@
 ##### What is the value of the Reynolds Number at 20$ms^{-1}$?
+$$Re=\frac{\rho uL}{\mu}=\frac{\text{inertial forces}}{\text{viscous forces}}$$
+So:
+$$Re=\frac{1.225*20*}{}=$$
+
 ##### What is the value of the Mach Number at 20$ms^{-1}$?
 ##### What do the numbers in the NACA 23015 aerofoil designation mean?
+$$\text{NACA}~230\underbrace{15}_{\text{max thickness wrt. chord}}$$
 ##### How does flap deflection influence the maximum $C_{l}$ (the $C_{l}$ at stall)? Why might this be useful?
 ##### How does the flap deflection influence stall angle?
 ##### Illustrate with a diagram the regions of adverse and favourable pressure gradient. Will separation usually occur under an adverse or favourable pressure gradient?
