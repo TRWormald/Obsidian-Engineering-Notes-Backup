@@ -11,11 +11,23 @@ $$M=\frac{u}{a}$$
 Mach number is a ratio of speed against the speed of sound.
 $$M=\frac{20}{340}=0.07$$
 ##### What do the numbers in the NACA 23015 aerofoil designation mean?
-$$\text{NACA}~\underbrace{2}_{\text{}}\underbrace{3}_{\begin{matrix}\text{3/20 is the }\\\text{location of max camber}\end{matrix}}\underbrace{0}_{\text{normal or reflex camber}}\underbrace{15}_{\text{max thickness wrt. chord}}$$
+$$\text{NACA}~\underbrace{2}_{\text{Design }C_{l}= \frac{0.1*3}{2}*x}\underbrace{3}_{\begin{matrix}\text{3/20 is the}\\\text{location of max camber }\end{matrix}}\underbrace{0}_{\begin{matrix}\text{normal or }\\\text{reflex camber }\end{matrix}}\underbrace{15}_{\begin{matrix}\text{max thickness }\\\text{wrt. chord}\end{matrix}}$$
 ##### How does flap deflection influence the maximum $C_{l}$ (the $C_{l}$ at stall)? Why might this be useful?
+We see an increase in $C_{l_{max}}$ with increasing flap deflection, however we also see:
+- Stall at a lower angle
+- Zero lift coefficient at a negative AoA
+
+These are useful properties when we are landing or taking off as we can take off slower.
 ##### How does the flap deflection influence stall angle?
+Greater flap deflection results in a lower stall angle.
 ##### Illustrate with a diagram the regions of adverse and favourable pressure gradient. Will separation usually occur under an adverse or favourable pressure gradient?
+A favourable pressure gradient is where the pressure is decreasing in a section of the $C_{p}$ vs $\frac{x}{c}$ graph. So the velocity is increasing and the flow is being pulled along by the flow.
+An adverse pressure gradient is where the pressure is increasing in a section of the same graph. So the velocity is decreasing and we are using energy to compress the fluid.
+
+We are likely to see separation when there is an adverse pressure gradient. i.e. towards the rear of the wing.
 ##### Where does the flow first separate from the aerofoil? What type of stall is this? Is the stall gradual or sudden? What would happen for a thinner section?
+
+
 ##### How does the lift curve slope compare to the flat plate potential flow result of $2\pi$/radian? List three potential reasons for the difference.
 ##### Definition and usage of $C_{p}$
 $$C_{p}=\frac{p-p_{\infty}}{\frac{1}{2}\rho V^{2}}$$
