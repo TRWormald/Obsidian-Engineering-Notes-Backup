@@ -26,11 +26,30 @@ An adverse pressure gradient is where the pressure is increasing in a section of
 
 We are likely to see separation when there is an adverse pressure gradient. i.e. towards the rear of the wing.
 ##### Where does the flow first separate from the aerofoil? What type of stall is this? Is the stall gradual or sudden? What would happen for a thinner section?
+When you have a positive AoA, for a thick aerofoil, we see separation from the trailing edge.
+However with a thinner aerofoil the suction peak is so high that the flow immediately separates as you move chordwise, resulting in leading edge stall.
 
+Trailing edge stall is much better than leading edge stall for a number of reasons:
+- Preservation of lift generation characteristics
+- More pilot feedback (increased turbulence)
 
 ##### How does the lift curve slope compare to the flat plate potential flow result of $2\pi$/radian? List three potential reasons for the difference.
+There are three main reasons for these differences:
+- Potential flow results don't take viscosity into account
+	- This means that we see a decrease in $dC_{l}/d\alpha$
+- There are walls in the wind tunnel
+	- This increases the $dC_{l}/d\alpha$
+- The aerofoil has thickness
+	- This increases the $dC_{l}/d\alpha$
+As a result of these factors we have an overall higher $dC_{l}/d\alpha$
 ##### Definition and usage of $C_{p}$
-$$C_{p}=\frac{p-p_{\infty}}{\frac{1}{2}\rho V^{2}}$$
+$$C_{p}=\frac{p-p_{\infty}}{\frac{1}{2}\rho V^{2}}=\frac{\text{static pressure}}{\text{dynamic pressure}}$$
+So the coefficient of pressure is the ratio of static pressure to dynamic pressure.
+We can then show that:
+$$C_{p}=1- \frac{V^{2}}{V_{\infty}^{2}}$$
+Using Bernoulli's equation:
+$$P_{T_{0}}=P_{0}+ \frac{1}{2}\rho_{0}V_{0}^{2}$$
+$$P_{T_{\infty}}=P_{\infty}+ 1/2$$
 ##### Definition and Usage of $C_{l},~C_{m},~C_{d}$
 $$\begin{bmatrix}C_{x}\\C_{y}\end{bmatrix}=\oint C_{p}\mathbf{n}~d\left(\frac{s}{c}\right)$$
 Where $\mathbf{n}$ is the unit normal.
