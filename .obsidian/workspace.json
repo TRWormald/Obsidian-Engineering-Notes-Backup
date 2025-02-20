@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
+                "file": "Engineering Year 2/Aerodynamics/5) Labs/Lab 1 Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9) d'Alembert's Method"
+              "title": "Backlinks for Lab 1 Notes"
             }
           },
           {
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
