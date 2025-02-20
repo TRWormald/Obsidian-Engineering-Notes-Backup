@@ -12,4 +12,16 @@ $$C_{p}=\frac{p-p_{\infty}}{\frac{1}{2}\rho V^{2}}$$
 $$\begin{bmatrix}C_{x}\\C_{y}\end{bmatrix}=\oint C_{p}\mathbf{n}~d\left(\frac{s}{c}\right)$$
 Where $\mathbf{n}$ is the unit normal.
 $$\begin{bmatrix}C_{l}\\C_{d}\end{bmatrix}=\begin{bmatrix}\cos(\alpha)&-\sin(\alpha)\\\sin(\alpha)&\cos(\alpha)\end{bmatrix}\begin{bmatrix}C_{x}\\C_{y}\end{bmatrix}$$
-$$C_{m}=\oint C_{p}\mathbf{n}\times\mathbf{d}d\left(\frac{s}{c}\right)=\oint C_{p}\begin{bmatrix}\Delta y\\-\Delta x\end{bmatrix}\times\begin{bmatrix}x_\end{bmatrix}$$
+$$C_{m}=\oint C_{p}\mathbf{n}\times\mathbf{d}d\left(\frac{s}{c}\right)=\oint C_{p}\begin{bmatrix}\Delta y\\-\Delta x\end{bmatrix}\times\begin{bmatrix}x_{m}-x_{ref}\\y_m-y_{ref}\end{bmatrix}~d\left(\frac{s}{c}\right)$$
+Where $\mathbf{d}$ is the vector from the reference point to the location for that $C_p$ value. Please also refer to section 5 in this document for more details. How would you find $C_{l,d,m}$ numerically from the experimental data (you will do this later using the data in the spreadsheet)?
+##### Sketch the influence of boundary layer transition on $C_{p}$ vs. $\frac{x}{c}$
+##### Contributions to $C_{d}$ come from skin friction and normal pressure forces/ Which are measurable in this experiment? Why would it be unwise to measure $C_{d}$ by surface integration?
+##### What effect to the wind tunnel walls have on $C_{l_{max}}$
+##### The aerodynamic centre $x_{ac}$ is the location about which pitching moments do not change with angle of attack, $i.e.~~ \frac{dC_{m_{AC}}}{d\alpha}=0$
+$$M_{LE}=M_{AC}-Lx_{AC}$$
+$$\frac{dC_{m_{LE}}}{d\alpha}=-\frac{dC_{l}}{d\alpha}\frac{x_{AC}}{c}$$
+Now calculate $x_{ac}$:
+
+##### Calculate the ratio of the projected frontal area of the aerofoil to the cross sectional area of the tunnel (0.6 x 0.6m) for small to high incidences. This is termed the blockage factor - is it acceptably small? What does this imply about measurements at higher incidences? Recall the aerofoil is 15% thick, and the chord is about 25cm.
+##### How will flap deployment change the handling of an aircraft?
+##### What is hysteresis, what causes it and what does this imply for recovery of a stalled aircraft? Note in free air hysteretic effects will be smaller than seen in the confined space of this wind tunnel owing to wall effects.
