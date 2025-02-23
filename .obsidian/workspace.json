@@ -6,7 +6,7 @@
       {
         "id": "a40ab33238ce5b3f",
         "type": "tabs",
-        "dimension": 42.17854217854218,
+        "dimension": 42.17854217854219,
         "children": [
           {
             "id": "b409097df182b884",
@@ -14,11 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 2/Aerodynamics/5) Labs/Aero Lab Info & Notes.pdf",
-                "page": 11,
-                "left": -4,
-                "top": 94,
-                "zoom": 0.76
+                "file": "Engineering Year 2/Aerodynamics/5) Labs/Aero Lab Info & Notes.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Aero Lab Info & Notes"
@@ -29,7 +25,7 @@
       {
         "id": "3d31c3d1d0b5e4b4",
         "type": "tabs",
-        "dimension": 57.82145782145782,
+        "dimension": 57.82145782145781,
         "children": [
           {
             "id": "03459f42108f3985",
@@ -224,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 2/Engineering Maths/Linear Systems & PDEs/3) Partial Differential Equations/9) d'Alembert's Method.md",
+                "file": "Engineering Year 2/Aerodynamics/5) Labs/Lab 1 Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 9) d'Alembert's Method"
+              "title": "Graph of Lab 1 Notes"
             }
           }
         ]
