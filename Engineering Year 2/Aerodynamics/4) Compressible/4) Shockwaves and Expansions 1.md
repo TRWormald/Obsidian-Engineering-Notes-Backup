@@ -112,3 +112,6 @@ This only occurs in supersonic flow, the downstream flow is subsonic (but $M_{2}
 ![[Pasted image 20250223144715.png|centre]]
 ### Normal Shock Relations
 ![[Pasted image 20250223144736.png|centre]]
+## Revision Objectives
+![[Pasted image 20250223144912.png|centre]]
+![[Pasted image 20250223144932.png|centre]]
