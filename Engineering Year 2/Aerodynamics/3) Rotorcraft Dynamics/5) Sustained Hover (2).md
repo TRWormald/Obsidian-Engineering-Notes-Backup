@@ -48,7 +48,7 @@ Thus by careful design the ideal inflow can be achieved by blade twist, or blade
 Unfortunately the other requirements for ideal conditions (zero profile drag, tip losses and swirl in the wake) are not so easily met and must, at best, be minimised.
 ### Thrust Coefficient for a Rotor with Ideally Twisted Blades
 ![[Pasted image 20250211102603.png|centre|centre]]
-For the diagram above:
+For the diagram above (with $a$ being the section lift curve slope):
 $$dL=\frac{1}{2}\rho (\Omega r)^{2}a \frac{R}{r}(\theta_{t}-\phi_{t})c~dr$$
 So:
 $$\begin{align*}

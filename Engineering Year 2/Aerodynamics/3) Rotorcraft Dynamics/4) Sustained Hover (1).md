@@ -47,7 +47,7 @@ Therefore $C_{P}=C_{Q}$
 it is also normal to express the forward speed $V$ of the helicopter relative to the tip speed parameter $\Omega R$ - this is called the Advance Ratio $\mu$, thus:
 $$\mu =\frac{V}{\Omega R}$$
 In a similar way, the flow through the rotor ($v$ in hover, but $V_{V}+v$ otherwise) is non-dimensionalised by $\Omega R$ and this is called the inflow ratio $\lambda$, thus:
-$$\lambda=\frac{V_{V}+v}{\Omega R}$$
+$$\boxed{\lambda=\frac{V_{V}+v}{\Omega R}}$$
 Note that in hover $V_{V}=0$.
 #### The Figure of Merit
 We previously defined the figure of merit in terms of thrust, power and velocity, however we can also use the relations that we have just found above to calculate it in terms of the non-dimensionalised coefficients:
