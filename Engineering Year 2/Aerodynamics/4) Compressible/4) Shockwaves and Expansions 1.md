@@ -71,3 +71,24 @@ The shock has finite strength, hence:
 
 We apply momentum, continuity, and energy equations to flow through the control volume:
 - And rewrite in terms of Mach number $M$ and speed of sound $a$.
+### The Mach Number Variation Through Shock
+**Continuity**
+We can apply **continuity** to compressible flow (with some modifications):
+$$\begin{matrix}\dot{m}=\rho_{1}A_{1}V_{1}=\rho_{2}A_{2}V_{2}\\\text{becomes}\\\rho_{1}a_{1}M_{1}=\rho_{2}a_{2}M_{2}\end{matrix}$$
+**Momentum**
+The areas are the same so can be eliminated - and the velocities are rewritten in terms of Mach number.
+We can also say that:
+$$\text{Momentum}-\text{Pressure Force}=\text{Rate of Change of Momentum}$$
+So:
+$$p_{1}A_{1}-p_{2}A_{2}=\rho_{2}A_{2}V_{2}^{2}-\rho_{1}A_{1}V_{1}^{2}$$
+Then areas are eliminated as they are the same and the equation of stat is used:
+$$a^{2}=\gamma RT=\frac{\gamma p}{\rho}~~~~\Rightarrow~~~~p=\frac{\rho a^{2}}{\gamma}$$
+Then:
+$$p_{1}-p_{2}=\rho_{2}V_{2}^{2}-\rho_{1}V_{1}^{2}$$
+Leading to:
+$$\frac{\rho_{1}a_{1}^{2}}{\gamma}-\frac{\rho_{2}a_{2}^{2}}{\gamma}=\rho_{2}a_{2}^{2}M_{2}^{2}-\rho_{1}a_{1}^{2}M_{1}^{2}$$
+So, finally:
+$$\rho_{1}a_{1}^{2}(1+\gamma M_{1}^{2})=\rho_{2}a_{2}^{2}(1+\gamma M_{2}^{2})$$
+**Energy**
+We have adiabatic flow - so we can use the temperature energy equation:
+$$\frac{T_{0}}{T}=1+\frac{}$$
