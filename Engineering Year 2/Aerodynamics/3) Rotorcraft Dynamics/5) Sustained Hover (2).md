@@ -78,6 +78,7 @@ $$\boxed{\boxed{FoM=0.707\frac{C_{T}^{\frac{3}{2}}}{\frac{C_{T}^{\frac{3}{2}}}{\
 ![[Pasted image 20250211105007.png|centre]]
 In hover, we can again use SAA, so $L=T=W$, so the weight is the summation of all the blade elemental lift force, therefore:
 $$\boxed{\bar{C}_{L}=6\frac{C_{T}}{\sigma}}$$
+But to derive this we've also obt
 Where $\bar{C_{L}}$ is the mean lift coefficient, and $\sigma=\frac{N c}{\pi R}$.
 When plotted against the FoM, the effect of solidity becomes apparent:
 ![[Pasted image 20250218124212.png|centre]]
