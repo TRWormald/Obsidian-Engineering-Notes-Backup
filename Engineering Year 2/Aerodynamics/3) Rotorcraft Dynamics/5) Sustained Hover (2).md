@@ -46,6 +46,10 @@ Similarly the blade pitch angle:
 $$\theta=\theta_{t} \frac{R}{r},\text{where }\theta_{t}\text{ is the pitch angle at the tip}$$
 Thus by careful design the ideal inflow can be achieved by blade twist, or blade planform taper, or a combination of the two.
 Unfortunately the other requirements for ideal conditions (zero profile drag, tip losses and swirl in the wake) are not so easily met and must, at best, be minimised.
+![[Pasted image 20250223160225.png|centre]]
+Returning briefly to the diagram above, note how inflow angle $\phi$ can be calculated using the following formula:
+$$\phi=\arctan\left(\frac{v}{\Omega R}\right)$$
+As it is the angle subtended by the line drawn from the induced velocity vector when it is perpendicular to the tip of the velocity component due to blade rotation.
 ### Thrust Coefficient for a Rotor with Ideally Twisted Blades
 ![[Pasted image 20250211102603.png|centre|centre]]
 For the diagram above (with $a$ being the section lift curve slope):
@@ -80,7 +84,7 @@ In hover, we can again use SAA, so $L=T=W$, so the weight is the summation of al
 $$\boxed{\bar{C}_{L}=6\frac{C_{T}}{\sigma}}$$
 But to derive this we've also obtained:
 $$L=T=C_{T}\pi R^{2}\rho(\Omega R)^{2}$$
-Where $\bar{C_{L}}$ is the mean lift coefficient, and $\sigma=\frac{N c}{\pi R}$.
+Where $\bar{C_{L}}$ is the mean lift coefficient, and $\sigma=\frac{N c}{\pi R}$. *Note that sometimes the mean lift coefficient is called the equivalent lift.*
 When plotted against the FoM, the effect of solidity becomes apparent:
 ![[Pasted image 20250218124212.png|centre]]
 Reducing rotor solidity increases the FoM, but with diminishing effect at higher $C_{T}/\sigma$.
