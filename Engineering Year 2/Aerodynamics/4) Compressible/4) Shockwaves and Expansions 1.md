@@ -91,4 +91,24 @@ So, finally:
 $$\rho_{1}a_{1}^{2}(1+\gamma M_{1}^{2})=\rho_{2}a_{2}^{2}(1+\gamma M_{2}^{2})$$
 **Energy**
 We have adiabatic flow - so we can use the temperature energy equation:
-$$\frac{T_{0}}{T}=1+\frac{}$$
+$$\frac{T_{0}}{T}=1+\frac{\gamma-1}{2}M^{2}$$
+Then writing the temperature ratio across the shock in terms of ratios to total temperature gives:
+![[Pasted image 20250223143914.png|centre]]
+Then using the relationship between the speed of sound and temperature:
+![[Pasted image 20250223143944.png|centre]]
+Which means:
+$$a_{1}^{2}\left(1+\frac{\gamma-1}{2}M_{1}^{2}\right)=a_{2}^{2}\left(1+\frac{\gamma-1}{2}M_{2}^{2}\right)$$
+**Bringing it all together:**
+We can now eliminate $\rho$ and $a$ from the previous continuity, momentum, and energy equations:
+$$(M_{1}^{2}-M_{2}^{2})(2+(\gamma-1)(M_{1}^{2}+M_{2}^{2})-2\gamma M_{1}^{2}M_{2}^{2})=0$$
+Which gives solutions:
+$$M_1=M_2$$
+In which case there is no shock.
+And symmetric in $M$ - but entropy change determines the direction:
+$$\begin{matrix}\boxed{\boxed{M_{2}^{2}=\frac{2+(\gamma-1)M_{1}^{2}}{2\gamma M_{1}^{2}-(\gamma-1)}}}&\boxed{\boxed{M_{1}^{2}=\frac{2+(\gamma-1)M_{2}^{2}}{2\gamma M_{2}^{2}-(\gamma-1)}}}\end{matrix}$$
+Upstream $M_{1}\ge 1$ while downstream $M_{2}\le 1$
+This only occurs in supersonic flow, the downstream flow is subsonic (but $M_{2}>0.378$)
+### Flow Properties: Variation Through Shock
+![[Pasted image 20250223144715.png|centre]]
+### Normal Shock Relations
+![[Pasted image 20250223144736.png|centre]]
