@@ -11,10 +11,14 @@
             "id": "80645935cabbe473",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/8) The Fundamental Thin Aerofoil Equation and it's Solution.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8) The Fundamental Thin Aerofoil Equation and it's Solution"
             }
           }
         ]
@@ -220,6 +224,7 @@
   },
   "active": "80645935cabbe473",
   "lastOpenFiles": [
+    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/8) The Fundamental Thin Aerofoil Equation and it's Solution.md",
     "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
     "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/5) Sustained Hover (2).md",
     "Engineering Year 2/Aerodynamics/4) Compressible/Compressible flow tables.pdf",
