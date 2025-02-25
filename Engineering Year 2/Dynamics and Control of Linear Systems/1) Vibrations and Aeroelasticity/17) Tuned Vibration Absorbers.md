@@ -15,4 +15,15 @@ With the amplitude of the harmonic response of block one being zero if:
 ![[Pasted image 20250225150725.png|centre]]
 i.e. If the secondary system is tuned (designed) such that it's own natural frequency is equal to the frequency of excitation (which might be the resonant frequency) then the secondary system is called a Tuned Vibration Absorber.
 ### Controlling Resonant Vibrations
-TVAs are useful for passive control of resonant vibrations. Assuming an undamped 
+TVAs are useful for passive control of resonant vibrations. Assuming an undamped problem, the harmonic excitation at the undamped natural frequency $\omega=\omega_{0}$, causes resonance. TVA can be designed such that $\omega_{a}=\omega=\omega_{0}$ and the steady-state amplitude $x_0,1$ will change from $x_{0,1}\rightarrow \pm\infty$ to $x_{0,1}=0$.
+
+The TVA tuning condition applied to the system with resonant excitation is:
+$$\omega_{0}^ 2=\frac{k_{1}}{m_{1}}=\frac{k_{2}}{m_{2}}=\omega_{a}^{2}$$
+Which is illustrated in the following graph:
+![[Pasted image 20250225151208.png|centre]]
+### Further TVA Considerations
+The properties of 2DOF systems with TVA:
+- 1DOF primary system changes to a 2DOF system (primary + TVA)
+- The primary system has one anti-resonance frequency (no-motion)
+- The tuning condition represents one equation with two unknowns $k_{2}$ and $m_{2}$
+	- So we nee
