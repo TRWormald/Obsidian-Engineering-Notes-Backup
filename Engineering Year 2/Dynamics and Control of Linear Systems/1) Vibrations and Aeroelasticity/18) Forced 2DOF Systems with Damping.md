@@ -10,3 +10,4 @@ And the EOMs in matrix form:
 ![[Pasted image 20250225154450.png|centre]]
 Note how we have a new term where $\mathbf{C}$ is the damping matrix.
 ### The Steady-State Harmonic Response
+Consider the problem with the
