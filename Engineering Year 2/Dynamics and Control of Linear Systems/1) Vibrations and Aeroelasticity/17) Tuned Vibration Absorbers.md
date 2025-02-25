@@ -26,4 +26,15 @@ The properties of 2DOF systems with TVA:
 - 1DOF primary system changes to a 2DOF system (primary + TVA)
 - The primary system has one anti-resonance frequency (no-motion)
 - The tuning condition represents one equation with two unknowns $k_{2}$ and $m_{2}$
-	- So we nee
+	- So we need a second condition (equation)
+	- Or we need to choose one unknown parameter and calculate the other
+- New tuned 2DOF system has two (undamped) natural frequencies $\omega_{1}$ and $\omega_{2}$ which could cause additional problems.
+$$\det(\mathbf{K}-\omega ^{2}_{i}\mathbf{M})=0$$
+To understand the influence of $k_{2}$ and $m_{2}$ on $\omega_{1}$ and $\omega_{2}$ divide $\det(...)$ by $k_{1}k_{2}$ and use the relationship from the tuning condition:
+![[Pasted image 20250225152110.png|centre]]
+We can then rearrange the previous equation to obtain the it in quadratic form:
+![[Pasted image 20250225152137.png|centre|250]]
+The roots of this equation depend on $\mu$ which, based on its definition, is called the stiffness or mass ratio.
+![[Pasted image 20250225152230.png|centre]]
+### Initial Damped TVA Considerations
+![[Pasted image 20250225152346.png|centre]]
