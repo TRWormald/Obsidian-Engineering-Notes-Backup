@@ -1,27 +1,48 @@
 {
   "main": {
-    "id": "022f73827951d999",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "97eb1c3114ac349b",
+        "id": "af7e5ee7bf30dea9",
         "type": "tabs",
         "children": [
           {
-            "id": "80645935cabbe473",
+            "id": "81365f001d20d2d5",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "task-board-view"
+            }
+          },
+          {
+            "id": "27c64db2eb1a3a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/19) Energy Methods.md",
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19) Energy Methods"
+              "title": "2) Overview of Boundary Layer Patching Strategy in XFoil"
+            }
+          },
+          {
+            "id": "cc6f7a9961ad0753",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elliptical wing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.50152587890625
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -89,45 +110,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1735a000869e643a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "6d3023b5aea436ee",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 5) The Complete EOM for an Elementary System"
-            }
-          },
-          {
             "id": "b2df817ca8e65854",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,28 +130,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/5) The Complete EOM for an Elementary System.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 5) The Complete EOM for an Elementary System"
-            }
-          },
-          {
-            "id": "270ef979256ad177",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-list",
+              "title": "Outline of 2) Overview of Boundary Layer Patching Strategy in XFoil"
+            }
+          },
+          {
+            "id": "7f11257bd44d544a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Engineering Year 2/2) Engineering Maths/2) Linear Systems & PDEs/1) Fourier Series/1) Periodic Functions.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 1) Periodic Functions"
+            }
+          },
+          {
+            "id": "b59bee0cecc975dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "02a27b78e3287c7e",
@@ -172,6 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,12 +197,59 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8929292489352461,
+                  "scale": 0.8929292489352462,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2) Overview of Boundary Layer Patching Strategy in XFoil"
+            }
+          },
+          {
+            "id": "270ef979256ad177",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6d3023b5aea436ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engineering Year 2/2) Engineering Maths/2) Linear Systems & PDEs/1) Fourier Series/1) Periodic Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1) Periodic Functions"
+            }
+          },
+          {
+            "id": "1735a000869e643a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2) Overview of Boundary Layer Patching Strategy in XFoil"
             }
           }
         ]
@@ -211,74 +261,76 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "task-board:Open task board": false,
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "80645935cabbe473",
+  "active": "cc6f7a9961ad0753",
   "lastOpenFiles": [
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/18) Forced 2DOF Systems with Damping.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/19) Energy Methods.md",
-    "Images & Attachments/Pasted image 20250225160718.png",
-    "Images & Attachments/Pasted image 20250225160711.png",
-    "Images & Attachments/Pasted image 20250225160702.png",
-    "Images & Attachments/Pasted image 20250225160643.png",
-    "Images & Attachments/Pasted image 20250225160549.png",
-    "Images & Attachments/Pasted image 20250225160526.png",
-    "Images & Attachments/Pasted image 20250225160427.png",
-    "Images & Attachments/Pasted image 20250225160351.png",
-    "Images & Attachments/Pasted image 20250225160028.png",
-    "Images & Attachments/Pasted image 20250225154450.png",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/17) Tuned Vibration Absorbers.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/16) Forced Harmonic Vibration.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/1) Vibrations and Aeroelasticity/15) Response due to Initial Conditions.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/6) Translational Flight (1).md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/10) The Effect of Camber on Pitching Moment.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/6) Pitching Moment.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/9) The Effect of Camber on Lift.md",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/8) The Thin Aerofoil Equation for a Cambered Aerofoil.md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/2) Compressible Flow Basics 2.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/5) Sustained Hover (2).md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/Compressible flow tables.pdf",
-    "Engineering Year 2/Aerodynamics/2) Incompressible/3) Thin Aerofoil Theory/5) Lift Distribution.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/4) Sustained Hover (1).md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/3) Axial Flow States.md",
-    "Engineering Year 2/Aerodynamics/3) Rotorcraft Dynamics/1) Introduction to Rotorcraft Aerodynamics.md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/1) Compressible Flow Basics 1.md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/3) Compressible Flow Basics 3.md",
-    "Engineering Year 2/Aerodynamics/4) Compressible/4) Shockwaves and Expansions 1.md",
-    "Engineering Year 2/Aerodynamics/5) Labs/Aero Lab Info & Notes.pdf",
-    "Engineering Year 2/Aerodynamics/4) Compressible/0) Important Equations for Compressible Flow.md",
-    "Engineering Year 2/Aerodynamics/5) Labs/Lab 1 Notes.md",
-    "Engineering Year 1/AVDASI/Engineering/Fly-by-Wire (FBW).md",
-    "R2S/Coaxial Swirl Injectors/kim2007.pdf",
-    "Engineering Year 2/Aerodynamics/5) Labs",
-    "R2S/Coaxial Swirl Injectors/cfdInjector.pdf",
-    "R2S/Coaxial Swirl Injectors/Experimental_Study_on_Simplex_Swirl_Injector_Dynam.pdf",
-    "R2S/Coaxial Swirl Injectors/Main_Chamber_Injectors_For_Advanced_Hydrocarbon_Bo.pdf",
-    "Backend/Home.canvas",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.1.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/SSC Handbook 2.2.pdf",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2/1) Lecture Notes 13-02-25.md",
-    "Engineering Year 2/Dynamics and Control of Linear Systems/2) Signals, Systems, and Control/2) Section 2",
-    "Everything You Need to Know/AVDASI/Everything You Need to Know About Aeronautics.canvas",
-    "Engineering Year 2/Engineering Maths/Applied Statistics/1) Probability Basics and the Central Limit Theorem.md",
-    "R2S/Coaxial Swirl Injectors/Notes/Swirl Atomizers.md",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/1) Why Use Integral Methods.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/3) Finding Solutions.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/4) Power Law Methods.md",
+    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/1) Intro To Boundary Layers/6) Effects of Reynolds Number.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
+    "Engineering Year 2/6) Structures & Materials/1) Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
+    "Untitled.canvas",
+    "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
+    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
+    "Engineering Year 1/AVDASI/Engineering/Civil Aircraft Design.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/0) Aerodynamics Intro Lecture.md",
+    "Engineering Year 3/5) RP-3/3) Project Shortlist.md",
+    "Backend/Images & Attachments/Pasted image 20251020112900.png",
+    "Backend/Images & Attachments/Pasted image 20251020112850.png",
+    "Backend/Images & Attachments/Pasted image 20251020112338.png",
+    "Backend/Images & Attachments/Pasted image 20251020112310.png",
+    "Backend/Images & Attachments/Pasted image 20251020111505.png",
+    "Backend/Images & Attachments/Pasted image 20251020110750.png",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
+    "Missed Lectures.md",
+    "Backend/Task Manager/Tasks.md",
+    "Engineering Year 3/5) RP-3/2) Project Descriptions AY25-26.pdf",
+    "Backend/Images & Attachments/Pasted image 20251011122138.png",
+    "Backend/Images & Attachments/Pasted image 20251011122110.png",
+    "Backend/Images & Attachments/Pasted image 20251011122023.png",
+    "Backend/Images & Attachments/Pasted image 20251011121730.png",
+    "Engineering Year 3/5) RP-3/1) Project Descriptions AY25-26 Supplementary.pdf",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/0) Resources/FEA Theory - Lecture 2.pdf",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/7) Finite Element Formulation.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/6) Governing Equations in Matrix Form.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/5) The Principle of Virtual Work.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/4) Convergence and Accuracy.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/3) The Finite Element Process.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/2) The Weak form of Navier's Equations.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) The Basics of FEA Theory.md",
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/0) Resources/FEA Theory - Lecture 1.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 13 - Aerodynamic Stability and Control Derivatives.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 8 - Strip Theory 2.pdf",
+    "Engineering Year 2/1) Aerodynamics/2) Incompressible/5) Lifting-Line Theory/2) Lifting-Line Theory Continued.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/6) Strip Theory 1.md",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 7 - Strip Theory 1.pdf",
+    "HyPower/Untitled.canvas",
+    "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
+    "Engineering Year 2/3) AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
+    "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Engineering Year 2/AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
-    "Engineering Year 2/Engineering Maths/Vector Calculus/Untitled.canvas",
-    "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas"
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas",
+    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About 2D Elasticity.canvas"
   ]
 }

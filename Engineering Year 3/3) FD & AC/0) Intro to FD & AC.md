@@ -1,0 +1,13 @@
+- Tuesday = Control
+- Friday = Flight Dynamics
+- Assessment = 100% Coursework
+- Assignment is set on week 5 Friday 24th October 2025 within the lecture
+- Due Date Week 11, Thursday 4th December 2025 13:00
+- Submission via Blackboard
+### Unit Content
+- Controlled Atmospheric Flight
+	- Forces & Moments
+	- Balance & Stability
+	- Modelling & Simulation
+	- Handling Qualities
+	- Control Systems

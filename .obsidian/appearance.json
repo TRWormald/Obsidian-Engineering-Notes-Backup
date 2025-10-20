@@ -1,10 +1,14 @@
 {
   "accentColor": "#2092cf",
   "theme": "moonstone",
-  "baseFontSize": 19,
-  "cssTheme": "",
+  "baseFontSize": 15,
+  "cssTheme": "Iridium",
   "enabledCssSnippets": [
     "ImageCentering",
     "Tom-Images"
-  ]
+  ],
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Arial",
+  "nativeMenus": false
 }

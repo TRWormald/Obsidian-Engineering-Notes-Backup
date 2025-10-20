@@ -1,0 +1,163 @@
+{
+  "version": "1.6.11",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "colType": "untagged",
+            "active": true,
+            "collapsed": false,
+            "name": "Backlog",
+            "index": 1,
+            "id": 138521
+          },
+          {
+            "colType": "namedTag",
+            "active": true,
+            "collapsed": false,
+            "name": "In Progress",
+            "index": 3,
+            "coltag": "working",
+            "id": 867329
+          },
+          {
+            "id": 2792485090,
+            "index": 4,
+            "colType": "completed",
+            "active": true,
+            "collapsed": false,
+            "name": "Completed",
+            "limit": 20
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "0",
+        "filterScope": "Both",
+        "name": "To Do",
+        "index": 2,
+        "showColumnTags": false,
+        "showFilteredTags": true,
+        "hideEmptyColumns": false
+      }
+    ],
+    "globalSettings": {
+      "lang": "en",
+      "openOnStartup": true,
+      "scanFilters": {
+        "files": {
+          "polarity": 3,
+          "values": []
+        },
+        "folders": {
+          "polarity": 3,
+          "values": []
+        },
+        "tags": {
+          "polarity": 3,
+          "values": []
+        },
+        "frontMatter": {
+          "polarity": 3,
+          "values": []
+        }
+      },
+      "firstDayOfWeek": "2",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "1",
+      "taskCompletionDateTimePattern": "yyyy-MM-DD/HH:mm",
+      "dailyNotesPluginComp": false,
+      "dueDateFormat": "yyyy-MM-DD",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": false,
+      "autoAddDue": true,
+      "scanVaultAtStartup": false,
+      "dayPlannerPlugin": false,
+      "realTimeScanning": true,
+      "columnWidth": "400px",
+      "showHeader": true,
+      "showFooter": true,
+      "showVerticalScroll": false,
+      "tagColors": [
+        {
+          "name": "bug",
+          "color": "#ef1120dd",
+          "priority": 1
+        },
+        {
+          "name": "bug/solver",
+          "color": "#22f7de99",
+          "priority": 2
+        },
+        {
+          "name": "feat",
+          "color": "#b50df2f2",
+          "priority": 3
+        }
+      ],
+      "editButtonAction": "popUp",
+      "showTaskWithoutMetadata": true,
+      "universalDateFormat": "yyyy-MM-DD",
+      "autoAddCreatedDate": false,
+      "autoAddUniversalDate": true,
+      "universalDate": "due",
+      "tasksPluginCustomStatuses": [],
+      "tagColorsType": "text",
+      "customStatuses": [
+        {
+          "symbol": " ",
+          "name": "Unchecked",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": false,
+          "type": "TODO"
+        },
+        {
+          "symbol": "/",
+          "name": "In Progress",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": true,
+          "type": "IN_PROGRESS"
+        },
+        {
+          "symbol": "-",
+          "name": "Cancelled",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": true,
+          "type": "CANCELLED"
+        },
+        {
+          "symbol": "x",
+          "name": "Done",
+          "nextStatusSymbol": " ",
+          "availableAsCommand": true,
+          "type": "DONE"
+        }
+      ],
+      "compatiblePlugins": {
+        "dailyNotesPlugin": false,
+        "dayPlannerPlugin": false,
+        "tasksPlugin": false,
+        "reminderPlugin": false,
+        "quickAddPlugin": false
+      },
+      "preDefinedNote": "Backend/Task Manager/Tasks.md",
+      "quickAddPluginDefaultChoice": "",
+      "archivedTasksFilePath": "Backend/Task Manager/Archived Tasks.md",
+      "showFileNameInCard": false,
+      "showFrontmatterTagsOnCards": false,
+      "tasksCacheFilePath": ".obsidian/plugins/task-board/tasks.json",
+      "notificationService": "none",
+      "frontmatterPropertyForReminder": "reminder",
+      "actions": [
+        {
+          "enabled": true,
+          "trigger": "Complete",
+          "type": "move",
+          "targetColumn": "Completed"
+        }
+      ],
+      "cardSectionsVisibility": "showBoth",
+      "searchQuery": ""
+    }
+  }
+}

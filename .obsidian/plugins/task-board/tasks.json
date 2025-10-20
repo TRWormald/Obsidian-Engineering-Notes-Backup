@@ -1,0 +1,259 @@
+{
+    "VaultName": "Engineering",
+    "Modified_at": "2025-09-04T01:42:48.757Z",
+    "Pending": {
+        "Backend/Task Manager/Tasks.md": [
+            {
+                "id": 1194028551,
+                "status": " ",
+                "title": "Fracture Mechanics",
+                "body": [
+                    "\t- [ ] Lecture 2",
+                    "\t- [ ] Lecture 3",
+                    "\t- [ ] Lecture 4"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 5,
+                    "startCharIndex": 0,
+                    "endLine": 8,
+                    "endCharIndex": 16
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 1651158870,
+                "status": " ",
+                "title": "FEA - Example Classes",
+                "body": [
+                    "\t- [ ] Lecture 1",
+                    "\t- [ ] Lecture 2"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 10,
+                    "startCharIndex": 0,
+                    "endLine": 12,
+                    "endCharIndex": 16
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 1530878884,
+                "status": " ",
+                "title": "FEA - Theory",
+                "body": [
+                    "\t- [ ] Lecture 3",
+                    "\t- [ ] Lecture 4"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 14,
+                    "startCharIndex": 0,
+                    "endLine": 16,
+                    "endCharIndex": 16
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 1382332021,
+                "status": " ",
+                "title": "Numerical Methods",
+                "body": [
+                    "\t- [ ] Week 3",
+                    "\t- [ ] Week 4"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 18,
+                    "startCharIndex": 0,
+                    "endLine": 20,
+                    "endCharIndex": 13
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 3026812137,
+                "status": " ",
+                "title": "Boundary Layer Aerodynamics",
+                "body": [
+                    "\t- [ ] Week 3",
+                    "\t- [ ] Week 4"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 22,
+                    "startCharIndex": 0,
+                    "endLine": 24,
+                    "endCharIndex": 13
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 4134085792,
+                "status": " ",
+                "title": "Flight Dynamics",
+                "body": [
+                    "\t- [ ] Longitudinal Balance and Elevator Angle to Trim",
+                    "\t- [ ] Aircraft Simulation Example",
+                    "\t- [ ] Static and Manoeuvre Stability",
+                    "\t- [ ] Numerical Trimming and Linearisation"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 26,
+                    "startCharIndex": 0,
+                    "endLine": 30,
+                    "endCharIndex": 43
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 1090611201,
+                "status": " ",
+                "title": "Advanced Control",
+                "body": [
+                    "\t- [ ] Intro to Advanced Control",
+                    "\t- [ ] Quanser Lab Intro",
+                    "\t- [ ] System Identification",
+                    "\t- [ ] Fixed-wing Pitch Control Example"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 32,
+                    "startCharIndex": 0,
+                    "endLine": 36,
+                    "endCharIndex": 39
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 2221147328,
+                "status": " ",
+                "title": "Control Onramp (MATLAB)",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 43,
+                    "startCharIndex": 0,
+                    "endLine": 43,
+                    "endCharIndex": 29
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
+    },
+    "Completed": {
+        "Backend/Task Manager/Tasks.md": [
+            {
+                "id": 1232818523,
+                "status": "x",
+                "title": "FEA - Labs  ",
+                "body": [
+                    "\t- [x] Week 3",
+                    "\t- [x] Week 4",
+                    "\t- [x] Week 5"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 38,
+                    "startCharIndex": 0,
+                    "endLine": 41,
+                    "endCharIndex": 13
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
+    },
+    "Notes": []
+}

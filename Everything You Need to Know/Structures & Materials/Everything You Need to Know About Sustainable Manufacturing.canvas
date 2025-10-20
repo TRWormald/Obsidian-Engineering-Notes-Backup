@@ -7,15 +7,15 @@
 		{"id":"6a8c1f9ca31dadb8","type":"text","text":"\nScope","x":-460,"y":-155,"width":250,"height":50},
 		{"id":"5b60e801a92eec30","type":"text","text":"At this stage we ask:\nWhy do the assessment? What is the subject and which bits of its life are assessed.","x":-460,"y":-40,"width":250,"height":210},
 		{"id":"5516a55104f6050c","type":"text","text":"This is where we decide whether we are going to analyse:\n- Cradle-to-grave\n- Cradle-to-gate","x":-460,"y":200,"width":250,"height":209},
-		{"id":"71b2f7798cdeec0d","type":"file","file":"Images & Attachments/Pasted image 20241126113807.png","x":-460,"y":440,"width":250,"height":114},
+		{"id":"71b2f7798cdeec0d","type":"file","file":"Backend/Images & Attachments/Pasted image 20241126113807.png","x":-460,"y":440,"width":250,"height":114},
 		{"id":"76c6edeaaf3feeff","type":"text","text":" Inventory analysis can include data you collect yourself (primary data) or data from databases (secondary data) Data will include all (in scope) mass and energy inputs as well as outputs, by-products and emissions","x":-155,"y":298,"width":250,"height":399},
-		{"id":"764b856d32ffd606","type":"file","file":"Images & Attachments/Pasted image 20241126113936.png","x":-155,"y":138,"width":250,"height":125},
+		{"id":"764b856d32ffd606","type":"file","file":"Backend/Images & Attachments/Pasted image 20241126113936.png","x":-155,"y":138,"width":250,"height":125},
 		{"id":"136b6c30fbdf68da","type":"text","text":"Impact","x":160,"y":-155,"width":250,"height":50},
 		{"id":"79f50d1f32b17be3","type":"text","text":"When we complete an impact assessment we look at the GHGs produced over the life of the product.","x":160,"y":-40,"width":250,"height":178},
 		{"id":"369e9bb880fc44d4","type":"text","text":"Interpretation","x":480,"y":-155,"width":250,"height":50},
 		{"id":"5c8b4d903a57f972","type":"text","text":"In the interpretation phase we do:\n- A **completeness check** - analysis of any missing or incomplete information\n- **Sensitivity check** - analysis to understand how the final results are influenced by data uncertainty\n- **Coherence check** - assessment of how well the study meets the objectives","x":480,"y":-40,"width":250,"height":680},
 		{"id":"ddd36860c8b3e534","type":"text","text":"We also look at the CO2 equivalent to these GHGs","x":160,"y":171,"width":250,"height":127},
-		{"id":"5a98c5e70d2bb326","type":"file","file":"Images & Attachments/Pasted image 20241126114227.png","x":160,"y":328,"width":250,"height":141}
+		{"id":"5a98c5e70d2bb326","type":"file","file":"Backend/Images & Attachments/Pasted image 20241126114227.png","x":160,"y":328,"width":250,"height":141}
 	],
 	"edges":[
 		{"id":"d3851a399516bd52","fromNode":"f5f999eaa33025e9","fromSide":"bottom","toNode":"6a8c1f9ca31dadb8","toSide":"top","color":"1"},

@@ -1,0 +1,16 @@
+{
+  "baseline-style@@layout-style": "layout-frame",
+  "baseline-style@@status-bar-style": "status-bar-default",
+  "baseline-style@@input-style": "input-baseline",
+  "baseline-style@@anim-motion-baseline": "cubic-bezier(0.1, 0, 0.1, 1.25)",
+  "baseline-style@@accented-interface": false,
+  "baseline-style@@color-scheme-accent": false,
+  "iridium@@layout-desktop-only": "i-card-layout",
+  "iridium@@i-dk-layout-l": true,
+  "iridium@@i-dk-custom-layout-l": 10,
+  "iridium@@i-full-width-status-bar": false,
+  "iridium@@hide-autohide-status-bar": "i-autohide-status-bar",
+  "iridium@@i-border-radius": 0,
+  "iridium@@i-card-radius": 8,
+  "iridium@@i-calendar-remove-padding": false
+}

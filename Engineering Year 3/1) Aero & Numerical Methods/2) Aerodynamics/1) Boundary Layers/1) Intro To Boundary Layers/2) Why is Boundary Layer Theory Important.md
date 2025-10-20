@@ -1,0 +1,1 @@
+We can calculate the vast majority of the flow field using inviscid methods - e.g. Joukowski Transformation, full potential, Euler, etc.
