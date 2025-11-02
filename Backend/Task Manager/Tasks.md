@@ -15,8 +15,8 @@
 	- [ ] Lecture 3
 	- [ ] Lecture 4
 
-- [ ] Numerical Methods
-	- [ ] Week 3
+- [ ] Numerical Methods #working 
+	- [x] Week 3
 	- [ ] Week 4
 
 - [x] Boundary Layer Aerodynamics  

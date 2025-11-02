@@ -4,7 +4,7 @@
     "Pending": {
         "Backend/Task Manager/Tasks.md": [
             {
-                "id": 3497291715,
+                "id": 4270989789,
                 "status": " ",
                 "title": "Fracture Mechanics #working ",
                 "body": [
@@ -34,7 +34,7 @@
                 "reminder": ""
             },
             {
-                "id": 1313876187,
+                "id": 3842289139,
                 "status": " ",
                 "title": "FEA - Example Classes",
                 "body": [
@@ -61,7 +61,7 @@
                 "reminder": ""
             },
             {
-                "id": 272952146,
+                "id": 3198786462,
                 "status": " ",
                 "title": "FEA - Theory",
                 "body": [
@@ -88,11 +88,11 @@
                 "reminder": ""
             },
             {
-                "id": 1988641884,
+                "id": 1446828300,
                 "status": " ",
-                "title": "Numerical Methods",
+                "title": "Numerical Methods #working ",
                 "body": [
-                    "\t- [ ] Week 3",
+                    "\t- [x] Week 3",
                     "\t- [ ] Week 4"
                 ],
                 "time": "",
@@ -100,7 +100,9 @@
                 "startDate": "",
                 "scheduledDate": "",
                 "due": "",
-                "tags": [],
+                "tags": [
+                    "#working"
+                ],
                 "frontmatterTags": [],
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
@@ -119,7 +121,7 @@
     "Completed": {
         "Backend/Task Manager/Tasks.md": [
             {
-                "id": 3496798213,
+                "id": 1087384144,
                 "status": "x",
                 "title": "Boundary Layer Aerodynamics  ",
                 "body": [
@@ -146,7 +148,7 @@
                 "reminder": ""
             },
             {
-                "id": 1990901024,
+                "id": 3274916153,
                 "status": "x",
                 "title": "Flight Dynamics  ",
                 "body": [
@@ -175,7 +177,7 @@
                 "reminder": ""
             },
             {
-                "id": 668100391,
+                "id": 4081980786,
                 "status": "x",
                 "title": "Advanced Control  ",
                 "body": [
@@ -204,7 +206,7 @@
                 "reminder": ""
             },
             {
-                "id": 1926268469,
+                "id": 3552991345,
                 "status": "x",
                 "title": "FEA - Labs  ",
                 "body": [
@@ -232,7 +234,7 @@
                 "reminder": ""
             },
             {
-                "id": 52269297,
+                "id": 789790459,
                 "status": "x",
                 "title": "Control Onramp (MATLAB)  ",
                 "body": [],
