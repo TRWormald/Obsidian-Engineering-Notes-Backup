@@ -9,16 +9,6 @@
         "dimension": 46.18320610687023,
         "children": [
           {
-            "id": "e4ea437e937d63fa",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "task-board-view"
-            }
-          },
-          {
             "id": "d1546266a5c4677d",
             "type": "leaf",
             "state": {
@@ -32,8 +22,7 @@
               "title": "4) The Implicit Form of General Equations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0a31d997019ab94a",
@@ -46,11 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 8.pdf",
-                "page": 15,
-                "left": -9,
-                "top": 156,
-                "zoom": 1.01
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 8.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Numerical Methods Lecture 8"
@@ -289,6 +274,9 @@
   },
   "active": "d1546266a5c4677d",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251102192659.png",
+    "Backend/Images & Attachments/Pasted image 20251102192505.png",
+    "Backend/Images & Attachments/Pasted image 20251102192421.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/3) Implicit Form of the FTCS Scheme.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 8.pdf",
@@ -310,8 +298,6 @@
     "Backend/Images & Attachments/Pasted image 20251031195834.png",
     "Backend/Images & Attachments/Pasted image 20251031195803.png",
     "Backend/Images & Attachments/Pasted image 20251031194040.png",
-    "Backend/Images & Attachments/Pasted image 20251031194031.png",
-    "Backend/Images & Attachments/Pasted image 20251031194001.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 7.pdf",
     "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/5) Fracture Mechanics Lecture 5 - Measuring Fracture Toughness.pdf",
     "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/4) Fracture Mechanics Lecture 4 - Energy Based Methods in Fracture Mechanics.pdf",
@@ -334,7 +320,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/2) Reynolds Time-Averaging Concept.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/1) What is Turbulence.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/3) Reynolds Averaged Navier-Stokes Equations for Turbulent Boundary Layers.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/6) Analytical Solutions for Fluid Flows/2) Flow Between Two Plates Due to Pressure Gradient.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",

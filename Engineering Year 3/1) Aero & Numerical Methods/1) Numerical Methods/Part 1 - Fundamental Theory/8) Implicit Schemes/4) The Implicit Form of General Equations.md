@@ -24,3 +24,12 @@ The scheme for each point is:
 $$u_{i}^{n+1}=u_{i}^{n}-\frac{\Delta t}{2\Delta x}(F_{i+1}^{n+1}-F_{i-1}^{n+1})$$
 Which becomes:
 $$u_{i}^{n+1}=u_{i}^{n}-\frac{\Delta t}{2\Delta x}(F_{i+1}^{n+1}+J_{i+1}^{n}\Delta u_{i+1}^{n}-F_{i-1}^{n+1}-J_{i-1}^{n}\Delta u_{i-1}^{n})$$
+Or:
+$$\Delta u_{i}^{n}=-\frac{\Delta t}{2\Delta x}(F_{i+1}^{n+1}+J_{i+1}^{n}\Delta u_{i+1}^{n}-F_{i-1}^{n+1}-J_{i-1}^{n}\Delta u_{i-1}^{n})$$
+We can reorganise this to obtain:
+![[Pasted image 20251102192421.png|centre|400]]
+The right hand side term is normally known as the RESIDUAL. It is the effective error term. The matrix equation is then:
+![[Pasted image 20251102192505.png|centre]]
+where:
+$$a_{i}=- \frac{1}{2}\frac{\Delta t_{i}}{\Delta x_{i}}J_{i-1},~~~~~~b_{i}=1.0,~~~~~~c_{i}= \frac{1}{2}\frac{\Delta t_{i}}{\Delta x_{i}}J_{i+1}$$
+![[Pasted image 20251102192659.png|centre]]
