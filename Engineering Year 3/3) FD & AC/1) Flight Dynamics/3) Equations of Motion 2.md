@@ -4,7 +4,7 @@ Where:
 $$x=[U,V,W,p,q,r,\psi,\theta,\phi,x_{E},y_{E},z_{E}]$$
 Is the state vector, and $\delta$ is the vector of input parameters of interest. These are often aerodynamic or propulsion system inputs such as aileron, elevator, rudder deflection or thrust.
 
-The motions that are described are as a concequence of the applied forces and moments from outside the body, being:
+The motions that are described are as a consequence of the applied forces and moments from outside the body, being:
 - Aerodynamic
 - Propulsive
 - Gravitational

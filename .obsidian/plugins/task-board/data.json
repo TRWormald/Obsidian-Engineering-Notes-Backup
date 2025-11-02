@@ -37,7 +37,7 @@
         "name": "To Do",
         "index": 2,
         "showColumnTags": false,
-        "showFilteredTags": true,
+        "showFilteredTags": false,
         "hideEmptyColumns": false
       }
     ],

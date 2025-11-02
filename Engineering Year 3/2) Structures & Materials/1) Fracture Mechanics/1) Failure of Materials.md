@@ -14,7 +14,7 @@
 	- A result of a static load applied over long periods of time
 
 ### Defining Fracture Terminology
-#### [[Fracture Mechanics Lecture1 - Failure Of Materials.pdf#page=14|Elastic Strain Energy]]
+#### [[1) Fracture Mechanics Lecture1 - Failure Of Materials.pdf#page=14|Elastic Strain Energy]]
 Consider the bar in tension:
 ![[Pasted image 20250925112210.png|centre|250]]
 When the bar is loaded you are putting energy into the system; this is the elastic strain energy ($U$).
@@ -53,7 +53,7 @@ The elastic strain energy $U$ can drive the crack to grow.
 $$Uc^{*}=\int_{0}^{\varepsilon_{f}}\sigma d\varepsilon$$
 $$U=\frac{1}{2}\sigma(\varepsilon-\varepsilon_{P})V$$
 $$U_\text{inelastic}=Uc^{*}V-U$$
-### [[Fracture Mechanics Lecture1 - Failure Of Materials.pdf#page=24|Fractography: The Study of Fracture Surfaces]]
+### [[1) Fracture Mechanics Lecture1 - Failure Of Materials.pdf#page=24|Fractography: The Study of Fracture Surfaces]]
 ![[Pasted image 20250925113556.png|centre]]
 #### Brittle Fracture
 ![[Pasted image 20250925113618.png|centre]]

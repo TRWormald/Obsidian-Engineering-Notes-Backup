@@ -4,45 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "af7e5ee7bf30dea9",
+        "id": "39f89319d232a46e",
         "type": "tabs",
+        "dimension": 46.18320610687023,
         "children": [
           {
-            "id": "81365f001d20d2d5",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "task-board-view"
-            }
-          },
-          {
-            "id": "27c64db2eb1a3a3a",
+            "id": "bca0ea53d98b033a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/1) Implicit Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Overview of Boundary Layer Patching Strategy in XFoil"
-            }
-          },
-          {
-            "id": "cc6f7a9961ad0753",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "title": "1) Implicit Methods"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "0a31d997019ab94a",
+        "type": "tabs",
+        "dimension": 53.81679389312977,
+        "children": [
+          {
+            "id": "ed107d979b2cd04d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 8.pdf",
+                "page": 3,
+                "left": -4,
+                "top": 109,
+                "zoom": 2.2283805925101325
+              },
+              "icon": "lucide-file-text",
+              "title": "Numerical Methods Lecture 8"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elliptical wing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 203.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -130,13 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2) Overview of Boundary Layer Patching Strategy in XFoil"
+              "title": "Outline"
             }
           },
           {
@@ -174,7 +176,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2) Overview of Boundary Layer Patching Strategy in XFoil"
+              "title": "Graph view"
             }
           },
           {
@@ -275,54 +276,55 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "cc6f7a9961ad0753",
+  "active": "bca0ea53d98b033a",
   "lastOpenFiles": [
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/1) Why Use Integral Methods.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/1) Implicit Methods.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 8.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/1) Higher Order Schemes.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/2) Explicit Methods for General Fluxes.md",
+    "Backend/Images & Attachments/Pasted image 20251031195929.png",
+    "Backend/Images & Attachments/Pasted image 20251031195900.png",
+    "Backend/Images & Attachments/Pasted image 20251031195834.png",
+    "Backend/Images & Attachments/Pasted image 20251031195803.png",
+    "Backend/Images & Attachments/Pasted image 20251031194040.png",
+    "Backend/Images & Attachments/Pasted image 20251031194031.png",
+    "Backend/Images & Attachments/Pasted image 20251031194001.png",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 7.pdf",
+    "Backend/Images & Attachments/Pasted image 20251031193737.png",
+    "Backend/Images & Attachments/Pasted image 20251031193453.png",
+    "Backend/Images & Attachments/Pasted image 20251031190653.png",
+    "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/5) Fracture Mechanics Lecture 5 - Measuring Fracture Toughness.pdf",
+    "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/4) Fracture Mechanics Lecture 4 - Energy Based Methods in Fracture Mechanics.pdf",
+    "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/3) Fracture Mechanics Lecture 2 - Stress Based Methods in Fracture Mechanics.pdf",
+    "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/2) Fracture Mechanics Lecture 2.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/5) Conservative v Non-Conservative Form.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/4) Numerical Algorithms.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/3) Further Aspects of Numerical Algorithms.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/2) Simple Example of Stability of Time Marching.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 6.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/1) The Difference Between Schemes.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/4) Physical Interpretation of CFL Condition.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/3) Fourier Stability Analysis.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/Numerical Methods Lecture 5.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/1) Numerical and Simulation Methods.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/8) Velocity and Turbulence Profiles of Turbulent Boundary Layers/1) Turbulent Boundary Layers.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 8.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/3) Finding Solutions.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/4) Power Law Methods.md",
-    "Engineering Year 1/Fluids/The Basics of Fluid Dynamics/Bernoulli's Equation.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/1) Intro To Boundary Layers/6) Effects of Reynolds Number.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
-    "Engineering Year 2/6) Structures & Materials/1) Light Aircraft Structures/1) Fundementals/5) Direct Bending Stresses.md",
-    "Untitled.canvas",
-    "Engineering Year 1/Thermodynamics/Info/Specific Heat Capacity at Constant Volume.md",
-    "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isentropic Process.md",
-    "Engineering Year 1/AVDASI/Engineering/Civil Aircraft Design.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Level Flight.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/0) Aerodynamics Intro Lecture.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/5) Flat Plate Boundary Layer/1) The Blasius Solution.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/3) Turbulence Modelling.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/2) Reynolds Time-Averaging Concept.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/1) What is Turbulence.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/3) Reynolds Averaged Navier-Stokes Equations for Turbulent Boundary Layers.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/6) Analytical Solutions for Fluid Flows/2) Flow Between Two Plates Due to Pressure Gradient.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/6) Analytical Solutions for Fluid Flows/1) Couette Flow.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/99) Quanser Lab/1) Link to Drive.md",
     "Engineering Year 3/5) RP-3/3) Project Shortlist.md",
-    "Backend/Images & Attachments/Pasted image 20251020112900.png",
-    "Backend/Images & Attachments/Pasted image 20251020112850.png",
-    "Backend/Images & Attachments/Pasted image 20251020112338.png",
-    "Backend/Images & Attachments/Pasted image 20251020112310.png",
-    "Backend/Images & Attachments/Pasted image 20251020111505.png",
-    "Backend/Images & Attachments/Pasted image 20251020110750.png",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
-    "Missed Lectures.md",
-    "Backend/Task Manager/Tasks.md",
-    "Engineering Year 3/5) RP-3/2) Project Descriptions AY25-26.pdf",
-    "Backend/Images & Attachments/Pasted image 20251011122138.png",
-    "Backend/Images & Attachments/Pasted image 20251011122110.png",
-    "Backend/Images & Attachments/Pasted image 20251011122023.png",
-    "Backend/Images & Attachments/Pasted image 20251011121730.png",
-    "Engineering Year 3/5) RP-3/1) Project Descriptions AY25-26 Supplementary.pdf",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/0) Resources/FEA Theory - Lecture 2.pdf",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/7) Finite Element Formulation.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/6) Governing Equations in Matrix Form.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/5) The Principle of Virtual Work.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/4) Convergence and Accuracy.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/3) The Finite Element Process.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/2) The Weak form of Navier's Equations.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) The Basics of FEA Theory.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/0) Resources/FEA Theory - Lecture 1.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 13 - Aerodynamic Stability and Control Derivatives.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 8 - Strip Theory 2.pdf",
-    "Engineering Year 2/1) Aerodynamics/2) Incompressible/5) Lifting-Line Theory/2) Lifting-Line Theory Continued.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/6) Strip Theory 1.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 7 - Strip Theory 1.pdf",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/3) State Space/2) The State Space Model.md",
+    "Engineering Year 3/3) FD & AC/0) Intro to FD & AC.md",
+    "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Engineering Year 2/3) AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",

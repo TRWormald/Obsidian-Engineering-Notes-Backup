@@ -4,9 +4,9 @@
     "Pending": {
         "Backend/Task Manager/Tasks.md": [
             {
-                "id": 1194028551,
+                "id": 3497291715,
                 "status": " ",
-                "title": "Fracture Mechanics",
+                "title": "Fracture Mechanics #working ",
                 "body": [
                     "\t- [ ] Lecture 2",
                     "\t- [ ] Lecture 3",
@@ -17,7 +17,9 @@
                 "startDate": "",
                 "scheduledDate": "",
                 "due": "",
-                "tags": [],
+                "tags": [
+                    "#working"
+                ],
                 "frontmatterTags": [],
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
@@ -32,7 +34,7 @@
                 "reminder": ""
             },
             {
-                "id": 1651158870,
+                "id": 1313876187,
                 "status": " ",
                 "title": "FEA - Example Classes",
                 "body": [
@@ -59,7 +61,7 @@
                 "reminder": ""
             },
             {
-                "id": 1530878884,
+                "id": 272952146,
                 "status": " ",
                 "title": "FEA - Theory",
                 "body": [
@@ -86,7 +88,7 @@
                 "reminder": ""
             },
             {
-                "id": 1382332021,
+                "id": 1988641884,
                 "status": " ",
                 "title": "Numerical Methods",
                 "body": [
@@ -111,14 +113,18 @@
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
-            },
+            }
+        ]
+    },
+    "Completed": {
+        "Backend/Task Manager/Tasks.md": [
             {
-                "id": 3026812137,
-                "status": " ",
-                "title": "Boundary Layer Aerodynamics",
+                "id": 3496798213,
+                "status": "x",
+                "title": "Boundary Layer Aerodynamics  ",
                 "body": [
-                    "\t- [ ] Week 3",
-                    "\t- [ ] Week 4"
+                    "\t- [x] Week 3",
+                    "\t- [x] Week 4"
                 ],
                 "time": "",
                 "createdDate": "",
@@ -140,14 +146,14 @@
                 "reminder": ""
             },
             {
-                "id": 4134085792,
-                "status": " ",
-                "title": "Flight Dynamics",
+                "id": 1990901024,
+                "status": "x",
+                "title": "Flight Dynamics  ",
                 "body": [
-                    "\t- [ ] Longitudinal Balance and Elevator Angle to Trim",
-                    "\t- [ ] Aircraft Simulation Example",
-                    "\t- [ ] Static and Manoeuvre Stability",
-                    "\t- [ ] Numerical Trimming and Linearisation"
+                    "\t- [x] Longitudinal Balance and Elevator Angle to Trim",
+                    "\t- [x] Aircraft Simulation Example",
+                    "\t- [x] Static and Manoeuvre Stability",
+                    "\t- [x] Numerical Trimming and Linearisation"
                 ],
                 "time": "",
                 "createdDate": "",
@@ -169,14 +175,14 @@
                 "reminder": ""
             },
             {
-                "id": 1090611201,
-                "status": " ",
-                "title": "Advanced Control",
+                "id": 668100391,
+                "status": "x",
+                "title": "Advanced Control  ",
                 "body": [
-                    "\t- [ ] Intro to Advanced Control",
-                    "\t- [ ] Quanser Lab Intro",
-                    "\t- [ ] System Identification",
-                    "\t- [ ] Fixed-wing Pitch Control Example"
+                    "\t- [x] Intro to Advanced Control",
+                    "\t- [x] Quanser Lab Intro",
+                    "\t- [x] System Identification",
+                    "\t- [x] Fixed-wing Pitch Control Example"
                 ],
                 "time": "",
                 "createdDate": "",
@@ -198,35 +204,7 @@
                 "reminder": ""
             },
             {
-                "id": 2221147328,
-                "status": " ",
-                "title": "Control Onramp (MATLAB)",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Backend/Task Manager/Tasks.md",
-                "taskLocation": {
-                    "startLine": 43,
-                    "startCharIndex": 0,
-                    "endLine": 43,
-                    "endCharIndex": 29
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            }
-        ]
-    },
-    "Completed": {
-        "Backend/Task Manager/Tasks.md": [
-            {
-                "id": 1232818523,
+                "id": 1926268469,
                 "status": "x",
                 "title": "FEA - Labs  ",
                 "body": [
@@ -248,6 +226,30 @@
                     "startCharIndex": 0,
                     "endLine": 41,
                     "endCharIndex": 13
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 52269297,
+                "status": "x",
+                "title": "Control Onramp (MATLAB)  ",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 43,
+                    "startCharIndex": 0,
+                    "endLine": 43,
+                    "endCharIndex": 31
                 },
                 "completion": "",
                 "cancelledDate": "",

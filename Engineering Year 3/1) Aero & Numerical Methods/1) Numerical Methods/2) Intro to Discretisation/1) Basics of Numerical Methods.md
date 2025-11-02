@@ -1,7 +1,0 @@
-[[Numerical Methods Lecture 2.pdf|Lecture Slides]]
-A real solution is continuous and exists at all points in space, and all (previous) points in time. However, we don't want to store the solution everywhere - instead of the real continuous solution, we represent this by a *discrete solution*. This is where we only have solution valves stored at a discrete number of points in space, and time.
-### Aspects to the Discretisation
-**Temporal discretisation**: this is commonly a series of ‘copies’ of the spatial discretisation, stored as different time ‘levels’, often indexed as $n$, $n + 1$, $n + 2$ and similar. Nearly all codes will use this approach.
-**Spatial discretisation**: broadly this splits in to finite difference (FD), finite volume (FV) and finite element. FD uses points and Taylor series-based differencing, FV uses arbitrary control volume across which properties are assumed constant, and FE uses volume across which there may be linear or higher order variations of properties (this is where higher order methods such as DG or ‘discontinuous Galerkin’ and spectral methods fit in). In this course we will mostly refer to a 1D spatial model, with $x^{n}_{i}$ denoting a variable at time level $n$ and spatial node position $i$.
->There is an obvious point to notice - frequencies with wavelength less than two intervals are not going to be captured (Nyquist frequency). You’re out of luck or you need a finer mesh (this can happen in space or time)
-
