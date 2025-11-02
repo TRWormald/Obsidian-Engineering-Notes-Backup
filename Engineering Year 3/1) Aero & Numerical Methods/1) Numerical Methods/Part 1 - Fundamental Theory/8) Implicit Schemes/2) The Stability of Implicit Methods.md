@@ -27,4 +27,5 @@ And we can multiply by $\mathbf{M^{-1}}$ and multiply out row by row:
 ![[Pasted image 20251102183633.png|centre|500]]
 etc.
 
-The stability limit for explicit schemes comes from the stencil propagation. Each point only recieves information from the points in the F.D. stencil, and this gives a limit on the time step
+The stability limit for explicit schemes comes from the stencil propagation. Each point only receives information from the points in the F.D. stencil, and this gives a limit on the time step. 
+However, for the implicit scheme every point receives information from every other point at each time step, and so the numerical domain of dependence is infinite. There is no time-step limit for implicit schemes. Hence, they are usually used for steady flow, where we wish to get to the time-asymptotic solution as quickly as possible.
