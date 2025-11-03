@@ -1,4 +1,4 @@
-[[Numerical Methods Lecture 2.pdf|Lecture Slides]]
+[[2) Numerical Methods Lecture 2.pdf|Lecture Slides]]
 A real solution is continuous and exists at all points in space, and all (previous) points in time. However, we don't want to store the solution everywhere - instead of the real continuous solution, we represent this by a *discrete solution*. This is where we only have solution valves stored at a discrete number of points in space, and time.
 ### Aspects to the Discretisation
 **Temporal discretisation**: this is commonly a series of ‘copies’ of the spatial discretisation, stored as different time ‘levels’, often indexed as $n$, $n + 1$, $n + 2$ and similar. Nearly all codes will use this approach.

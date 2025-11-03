@@ -22,5 +22,5 @@ Consider expressing $u_{i+1}^{n}$ in terms of quantities at time level $n$:
 ![[Pasted image 20251002133033.png|centre]]
 ![[Pasted image 20251002133150.png|centre]]
 ### Arbitrary Stencils
-[[Numerical Methods Lecture 4.pdf#page=20|Numerical Methods Lecture 4, p.20]]
+[[4) Numerical Methods Lecture 4.pdf#page=20|Numerical Methods Lecture 4, p.20]]
 >Stencils of arbitrary order can be constructed for any derivative through construction of an appropriate linear system.

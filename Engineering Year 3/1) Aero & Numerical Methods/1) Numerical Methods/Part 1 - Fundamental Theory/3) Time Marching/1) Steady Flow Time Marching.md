@@ -1,4 +1,4 @@
-[[Numerical Methods Lecture 3.pdf|Lecture Slides Available Here]]
+[[3) Numerical Methods Lecture 3.pdf|Lecture Slides Available Here]]
 Lets consider the computation of flow around a two-dimensional aerofoil. We have a solid surface, and upstream flow. We set far field flow as:
 ![[Pasted image 20250930130510.png|centre]]
 This is a simple system:

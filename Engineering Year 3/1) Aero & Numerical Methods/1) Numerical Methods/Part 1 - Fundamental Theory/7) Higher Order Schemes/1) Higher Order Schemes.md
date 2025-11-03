@@ -43,7 +43,7 @@ $$\lambda=1-\nu j\sin(k\Delta x)+\nu^{2}(\cos(k\Delta x)-1)$$
 $$\lambda ^{2}=(1+\nu^{2}(\cos(k\Delta x)-1))^{2}+\nu^{2}(\sin^{2}(k\Delta x))$$
 Which simplifies to:
 $$\lambda^{2}=1-2\nu^{2}(1-\cos(k\Delta x))+\nu^{2}(1-\cos^{2}(k\Delta x))+\nu^{4}(1-\cos(k\Delta x))^{2}$$
-For the full derivation see [[Numerical Methods Lecture 7.pdf#page=11|Numerical Methods Lecture 7, p.11]]. But we eventually obtain:
+For the full derivation see [[7) Numerical Methods Lecture 7.pdf#page=11|Numerical Methods Lecture 7, p.11]]. But we eventually obtain:
 $$\lambda^{2}=1-4\nu^{2}(1-\nu^{2})\sin^{4}\left(\frac{k\Delta x}{2}\right)$$
 ### Numerical Example
 ![[Pasted image 20251031185751.png|centre]]
