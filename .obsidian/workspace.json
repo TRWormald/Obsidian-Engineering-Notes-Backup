@@ -36,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
-                "page": 6,
+                "page": 10,
                 "left": -67,
-                "top": 246,
+                "top": 231,
                 "zoom": 0.56
               },
               "icon": "lucide-file-text",
@@ -278,6 +278,7 @@
   },
   "active": "778747e1c4b9e9ee",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251103111655.png",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Backend/Images & Attachments/Pasted image 20251103110656.png",
