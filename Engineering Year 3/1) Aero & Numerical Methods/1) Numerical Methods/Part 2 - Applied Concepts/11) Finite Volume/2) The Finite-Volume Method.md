@@ -59,4 +59,7 @@ We now have:
 $$\frac{d \mathbf{\underline{U}}_{i,j}}{dt}=- \frac{1}{A}\int_{c}\mathbf{\underline{F}}~dy-\mathbf{\underline{G}}~dx$$
 This is the general form of a Finite-Volume scheme. There are many ways to solve this equation. The method used to compute the flux integral depends on the spatial discretisation scheme chosen. The flux integral is the residual for each cell, known as $\mathbf{\underline{R}}_{i,j}$.
 ![[Pasted image 20251104133123.png|centre]]
-### Evaluation of the Flux
+### Evaluation of the Flux Integral - Cartesian Cells
+The walkthrough for this can be found on [[11) Numerical Methods Lecture 11.pdf#page=24|11) Numerical Methods Lecture 11, p.11]].
+### Evaluation of the Flux Integral - General Cells
+The walkthrough for this can be found on [[11) Numerical Methods Lecture 11.pdf#page=27|11) Numerical Methods Lecture 11, p.12]]
