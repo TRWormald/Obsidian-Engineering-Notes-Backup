@@ -6,7 +6,6 @@
       {
         "id": "1419490f500db475",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "778747e1c4b9e9ee",
@@ -21,29 +20,23 @@
               "icon": "lucide-file",
               "title": "1) The Location of Separation"
             }
-          }
-        ]
-      },
-      {
-        "id": "dd26bad9d4436b6f",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "8e9fb8363523998d",
+            "id": "3afafc99c75378e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/3) State Space/1) The State Space Model.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 11"
+              "icon": "lucide-file",
+              "title": "1) The State Space Model"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,11 +267,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "778747e1c4b9e9ee",
+  "active": "3afafc99c75378e7",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Backend/Images & Attachments/Pasted image 20251103111655.png",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Backend/Images & Attachments/Pasted image 20251103110656.png",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/10) Numerical Methods Lecture 10.pdf",
@@ -303,7 +296,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/2) Explicit Methods for General Fluxes.md",
     "Backend/Images & Attachments/Pasted image 20251031195929.png",
     "Backend/Images & Attachments/Pasted image 20251031195900.png",
-    "Backend/Images & Attachments/Pasted image 20251031195834.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/7) Numerical Methods Lecture 7.pdf",
     "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/5) Fracture Mechanics Lecture 5 - Measuring Fracture Toughness.pdf",
     "Engineering Year 3/2) Structures & Materials/1) Fracture Mechanics/0) Resources/4) Fracture Mechanics Lecture 4 - Energy Based Methods in Fracture Mechanics.pdf",
