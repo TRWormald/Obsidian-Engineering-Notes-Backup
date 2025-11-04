@@ -6,7 +6,7 @@
       {
         "id": "847b7d790e85540b",
         "type": "tabs",
-        "dimension": 41.628614916286146,
+        "dimension": 41.62861491628614,
         "children": [
           {
             "id": "f7da925c2ddeea92",
@@ -27,7 +27,7 @@
       {
         "id": "3bcf062d43b16544",
         "type": "tabs",
-        "dimension": 58.371385083713854,
+        "dimension": 58.37138508371386,
         "children": [
           {
             "id": "124098622ccd8f5e",
@@ -36,10 +36,8 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
-                "page": 26,
-                "left": -7,
-                "top": 151,
-                "zoom": 1.2
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "11) Numerical Methods Lecture 11"
