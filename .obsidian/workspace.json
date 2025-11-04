@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "2) The Finite-Volume Method"
             }
+          },
+          {
+            "id": "0aa99da918c46d74",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3bcf062d43b16544",
@@ -36,8 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 28,
+                "left": -4,
+                "top": 168,
+                "zoom": 2.2313204085952383
               },
               "icon": "lucide-file-text",
               "title": "11) Numerical Methods Lecture 11"
@@ -274,7 +287,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f7da925c2ddeea92",
+  "active": "0aa99da918c46d74",
   "lastOpenFiles": [
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
