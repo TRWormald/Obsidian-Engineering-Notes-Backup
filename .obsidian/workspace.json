@@ -28,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
-                "page": 23,
+                "page": 31,
                 "left": -51,
-                "top": 251,
+                "top": 337,
                 "zoom": 0.47
               },
               "icon": "lucide-file-text",
@@ -39,20 +39,6 @@
           },
           {
             "id": "35d8f330db2a0180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12) Trimming and Linearisation"
-            }
-          },
-          {
-            "id": "cc8bc51e9a82b945",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,17 +74,16 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
-                "page": 28,
-                "left": 78,
-                "top": 111,
-                "zoom": 0.6
+                "page": 30,
+                "left": 74,
+                "top": 242,
+                "zoom": 0.74
               },
               "icon": "lucide-file-text",
               "title": "Flight Dynamics Lecture 3 - Equations of Motion 1"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,14 +314,14 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "22a698dbd8cf52b8",
+  "active": "263573a1d8a6ab93",
   "lastOpenFiles": [
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 4 - Equations of Motion 2.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 5 - Equations of Motion 3.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 6 - Equations of Motion 4.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
@@ -358,7 +343,6 @@
     "Backend/Images & Attachments/Pasted image 20251103110656.png",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/10) Numerical Methods Lecture 10.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/8) Numerical Methods Lecture 8.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
     "Backend/Images & Attachments/Pasted image 20251102192659.png",
     "Backend/Images & Attachments/Pasted image 20251102192505.png",
