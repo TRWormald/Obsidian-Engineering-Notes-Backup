@@ -22,6 +22,38 @@
             }
           },
           {
+            "id": "e3c7875328c29eac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 669,
+                "zoom": 0.8536394923510299
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 2 - Systems of Axes and Notation"
+            }
+          },
+          {
+            "id": "5856eaf72c65862f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
+                "page": 1,
+                "left": 63,
+                "top": 669,
+                "zoom": 0.8536394923510299
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 4 - The Equations of Motion"
+            }
+          },
+          {
             "id": "5ce4d3cf3e0da55e",
             "type": "leaf",
             "state": {
@@ -83,7 +115,8 @@
               "title": "Flight Dynamics Lecture 3 - Equations of Motion 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 346.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -314,8 +347,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "263573a1d8a6ab93",
+  "active": "5856eaf72c65862f",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
@@ -327,7 +362,6 @@
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
     "[[11) Numerical Methods Lecture 11.pdf.md",
