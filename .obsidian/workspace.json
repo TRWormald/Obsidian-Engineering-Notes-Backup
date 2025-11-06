@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1).md",
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1)"
+              "title": "1) Introduction"
             }
           },
           {
@@ -141,10 +141,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
-                "page": 1,
-                "left": -24,
-                "top": 117,
-                "zoom": 0.57
+                "page": 6,
+                "left": -3,
+                "top": 569,
+                "zoom": 0.87
               },
               "icon": "lucide-file-text",
               "title": "Fatigue & Creep - Lecture 1"
@@ -383,8 +383,12 @@
   },
   "active": "959f770bde7c5df9",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251106112326.png",
+    "Backend/Images & Attachments/Pasted image 20251106112303.png",
+    "Backend/Images & Attachments/Pasted image 20251106112259.png",
+    "Backend/Images & Attachments/Pasted image 20251106111627.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1).md",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep",
@@ -414,15 +418,12 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
     "Backend/Images & Attachments/Pasted image 20251102192659.png",
     "Backend/Images & Attachments/Pasted image 20251102192505.png",
-    "Backend/Images & Attachments/Pasted image 20251102192421.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/3) Implicit Form of the FTCS Scheme.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/1) Steady Flow Time Marching.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/2) Intro to Discretisation/1) Basics of Numerical Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/2) Example of Time Marching.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/3) Analysing Time Marching Using a Model Equation.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/2) The Stability of Implicit Methods.md",
-    "Backend/Images & Attachments/Pasted image 20251102183633.png",
-    "Backend/Images & Attachments/Pasted image 20251102183409.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/1) Implicit Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/1) Higher Order Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/2) Explicit Methods for General Fluxes.md",

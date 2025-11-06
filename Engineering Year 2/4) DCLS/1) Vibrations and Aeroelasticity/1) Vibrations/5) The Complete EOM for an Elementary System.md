@@ -1,4 +1,4 @@
-Recalling the elementary system from [[1) Introduction|the first note in this theme]]:
+Recalling the elementary system from [[Engineering Year 2/4) DCLS/1) Vibrations and Aeroelasticity/1) Vibrations/1) Introduction|the first note in this theme]]:
 ![[Pasted image 20250114102457.png]]
 Now with our understanding of [[4) Stiffness, Damping, and Inertia|stiffness and damping]] we can calculate the EOM to be:
 $$ma+cv+kx=F(t)$$
