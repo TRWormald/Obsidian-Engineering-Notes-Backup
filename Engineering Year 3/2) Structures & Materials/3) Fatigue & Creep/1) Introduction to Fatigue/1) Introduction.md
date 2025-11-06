@@ -42,3 +42,11 @@ Sometimes the stress factor is used for reducing the allowable stress on a compo
 - Metals/alloys with yield point elongation show FL (steel and titanium alloys)
 - Metals/alloys with no YPE, do not have FL (Cu & Al alloys)
 - Composites do not show FL, but generally have lesser fatigue slopes
+### Low & High Cycle Fatigue
+![[Pasted image 20251106114039.png|centre]]
+Note that the definition for transition from LCF to HCF may vary from anywhere between $10^4$ and $10^{6}$ cycles.
+### Non-zero mean stress cycles
+Non-zero mean stress can induce the phenomenon of creep in load control tests. Even zero mean stress cycles can induce creep in materials with different tensile and compressive responses (composites, cast iron, etc.).![[Pasted image 20251106115016.png|centre|500]]
+![[Pasted image 20251106115039.png|centre|500]]
+![[Pasted image 20251106115058.png|centre|500]]
+
