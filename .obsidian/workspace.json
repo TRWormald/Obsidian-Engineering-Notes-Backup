@@ -389,22 +389,6 @@
                 }
               },
               {
-                "id": "8e1bc20acd63e37b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf",
-                    "page": 1,
-                    "left": -311,
-                    "top": 421,
-                    "zoom": 0.5501893939393939
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "An Introduction to Error Analysis - Taylor"
-                }
-              },
-              {
                 "id": "17c98f88b5c34800",
                 "type": "leaf",
                 "state": {
@@ -412,8 +396,8 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
                     "page": 1,
-                    "left": -261,
-                    "top": 658,
+                    "left": -612,
+                    "top": 108,
                     "zoom": 0.6662844036697247
                   },
                   "icon": "lucide-file-text",
@@ -434,13 +418,13 @@
       }
     ]
   },
-  "active": "8e1bc20acd63e37b",
+  "active": "17c98f88b5c34800",
   "lastOpenFiles": [
-    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251106133509.png",
     "Backend/Images & Attachments/Pasted image 20251106132913.png",
