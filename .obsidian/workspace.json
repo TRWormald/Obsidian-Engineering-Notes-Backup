@@ -29,7 +29,7 @@
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
                 "page": 1,
-                "left": -4,
+                "left": -299,
                 "top": 669,
                 "zoom": 0.8536394923510299
               },
@@ -73,26 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
+                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12) Trimming and Linearisation"
-            }
-          },
-          {
-            "id": "959f770bde7c5df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) Introduction"
+              "title": "2) Equations of Motion 1"
             }
           },
           {
@@ -125,29 +111,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Flight Dynamics Lecture 3 - Equations of Motion 1"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "a87cf2bcd462da78",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20854e8c7c6772d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
-                "page": 12,
-                "left": 401,
-                "top": 518,
-                "zoom": 1.21
-              },
-              "icon": "lucide-file-text",
-              "title": "Fatigue & Creep - Lecture 1"
             }
           }
         ]
@@ -381,8 +344,76 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "959f770bde7c5df9",
+  "floating": {
+    "id": "e62345dd7e9acc46",
+    "type": "floating",
+    "children": [
+      {
+        "id": "744c2192c4410648",
+        "type": "window",
+        "children": [
+          {
+            "id": "94f1b31ae615fd56",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "578a0344882860a0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
+                    "page": 1,
+                    "left": -14,
+                    "top": 752,
+                    "zoom": 1.84
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
+                }
+              },
+              {
+                "id": "60673fa49b5bbc1a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
+                    "page": 1,
+                    "left": -169,
+                    "top": 840,
+                    "zoom": 1.23
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 553,
+        "y": 42,
+        "width": 1025,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
+    "Engineering Year 3/5) RP-3/0) Selection/1) Project Descriptions AY25-26 Supplementary.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies",
+    "Engineering Year 3/5) RP-3/1) Research Project",
+    "Engineering Year 3/5) RP-3/0) Selection",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
+    "Engineering Year 3/5) RP-3/0) Selection/2) Project Descriptions AY25-26.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
     "Backend/Images & Attachments/Pasted image 20251106115058.png",
     "Backend/Images & Attachments/Pasted image 20251106115039.png",
     "Backend/Images & Attachments/Pasted image 20251106115016.png",
@@ -393,20 +424,9 @@
     "Backend/Images & Attachments/Pasted image 20251106113456.png",
     "Backend/Images & Attachments/Pasted image 20251106113401.png",
     "Backend/Images & Attachments/Pasted image 20251106113346.png",
-    "Backend/Images & Attachments/Pasted image 20251106112730.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 4 - Equations of Motion 2.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
