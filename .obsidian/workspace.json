@@ -363,10 +363,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 1,
-                    "left": -14,
-                    "top": 752,
-                    "zoom": 1.84
+                    "page": 8,
+                    "left": -140,
+                    "top": 471,
+                    "zoom": 1.31
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -379,16 +379,17 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-                    "page": 1,
-                    "left": -169,
-                    "top": 840,
+                    "page": 2,
+                    "left": -170,
+                    "top": 573,
                     "zoom": 1.23
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -401,10 +402,10 @@
       }
     ]
   },
-  "active": "578a0344882860a0",
+  "active": "60673fa49b5bbc1a",
   "lastOpenFiles": [
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/0) Selection/1) Project Descriptions AY25-26 Supplementary.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies",
     "Engineering Year 3/5) RP-3/1) Research Project",
