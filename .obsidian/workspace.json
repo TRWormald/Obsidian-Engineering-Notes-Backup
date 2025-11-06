@@ -85,16 +85,14 @@
             "id": "959f770bde7c5df9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-                "page": 1,
-                "left": 106,
-                "top": 12,
-                "zoom": 0.72
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Flight Dynamics Lecture 13 - Trimming and Linearisation"
+              "icon": "lucide-file",
+              "title": "1)"
             }
           },
           {
@@ -131,6 +129,28 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "a87cf2bcd462da78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20854e8c7c6772d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
+                "page": 1,
+                "left": -24,
+                "top": 117,
+                "zoom": 0.57
+              },
+              "icon": "lucide-file-text",
+              "title": "Fatigue & Creep - Lecture 1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -363,33 +383,33 @@
   },
   "active": "959f770bde7c5df9",
   "lastOpenFiles": [
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1).md",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 4 - Equations of Motion 2.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 5 - Equations of Motion 3.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 6 - Equations of Motion 4.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
     "[[11) Numerical Methods Lecture 11.pdf.md",
     "Backend/Images & Attachments/Pasted image 20251104133123.png",
     "Backend/Images & Attachments/Pasted image 20251104132058.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/1) The Coordinate Transform.md",
     "Backend/Images & Attachments/Pasted image 20251104130622.png",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/3) State Space/1) The State Space Model.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Backend/Images & Attachments/Pasted image 20251103111655.png",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
     "Backend/Images & Attachments/Pasted image 20251103110656.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
     "Backend/Images & Attachments/Pasted image 20251102192659.png",
@@ -408,7 +428,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/2) Explicit Methods for General Fluxes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/5) Conservative v Non-Conservative Form.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/4) Numerical Algorithms.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/3) Further Aspects of Numerical Algorithms.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
