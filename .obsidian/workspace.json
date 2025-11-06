@@ -141,10 +141,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 1.pdf",
-                "page": 6,
-                "left": -3,
-                "top": 569,
-                "zoom": 0.87
+                "page": 10,
+                "left": 410,
+                "top": 590,
+                "zoom": 1.24
               },
               "icon": "lucide-file-text",
               "title": "Fatigue & Creep - Lecture 1"
@@ -383,6 +383,11 @@
   },
   "active": "959f770bde7c5df9",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251106113514.png",
+    "Backend/Images & Attachments/Pasted image 20251106113456.png",
+    "Backend/Images & Attachments/Pasted image 20251106113401.png",
+    "Backend/Images & Attachments/Pasted image 20251106113346.png",
+    "Backend/Images & Attachments/Pasted image 20251106112730.png",
     "Backend/Images & Attachments/Pasted image 20251106112326.png",
     "Backend/Images & Attachments/Pasted image 20251106112303.png",
     "Backend/Images & Attachments/Pasted image 20251106112259.png",
@@ -410,14 +415,9 @@
     "Backend/Images & Attachments/Pasted image 20251104133123.png",
     "Backend/Images & Attachments/Pasted image 20251104132058.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/1) The Coordinate Transform.md",
-    "Backend/Images & Attachments/Pasted image 20251104130622.png",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/3) State Space/1) The State Space Model.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
-    "Backend/Images & Attachments/Pasted image 20251103111655.png",
-    "Backend/Images & Attachments/Pasted image 20251103110656.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
-    "Backend/Images & Attachments/Pasted image 20251102192659.png",
-    "Backend/Images & Attachments/Pasted image 20251102192505.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/3) Implicit Form of the FTCS Scheme.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/1) Steady Flow Time Marching.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/2) Intro to Discretisation/1) Basics of Numerical Methods.md",
