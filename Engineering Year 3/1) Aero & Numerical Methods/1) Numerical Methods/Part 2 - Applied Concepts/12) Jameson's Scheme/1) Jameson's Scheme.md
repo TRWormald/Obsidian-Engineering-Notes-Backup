@@ -38,6 +38,18 @@ The basic Jameson method is now a very famous classical finite-volume method. Th
 	This is sufficient to stabilise the flow, however large gradients (shocks) cause wiggles in the solution.
 $$\epsilon_{4}\Delta x^{4}\frac{\partial ^{4}u}{\partial x^{4}},~~~\epsilon_{4}=\frac{1}{256}$$![[Pasted image 20251106132844.png|centre|200]]
 2) A 2nd order term: used only at large gradients
-	This has a large 
+	This has a large smoothing effect which is undesirable in most of the flow. Jameson's trick was to scale this with the local pressure gradient. This is large around a shock wave, but small everywhere else, so $\epsilon_{2}$ acts as a "switch" to turn on the 2nd order dissipation where it is needed. 
 $$\epsilon_{2}\Delta x^{2}\frac{\partial ^{2}u}{\partial x^{2}}$$
 ![[Pasted image 20251106132913.png|centre|200]]
+### Jameson's Time-Stepping Scheme
+Jameson also introduced a different approach to time-stepping. In stead of the simple first order times stepping scheme, he used a multi-stage Runge-Kutta scheme.
+
+>**Multi-stage Runge-Kutta Scheme**
+>One or more intermediate time-steps are performed between time-levels $n$ to $n+1$. The solution at $n+1$ is calculated from some weighted average of the intermediate solutions.
+
+Jameson chose a four-stage Runge-Kutta scheme (four intermediate time steps between $n$ to $n+1$)
+- The RK4 scheme increases the temporal accuract of the scheme and increases the useable CFL number
+- Jameson simplified the RK4 scheme to not require storing all the intermediate solutions (which increases memory requirements)
+
+Jameson's temporal scheme only requires the solution to be stored at two levels.
+![[Pasted image 20251106133509.png|centre|500]]
