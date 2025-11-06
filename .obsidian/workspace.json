@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
-                "page": 2,
-                "left": -2,
-                "top": 3,
-                "zoom": 1.05
+                "page": 9,
+                "left": -4,
+                "top": 250,
+                "zoom": 2.04
               },
               "icon": "lucide-file-text",
               "title": "12) Numerical Methods Lecture 12"
@@ -415,10 +415,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-                    "page": 9,
-                    "left": -4,
-                    "top": 1,
-                    "zoom": 1.23
+                    "page": 7,
+                    "left": -166,
+                    "top": 552,
+                    "zoom": 1.24
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -433,18 +433,21 @@
         "y": 109,
         "width": 1025,
         "height": 801,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "60673fa49b5bbc1a",
+  "active": "852cb30203ddb573",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251106131124.png",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
+    "Backend/Images & Attachments/Pasted image 20251106130635.png",
+    "Backend/Images & Attachments/Pasted image 20251106130617.png",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/5) RP-3/0) Selection/1) Project Descriptions AY25-26 Supplementary.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies",
@@ -462,8 +465,6 @@
     "Backend/Images & Attachments/Pasted image 20251106114039.png",
     "Backend/Images & Attachments/Pasted image 20251106113514.png",
     "Backend/Images & Attachments/Pasted image 20251106113456.png",
-    "Backend/Images & Attachments/Pasted image 20251106113401.png",
-    "Backend/Images & Attachments/Pasted image 20251106113346.png",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
@@ -485,7 +486,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/1) Higher Order Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/7) Higher Order Schemes/2) Explicit Methods for General Fluxes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/5) Conservative v Non-Conservative Form.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/6) Time Stepping/4) Numerical Algorithms.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
