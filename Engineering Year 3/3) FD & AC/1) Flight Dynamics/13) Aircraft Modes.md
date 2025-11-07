@@ -32,4 +32,9 @@ Periods are typically 15-100s and even if $\sigma$ >0 (unstable motion) it is co
 ### Lateral Modes
 ![[Pasted image 20251107112104.png|centre]]
 1) A mode with a large negative real root is called the roll convergence (or roll subsidence). This implies almost pure rolling motion and of course it cannot last long because after the first 90 degrees you fall out of the sky. A more realistic attitude suggests that if you roll a "pulse" hits the aircraft (e.g. a brief up-gust on one wing), the consequent response in roll would be heavily damped.
-2) A mode with a small real root of either sign is called the spiral mode. This would be, for an unstable case, a slow divergence in yaw (say nose to starboard) while a roll angle built up (rolling to starboard) 
+2) A mode with a small real root of either sign is called the spiral mode. This would be, for an unstable case, a slow divergence in yaw (say nose to starboard) while a roll angle built up (rolling to starboard) and thus a sideslip would also develop. The later stage would be a tightening spiral dive with all three motion variables involved. In practice, a pilot can control an unstable spiral mode.
+![[Pasted image 20251107112513.png|centre|500]]
+3) A mode with a complex pair is called a Dutch Roll. Strictly speaking, all freedoms are active here, in an oscillatory sense, and out of phase with each other. This mode can be badly (though positively) damped and will affect handling qualities. The frequency is probably lower (the period a bit longer) than the longitudinal short-period mode. It is often poorly damped on swept wing aircraft, and is excited with the rudder of aileron.
+![[Pasted image 20251107112802.png|centre]]
+### System Stability
+For notes on system stability look at [[Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf#page=28|Flight Dynamics Lecture 14 - Aircraft Dynamic Modes, p.28]].
