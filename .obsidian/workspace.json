@@ -28,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-                "page": 31,
+                "page": 18,
                 "left": -57,
-                "top": 1,
+                "top": 3,
                 "zoom": 0.9839907270528155
               },
               "icon": "lucide-file-text",
@@ -129,8 +129,7 @@
               "title": "Flight Dynamics Lecture 3 - Equations of Motion 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -435,10 +434,10 @@
       }
     ]
   },
-  "active": "49ca5689ac4d05a2",
+  "active": "263573a1d8a6ab93",
   "lastOpenFiles": [
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",

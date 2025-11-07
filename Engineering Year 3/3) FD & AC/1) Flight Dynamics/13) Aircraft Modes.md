@@ -1,0 +1,1 @@
+Following the trimming and linearisation of the aircraft and observing
