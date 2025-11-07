@@ -39,5 +39,8 @@ $$0.3<V_{f}<0.8$$
 #### Longitudinal Stiffness ($E_{11}$)
 The strain in the matrix and fibres is the same:
 $$\varepsilon_{11}=\varepsilon_{f}=\varepsilon_{m}$$
-However the load taken is proportional to the stiffness.
-$$E_{11}=E_{f}V_{f}+E_{m}V_{m}=\sum\limits_{i=1}^{n}E_{i}V_{i}$$
+However the load taken is proportional to the stiffness.$$E_{11}=E_{f}V_{f}+E_{m}V_{m}=\sum\limits_{i=1}^{n}E_{i}V_{i}$$
+#### Transverse Stiffness ($E_{22}$)
+In a basic analysis of this case the stress in the fibres and the matrix are the same. However this assumption does not hold up to closer scrutiny, and predictions do not match experimental variation.
+$$\frac{1}{E_{22}}=\frac{V_{f}}{E_{f}}+\frac{V_{m}}{E_{m}}$$
+#### Shear Modulus ($G_{12}$) and Poisson's Ratio ($\nu_{12}$)
