@@ -382,7 +382,7 @@
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
                     "page": 1,
                     "left": -385,
-                    "top": 187,
+                    "top": 794,
                     "zoom": 0.84
                   },
                   "icon": "lucide-file-text",
@@ -396,9 +396,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-                    "page": 3,
-                    "left": -4,
-                    "top": 505,
+                    "page": 1,
+                    "left": -193,
+                    "top": 846,
                     "zoom": 1.17
                   },
                   "icon": "lucide-file-text",
@@ -412,17 +412,16 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
-                    "page": 18,
+                    "page": 8,
                     "left": -132,
-                    "top": 532,
+                    "top": 577,
                     "zoom": 1.31
                   },
                   "icon": "lucide-file-text",
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -435,10 +434,11 @@
       }
     ]
   },
-  "active": "17c98f88b5c34800",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
-    "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
+    "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
@@ -454,7 +454,6 @@
     "Backend/Images & Attachments/Pasted image 20251107111948.png",
     "Backend/Images & Attachments/Pasted image 20251107111126.png",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources",
