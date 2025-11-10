@@ -15,8 +15,8 @@
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
                 "page": 18,
-                "left": -72,
-                "top": 3,
+                "left": -4,
+                "top": 7,
                 "zoom": 0.9839907270528155
               },
               "icon": "lucide-file-text",
@@ -129,8 +129,7 @@
               "title": "1) Intro to CLA"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,9 +380,9 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
                     "page": 1,
-                    "left": -385,
-                    "top": 794,
-                    "zoom": 0.84
+                    "left": -164,
+                    "top": 795,
+                    "zoom": 0.7406438005932738
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -425,17 +424,18 @@
           }
         ],
         "direction": "vertical",
-        "x": 341,
-        "y": 109,
-        "width": 1025,
-        "height": 801,
-        "maximize": true,
+        "x": 528,
+        "y": 184,
+        "width": 1030,
+        "height": 805,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "578a0344882860a0",
+  "active": "49ca5689ac4d05a2",
   "lastOpenFiles": [
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
@@ -457,7 +457,6 @@
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251106133509.png",
     "Backend/Images & Attachments/Pasted image 20251106132913.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
