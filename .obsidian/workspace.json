@@ -15,7 +15,7 @@
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
                 "page": 18,
-                "left": -4,
+                "left": -72,
                 "top": 7,
                 "zoom": 0.9839907270528155
               },
@@ -379,9 +379,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 1,
-                    "left": -164,
-                    "top": 795,
+                    "page": 2,
+                    "left": -477,
+                    "top": 767,
                     "zoom": 0.7406438005932738
                   },
                   "icon": "lucide-file-text",
@@ -428,19 +428,19 @@
         "y": 184,
         "width": 1030,
         "height": 805,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0.5
       }
     ]
   },
-  "active": "49ca5689ac4d05a2",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 15 - Handling Qualities.pdf",
