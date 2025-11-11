@@ -4,129 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "847b7d790e85540b",
+        "id": "da38fe16569fd741",
         "type": "tabs",
         "children": [
           {
-            "id": "49ca5689ac4d05a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-                "page": 18,
-                "left": -72,
-                "top": 7,
-                "zoom": 0.9839907270528155
-              },
-              "icon": "lucide-file-text",
-              "title": "Flight Dynamics Lecture 13 - Trimming and Linearisation"
-            }
-          },
-          {
-            "id": "e3c7875328c29eac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 2 - Systems of Axes and Notation.pdf",
-                "page": 1,
-                "left": -299,
-                "top": 669,
-                "zoom": 0.8536394923510299
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 2 - Systems of Axes and Notation"
-            }
-          },
-          {
-            "id": "5856eaf72c65862f",
+            "id": "87490e50e3f21c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
+                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12) Trimming and Linearisation"
-            }
-          },
-          {
-            "id": "5ce4d3cf3e0da55e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
-                "page": 31,
-                "left": -51,
-                "top": 337,
-                "zoom": 0.47
-              },
-              "icon": "lucide-file-text",
-              "title": "Flight Dynamics Lecture 3 - Equations of Motion 1"
-            }
-          },
-          {
-            "id": "35d8f330db2a0180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2) Equations of Motion 1"
-            }
-          },
-          {
-            "id": "9c23b57101ca94d2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
-                "page": 2,
-                "left": 42,
-                "top": 600,
-                "zoom": 0.8536394923510299
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 5 - The Solution of the Equations of Motion"
-            }
-          },
-          {
-            "id": "22a698dbd8cf52b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 3 - Equations of Motion 1.pdf",
-                "page": 30,
-                "left": 74,
-                "top": 242,
-                "zoom": 0.74
-              },
-              "icon": "lucide-file-text",
-              "title": "Flight Dynamics Lecture 3 - Equations of Motion 1"
-            }
-          },
-          {
-            "id": "0384554420f03432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) Intro to CLA"
+              "title": "1) P&ID"
             }
           }
         ]
@@ -379,10 +271,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 2,
-                    "left": -477,
-                    "top": 767,
-                    "zoom": 0.7406438005932738
+                    "page": 1,
+                    "left": -40,
+                    "top": 795,
+                    "zoom": 1.7
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -428,14 +320,18 @@
         "y": 184,
         "width": 1030,
         "height": 805,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "578a0344882860a0",
+  "active": "87490e50e3f21c7e",
   "lastOpenFiles": [
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
@@ -454,12 +350,9 @@
     "Backend/Images & Attachments/Pasted image 20251107111948.png",
     "Backend/Images & Attachments/Pasted image 20251107111126.png",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
-    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
-    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources",
     "Backend/Images & Attachments/Pasted image 20251106133509.png",
     "Backend/Images & Attachments/Pasted image 20251106132913.png",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
@@ -470,7 +363,7 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
     "[[11) Numerical Methods Lecture 11.pdf.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/1) The Coordinate Transform.md",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/3) State Space/1) The State Space Model.md",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/3) Implicit Form of the FTCS Scheme.md",
@@ -479,7 +372,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/2) Example of Time Marching.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/3) Analysing Time Marching Using a Model Equation.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/2) The Stability of Implicit Methods.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/1) Implicit Methods.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
