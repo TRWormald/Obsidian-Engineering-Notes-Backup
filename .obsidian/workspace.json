@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "da38fe16569fd741",
+        "id": "623e75584fa3e69b",
         "type": "tabs",
         "children": [
           {
-            "id": "e759844a2bc92714",
+            "id": "18c34c587020549b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) The State Space Model"
+              "title": "1) Solution Storage Approaches"
             }
           }
         ]
       },
       {
-        "id": "5ed3edc489233dc2",
+        "id": "da38fe16569fd741",
         "type": "tabs",
         "children": [
           {
-            "id": "5276382851a9baa3",
+            "id": "786141a30ec7ceff",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
-                "page": 56,
-                "left": -4,
-                "top": 21,
-                "zoom": 2.1221786966331773
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
+                "page": 1,
+                "left": -45,
+                "top": 234,
+                "zoom": 0.85
               },
               "icon": "lucide-file-text",
-              "title": "0) Advanced Control - State Space"
+              "title": "13) Numerical Methods Lecture 13"
             }
           }
         ]
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.51435470581055
+    "width": 242.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -301,16 +301,6 @@
                 }
               },
               {
-                "id": "80042cd185c3db41",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
-                }
-              },
-              {
                 "id": "60673fa49b5bbc1a",
                 "type": "leaf",
                 "state": {
@@ -318,9 +308,9 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
                     "page": 1,
-                    "left": -193,
-                    "top": 846,
-                    "zoom": 1.17
+                    "left": -369,
+                    "top": 845,
+                    "zoom": 0.5121733966745844
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -334,16 +324,16 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
                     "page": 8,
-                    "left": -132,
-                    "top": 577,
-                    "zoom": 1.31
+                    "left": -225,
+                    "top": 688,
+                    "zoom": 0.643640350877193
                   },
                   "icon": "lucide-file-text",
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -356,23 +346,24 @@
       }
     ]
   },
-  "active": "80042cd185c3db41",
+  "active": "786141a30ec7ceff",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches",
+    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 15 - Handling Qualities.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
     "Backend/Images & Attachments/Pasted image 20251107112802.png",
     "Backend/Images & Attachments/Pasted image 20251107112800.png",
     "Backend/Images & Attachments/Pasted image 20251107112513.png",
@@ -402,7 +393,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/2) Intro to Discretisation/1) Basics of Numerical Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/2) Example of Time Marching.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/3) Analysing Time Marching Using a Model Equation.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/2) The Stability of Implicit Methods.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
