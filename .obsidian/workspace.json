@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87490e50e3f21c7e",
+            "id": "e759844a2bc92714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
+                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) P&ID"
+              "title": "1) The State Space Model"
             }
           }
         ]
@@ -28,19 +28,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e759844a2bc92714",
+            "id": "5276382851a9baa3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
+                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
                 "page": 1,
-                "left": -4,
+                "left": -100,
                 "top": 276,
-                "zoom": 2.1524955351565085
+                "zoom": 0.85
               },
               "icon": "lucide-file-text",
-              "title": "0) Advanced Control - P&ID"
+              "title": "0) Advanced Control - State Space"
             }
           }
         ]
@@ -347,12 +347,13 @@
       }
     ]
   },
-  "active": "e759844a2bc92714",
+  "active": "5276382851a9baa3",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
@@ -385,7 +386,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
     "[[11) Numerical Methods Lecture 11.pdf.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/1) The Coordinate Transform.md",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/4) The Implicit Form of General Equations.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/8) Implicit Schemes/3) Implicit Form of the FTCS Scheme.md",
