@@ -22,6 +22,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "5ed3edc489233dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e759844a2bc92714",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 276,
+                "zoom": 2.1524955351565085
+              },
+              "icon": "lucide-file-text",
+              "title": "0) Advanced Control - P&ID"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,10 +347,10 @@
       }
     ]
   },
-  "active": "87490e50e3f21c7e",
+  "active": "e759844a2bc92714",
   "lastOpenFiles": [
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID",
