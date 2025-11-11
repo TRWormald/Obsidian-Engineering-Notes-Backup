@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
-                "page": 1,
-                "left": -100,
-                "top": 276,
-                "zoom": 0.85
+                "page": 56,
+                "left": -4,
+                "top": 21,
+                "zoom": 2.1221786966331773
               },
               "icon": "lucide-file-text",
               "title": "0) Advanced Control - State Space"
@@ -294,12 +294,20 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
                     "page": 1,
-                    "left": -40,
-                    "top": 795,
-                    "zoom": 1.7
+                    "zoom": -0.01517324047310164
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
+                }
+              },
+              {
+                "id": "80042cd185c3db41",
+                "type": "leaf",
+                "state": {
+                  "type": "task-board-view",
+                  "state": {},
+                  "icon": "brick-wall",
+                  "title": "Task Board"
                 }
               },
               {
@@ -334,20 +342,21 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": 528,
         "y": 184,
         "width": 1030,
-        "height": 805,
+        "height": 806,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "5276382851a9baa3",
+  "active": "80042cd185c3db41",
   "lastOpenFiles": [
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
