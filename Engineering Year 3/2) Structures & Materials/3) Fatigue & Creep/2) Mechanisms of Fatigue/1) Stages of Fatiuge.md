@@ -43,4 +43,11 @@ $$S_{local}>UTS$$
 Finally we have the fracture of the material
 ![[Pasted image 20251113113837.png|centre|400]]
 ![[Pasted image 20251113113853.png|centre|500]]
-### Energy Considerations in Fatigue
+### Safeguards for Composite Structures
+**Ply drop protocols**
+For primary structures:
+Ply drop length = $20\times CPT\times n$
+For secondary structures
+Ply drop length = $10\times CPT\times n$
+
+
