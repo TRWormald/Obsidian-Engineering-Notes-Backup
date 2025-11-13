@@ -33,11 +33,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
-                "page": 25,
-                "left": -4,
-                "top": 101,
-                "zoom": 2.2636583855314014
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf"
               },
               "icon": "lucide-file-text",
               "title": "13) Numerical Methods Lecture 13"
@@ -318,8 +314,8 @@
                 "state": {
                   "type": "task-board-view",
                   "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
+                  "icon": "lucide-ghost",
+                  "title": "task-board-view"
                 }
               },
               {
