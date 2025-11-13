@@ -4,59 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0cffd464edacaf1",
+        "id": "dcd236d28322f8b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f2232b348686ac65",
+            "id": "625dea0122f14409",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1) Stages of Fatiuge"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b0adb45354e52977",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44e81de67a19ffe3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
-                "page": 6,
-                "left": -16,
-                "top": 143,
-                "zoom": 0.56
-              },
-              "icon": "lucide-file-text",
-              "title": "Fatigue & Creep - Lecture 2"
-            }
-          },
-          {
-            "id": "82fca30787d260de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 3.pdf",
-                "page": 2,
-                "left": -75,
-                "top": 532,
-                "zoom": 0.49
-              },
-              "icon": "lucide-file-text",
-              "title": "Fatigue & Creep - Lecture 3"
+              "title": "New tab"
             }
           }
         ]
@@ -308,9 +266,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 1,
-                    "zoom": 1
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf"
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -322,11 +278,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-                    "page": 1,
-                    "left": -356,
-                    "top": 845,
-                    "zoom": 0.5228622327790975
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf"
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -346,8 +298,7 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -360,14 +311,14 @@
       }
     ]
   },
-  "active": "f2232b348686ac65",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 3.pdf",
     "Backend/Images & Attachments/Pasted image 20251113113853.png",
     "Backend/Images & Attachments/Pasted image 20251113113837.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
     "Backend/Images & Attachments/Pasted image 20251113110254.png",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 3.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
@@ -389,7 +340,6 @@
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
-    "Backend/Images & Attachments/Pasted image 20251107112802.png",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
