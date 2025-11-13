@@ -16,4 +16,9 @@ $$\mathbf{AB\Delta \underline{u}}=\mathbf{\underline{R}}$$
 This is solved in two stages:
 $$\mathbf{A\Delta \underline{u}'}=\mathbf{\underline{R}}$$
 Followed by:
-$$\mathbf{AB\Delta \underline{u}}=\mathbf{\underline{R}}$$
+$$\mathbf{B}\Delta\mathbf{ \underline{u}}=\Delta\mathbf{\underline{u}}'$$
+>**Approximate Factorisation**
+>The technique of splitting (factorising) the operators associated with each coordinate direction.
+
+AF does not alter the accuracy of the scheme, but it does alter the truncation error (which affects stability).
+In 3D the AF method is unconditionally unstable for the linear wave equation. Therefore some extra artificial dissipation is added to stabilise the method.
