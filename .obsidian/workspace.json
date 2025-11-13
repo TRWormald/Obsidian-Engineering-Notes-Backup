@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
-                "page": 2,
-                "left": -1,
-                "top": 131,
-                "zoom": 0.62
+                "page": 6,
+                "left": -16,
+                "top": 143,
+                "zoom": 0.56
               },
               "icon": "lucide-file-text",
               "title": "Fatigue & Creep - Lecture 2"
@@ -362,6 +362,8 @@
   },
   "active": "f2232b348686ac65",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251113113853.png",
+    "Backend/Images & Attachments/Pasted image 20251113113837.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
     "Backend/Images & Attachments/Pasted image 20251113110254.png",
@@ -388,7 +390,6 @@
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
     "Backend/Images & Attachments/Pasted image 20251107112802.png",
-    "Backend/Images & Attachments/Pasted image 20251107112800.png",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",

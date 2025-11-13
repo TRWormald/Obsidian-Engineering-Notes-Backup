@@ -22,9 +22,25 @@ This occurs if $S_{max}$ or $S_{local}>$ Yield Strength
 So to reduce the chance of crack initiation we use a material with a higher Yield Strength or use different strengthening mechanisms, or we lower $S_{local}$ by reducing stress concentrations - e.g. with good surface finish, proper component design (no abrupt changes in cross section, no sharp corners or edges) and making sure there are no microscopic defects (porosity, cavities, non-metallic inclusions.)
 
 We can also minimise gaps and use structural shims.
+
 ### Stage 2 - Slow Propagation of Crack
 Now the crack is open it goes through several processes:
 - Tensile cycle
 - Cycle reversal
 This results in: net advancement in each cycle = crack advancement in tensile cycle - crack closure in compression cycle.
 If the net advancement = 0 the component has infinite fatigue life. Else the crack growth rate $da/dN$ as per Paris Law/Paris Erdogan equation.
+
+**But how do we slow the propagation of the crack?**
+$da/dN$ gives us the crack advancement rate (crack advancement-crack closure/N). 
+To reduce crack advancement we use a material with a higher Yield Strength
+To increase crack closure we use a material with a higher plastic deformation (i.e. lower Yield Strength).
+
+This is contradictory and requires optimisation, we can strike a balance by using surface/case hardening, or residual compressive stresses - i.e. attempting to have a negative compressive mean stress this can be cone with shot peening/sand blasting (which can increase fatigue life by 10x) amazingly overloads can also increase fatigue life but this is not capable to be designed for.
+
+### Stage 3 - Fast Propagation of Crack
+The crack progresses quickly, lowering the load of the bearing area.
+$$S_{local}>UTS$$
+Finally we have the fracture of the material
+![[Pasted image 20251113113837.png|centre|400]]
+![[Pasted image 20251113113853.png|centre|500]]
+### Energy Considerations in Fatigue
