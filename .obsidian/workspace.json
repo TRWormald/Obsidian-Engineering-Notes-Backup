@@ -4,39 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "623e75584fa3e69b",
+        "id": "f0cffd464edacaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "18c34c587020549b",
+            "id": "f2232b348686ac65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Solution Storage Approaches"
+              "title": "1) Stages of Fatiuge"
             }
           }
         ]
       },
       {
-        "id": "da38fe16569fd741",
+        "id": "b0adb45354e52977",
         "type": "tabs",
         "children": [
           {
-            "id": "786141a30ec7ceff",
+            "id": "44e81de67a19ffe3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf"
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
+                "page": 2,
+                "left": -1,
+                "top": 131,
+                "zoom": 0.62
               },
               "icon": "lucide-file-text",
-              "title": "13) Numerical Methods Lecture 13"
+              "title": "Fatigue & Creep - Lecture 2"
+            }
+          },
+          {
+            "id": "82fca30787d260de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 3.pdf",
+                "page": 2,
+                "left": -75,
+                "top": 532,
+                "zoom": 0.49
+              },
+              "icon": "lucide-file-text",
+              "title": "Fatigue & Creep - Lecture 3"
             }
           }
         ]
@@ -297,28 +317,6 @@
                 }
               },
               {
-                "id": "6b929cab20457dae",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.10.3"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.10.3"
-                }
-              },
-              {
-                "id": "ccc362f4fea3e6af",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "task-board-view"
-                }
-              },
-              {
                 "id": "60673fa49b5bbc1a",
                 "type": "leaf",
                 "state": {
@@ -326,9 +324,9 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
                     "page": 1,
-                    "left": -369,
+                    "left": -356,
                     "top": 845,
-                    "zoom": 0.5121733966745844
+                    "zoom": 0.5228622327790975
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -349,7 +347,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -362,13 +360,19 @@
       }
     ]
   },
-  "active": "ccc362f4fea3e6af",
+  "active": "f2232b348686ac65",
   "lastOpenFiles": [
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
+    "Backend/Images & Attachments/Pasted image 20251113110254.png",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 3.pdf",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251111132928.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
     "Backend/Images & Attachments/Pasted image 20251111131806.png",
     "Backend/Images & Attachments/Pasted image 20251111131731.png",
     "Backend/Images & Attachments/Pasted image 20251111131620.png",
@@ -376,20 +380,15 @@
     "Backend/Images & Attachments/Pasted image 20251111131134.png",
     "Backend/Images & Attachments/Pasted image 20251111130821.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/0) Advanced Control - State Space.pdf",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
-    "Engineering Year 3/2) Structures & Materials/4) CLA",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
     "Backend/Images & Attachments/Pasted image 20251107112802.png",
     "Backend/Images & Attachments/Pasted image 20251107112800.png",
-    "Backend/Images & Attachments/Pasted image 20251107112513.png",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
@@ -408,7 +407,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/1) Steady Flow Time Marching.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/2) Intro to Discretisation/1) Basics of Numerical Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/2) Example of Time Marching.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/3) Time Marching/3) Analysing Time Marching Using a Model Equation.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
