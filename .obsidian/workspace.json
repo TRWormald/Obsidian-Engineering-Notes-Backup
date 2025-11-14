@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/4) CLA/3) Micromechanics of Composite Strength.md",
+                "file": "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Micromechanics of Composite Strength"
+              "title": "4) The Stiffness of Uni-Directional Ply"
             }
           }
         ]
@@ -342,7 +342,19 @@
   },
   "active": "33f9e8fe8d562c60",
   "lastOpenFiles": [
-    "Backend/Images & Attachments/Pasted image 20251114151156.png",
+    "Backend/Images & Attachments/Pasted image 20251114153028.png",
+    "Backend/Images & Attachments/Pasted image 20251114152854.png",
+    "Backend/Images & Attachments/Pasted image 20251114152739.png",
+    "Backend/Images & Attachments/Pasted image 20251114152558.png",
+    "Backend/Images & Attachments/Pasted image 20251114152546.png",
+    "Backend/Images & Attachments/Pasted image 20251114152534.png",
+    "Backend/Images & Attachments/Pasted image 20251114152521.png",
+    "Backend/Images & Attachments/Pasted image 20251114152510.png",
+    "Backend/Images & Attachments/Pasted image 20251114152454.png",
+    "Backend/Images & Attachments/Pasted image 20251114152439.png",
+    "Backend/Images & Attachments/Pasted image 20251114152426.png",
+    "Engineering Year 3/2) Structures & Materials/4) CLA/2) Micromechanics and Homogenisation.md",
+    "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/3) Micromechanics of Composite Strength.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
@@ -351,18 +363,8 @@
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/4) Modern Approaches.md",
-    "Backend/Images & Attachments/Pasted image 20251113133441.png",
-    "Backend/Images & Attachments/Pasted image 20251113133429.png",
-    "Backend/Images & Attachments/Pasted image 20251113133405.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/3) Approximate Factorisation (AF).md",
-    "Backend/Images & Attachments/Pasted image 20251113133028.png",
-    "Backend/Images & Attachments/Pasted image 20251113133026.png",
-    "Backend/Images & Attachments/Pasted image 20251113132729.png",
-    "Backend/Images & Attachments/Pasted image 20251113132522.png",
-    "Backend/Images & Attachments/Pasted image 20251113132506.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/2) Alternating Directional Implicit.md",
-    "Backend/Images & Attachments/Pasted image 20251113132252.png",
-    "Backend/Images & Attachments/Pasted image 20251113131802.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/1) Recap of Implicit Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
@@ -386,8 +388,6 @@
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
     "[[11) Numerical Methods Lecture 11.pdf.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/1) The Coordinate Transform.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/11) Realistic Boundary Layers/1) The Location of Separation.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
