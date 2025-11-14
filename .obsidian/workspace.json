@@ -30,10 +30,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 16 & 17 - Flight Test.pdf",
-                "page": 1,
-                "left": -56,
-                "top": 599,
-                "zoom": 0.9839907270528155
+                "page": 40,
+                "left": -4,
+                "top": 329,
+                "zoom": 0.9562726784034404
               },
               "icon": "lucide-file-text",
               "title": "Flight Dynamics Lecture 16 & 17 - Flight Test"
@@ -312,13 +312,23 @@
                 }
               },
               {
-                "id": "033b842f8609f6cc",
+                "id": "f7a00cb8b5254468",
                 "type": "leaf",
                 "state": {
                   "type": "task-board-view",
                   "state": {},
                   "icon": "brick-wall",
                   "title": "Task Board"
+                }
+              },
+              {
+                "id": "033b842f8609f6cc",
+                "type": "leaf",
+                "state": {
+                  "type": "task-board-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "task-board-view"
                 }
               },
               {
@@ -363,7 +373,7 @@
       }
     ]
   },
-  "active": "579a9181d7cafe70",
+  "active": "f7a00cb8b5254468",
   "lastOpenFiles": [
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 15 - Handling Qualities.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 16 & 17 - Flight Test.pdf",
