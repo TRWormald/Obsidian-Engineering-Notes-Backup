@@ -30,3 +30,18 @@ found from $C_{ij}$ imposing the plane stress condition:
 We can find $\mathbf{Q}$ by inverting the plane stress compliance matrix $\mathbf{S}$:
 ![[Pasted image 20251114153028.png]]
 To give:
+![[Pasted image 20251114153039.png|centre]]
+And the compliance matrix is constructed by considering three load cases:
+1) Uni-axial stress $\sigma_{11}$ 
+![[Pasted image 20251114153123.png|centre]]
+2) Uni-axial stress $\sigma_{22}$
+![[Pasted image 20251114153145.png|centre]]
+3) Pure shear $\tau_{12}$
+![[Pasted image 20251114153206.png|centre]]
+Each load case provides a column of $\mathbf{S}$:
+![[Pasted image 20251114153252.png|centre]]
+The symmetry of the compliance matrix gives:
+$$\frac{\nu_{21}}{E_{22}}= \frac{\nu_{12}}{E_{11}}$$
+### Summary
+![[Pasted image 20251114153358.png|centre]]
+![[Pasted image 20251114153406.png|centre]]
