@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
+                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8) Longitudinal Balance"
+              "title": "7) Strip Theory 2"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "11) Manoeuvre Stability"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -364,17 +363,17 @@
       }
     ]
   },
-  "active": "d9dde5ebe2ba2c14",
+  "active": "1f9a8ba05c35eb50",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Starship Airplane Flight Manual.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Backend/Images & Attachments/Pasted image 20251114153406.png",
