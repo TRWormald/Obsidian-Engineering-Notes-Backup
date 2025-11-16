@@ -270,9 +270,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 1,
-                    "zoom": -0.01517324047310164
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf"
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -284,8 +282,8 @@
                 "state": {
                   "type": "task-board-view",
                   "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
+                  "icon": "lucide-ghost",
+                  "title": "task-board-view"
                 }
               },
               {
@@ -326,8 +324,7 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -340,10 +337,10 @@
       }
     ]
   },
-  "active": "33f9e8fe8d562c60",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
-    "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
+    "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Backend/Images & Attachments/Pasted image 20251114153406.png",
     "Backend/Images & Attachments/Pasted image 20251114153358.png",
     "Backend/Images & Attachments/Pasted image 20251114153252.png",
