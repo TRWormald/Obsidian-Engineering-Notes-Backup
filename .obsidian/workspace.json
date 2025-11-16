@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -355,21 +355,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 528,
-        "y": 184,
-        "width": 1030,
-        "height": 806,
+        "x": 191,
+        "y": 52,
+        "width": 1031,
+        "height": 807,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "578a0344882860a0",
+  "active": "d9dde5ebe2ba2c14",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/0) Resources/Starship Airplane Flight Manual.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
@@ -401,7 +402,6 @@
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
-    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
