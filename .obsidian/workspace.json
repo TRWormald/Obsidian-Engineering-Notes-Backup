@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "9) Elevator Angle to Trim"
             }
+          },
+          {
+            "id": "e30d8cc8e8f144be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10) Static Stability"
+            }
+          },
+          {
+            "id": "d9dde5ebe2ba2c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11) Manoeuvre Stability"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,36 +322,6 @@
                 }
               },
               {
-                "id": "d0d579d953cd4713",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
-                }
-              },
-              {
-                "id": "f7a00cb8b5254468",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "task-board-view"
-                }
-              },
-              {
-                "id": "033b842f8609f6cc",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "task-board-view"
-                }
-              },
-              {
                 "id": "60673fa49b5bbc1a",
                 "type": "leaf",
                 "state": {
@@ -331,7 +329,9 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
                     "page": 1,
-                    "zoom": 1
+                    "left": -356,
+                    "top": 845,
+                    "zoom": 0.5228622327790975
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -351,8 +351,7 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -365,12 +364,15 @@
       }
     ]
   },
-  "active": "125fc69f120fd780",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
-    "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
+    "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Backend/Images & Attachments/Pasted image 20251114153406.png",
     "Backend/Images & Attachments/Pasted image 20251114153358.png",
@@ -399,7 +401,6 @@
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
@@ -408,9 +409,7 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/11) Finite Volume/2) The Finite-Volume Method.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
