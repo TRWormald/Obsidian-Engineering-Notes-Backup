@@ -338,6 +338,16 @@
                 }
               },
               {
+                "id": "d278925b63615543",
+                "type": "leaf",
+                "state": {
+                  "type": "task-board-view",
+                  "state": {},
+                  "icon": "brick-wall",
+                  "title": "Task Board"
+                }
+              },
+              {
                 "id": "60673fa49b5bbc1a",
                 "type": "leaf",
                 "state": {
@@ -367,20 +377,21 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 191,
+        "x": 190,
         "y": 52,
-        "width": 1031,
-        "height": 807,
+        "width": 1036,
+        "height": 808,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "e30d8cc8e8f144be",
+  "active": "d278925b63615543",
   "lastOpenFiles": [
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 10 - Elevator Angle to Trim.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
