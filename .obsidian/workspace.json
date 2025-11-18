@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3181f66ff2735dbe",
+            "id": "9ed752192194fe3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/2) Parallel Computing Strategies.md",
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Parallel Computing Strategies"
+              "title": "2) Multi-Block Load Balancing"
+            }
+          },
+          {
+            "id": "218a308d47c155b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) Parallel Processing"
             }
           }
         ]
@@ -28,19 +42,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30e4c87b6418a6ab",
+            "id": "0cf22ae5c3ffbf56",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
-                "page": 9,
-                "left": 153,
-                "top": 71,
-                "zoom": 1.62
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
+                "page": 7,
+                "left": -7,
+                "top": 187,
+                "zoom": 0.99
               },
               "icon": "lucide-file-text",
-              "title": "15) Numerical Methods Lecture 15"
+              "title": "16) Numerical Methods Lecture 16"
             }
           }
         ]
@@ -354,14 +368,22 @@
       }
     ]
   },
-  "active": "3181f66ff2735dbe",
+  "active": "9ed752192194fe3e",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
+    "Backend/Images & Attachments/Pasted image 20251118132210.png",
+    "Backend/Images & Attachments/Pasted image 20251118131901.png",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/3) Parallel Computing for CFD.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
+    "Backend/Images & Attachments/Pasted image 20251118131625.png",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/2) Parallel Computing Strategies.md",
     "Backend/Images & Attachments/Pasted image 20251118130629.png",
     "Backend/Images & Attachments/Pasted image 20251118130608.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/1) Background.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/2) Parallel Computing Strategies.md",
     "Backend/Images & Attachments/Pasted image 20251118130426.png",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
@@ -376,18 +398,12 @@
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Starship Airplane Flight Manual.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Backend/Images & Attachments/Pasted image 20251114153406.png",
     "Backend/Images & Attachments/Pasted image 20251114153358.png",
     "Backend/Images & Attachments/Pasted image 20251114153252.png",
     "Backend/Images & Attachments/Pasted image 20251114153206.png",
-    "Backend/Images & Attachments/Pasted image 20251114153145.png",
-    "Backend/Images & Attachments/Pasted image 20251114153123.png",
-    "Backend/Images & Attachments/Pasted image 20251114153039.png",
-    "Backend/Images & Attachments/Pasted image 20251114153028.png",
     "Engineering Year 3/2) Structures & Materials/4) CLA/2) Micromechanics and Homogenisation.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/3) Micromechanics of Composite Strength.md",
@@ -400,8 +416,6 @@
     "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
     "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/12) Jameson's Scheme/1) Jameson's Scheme.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",

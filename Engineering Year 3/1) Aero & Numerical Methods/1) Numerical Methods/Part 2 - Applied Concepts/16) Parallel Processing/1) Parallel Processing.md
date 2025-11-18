@@ -1,0 +1,8 @@
+There has been substantial activity in the last 20 years in developing parallel computers. Instead of buying one extremely expensive, very powerful single vector processor with large RAM (50-100Gbytes), the approach is to obtain massive computing power by coupling very many (tens to thousands) of relatively cheap processors together. By splitting the computational task over the processors, and getting the processors to work simultaneously on their piece of the problem, very fast processing speed is possible. A crude estimate is that the effective speed is equal to the speed of one processor times the number of processors. Of course there are additional overheads involved in splitting up the task, but efficiencies of over 95% are possible.
+
+Consider a 12x12 computational grid, assuming that the finite volume stencil uses five points (one neighbour required for each cell face), if this mesh is uniformly split over 9 processors, each processor requires the cells below:
+![[Pasted image 20251118131901.png|centre|300]]
+Each block has a 4x4 block of inner points plus halo cells required to compute fluxes.
+
+These halo cells contain the solution values from neighbouring blocks, i.e. stored and updated by different processors. Hence, parallel solution introduces a communication overhead. After each time step the solution values in the halo cells have to be passed between processors. Clearly the more points there are on each processor the better, since the halo cells become a smaller percentage of the total, and the communication overhead reduces accordingly. If the stencil is bigger the communications get more expensive and more complex.
+![[Pasted image 20251118132210.png|centre|400]]
