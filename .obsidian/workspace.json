@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Multi-Block Load Balancing"
+              "title": "3) Parallel Decomposition and Timings"
             }
           },
           {
@@ -48,10 +48,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
-                "page": 7,
-                "left": -7,
-                "top": 187,
-                "zoom": 0.99
+                "page": 13,
+                "left": -33,
+                "top": 133,
+                "zoom": 0.89
               },
               "icon": "lucide-file-text",
               "title": "16) Numerical Methods Lecture 16"
@@ -370,8 +370,14 @@
   },
   "active": "9ed752192194fe3e",
   "lastOpenFiles": [
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
+    "Backend/Images & Attachments/Pasted image 20251118133636.png",
+    "Backend/Images & Attachments/Pasted image 20251118133626.png",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/4) CFD Methodologies.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
+    "Backend/Images & Attachments/Pasted image 20251118133249.png",
+    "Backend/Images & Attachments/Pasted image 20251118133205.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
     "Backend/Images & Attachments/Pasted image 20251118132210.png",
     "Backend/Images & Attachments/Pasted image 20251118131901.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
@@ -401,9 +407,6 @@
     "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
     "Backend/Images & Attachments/Pasted image 20251114153406.png",
-    "Backend/Images & Attachments/Pasted image 20251114153358.png",
-    "Backend/Images & Attachments/Pasted image 20251114153252.png",
-    "Backend/Images & Attachments/Pasted image 20251114153206.png",
     "Engineering Year 3/2) Structures & Materials/4) CLA/2) Micromechanics and Homogenisation.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/1) Intro to CLA.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/3) Micromechanics of Composite Strength.md",
@@ -413,9 +416,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/1) Recap of Implicit Schemes.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/2) State Space/1) The State Space Model.md",
-    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/1) P&ID.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/2) Equations of Motion 1.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
