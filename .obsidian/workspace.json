@@ -47,11 +47,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
-                "page": 13,
-                "left": -33,
-                "top": 133,
-                "zoom": 0.89
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf"
               },
               "icon": "lucide-file-text",
               "title": "16) Numerical Methods Lecture 16"
@@ -306,9 +302,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 1,
-                    "zoom": -0.01517324047310164
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf"
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -320,8 +314,8 @@
                 "state": {
                   "type": "task-board-view",
                   "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
+                  "icon": "lucide-ghost",
+                  "title": "task-board-view"
                 }
               },
               {
@@ -354,21 +348,20 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
         "x": 190,
         "y": 52,
-        "width": 1036,
-        "height": 808,
+        "width": 1038,
+        "height": 810,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "9ed752192194fe3e",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20251118133636.png",
     "Backend/Images & Attachments/Pasted image 20251118133626.png",
