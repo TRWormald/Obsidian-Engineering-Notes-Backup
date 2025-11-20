@@ -13,12 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/5) Flat Plate Boundary Layer/1) The Blasius Solution.md",
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) The Blasius Solution"
+              "title": "1) Airframe Design Considerations"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea9de09be62ff70a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e15aefb1493f70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",
+                "page": 9,
+                "left": -9,
+                "top": 186,
+                "zoom": 0.57
+              },
+              "icon": "lucide-file-text",
+              "title": "Fatigue & Creep - Lecture 4"
             }
           }
         ]
@@ -279,36 +301,6 @@
                 }
               },
               {
-                "id": "954e271ef369e2b1",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
-                }
-              },
-              {
-                "id": "ec31b74694a5e3fc",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "task-board-view"
-                }
-              },
-              {
-                "id": "d278925b63615543",
-                "type": "leaf",
-                "state": {
-                  "type": "task-board-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "task-board-view"
-                }
-              },
-              {
                 "id": "60673fa49b5bbc1a",
                 "type": "leaf",
                 "state": {
@@ -316,9 +308,9 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
                     "page": 1,
-                    "left": -356,
+                    "left": -358,
                     "top": 845,
-                    "zoom": 0.5228622327790975
+                    "zoom": 0.5255344418052257
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -352,12 +344,17 @@
       }
     ]
   },
-  "active": "954e271ef369e2b1",
+  "active": "aefa13713c98476a",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20251120111507.png",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/5) Flat Plate Boundary Layer/1) The Blasius Solution.md",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251118133636.png",
     "Backend/Images & Attachments/Pasted image 20251118133626.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/4) CFD Methodologies.md",
@@ -382,9 +379,6 @@
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 10 - Elevator Angle to Trim.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 9 - Stability.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 8 - Manoeuvrability.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 6 - Longitudinal Dynamics.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
@@ -398,8 +392,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/3) Approximate Factorisation (AF).md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/2) Alternating Directional Implicit.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/14) Advanced Implicit Schemes/1) Recap of Implicit Schemes.md",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/13) Solution Storage Approaches/1) Solution Storage Approaches.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
