@@ -3,11 +3,11 @@
 These are the primary design philosophies in aircraft design.
 They can sometimes be called "Safety By Retirement", "Safety By Design", and "Safety By Inspection".
 #### Safe Life Design
-The safe life is the number of flights/landings/flight hours, during which there is a low probablility that the strength will degrade below design strength.
+The safe life is the number of flights/landings/flight hours, during which there is a low probability that the strength will degrade below design strength.
 The design criteria are:
 - Safety by retirement
 - Fatigue failure not likely to occur during the design life
-- Safe-life interval = projected lifepan fo the aircraft = crack free service life.
+- Safe-life interval = projected lifespan of the aircraft = crack free service life.
 #### Fail Safe Design
 Designed NOT to fail
 There are three cases:
@@ -33,3 +33,25 @@ These are structured engineering practice to analyse potential causes of operati
 Apply knock down factors repeatedly to obtain the actual strength of the material you can use in your design calculations.
 
 ### Detail Designs
+#### Stress Levels
+We use high fidelity stress analysis to capture stress gradients and concentrations from holes, cut-outs, notches etc.
+We use actual loads if possible (from FTI or SHM)
+We use allowable strength values only
+We limit fuselage hoop stress (quilting or pillowing)
+Avoid initial buckling of webs (no buckling up to 1g & 1.5g for civilian and fighter aircraft respectively). Use the design ratio:
+$$\frac{\tau_{crit}}{\tau_{ult}}>20\%$$
+
+#### Detail Engineering
+- Use large cut-out radii & corner/bend radii (min 2$\times$thickness)
+- Avoid sudden discontinuities in sections
+- Avoid interacting stress concentrations
+- Avoid change in sections at the same location
+- Composite lay-up ply drops
+#### Joint & Edge Design
+- Use sufficient pitch between fastener holes & edge distance to prevent stress concentration interactions
+- Limit coutersink depth - increase edge distance to cater for CSKs
+- Use thickening / pad-up to reduce stress levels
+- Use cold worked holes - for residual compressive stress
+- Use correct fastener & installation
+- Avoid blind areas
+- Avoid eccentriciti
