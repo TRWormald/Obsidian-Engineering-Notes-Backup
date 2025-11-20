@@ -6,6 +6,7 @@
       {
         "id": "1910bb8572bff4f2",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "aefa13713c98476a",
@@ -26,6 +27,7 @@
       {
         "id": "ea9de09be62ff70a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "28e15aefb1493f70",
@@ -34,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",
-                "page": 9,
+                "page": 17,
                 "left": -9,
-                "top": 186,
+                "top": 493,
                 "zoom": 0.57
               },
               "icon": "lucide-file-text",

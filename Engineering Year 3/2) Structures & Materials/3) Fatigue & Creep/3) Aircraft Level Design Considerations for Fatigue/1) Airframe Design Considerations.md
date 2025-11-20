@@ -30,4 +30,6 @@ Designed with maintenance (detection capability & inspection schedule) in the lo
 These are structured engineering practice to analyse potential causes of operational failure.
 ### Materials & Manufacturing
 ### Operational Environments
+Apply knock down factors repeatedly to obtain the actual strength of the material you can use in your design calculations.
+
 ### Detail Designs
