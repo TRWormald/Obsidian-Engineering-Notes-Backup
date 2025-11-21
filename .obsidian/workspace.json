@@ -36,10 +36,8 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",
-                "page": 17,
-                "left": -9,
-                "top": 493,
-                "zoom": 0.57
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Fatigue & Creep - Lecture 4"
@@ -296,7 +294,7 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
                     "page": 1,
-                    "zoom": -0.01517324047310164
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
@@ -310,9 +308,7 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
                     "page": 1,
-                    "left": -358,
-                    "top": 845,
-                    "zoom": 0.5255344418052257
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -332,8 +328,7 @@
                   "title": "Applied Stochastic Modelling, Second Edition - Byron J T Morgan"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -346,7 +341,7 @@
       }
     ]
   },
-  "active": "aefa13713c98476a",
+  "active": "578a0344882860a0",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",

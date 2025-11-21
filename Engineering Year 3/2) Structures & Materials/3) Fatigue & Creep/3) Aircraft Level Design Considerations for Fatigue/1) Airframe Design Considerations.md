@@ -49,9 +49,9 @@ $$\frac{\tau_{crit}}{\tau_{ult}}>20\%$$
 - Composite lay-up ply drops
 #### Joint & Edge Design
 - Use sufficient pitch between fastener holes & edge distance to prevent stress concentration interactions
-- Limit coutersink depth - increase edge distance to cater for CSKs
+- Limit countersink depth - increase edge distance to cater for CSKs
 - Use thickening / pad-up to reduce stress levels
 - Use cold worked holes - for residual compressive stress
 - Use correct fastener & installation
 - Avoid blind areas
-- Avoid eccentriciti
+- Avoid eccentricities.
