@@ -28,17 +28,47 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
-                "page": 6,
-                "left": -4,
-                "top": 114,
-                "zoom": 1.4259259259259258
+                "page": 7,
+                "left": -24,
+                "top": 227,
+                "zoom": 0.7
               },
               "icon": "lucide-file-text",
               "title": "Flight Dynamics Lecture 14 - Aircraft Dynamic Modes"
             }
+          },
+          {
+            "id": "c5514e7d417bae54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10) Static Stability"
+            }
+          },
+          {
+            "id": "f5bf2aff2355b65e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
+                "page": 6,
+                "left": -28,
+                "top": 309,
+                "zoom": 0.9
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 3 - Static Equilibrium and Trim"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5143547058105,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -348,11 +378,18 @@
       }
     ]
   },
-  "active": "704bcbc10fbe99d0",
+  "active": "c5514e7d417bae54",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 6 - Longitudinal Dynamics.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 9 - Stability.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
@@ -370,19 +407,13 @@
     "Backend/Images & Attachments/Pasted image 20251118132210.png",
     "Backend/Images & Attachments/Pasted image 20251118131901.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/3) Parallel Computing for CFD.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
     "Backend/Images & Attachments/Pasted image 20251118131625.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/2) Parallel Computing Strategies.md",
     "Backend/Images & Attachments/Pasted image 20251118130629.png",
     "Backend/Images & Attachments/Pasted image 20251118130608.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing/1) Background.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/15) Intro to High Performance Computing",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/11) Manoeuvre Stability.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 10 - Elevator Angle to Trim.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
