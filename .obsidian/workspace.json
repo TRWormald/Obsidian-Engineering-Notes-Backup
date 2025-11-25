@@ -28,10 +28,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
-                "page": 28,
-                "left": -21,
-                "top": 409,
-                "zoom": 0.7041666666666667
+                "page": 6,
+                "left": -4,
+                "top": 114,
+                "zoom": 1.4259259259259258
               },
               "icon": "lucide-file-text",
               "title": "Flight Dynamics Lecture 14 - Aircraft Dynamic Modes"
@@ -297,6 +297,16 @@
                 }
               },
               {
+                "id": "704bcbc10fbe99d0",
+                "type": "leaf",
+                "state": {
+                  "type": "task-board-view",
+                  "state": {},
+                  "icon": "brick-wall",
+                  "title": "Task Board"
+                }
+              },
+              {
                 "id": "60673fa49b5bbc1a",
                 "type": "leaf",
                 "state": {
@@ -304,9 +314,7 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
                     "page": 1,
-                    "left": -358,
-                    "top": 845,
-                    "zoom": 0.5255344418052257
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers"
@@ -340,7 +348,7 @@
       }
     ]
   },
-  "active": "505763bd6442474b",
+  "active": "704bcbc10fbe99d0",
   "lastOpenFiles": [
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
