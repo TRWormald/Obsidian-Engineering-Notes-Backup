@@ -27,11 +27,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
-                "page": 6,
-                "left": -28,
-                "top": 309,
-                "zoom": 0.9
+                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Chapter 3 - Static Equilibrium and Trim"
@@ -288,12 +284,22 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-                    "page": 1,
-                    "zoom": -0.01517324047310164
+                    "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf"
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
+                }
+              },
+              {
+                "id": "a2fc7c9c18fb28b1",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.6"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.6"
                 }
               },
               {
@@ -302,8 +308,8 @@
                 "state": {
                   "type": "task-board-view",
                   "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
+                  "icon": "lucide-ghost",
+                  "title": "task-board-view"
                 }
               },
               {
@@ -348,7 +354,7 @@
       }
     ]
   },
-  "active": "f5bf2aff2355b65e",
+  "active": "a2fc7c9c18fb28b1",
   "lastOpenFiles": [
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
