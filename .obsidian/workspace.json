@@ -20,8 +20,25 @@
               "icon": "lucide-file",
               "title": "13) Aircraft Modes"
             }
+          },
+          {
+            "id": "505763bd6442474b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
+                "page": 28,
+                "left": -21,
+                "top": 409,
+                "zoom": 0.7041666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "Flight Dynamics Lecture 14 - Aircraft Dynamic Modes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5143547058105
+    "width": 585.5143547058105,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -322,8 +340,9 @@
       }
     ]
   },
-  "active": "5852740284340f76",
+  "active": "505763bd6442474b",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
@@ -358,7 +377,6 @@
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/8) Longitudinal Balance.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/5) The Stiffness of Angled Ply.md",
     "Engineering Year 3/2) Structures & Materials/4) CLA/4) The Stiffness of Uni-Directional Ply.md",
