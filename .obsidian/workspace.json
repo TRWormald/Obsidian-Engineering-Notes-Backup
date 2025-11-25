@@ -269,10 +269,20 @@
                   "state": {
                     "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
                     "page": 1,
-                    "zoom": -0.01517324047310164
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties"
+                }
+              },
+              {
+                "id": "273deaac33958894",
+                "type": "leaf",
+                "state": {
+                  "type": "task-board-view",
+                  "state": {},
+                  "icon": "brick-wall",
+                  "title": "Task Board"
                 }
               },
               {
@@ -281,8 +291,8 @@
                 "state": {
                   "type": "task-board-view",
                   "state": {},
-                  "icon": "brick-wall",
-                  "title": "Task Board"
+                  "icon": "lucide-ghost",
+                  "title": "task-board-view"
                 }
               },
               {
@@ -337,7 +347,7 @@
       }
     ]
   },
-  "active": "e3bd7b19e10f3f01",
+  "active": "273deaac33958894",
   "lastOpenFiles": [
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
