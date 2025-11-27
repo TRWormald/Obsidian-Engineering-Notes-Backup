@@ -36,3 +36,4 @@ The graph below shows how the local lift coefficient changes with AoA, for a cam
 In practice we can allow for all normal lift-producing mechanisms, including a trim tab by summing their contributions to the local lift coefficient.
 $$\huge{C_{l}=a_{0}+a_{1}\alpha+a_{2}\delta+a_{3}\beta}$$
 (Note that in the equation above $\beta$ is the control tab deflection)
+
