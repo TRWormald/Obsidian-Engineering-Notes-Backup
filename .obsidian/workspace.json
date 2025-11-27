@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "290a737984f03364",
+        "id": "74405c8a17140d90",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b6811976da2171",
+            "id": "3fcd2cd7d2a343cb",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
+                "page": 28,
+                "left": 17,
+                "top": 392,
+                "zoom": 0.58
+              },
+              "icon": "lucide-file-text",
+              "title": "Flight Dynamics Lecture 14 - Aircraft Dynamic Modes"
             }
           }
         ]
@@ -248,8 +254,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f5b6811976da2171",
+  "active": "3fcd2cd7d2a343cb",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
@@ -261,13 +268,11 @@
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 6 - Longitudinal Dynamics.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 9 - Stability.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 4.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/5) Flat Plate Boundary Layer/1) The Blasius Solution.md",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Backend/Images & Attachments/Pasted image 20251118133636.png",
     "Backend/Images & Attachments/Pasted image 20251118133626.png",
