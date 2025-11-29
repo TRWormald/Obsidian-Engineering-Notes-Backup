@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,8 +283,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "522d82d200896435",
+  "active": "b78f46794d4a31ca",
   "lastOpenFiles": [
+    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
@@ -296,7 +297,6 @@
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
-    "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 13 - Aerodynamic Stability and Control Derivatives.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/6) Strip Theory 1.md",
