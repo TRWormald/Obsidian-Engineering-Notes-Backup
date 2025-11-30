@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
+                "file": "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7) Strip Theory 2"
+              "title": "10) Static Stability"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "The Moment of Inertia"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,11 +296,14 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f60fa07886ba5a11",
+  "active": "3fcd2cd7d2a343cb",
   "lastOpenFiles": [
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 13 - Aerodynamic Stability and Control Derivatives.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/7) Strip Theory 2.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 13 - Aerodynamic Stability and Control Derivatives.pdf",
+    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Rotation of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/General Motion of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/Dynamics of Rigid Bodies.md",
@@ -314,13 +316,10 @@
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/6) Strip Theory 1.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 15 - Handling Qualities.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/13) Aircraft Modes.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
