@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fcd2cd7d2a343cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 11 - Static Stability.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 409,
-                "zoom": 1.4037037037037037
-              },
-              "icon": "lucide-file-text",
-              "title": "Flight Dynamics Lecture 11 - Static Stability"
-            }
-          },
-          {
             "id": "b78f46794d4a31ca",
             "type": "leaf",
             "state": {
@@ -298,8 +282,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "3fcd2cd7d2a343cb",
+  "active": "b78f46794d4a31ca",
   "lastOpenFiles": [
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 10 - Flying and Handling Qualities.pdf",
+    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 11 - Static Stability.pdf",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/10) Static Stability.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/9) Elevator Angle to Trim.md",
     "Engineering Year 3/3) FD & AC/1) Flight Dynamics/14) Handling Qualities.md",
@@ -328,7 +314,6 @@
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 5 - The Solution of the Equations of Motion.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 6 - Longitudinal Dynamics.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 9 - Stability.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/5) Flat Plate Boundary Layer/1) The Blasius Solution.md",
