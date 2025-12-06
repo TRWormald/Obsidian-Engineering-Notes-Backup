@@ -15,4 +15,11 @@ We can still use all the methods of strengthening against low temperature creep.
 - Grain coarsening
 	- Ideally things are made of a single crystal to eliminate defects
 
-### High temperature Creep (Slip + GBS + Vaca
+### High temperature Creep (Slip + GBS + Vacancy Migration)
+Again we can still use all of the methods mentioned before, but we can also:
+- Seal the grain boundaries
+	- This can be done using small atoms like Beryllium and Zirconium
+	- Which migrate to grain boundaries and stop vacancy migration to grain boundaries.
+	- Inconel ?
+
+
