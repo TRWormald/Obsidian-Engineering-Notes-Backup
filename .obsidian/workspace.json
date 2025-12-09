@@ -22,22 +22,6 @@
             }
           },
           {
-            "id": "d4f929cc41c8c7da",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
-                "page": 3,
-                "left": -100,
-                "top": 145,
-                "zoom": 1.0541666666666667
-              },
-              "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 2 - Karman Momentum Integral Equation"
-            }
-          },
-          {
             "id": "b2a08f7bd5d3e3be",
             "type": "leaf",
             "state": {
@@ -301,10 +285,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "d4f929cc41c8c7da",
+  "active": "b2a08f7bd5d3e3be",
   "lastOpenFiles": [
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
