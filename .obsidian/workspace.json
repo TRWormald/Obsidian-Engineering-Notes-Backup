@@ -22,22 +22,6 @@
             }
           },
           {
-            "id": "23fdf0f7aff302d2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
-                "page": 6,
-                "left": -101,
-                "top": 90,
-                "zoom": 1.0527777777777778
-              },
-              "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 1"
-            }
-          },
-          {
             "id": "d4f929cc41c8c7da",
             "type": "leaf",
             "state": {
@@ -46,7 +30,7 @@
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
                 "page": 3,
                 "left": -100,
-                "top": 210,
+                "top": 145,
                 "zoom": 1.0541666666666667
               },
               "icon": "lucide-file-text",
@@ -317,11 +301,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "23fdf0f7aff302d2",
+  "active": "d4f929cc41c8c7da",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
