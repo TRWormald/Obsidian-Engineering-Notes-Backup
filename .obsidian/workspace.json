@@ -22,13 +22,67 @@
             }
           },
           {
-            "id": "a65926521e46a7f3",
+            "id": "23fdf0f7aff302d2",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
+                "page": 6,
+                "left": -101,
+                "top": 90,
+                "zoom": 1.0527777777777778
+              },
+              "icon": "lucide-file-text",
+              "title": "Boundary Layers - Lecture 1"
+            }
+          },
+          {
+            "id": "d4f929cc41c8c7da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
+                "page": 3,
+                "left": -100,
+                "top": 210,
+                "zoom": 1.0541666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "Boundary Layers - Lecture 2 - Karman Momentum Integral Equation"
+            }
+          },
+          {
+            "id": "b2a08f7bd5d3e3be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
+                "page": 1,
+                "left": -100,
+                "top": 544,
+                "zoom": 1.0541666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "Boundary Layers - Lecture 3"
+            }
+          },
+          {
+            "id": "8b1d74b15ac954c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 544,
+                "zoom": 1.0541666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "Boundary Layers - Lecture 4"
             }
           }
         ],
@@ -263,12 +317,16 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a65926521e46a7f3",
+  "active": "23fdf0f7aff302d2",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
     "Backend/Images & Attachments/Pasted image 20251206184618.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/5) Creep Analyses.md",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
     "Backend/Images & Attachments/Pasted image 20251206184557.png",
     "Backend/Images & Attachments/Pasted image 20251206184549.png",
     "Backend/Images & Attachments/Pasted image 20251206184539.png",
@@ -306,11 +364,7 @@
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
-    "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
-    "Backend/Images & Attachments/Pasted image 20251118133636.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
