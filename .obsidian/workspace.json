@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b1d74b15ac954c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
-                "page": 1,
-                "left": -100,
-                "top": 24,
-                "zoom": 1.0541666666666667
-              },
-              "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 4"
-            }
-          },
-          {
             "id": "fccea0e2a305c686",
             "type": "leaf",
             "state": {
@@ -348,10 +332,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8b1d74b15ac954c4",
+  "active": "fccea0e2a305c686",
   "lastOpenFiles": [
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 6.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 6.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 7.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 8.pdf",
