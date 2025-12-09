@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/4) Design for Creep.md",
+                "file": "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Design for Creep"
+              "title": "6) Creep in Polymers"
+            }
+          },
+          {
+            "id": "a65926521e46a7f3",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +263,18 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e8ad14abb9444b46",
+  "active": "a65926521e46a7f3",
   "lastOpenFiles": [
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/3) Improving Creep Life in Metals.md",
+    "Backend/Images & Attachments/Pasted image 20251206184626.png",
+    "Backend/Images & Attachments/Pasted image 20251206184618.png",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/5) Creep Analyses.md",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
+    "Backend/Images & Attachments/Pasted image 20251206184557.png",
+    "Backend/Images & Attachments/Pasted image 20251206184549.png",
+    "Backend/Images & Attachments/Pasted image 20251206184539.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/4) Design for Creep.md",
+    "Backend/Images & Attachments/Pasted image 20251206184419.png",
+    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/3) Improving Creep Life in Metals.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/2) Mechanism of Creep in Metals.md",
     "Backend/Images & Attachments/Pasted image 20251206180132.png",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/1) Creep.md",
@@ -285,21 +304,13 @@
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
     "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/6) Strip Theory 1.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 14 - Aircraft Dynamic Modes.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Lectures/Flight Dynamics Lecture 13 - Trimming and Linearisation.pdf",
-    "Engineering Year 3/3) FD & AC/1) Flight Dynamics/12) Trimming and Linearisation.md",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 3 - Static Equilibrium and Trim.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf",
     "Engineering Year 3/3) FD & AC/0) Resources/Flight Dynamics Principles - M. Cook/1) Chapters/Chapter 4 - The Equations of Motion.pdf",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
     "Backend/Images & Attachments/Pasted image 20251118133636.png",
-    "Backend/Images & Attachments/Pasted image 20251118133626.png",
-    "Backend/Images & Attachments/Pasted image 20251118133249.png",
-    "Backend/Images & Attachments/Pasted image 20251118133205.png",
-    "Backend/Images & Attachments/Pasted image 20251118132210.png",
-    "Backend/Images & Attachments/Pasted image 20251118131901.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",

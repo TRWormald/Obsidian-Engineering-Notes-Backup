@@ -22,4 +22,10 @@ Option 1 - Design based on minimum creep rate
 Option 2 - Design based on accelerated creep test
 	Creep life predicted through empirical relations
 	We then either, mechanically, thermally, or thermo-mechanically accelerate the test to reduce the time it takes.
-> We need to ensure that the microstucture of the material is the a
+> We need to ensure that the microstucture of the material is the same at $T_{test}$ and $T_{design}$
+> We need to ensure that the plastic deformation mechanism in the material is the same at  $T_{test}$ and $T_{design}$
+> We need to ensure that $t_{test}>5$% of $t_{service}$
+> We need to use a higher FoS while using empirical relations.
+
+![[Pasted image 20251206184419.png]]
+
