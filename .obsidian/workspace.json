@@ -15,7 +15,7 @@
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
                 "page": 1,
-                "left": -87,
+                "left": -3,
                 "top": 543,
                 "zoom": 1.0847222222222221
               },
@@ -45,14 +45,15 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf"
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
+                "page": 1,
+                "zoom": -0.022222222222222223
               },
               "icon": "lucide-file-text",
               "title": "Boundary Layers - Lecture 11"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,15 +284,15 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "78c84beca37c189f",
+  "active": "b7b2885dec83bc30",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 8.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 7.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 6.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
