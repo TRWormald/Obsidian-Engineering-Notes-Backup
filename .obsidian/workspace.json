@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b0d16d7a35fab1c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/3) Numerical Methods Lecture 3.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 224,
-                "zoom": 2.295996362467564
-              },
-              "icon": "lucide-file-text",
-              "title": "3) Numerical Methods Lecture 3"
-            }
-          },
-          {
             "id": "069e77ab69b5c37f",
             "type": "leaf",
             "state": {
@@ -31,9 +15,9 @@
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/4) Numerical Methods Lecture 4.pdf",
                 "page": 1,
-                "left": -4,
+                "left": -40,
                 "top": 259,
-                "zoom": 2.295996362467564
+                "zoom": 1.82
               },
               "icon": "lucide-file-text",
               "title": "4) Numerical Methods Lecture 4"
@@ -270,12 +254,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2b0d16d7a35fab1c",
+  "active": "069e77ab69b5c37f",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/3) Numerical Methods Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/2) Numerical Methods Lecture 2.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/1) Numerical Methods Lecture 1.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/4) Numerical Methods Lecture 4.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/3) Numerical Methods Lecture 3.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/1) Introduction to Computational Aerodynamics/1) What Are Numerical Methods For.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/1) Introduction to Computational Aerodynamics/2) What Problems Are We Solving.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
