@@ -14,14 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
-                "page": 1,
+                "page": 29,
                 "zoom": -0.022222222222222223
               },
               "icon": "lucide-file-text",
               "title": "Boundary Layers - Lecture 11"
             }
+          },
+          {
+            "id": "77e0f8d01382ce15",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +263,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "78c84beca37c189f",
+  "active": "77e0f8d01382ce15",
   "lastOpenFiles": [
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
