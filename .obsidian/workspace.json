@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "fc94f3b33fc99bf2",
+        "id": "8f114895136810a5",
         "type": "tabs",
         "children": [
           {
-            "id": "78c84beca37c189f",
+            "id": "2b0d16d7a35fab1c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
-                "page": 29,
-                "zoom": -0.022222222222222223
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/3) Numerical Methods Lecture 3.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 224,
+                "zoom": 2.295996362467564
               },
               "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 11"
+              "title": "3) Numerical Methods Lecture 3"
             }
           },
           {
-            "id": "77e0f8d01382ce15",
+            "id": "069e77ab69b5c37f",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/4) Numerical Methods Lecture 4.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 259,
+                "zoom": 2.295996362467564
+              },
+              "icon": "lucide-file-text",
+              "title": "4) Numerical Methods Lecture 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,18 +270,21 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "77e0f8d01382ce15",
+  "active": "2b0d16d7a35fab1c",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/2) Numerical Methods Lecture 2.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/1) Numerical Methods Lecture 1.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/4) Numerical Methods Lecture 4.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/3) Numerical Methods Lecture 3.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/1) Introduction to Computational Aerodynamics/1) What Are Numerical Methods For.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/1) Introduction to Computational Aerodynamics/2) What Problems Are We Solving.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 8.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 7.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 6.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 1.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
     "Backend/Images & Attachments/Pasted image 20251206184618.png",
@@ -290,7 +300,6 @@
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/1) Creep.md",
     "Backend/Images & Attachments/Pasted image 20251206175333.png",
     "Backend/Images & Attachments/Pasted image 20251206175147.png",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
     "Engineering Year 1/Mechanics/Motion of Rigid Bodies/The Moment of Inertia.md",
@@ -308,8 +317,6 @@
     "Engineering Year 1/Mechanics/Linear Momentum/Linear Momentum of Particles.md",
     "Engineering Year 1/Mechanics/Virtual Work.md",
     "Engineering Year 1/Mechanics/Equations of Motion in Different Coordinate Systems.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Rigid Bodies.md",
-    "Engineering Year 1/Mechanics/Angular Momentum/Angular Momentum of Particles.md",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",

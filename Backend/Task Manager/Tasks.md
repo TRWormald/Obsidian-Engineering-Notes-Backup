@@ -11,9 +11,9 @@
 	- [ ] Lecture 1
 	- [ ] Lecture 2
 
-- [ ] FEA - Theory
-	- [ ] Lecture 3
-	- [ ] Lecture 4
+- [x] FEA - Theory
+	- [x] Lecture 3
+	- [x] Lecture 4
 
 - [x] Numerical Methods  
 	- [x] Week 3
