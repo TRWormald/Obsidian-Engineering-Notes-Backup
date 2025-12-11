@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7b2885dec83bc30",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
-                "page": 11,
-                "left": -247,
-                "top": 195,
-                "zoom": 0.8
-              },
-              "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 9"
-            }
-          },
-          {
-            "id": "39e6b37d66ef7bf9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
-                "page": 1,
-                "left": -87,
-                "top": 543,
-                "zoom": 1.0847222222222221
-              },
-              "icon": "lucide-file-text",
-              "title": "Boundary Layers - Lecture 10"
-            }
-          },
-          {
             "id": "78c84beca37c189f",
             "type": "leaf",
             "state": {
@@ -53,8 +21,7 @@
               "title": "Boundary Layers - Lecture 11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,11 +252,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "39e6b37d66ef7bf9",
+  "active": "78c84beca37c189f",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 9.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 11.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 10.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 8.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 7.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 6.pdf",
