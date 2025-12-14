@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40fda5dcaf1cef57",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
-                "page": 1,
-                "left": -40,
-                "top": 259,
-                "zoom": 1.82
-              },
-              "icon": "lucide-file-text",
-              "title": "11) Numerical Methods Lecture 11"
-            }
-          },
-          {
             "id": "5158d2b384953ed1",
             "type": "leaf",
             "state": {
@@ -268,10 +252,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "40fda5dcaf1cef57",
+  "active": "5158d2b384953ed1",
   "lastOpenFiles": [
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/8) Numerical Methods Lecture 8.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
