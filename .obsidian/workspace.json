@@ -63,24 +63,14 @@
               "state": {
                 "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
                 "page": 1,
-                "zoom": 1
+                "zoom": -0.047037057361691455
               },
               "icon": "lucide-file-text",
               "title": "12) Numerical Methods Lecture 12"
             }
-          },
-          {
-            "id": "8e0fc663b090f111",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,7 +301,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8e0fc663b090f111",
+  "active": "5158d2b384953ed1",
   "lastOpenFiles": [
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
