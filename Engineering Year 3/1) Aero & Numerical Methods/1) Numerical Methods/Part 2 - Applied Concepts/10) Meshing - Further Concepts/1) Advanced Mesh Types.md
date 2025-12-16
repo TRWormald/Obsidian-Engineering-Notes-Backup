@@ -1,4 +1,4 @@
-### Chimera/Overset Meshes
+## Chimera/Overset Meshes
 As an alternative to structured multiblock meshes is the Chimera/Overset approach. This is where:
 - Single block grids are generated around each body independently
 - The complete mesh is assembled by placing all meshes over each other, with no matching boundaries
