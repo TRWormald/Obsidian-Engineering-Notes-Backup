@@ -27,8 +27,8 @@
             "state": {
               "type": "task-board-view",
               "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-ghost",
+              "title": "task-board-view"
             }
           },
           {
