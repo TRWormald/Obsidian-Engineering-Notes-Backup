@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "4) CFD Methodologies"
             }
+          },
+          {
+            "id": "0436bd5eda0aabc4",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -295,7 +305,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "528873c8fd5511e3",
+  "active": "0436bd5eda0aabc4",
   "lastOpenFiles": [
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
