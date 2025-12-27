@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "3) Parallel Decomposition and Timings"
             }
+          },
+          {
+            "id": "9a5c270e58d43e59",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,7 +277,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "75a9d9579bbe9bb7",
+  "active": "9a5c270e58d43e59",
   "lastOpenFiles": [
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
