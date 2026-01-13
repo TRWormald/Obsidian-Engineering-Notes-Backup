@@ -2,14 +2,9 @@
 
 
 
-- [ ] Fracture Mechanics #working 
-	- [ ] Lecture 2
-	- [ ] Lecture 3
-	- [ ] Lecture 4
 
-- [ ] FEA - Example Classes
-	- [ ] Lecture 1
-	- [ ] Lecture 2
+
+
 
 - [x] FEA - Theory
 	- [x] Lecture 3

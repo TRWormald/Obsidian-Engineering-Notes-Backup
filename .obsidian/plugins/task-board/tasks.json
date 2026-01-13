@@ -1,71 +1,11 @@
 {
     "VaultName": "Engineering",
     "Modified_at": "2025-09-04T01:42:48.757Z",
-    "Pending": {
-        "Backend/Task Manager/Tasks.md": [
-            {
-                "id": 3571835330,
-                "status": " ",
-                "title": "Fracture Mechanics #working ",
-                "body": [
-                    "\t- [ ] Lecture 2",
-                    "\t- [ ] Lecture 3",
-                    "\t- [ ] Lecture 4"
-                ],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "",
-                "due": "",
-                "tags": [
-                    "#working"
-                ],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Backend/Task Manager/Tasks.md",
-                "taskLocation": {
-                    "startLine": 5,
-                    "startCharIndex": 0,
-                    "endLine": 8,
-                    "endCharIndex": 16
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 3928717559,
-                "status": " ",
-                "title": "FEA - Example Classes",
-                "body": [
-                    "\t- [ ] Lecture 1",
-                    "\t- [ ] Lecture 2"
-                ],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Backend/Task Manager/Tasks.md",
-                "taskLocation": {
-                    "startLine": 10,
-                    "startCharIndex": 0,
-                    "endLine": 12,
-                    "endCharIndex": 16
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            }
-        ]
-    },
+    "Pending": {},
     "Completed": {
         "Backend/Task Manager/Tasks.md": [
             {
-                "id": 1806301367,
+                "id": 2382112344,
                 "status": "x",
                 "title": "FEA - Theory",
                 "body": [
@@ -82,9 +22,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 14,
+                    "startLine": 9,
                     "startCharIndex": 0,
-                    "endLine": 16,
+                    "endLine": 11,
                     "endCharIndex": 16
                 },
                 "completion": "",
@@ -92,7 +32,7 @@
                 "reminder": ""
             },
             {
-                "id": 432718584,
+                "id": 3690401665,
                 "status": "x",
                 "title": "Numerical Methods  ",
                 "body": [
@@ -109,9 +49,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 18,
+                    "startLine": 13,
                     "startCharIndex": 0,
-                    "endLine": 20,
+                    "endLine": 15,
                     "endCharIndex": 13
                 },
                 "completion": "",
@@ -119,7 +59,7 @@
                 "reminder": ""
             },
             {
-                "id": 2291242113,
+                "id": 2801486740,
                 "status": "x",
                 "title": "Boundary Layer Aerodynamics  ",
                 "body": [
@@ -136,9 +76,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 22,
+                    "startLine": 17,
                     "startCharIndex": 0,
-                    "endLine": 24,
+                    "endLine": 19,
                     "endCharIndex": 13
                 },
                 "completion": "",
@@ -146,7 +86,7 @@
                 "reminder": ""
             },
             {
-                "id": 1831463513,
+                "id": 1567716848,
                 "status": "x",
                 "title": "Flight Dynamics  ",
                 "body": [
@@ -165,9 +105,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 26,
+                    "startLine": 21,
                     "startCharIndex": 0,
-                    "endLine": 30,
+                    "endLine": 25,
                     "endCharIndex": 43
                 },
                 "completion": "",
@@ -175,7 +115,7 @@
                 "reminder": ""
             },
             {
-                "id": 3375886391,
+                "id": 1736579082,
                 "status": "x",
                 "title": "Advanced Control  ",
                 "body": [
@@ -194,9 +134,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 32,
+                    "startLine": 27,
                     "startCharIndex": 0,
-                    "endLine": 36,
+                    "endLine": 31,
                     "endCharIndex": 39
                 },
                 "completion": "",
@@ -204,7 +144,7 @@
                 "reminder": ""
             },
             {
-                "id": 1598265241,
+                "id": 2354948311,
                 "status": "x",
                 "title": "FEA - Labs  ",
                 "body": [
@@ -222,9 +162,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 38,
+                    "startLine": 33,
                     "startCharIndex": 0,
-                    "endLine": 41,
+                    "endLine": 36,
                     "endCharIndex": 13
                 },
                 "completion": "",
@@ -232,7 +172,7 @@
                 "reminder": ""
             },
             {
-                "id": 4044313808,
+                "id": 3742008615,
                 "status": "x",
                 "title": "Control Onramp (MATLAB)  ",
                 "body": [],
@@ -246,9 +186,9 @@
                 "priority": 0,
                 "filePath": "Backend/Task Manager/Tasks.md",
                 "taskLocation": {
-                    "startLine": 43,
+                    "startLine": 38,
                     "startCharIndex": 0,
-                    "endLine": 43,
+                    "endLine": 38,
                     "endCharIndex": 31
                 },
                 "completion": "",
