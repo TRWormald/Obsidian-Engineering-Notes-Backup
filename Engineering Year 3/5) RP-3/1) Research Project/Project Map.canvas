@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"25f92fc7869510d5","type":"group","x":-280,"y":-400,"width":720,"height":1340,"label":"Related Studies"},
 		{"id":"c63c6990487d49c3","type":"group","x":-1000,"y":-400,"width":660,"height":1340,"label":"UoB Studies"},
+		{"id":"14ae1ec6e826f90a","x":-1000,"y":-920,"width":1420,"height":460,"type":"group","label":"Textbooks"},
 		{"id":"60579f4c0155d849","x":-1000,"y":1020,"width":420,"height":500,"type":"group","label":"Method for Fibre Samples"},
 		{"id":"b3e9a3dc74fa80cd","type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf","x":-980,"y":-360,"width":620,"height":400},
 		{"id":"cd075173f478209b","type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf","x":-980,"y":80,"width":620,"height":400},
@@ -12,7 +13,9 @@
 		{"id":"b383985e8f6a3fbd","x":-920,"y":1200,"width":250,"height":60,"type":"text","text":"**2) Optical Microscopy**"},
 		{"id":"48264ef5a239da5b","x":-920,"y":1280,"width":250,"height":59,"type":"text","text":"**3) Thresholding Images**"},
 		{"id":"931ac89252f0f4c1","x":-920,"y":1360,"width":250,"height":60,"type":"text","text":"**4) Box Counting Methods**"},
-		{"id":"2a2108d017ddb61a","x":-920,"y":1440,"width":250,"height":60,"type":"text","text":"**5) Analysis of Fractal Order**"}
+		{"id":"2a2108d017ddb61a","x":-920,"y":1440,"width":250,"height":60,"type":"text","text":"**5) Analysis of Fractal Order**"},
+		{"id":"15882934f61c6ed9","x":-980,"y":-880,"width":620,"height":400,"type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf"},
+		{"id":"3fcc40ed3613fe2c","x":-240,"y":-880,"width":640,"height":400,"type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/0) Resources/Applied Stochastic Modelling, Second Edition - Byron J T Morgan.pdf"}
 	],
 	"edges":[
 		{"id":"7fe83a8bed1105c0","fromNode":"889dfe170c3c9232","fromSide":"left","toNode":"b383985e8f6a3fbd","toSide":"left"},

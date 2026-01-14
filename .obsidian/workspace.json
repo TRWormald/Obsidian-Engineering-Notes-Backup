@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9329e518e38080d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60f3838b3e2e1366",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
-                "page": 6,
-                "left": 77,
-                "top": 92,
-                "zoom": 1.3
-              },
-              "icon": "lucide-file-text",
-              "title": "Cactus Based Solids"
-            }
-          }
-        ]
-      },
-      {
         "id": "b04b94dc01f7a15c",
         "type": "tabs",
         "children": [
@@ -37,9 +15,9 @@
               "state": {
                 "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
                 "viewState": {
-                  "x": -162.90123496836992,
-                  "y": 636.0966155659685,
-                  "zoom": -2.0429029831201495
+                  "x": -131.60569149040938,
+                  "y": -803.8788461988167,
+                  "zoom": -0.8257417898720896
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -279,6 +257,8 @@
   },
   "active": "7dbc34912b77b7bb",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Taylor-An Introduction to Error Analysis 1.pdf",
+    "Backend/Images & Attachments/Taylor-An Introduction to Error Analysis.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
@@ -302,7 +282,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/8) Numerical Methods Lecture 8.pdf",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/0) Resources/Fatigue & Creep - Lecture 2.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
