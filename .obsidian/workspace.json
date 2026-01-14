@@ -11,17 +11,16 @@
             "id": "7dbc34912b77b7bb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
-                "viewState": {
-                  "x": -232.44297262505486,
-                  "y": -464.66840890846487,
-                  "zoom": -0.7869160539281574
-                }
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 544,
+                "zoom": 1.0527777777777778
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Project Map"
+              "icon": "lucide-file-text",
+              "title": "AP Lecture 1 - Introduction"
             }
           }
         ]
@@ -255,24 +254,26 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "7dbc34912b77b7bb",
+  "active": "76ad3b8cbd3db5c5",
   "lastOpenFiles": [
-    "Engineering Year 3/5) RP-3/1) Research Project/0) Resources/An Introduction to Error Analysis - Taylor.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 2 - Summary.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 1 - Summary.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/P&DF - Equation Summary.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
-    "Backend/Images & Attachments/415178024-An-Introduction-to-Error-Analysis-The-Study-of-Uncertainties-in-Physical-Measurements-pdf.pdf",
-    "Backend/Images & Attachments/Taylor-An Introduction to Error Analysis 1.pdf",
-    "Backend/Images & Attachments/Taylor-An Introduction to Error Analysis.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/2) The Moment Integral Equation.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/1) Wall and Edge Boundary Conditions.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/4) Physical Interpretation of CFL Condition.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 2 - Karman Momentum Integral Equation.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 3.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/0) Resources/Boundary Layers - Lecture 4.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/3) Fourier Stability Analysis.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/1) Numerical and Simulation Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/4) CFD Methodologies.md",
@@ -280,7 +281,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/10) Meshing - Further Concepts/1) Advanced Mesh Types.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/3) Aircraft Level Design Considerations for Fatigue/1) Airframe Design Considerations.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/2) Mechanisms of Fatigue/1) Stages of Fatiuge.md",
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/1) Introduction to Fatigue/1) Introduction.md",
