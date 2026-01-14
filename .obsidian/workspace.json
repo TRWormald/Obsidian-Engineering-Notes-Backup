@@ -11,31 +11,19 @@
             "id": "60f3838b3e2e1366",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
-                "viewState": {
-                  "x": -41.48856384548042,
-                  "y": 129.57201502019663,
-                  "zoom": -0.7372236799739584
-                }
+                "file": "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
+                "page": 1,
+                "left": -379,
+                "top": 846,
+                "zoom": 0.695665083135392
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Project Map"
-            }
-          },
-          {
-            "id": "5fd000b49dbdc566",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-file-text",
+              "title": "Cactus Based Solids"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,10 +254,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "5fd000b49dbdc566",
+  "active": "60f3838b3e2e1366",
   "lastOpenFiles": [
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",

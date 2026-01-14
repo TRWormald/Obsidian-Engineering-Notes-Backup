@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"c63c6990487d49c3","x":-1000,"y":-400,"width":660,"height":1340,"type":"group","label":"UoB Studies"},
-		{"id":"b3e9a3dc74fa80cd","x":-980,"y":-360,"width":620,"height":400,"type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf"},
-		{"id":"cd075173f478209b","x":-980,"y":80,"width":620,"height":400,"type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf"},
-		{"id":"14cd5f4b8d2daf8b","x":-980,"y":520,"width":620,"height":400,"type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf"},
-		{"id":"21e2ef3e0a2cf44b","x":-280,"y":-360,"width":640,"height":400,"type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf"}
+		{"id":"25f92fc7869510d5","x":-280,"y":-400,"width":720,"height":1340,"type":"group","label":"Related Studies"},
+		{"id":"c63c6990487d49c3","type":"group","x":-1000,"y":-400,"width":660,"height":1340,"label":"UoB Studies"},
+		{"id":"b3e9a3dc74fa80cd","type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Tunable Network Architecture in a Hydrogel with Extreme Vibration Damping Properties.pdf","x":-980,"y":-360,"width":620,"height":400},
+		{"id":"cd075173f478209b","type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Damping and Vibration Properties of Alginate-Poloxamer Hydrogels Doped with Sepiolite and Cactus Fibers.pdf","x":-980,"y":80,"width":620,"height":400},
+		{"id":"14cd5f4b8d2daf8b","type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf","x":-980,"y":520,"width":620,"height":400},
+		{"id":"21e2ef3e0a2cf44b","type":"file","file":"Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf","x":-240,"y":-360,"width":640,"height":400}
 	],
 	"edges":[]
 }
