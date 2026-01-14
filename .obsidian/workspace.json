@@ -23,8 +23,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Project Map"
             }
+          },
+          {
+            "id": "5fd000b49dbdc566",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +266,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "60f3838b3e2e1366",
+  "active": "5fd000b49dbdc566",
   "lastOpenFiles": [
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Cactus Based Solids.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
