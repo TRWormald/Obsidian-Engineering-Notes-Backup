@@ -1,11 +1,62 @@
 {
     "VaultName": "Engineering",
     "Modified_at": "2025-09-04T01:42:48.757Z",
-    "Pending": {},
+    "Pending": {
+        "Backend/Task Manager/Tasks.md": [
+            {
+                "id": 2283955842,
+                "status": " ",
+                "title": "SAE Prep for Week 13 - Read Lecture Slides",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 40,
+                    "startCharIndex": 0,
+                    "endLine": 40,
+                    "endCharIndex": 48
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 768183080,
+                "status": " ",
+                "title": "APP (Performance) Prep Work - Read Lecture Slides",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 42,
+                    "startCharIndex": 0,
+                    "endLine": 42,
+                    "endCharIndex": 55
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
+    },
     "Completed": {
         "Backend/Task Manager/Tasks.md": [
             {
-                "id": 2382112344,
+                "id": 3037885366,
                 "status": "x",
                 "title": "FEA - Theory",
                 "body": [
@@ -32,7 +83,7 @@
                 "reminder": ""
             },
             {
-                "id": 3690401665,
+                "id": 305751647,
                 "status": "x",
                 "title": "Numerical Methods  ",
                 "body": [
@@ -59,7 +110,7 @@
                 "reminder": ""
             },
             {
-                "id": 2801486740,
+                "id": 1899227519,
                 "status": "x",
                 "title": "Boundary Layer Aerodynamics  ",
                 "body": [
@@ -86,7 +137,7 @@
                 "reminder": ""
             },
             {
-                "id": 1567716848,
+                "id": 3025065534,
                 "status": "x",
                 "title": "Flight Dynamics  ",
                 "body": [
@@ -115,7 +166,7 @@
                 "reminder": ""
             },
             {
-                "id": 1736579082,
+                "id": 1120751301,
                 "status": "x",
                 "title": "Advanced Control  ",
                 "body": [
@@ -144,7 +195,7 @@
                 "reminder": ""
             },
             {
-                "id": 2354948311,
+                "id": 1932930442,
                 "status": "x",
                 "title": "FEA - Labs  ",
                 "body": [
@@ -172,7 +223,7 @@
                 "reminder": ""
             },
             {
-                "id": 3742008615,
+                "id": 4031993352,
                 "status": "x",
                 "title": "Control Onramp (MATLAB)  ",
                 "body": [],
