@@ -23,8 +23,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Project Map"
             }
+          },
+          {
+            "id": "a1d7836264217e45",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +267,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "5c86173cfde5734c",
+  "active": "a1d7836264217e45",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 1 - Types of Environmental Impacts.pdf",
