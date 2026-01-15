@@ -36,3 +36,7 @@ This gives the range of an aircraft as a function of:
 - Engine efficiency ($tsfc$)
 - Aerodynamic efficiency
 - Structural efficiency
+### Generic Drag Characteristics
+$$\underbrace{C_{D_{tot}}}_\text{Total Drag Coefficient}=C_{D_{0}}+KC_{L}^{2}+\underbrace{\Delta C_{D_{W}}}_\text{Increment in drag due to wave drag}+\underbrace{\Delta C_{D_{Re}}}_\text{Increment in drag due to difference in Re}$$
+The final term can be ignored in this unit.
+
