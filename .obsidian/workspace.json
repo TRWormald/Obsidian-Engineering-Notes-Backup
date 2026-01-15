@@ -8,33 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dbc34912b77b7bb",
+            "id": "5c86173cfde5734c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 544,
-                "zoom": 1.0527777777777778
+                "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
+                "viewState": {
+                  "x": -248.07325488072703,
+                  "y": 2.6163012798332943,
+                  "zoom": -1.378519525807286
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "AP Lecture 1 - Introduction"
-            }
-          },
-          {
-            "id": "62ded9946d9973d8",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-layout-dashboard",
+              "title": "Project Map"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -265,7 +256,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "62ded9946d9973d8",
+  "active": "5c86173cfde5734c",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 1 - Types of Environmental Impacts.pdf",
