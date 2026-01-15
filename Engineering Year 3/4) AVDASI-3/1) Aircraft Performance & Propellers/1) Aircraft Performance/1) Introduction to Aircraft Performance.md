@@ -28,3 +28,11 @@ The performance is stated in quantities such as:
 - Investigate the cause of aircraft accidents
 - Provide data for aircraft certification
 - Environmental analysis on the ground and in-flight
+### The Breguet Range Equation
+We have previously looked at this in [[Breguet Range - Jet]] and [[Breguet Range - Propellor Driven Aircraft]]. As a reminder the equations are:
+$$R=\frac{a}{g\cdot tsfc}\left(\frac{ML}{D}\right)\ln\frac{Mass_{initial}}{Mass_{final}}~~~~~~R=\frac{V}{sfc}\left(\frac{L}{D}\right)\ln\frac{Mass_{initial}}{Mass_{final}}$$
+This gives the range of an aircraft as a function of:
+- Altitude through the speed of sound ($a$)
+- Engine efficiency ($tsfc$)
+- Aerodynamic efficiency
+- Structural efficiency
