@@ -8,34 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c86173cfde5734c",
+            "id": "4d98fafa3df8da05",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
-                "viewState": {
-                  "x": -165.79265891540507,
-                  "y": -146.12168386014525,
-                  "zoom": -1.378519525807286
-                }
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 1 - Types of Environmental Impacts.pdf",
+                "page": 1,
+                "left": -96,
+                "top": 616,
+                "zoom": 0.9571078431372549
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Project Map"
+              "icon": "lucide-file-text",
+              "title": "SAE Lecture 1 - Types of Environmental Impacts"
             }
           },
           {
-            "id": "a1d7836264217e45",
+            "id": "5dc391ad644cf3b6",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
+                "page": 14,
+                "left": -28,
+                "top": 270,
+                "zoom": 0.5453125
+              },
+              "icon": "lucide-file-text",
+              "title": "AP Lecture 1 - Introduction"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7e66529fd1e0f32d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51ba85b9e93e3bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) Introduction to Aircraft Performance"
+            }
+          },
+          {
+            "id": "97cae179c1bae2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) Types of Environmental Impacts & Aviation’s Contributions"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,10 +306,14 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a1d7836264217e45",
+  "active": "5dc391ad644cf3b6",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 1 - Types of Environmental Impacts.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 3&4 - Summary.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 2 - Summary.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 1 - Summary.pdf",
@@ -278,9 +321,6 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
@@ -313,8 +353,6 @@
     "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/1) Creep.md",
     "Backend/Images & Attachments/Pasted image 20251206175333.png",
     "Backend/Images & Attachments/Pasted image 20251206175147.png",
-    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Propellor Driven Aircraft.md",
-    "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
     "Backend/Images & Attachments/Pasted image 20251120111507.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
