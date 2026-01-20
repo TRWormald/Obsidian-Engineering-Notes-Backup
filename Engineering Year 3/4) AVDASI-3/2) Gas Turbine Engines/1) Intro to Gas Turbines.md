@@ -1,18 +1,11 @@
 ### The Units
 
-| Basic Unit  | SI  | Imperial |
-| ----------- | --- | -------- |
-| Mass        | kg  | slug     |
-| Length      | m   | ft       |
-| Time        | s   | s        |
-| Temperature | C/K | F/R      |
-
-| Derived Units  | SI   | Imperial |
-| -------------- | ---- | -------- |
-| Force          | N/kN | lbf      |
-| Pressure       | kPa  | psi      |
-| Work or Energy | kJ   | ft lb    |
-| Power          | kW   | hp       |
+| Basic Unit  | SI  | Imperial | Derived Units  | SI   | Imperial |
+| ----------- | --- | -------- | -------------- | ---- | -------- |
+| Mass        | kg  | slug     | Force          | N/kN | lbf      |
+| Length      | m   | ft       | Pressure       | kPa  | psi      |
+| Time        | s   | s        | Work or Energy | kJ   | ft lb    |
+| Temperature | C/K | F/R      | Power          | kW   | hp       |
 ### Symbols
 Mass Flow $\dot{m}$ (kg/s)
 Thrust/Force $F$ (kN)
@@ -58,3 +51,38 @@ This is a modification of the Brayton Cycle where a diffuser and nozzle are incl
 The heat exchanger between the compressor and the nozzle models the combustion chamber.
 
 ### The International Standard Atmosphere
+A standard atmosphere is used so all aircraft and engine performance data can be compared on the same basis.
+The ISA represents the average atmospheric conditions in North America and Europe and is based on the assumption that:
+- Air is a perfect gas
+- Air is dry
+- Gravitational acceleration does not vary with altitude
+- Hydrostatic equilibrium exists
+
+It has the following sea level values:
+
+| Variable                     | Symbol | Value                          |
+| ---------------------------- | ------ | ------------------------------ |
+| Pressure                     | $p$    | $101.325 kPa$                  |
+| Temperature                  | $T$    | $15 ^o C~~ (288.15 K$)         |
+| Density                      | $\rho$ | $1.2250 kg/m^3$                |
+| Speed of Sound               | $a$    | $340.29 m/s$                   |
+| Dynamic Viscosity            | $\mu$  | $1.7894\times 10^{-5} kg/(ms)$ |
+| Gravitational Acceleration   | $g$    | $9.80665~ m/s^2$               |
+| Specific Gas Constant of Air | $R$    | $287.05 J/(kg\cdot K)$         |
+> It is convenient to assume that acceleration due to gravity is constant with position and altitude - this is due to the very small variance over massive distances.
+
+#### Altitudes
+There are a number of different altitudes that we can consider:
+- Geometric height $Z$ - The actual height above mean-sea-level
+- Geopotential height $H$ - The height in a uniform gravitational field ($g$ constant with altitude) which gives the same potential energy as exists in the actual, variable gravitational field:
+$$h=\frac{R_{earth} Z}{R_{earth}+Z}$$
+- Pressure height - Aircraft normally fly at altitudes defined by barometric means. The pressure height in any atmosphere is the geopotential height in an the standard atmosphere giving the same pressure.
+### Hydrostatic Equilibrium of an Element of Air
+If we consider the forces acting on an element of air in the atmosphere we obtain the following diagram:
+![[Pasted image 20260120110806.png|centre|250]]
+Which we can represent using an equation:
+$$\frac{dP}{dh}=-\rho(h)g=-\frac{P}{RT(h)}g$$
+As a result we need a model for the temperature variation with altitude to close the problem.
+The international standard atmosphere is based on an idealised mean-annual, steady state model assuming a period of moderate solar activity and at a latitude of 45 degrees North.
+
+In the troposphere $T=T_{SL}-Lh$ where $L=0.006 \frac{K}{m}$.

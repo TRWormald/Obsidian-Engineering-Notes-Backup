@@ -1,62 +1,11 @@
 {
     "VaultName": "Engineering",
     "Modified_at": "2025-09-04T01:42:48.757Z",
-    "Pending": {
-        "Backend/Task Manager/Tasks.md": [
-            {
-                "id": 2283955842,
-                "status": " ",
-                "title": "SAE Prep for Week 13 - Read Lecture Slides",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Backend/Task Manager/Tasks.md",
-                "taskLocation": {
-                    "startLine": 40,
-                    "startCharIndex": 0,
-                    "endLine": 40,
-                    "endCharIndex": 48
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 768183080,
-                "status": " ",
-                "title": "APP (Performance) Prep Work - Read Lecture Slides",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Backend/Task Manager/Tasks.md",
-                "taskLocation": {
-                    "startLine": 42,
-                    "startCharIndex": 0,
-                    "endLine": 42,
-                    "endCharIndex": 55
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            }
-        ]
-    },
+    "Pending": {},
     "Completed": {
         "Backend/Task Manager/Tasks.md": [
             {
-                "id": 3037885366,
+                "id": 3510483215,
                 "status": "x",
                 "title": "FEA - Theory",
                 "body": [
@@ -83,7 +32,7 @@
                 "reminder": ""
             },
             {
-                "id": 305751647,
+                "id": 1242051241,
                 "status": "x",
                 "title": "Numerical Methods  ",
                 "body": [
@@ -110,7 +59,7 @@
                 "reminder": ""
             },
             {
-                "id": 1899227519,
+                "id": 3961844801,
                 "status": "x",
                 "title": "Boundary Layer Aerodynamics  ",
                 "body": [
@@ -137,7 +86,7 @@
                 "reminder": ""
             },
             {
-                "id": 3025065534,
+                "id": 2788159995,
                 "status": "x",
                 "title": "Flight Dynamics  ",
                 "body": [
@@ -166,7 +115,7 @@
                 "reminder": ""
             },
             {
-                "id": 1120751301,
+                "id": 1899028254,
                 "status": "x",
                 "title": "Advanced Control  ",
                 "body": [
@@ -195,7 +144,7 @@
                 "reminder": ""
             },
             {
-                "id": 1932930442,
+                "id": 635467164,
                 "status": "x",
                 "title": "FEA - Labs  ",
                 "body": [
@@ -223,7 +172,7 @@
                 "reminder": ""
             },
             {
-                "id": 4031993352,
+                "id": 3960665880,
                 "status": "x",
                 "title": "Control Onramp (MATLAB)  ",
                 "body": [],
@@ -241,6 +190,54 @@
                     "startCharIndex": 0,
                     "endLine": 38,
                     "endCharIndex": 31
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 1283730026,
+                "status": "x",
+                "title": "SAE Prep for Week 13 - Read Lecture Slides",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 40,
+                    "startCharIndex": 0,
+                    "endLine": 40,
+                    "endCharIndex": 48
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 3833175384,
+                "status": "x",
+                "title": "APP (Performance) Prep Work - Read Lecture Slides",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Backend/Task Manager/Tasks.md",
+                "taskLocation": {
+                    "startLine": 42,
+                    "startCharIndex": 0,
+                    "endLine": 42,
+                    "endCharIndex": 55
                 },
                 "completion": "",
                 "cancelledDate": "",

@@ -4,38 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "70740f9e28a2f602",
+        "id": "0c063bec19d3d5c0",
         "type": "tabs",
         "children": [
           {
-            "id": "ac67b65af60bcb19",
+            "id": "72353e1bbb23f802",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
-                "viewState": {
-                  "x": -826.0502642521016,
-                  "y": 721.5305957157036,
-                  "zoom": 0.6114986914587839
-                }
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
+                "page": 21,
+                "left": -4,
+                "top": 272,
+                "zoom": 0.74
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Project Map"
-            }
-          },
-          {
-            "id": "2ae5274361a64beb",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-file-text",
+              "title": "Lecture 1- Intro to Gas Turbines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8daf778dc8d20486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c48cbd82754cee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) Intro to Gas Turbines"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gas Turbine",
+                "query": "International Standard Atmosphere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +96,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -266,15 +276,17 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2ae5274361a64beb",
+  "active": "8c48cbd82754cee6",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260120110806.png",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+    "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
+    "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Unconfirmed 157812.crdownload",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/From Cactus to Composite.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/The First Law of Thermodynamics.md",
@@ -295,7 +307,6 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 3&4 - Summary.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 2 - Summary.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
@@ -308,7 +319,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/10) Meshing - Further Concepts/1) Advanced Mesh Types.md",
-    "Engineering Year 3/2) Structures & Materials/3) Fatigue & Creep/4) Creep/6) Creep in Polymers.md",
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
     "Backend/Images & Attachments/Pasted image 20251206184618.png",
     "Backend/Images & Attachments/Pasted image 20251206184557.png",

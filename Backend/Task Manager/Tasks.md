@@ -37,6 +37,6 @@
 
 - [x] Control Onramp (MATLAB)  
 
-- [ ] SAE Prep for Week 13 - Read Lecture Slides
+- [x] SAE Prep for Week 13 - Read Lecture Slides
 
-- [ ] APP (Performance) Prep Work - Read Lecture Slides
+- [x] APP (Performance) Prep Work - Read Lecture Slides
