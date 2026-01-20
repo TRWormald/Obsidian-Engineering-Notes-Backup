@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
-                "page": 17,
-                "left": 16,
-                "top": 21,
-                "zoom": 0.8
+                "page": 24,
+                "left": -4,
+                "top": 104,
+                "zoom": 1.0694444444444444
               },
               "icon": "lucide-file-text",
               "title": "Lecture 1- Intro to Gas Turbines"
@@ -29,8 +29,8 @@
             "state": {
               "type": "task-board-view",
               "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-ghost",
+              "title": "task-board-view"
             }
           },
           {
@@ -66,8 +66,19 @@
               "icon": "lucide-file",
               "title": "1) Intro to Gas Turbines"
             }
+          },
+          {
+            "id": "bf00457a96c2e7aa",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -299,11 +311,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4d98fafa3df8da05",
+  "active": "bf00457a96c2e7aa",
   "lastOpenFiles": [
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/The First Law of Thermodynamics.md",

@@ -50,3 +50,11 @@ The Brayton cycle is a simple thermodynamic cycle where energy is constantly gen
 - Isobaric heat addition $Q_{in}$ (2-3)
 - Isentropic expansion (3-4)
 - Isobaric heat rejection $Q_{out}$ (4-1)
+The efficiency can be characterised as:
+$$\eta=1-\left(\frac{1}{ p_{2}/p_{1}}\right)^{\gamma-1/\gamma}$$
+### The Turbojet Cycle
+This is a modification of the Brayton Cycle where a diffuser and nozzle are included at either end to generate thrust:
+![[Screenshot 2024-03-01 131740.png]]
+The heat exchanger between the compressor and the nozzle models the combustion chamber.
+
+### The International Standard Atmosphere
