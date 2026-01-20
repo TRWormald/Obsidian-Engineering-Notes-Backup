@@ -97,5 +97,4 @@ And finally we can obtain the ratio of the pressures at a given altitude above s
 $$\frac{P}{{P_{SL}}}=\left(1-\frac{Lh}{T_{SL}}\right)^{-\frac{g}{RL}}$$
 
 ![[Pasted image 20260120112151.png|centre|500]]
-
-
+![[Pasted image 20260120112922.png]]

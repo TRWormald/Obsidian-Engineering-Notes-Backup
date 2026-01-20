@@ -14,21 +14,15 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
-                "page": 22,
-                "left": 161,
-                "top": 282,
-                "zoom": 0.69
+                "page": 24,
+                "left": -13,
+                "top": 521,
+                "zoom": 1.13671875
               },
               "icon": "lucide-file-text",
               "title": "Lecture 1- Intro to Gas Turbines"
             }
-          }
-        ]
-      },
-      {
-        "id": "8daf778dc8d20486",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "8c48cbd82754cee6",
             "type": "leaf",
@@ -43,7 +37,8 @@
               "title": "1) Intro to Gas Turbines"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,9 +273,10 @@
   },
   "active": "8c48cbd82754cee6",
   "lastOpenFiles": [
-    "Backend/Images & Attachments/Pasted image 20260120112151.png",
+    "Backend/Images & Attachments/Pasted image 20260120112922.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+    "Backend/Images & Attachments/Pasted image 20260120112151.png",
     "Backend/Images & Attachments/Pasted image 20260120110806.png",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
@@ -324,7 +320,6 @@
     "Backend/Images & Attachments/Pasted image 20251206184618.png",
     "Backend/Images & Attachments/Pasted image 20251206184557.png",
     "Backend/Images & Attachments/Pasted image 20251206184549.png",
-    "Backend/Images & Attachments/Pasted image 20251206184539.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
