@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "42727cce3b1136e4",
+            "id": "326b4521ae3a9351",
             "type": "leaf",
             "state": {
               "type": "task-board-view",
@@ -263,8 +263,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "42727cce3b1136e4",
+  "active": "326b4521ae3a9351",
   "lastOpenFiles": [
+    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) Intro To FEA/5) The Principle of Virtual Work.md",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
@@ -296,7 +297,6 @@
     "Backend/Images & Attachments/Pasted image 20260115145729.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 3&4 - Summary.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
