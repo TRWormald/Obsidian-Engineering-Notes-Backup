@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "1) Intro to Gas Turbines"
             }
+          },
+          {
+            "id": "33a2caeb174efc7a",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,7 +281,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8c48cbd82754cee6",
+  "active": "33a2caeb174efc7a",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260120112922.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
