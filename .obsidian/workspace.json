@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0c063bec19d3d5c0",
+        "id": "63c6fb73550f5ad6",
         "type": "tabs",
         "children": [
           {
-            "id": "72353e1bbb23f802",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
-                "page": 24,
-                "left": -13,
-                "top": 521,
-                "zoom": 1.13671875
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 1- Intro to Gas Turbines"
-            }
-          },
-          {
-            "id": "8c48cbd82754cee6",
+            "id": "d6bec0a3a1ee3314",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+                "file": "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Intro to Gas Turbines"
+              "title": "Scalar Fields"
             }
           },
           {
-            "id": "33a2caeb174efc7a",
+            "id": "42727cce3b1136e4",
             "type": "leaf",
             "state": {
               "type": "task-board-view",
@@ -48,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "International Standard Atmosphere",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,13 +85,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -281,11 +263,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "33a2caeb174efc7a",
+  "active": "42727cce3b1136e4",
   "lastOpenFiles": [
-    "Backend/Images & Attachments/Pasted image 20260120112922.png",
+    "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+    "Backend/Images & Attachments/Pasted image 20260120112922.png",
     "Backend/Images & Attachments/Pasted image 20260120112151.png",
     "Backend/Images & Attachments/Pasted image 20260120110806.png",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
@@ -329,7 +312,6 @@
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
     "Backend/Images & Attachments/Pasted image 20251206184618.png",
     "Backend/Images & Attachments/Pasted image 20251206184557.png",
-    "Backend/Images & Attachments/Pasted image 20251206184549.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
