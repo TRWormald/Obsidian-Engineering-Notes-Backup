@@ -23,8 +23,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Project Map"
             }
+          },
+          {
+            "id": "2ae5274361a64beb",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +266,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ac67b65af60bcb19",
+  "active": "2ae5274361a64beb",
   "lastOpenFiles": [
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Unconfirmed 157812.crdownload",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
