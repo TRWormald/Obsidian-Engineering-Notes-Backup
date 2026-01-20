@@ -4,81 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "b04b94dc01f7a15c",
+        "id": "70740f9e28a2f602",
         "type": "tabs",
         "children": [
           {
-            "id": "4d98fafa3df8da05",
+            "id": "ac67b65af60bcb19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
-                "page": 24,
-                "left": -4,
-                "top": 104,
-                "zoom": 1.0694444444444444
+                "file": "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
+                "viewState": {
+                  "x": -660.6756839220277,
+                  "y": 654.179191944914,
+                  "zoom": 0.8419971010605044
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 1- Intro to Gas Turbines"
-            }
-          },
-          {
-            "id": "ccfa619f60a0e20a",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "task-board-view"
-            }
-          },
-          {
-            "id": "7abe324c6d249888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steady-Flow Cycles"
+              "icon": "lucide-layout-dashboard",
+              "title": "Project Map"
             }
           }
         ]
-      },
-      {
-        "id": "842de37ee1f8157e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e1a57d1f0543b764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1) Intro to Gas Turbines"
-            }
-          },
-          {
-            "id": "bf00457a96c2e7aa",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,13 +77,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -311,11 +255,14 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "bf00457a96c2e7aa",
+  "active": "ac67b65af60bcb19",
   "lastOpenFiles": [
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/From Cactus to Composite.pdf",
+    "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
+    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
-    "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/The First Law of Thermodynamics.md",
@@ -334,12 +281,10 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
     "Backend/Images & Attachments/Pasted image 20260115145729.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 3&4 - Summary.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 2 - Summary.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/Lecture 1 - Summary.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/0) Revision Resources/P&DF - Equation Summary.pdf",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
