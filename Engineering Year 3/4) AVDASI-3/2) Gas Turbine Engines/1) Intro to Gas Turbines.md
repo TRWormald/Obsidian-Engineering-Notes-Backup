@@ -85,4 +85,17 @@ $$\frac{dP}{dh}=-\rho(h)g=-\frac{P}{RT(h)}g$$
 As a result we need a model for the temperature variation with altitude to close the problem.
 The international standard atmosphere is based on an idealised mean-annual, steady state model assuming a period of moderate solar activity and at a latitude of 45 degrees North.
 
-In the troposphere $T=T_{SL}-Lh$ where $L=0.006 \frac{K}{m}$.
+In the troposphere $T=T_{SL}-Lh$ where $L=0.0065 \frac{K}{m}$ which is the "Lapse Rate". So we can calculate the temperature at any altitude up to ~10km using the sea level temperature, a constant, and the altitude. (In the Stratosphere the temperature is approximately constant $T=T_{10}$ i.e. it is the same as the temperature at 10km)
+
+So we have:
+$$\frac{dP}{dh}=-\rho(h)g=-\frac{P}{RT(h)}g$$
+$$T=T_{SL}-Lh$$
+Which we can combine to obtain:
+$$\frac{dP}{dh}=-\frac{P}{R(T_{SL}-Lh)}g$$
+$$\int_{P_{SL}}^{P} \frac{dP}{P}=-\frac{g}{R}\int_{0}^{h}\frac{dh}{T_{SL}-Lh}$$
+And finally we can obtain the ratio of the pressures at a given altitude above sea level:
+$$\frac{P}{{P_{SL}}}=\left(1-\frac{Lh}{T_{SL}}\right)^{-\frac{g}{RL}}$$
+
+![[Pasted image 20260120112151.png|centre|500]]
+
+
