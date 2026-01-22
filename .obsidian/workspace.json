@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "63c6fb73550f5ad6",
+        "id": "d64782c24b80f70e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6bec0a3a1ee3314",
+            "id": "a0828b797d3ce39c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.5"
               },
-              "icon": "lucide-file",
-              "title": "Scalar Fields"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           },
           {
-            "id": "326b4521ae3a9351",
+            "id": "52ca6141cb16fb5a",
             "type": "leaf",
             "state": {
               "type": "task-board-view",
@@ -263,8 +261,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "326b4521ae3a9351",
+  "active": "52ca6141cb16fb5a",
   "lastOpenFiles": [
+    "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) Intro To FEA/5) The Principle of Virtual Work.md",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
@@ -288,7 +288,6 @@
     "Backend/Images & Attachments/Pasted image 20260119213612.png",
     "Backend/Images & Attachments/Pasted image 20260119213516.png",
     "Backend/Images & Attachments/Pasted image 20260119213441.png",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 1 - Types of Environmental Impacts.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
@@ -307,8 +306,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/1) Numerical and Simulation Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/4) CFD Methodologies.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/1) Parallel Processing.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/10) Meshing - Further Concepts/1) Advanced Mesh Types.md",
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
     "Backend/Images & Attachments/Pasted image 20251206184618.png",
     "Backend/Images & Attachments/Pasted image 20251206184557.png",
