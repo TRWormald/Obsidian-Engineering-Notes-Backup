@@ -6,6 +6,7 @@
       {
         "id": "8d9be2eed1b17491",
         "type": "tabs",
+        "dimension": 62.15323645970938,
         "children": [
           {
             "id": "bf5db59bef198c98",
@@ -14,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
-                "page": 18,
-                "left": -201,
-                "top": 338,
-                "zoom": 0.34
+                "page": 8,
+                "left": 45,
+                "top": 97,
+                "zoom": 0.8
               },
               "icon": "lucide-file-text",
               "title": "AP Lecture 2 - Analysis"
@@ -28,6 +29,7 @@
       {
         "id": "4361de8b4e087ee8",
         "type": "tabs",
+        "dimension": 37.846763540290624,
         "children": [
           {
             "id": "9dd24e6272d9384c",
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -276,8 +279,11 @@
   },
   "active": "9dd24e6272d9384c",
   "lastOpenFiles": [
-    "2) Fixed Wing Performance.md",
+    "Backend/Images & Attachments/Pasted image 20260125220605.png",
+    "Backend/Images & Attachments/Pasted image 20260125220541.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
+    "2) Fixed Wing Performance.md",
+    "Backend/Images & Attachments/Pasted image 20260125220448.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
@@ -319,10 +325,7 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/3) Fourier Stability Analysis.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/1) Numerical and Simulation Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/4) CFD Methodologies.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/2) Multi-Block Load Balancing.md",
     "Backend/Images & Attachments/Pasted image 20251206184626.png",
-    "Backend/Images & Attachments/Pasted image 20251206184618.png",
-    "Backend/Images & Attachments/Pasted image 20251206184557.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
