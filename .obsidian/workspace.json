@@ -4,32 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8d9be2eed1b17491",
-        "type": "tabs",
-        "dimension": 62.15323645970938,
-        "children": [
-          {
-            "id": "bf5db59bef198c98",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
-                "page": 8,
-                "left": 45,
-                "top": 97,
-                "zoom": 0.8
-              },
-              "icon": "lucide-file-text",
-              "title": "AP Lecture 2 - Analysis"
-            }
-          }
-        ]
-      },
-      {
         "id": "4361de8b4e087ee8",
         "type": "tabs",
-        "dimension": 37.846763540290624,
         "children": [
           {
             "id": "9dd24e6272d9384c",
@@ -37,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) Fixed Wing Performance.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2) Fixed Wing Performance"
             }
+          },
+          {
+            "id": "6b80dbb1ea8b898c",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,25 +264,29 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "9dd24e6272d9384c",
+  "active": "6b80dbb1ea8b898c",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
+    "Backend/Images & Attachments/Pasted image 20260125221416.png",
+    "Backend/Images & Attachments/Pasted image 20260125221350.png",
+    "Backend/Images & Attachments/Pasted image 20260125221310.png",
+    "Backend/Images & Attachments/Pasted image 20260125221206.png",
+    "Backend/Images & Attachments/Pasted image 20260125221037.png",
+    "Backend/Images & Attachments/Pasted image 20260125220802.png",
+    "Backend/Images & Attachments/Pasted image 20260125220632.png",
     "Backend/Images & Attachments/Pasted image 20260125220605.png",
     "Backend/Images & Attachments/Pasted image 20260125220541.png",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
-    "2) Fixed Wing Performance.md",
     "Backend/Images & Attachments/Pasted image 20260125220448.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) Intro To FEA/5) The Principle of Virtual Work.md",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1- Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
-    "Backend/Images & Attachments/Pasted image 20260120112922.png",
-    "Backend/Images & Attachments/Pasted image 20260120112151.png",
-    "Backend/Images & Attachments/Pasted image 20260120110806.png",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Unconfirmed 157812.crdownload",
@@ -309,13 +300,9 @@
     "Engineering Year 1/Thermodynamics/The Internal Energy of an Ideal Gas.md",
     "Engineering Year 1/Thermodynamics/The Ideal Gas Law.md",
     "Engineering Year 1/Thermodynamics/The Fuel Combustion Equation.md",
-    "Backend/Images & Attachments/Pasted image 20260119213612.png",
-    "Backend/Images & Attachments/Pasted image 20260119213516.png",
-    "Backend/Images & Attachments/Pasted image 20260119213441.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 1 - Types of Environmental Impacts.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
-    "Backend/Images & Attachments/Pasted image 20260115145729.png",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
@@ -325,7 +312,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/3) Fourier Stability Analysis.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/1) Numerical and Simulation Methods.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/4) CFD Methodologies.md",
-    "Backend/Images & Attachments/Pasted image 20251206184626.png",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
