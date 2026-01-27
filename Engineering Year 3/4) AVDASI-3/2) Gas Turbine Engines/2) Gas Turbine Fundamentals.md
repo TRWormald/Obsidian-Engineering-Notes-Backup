@@ -77,3 +77,30 @@ Remembering that:
 $$T_{2}=T_{1}\left(\frac{P_{2}}{P_{1}}\right)^{\frac{\gamma-1}{\gamma}}$$
 So if we want an expression for net work in terms of PR and maximum cycle temperature:
 $$\text{Net Work}=W=W_{34}-W_{12}=C_{p}\times((T_{3}-T_{4})-(T_{2}-T_{1}))$$
+Which we can non-dimensionalise to obtain:
+$$\frac{W}{C_{p}\times T_{1}}=\left(\frac{T_{3}}{T_{1}}\right)\left(1-\left(\frac{T_{4}}{T_{1}}\right)-\left(\frac{T_{2}}{T_{1}}-1\right)\right)$$
+Which can be transformed into:
+$$\frac{W}{C_{p}\times T_{1}}=\left(\frac{T_{3}}{T_{1}}\right)\left(1-\left(\frac{1}{PR^{\frac{\gamma-1}{\gamma}}}\right)\right)^{-\left(\left(PR^{\frac{\gamma-1}{\gamma}}\right)-1\right)}$$
+### The Practical Joule-Brayton/Turbojet Cycle
+Up until now we have considered "ideal" compression, which is not realistic. Therefore we need to take into account the extra work required for real compression to overcome frictional losses.
+![[Pasted image 20260127113554.png|centre|500]]
+The isentropic efficiency for the compression stage is calculated as:
+
+$$\eta_{isen}=\frac{T_{02}'-T_{01}}{T_{02}-T_{01}}$$
+![[Pasted image 20260127113735.png|centre|500]]
+The isentropic efficiency for the expansion stage is calculated as:
+$$\eta_{isen}=\frac{T_{03}-T_{04}}{T_{03}-T_{04}'}$$
+The real S-T diagram therefore looks something like this.
+![[Pasted image 20260127113841.png|centre]]
+
+**So how do we compute the flow velocity at the nozzle exit?**
+
+In an adapted nozzle $P_{j}=P_{a}$
+- The jet is fully expanded in an ideal De Laval nozzle or subsonic convergent nozzle
+- In relation to the above S-T graph:
+$$P_{0,N}=P_{0,5}~~~~T_{0,N}=T_{0,5}$$$$\frac{T_{0,N}}{T_{N}}=\left(\frac{P_{0,N}}{P_{a}}\right)^{\frac{\gamma-1}{\gamma}}~~~~T_$$
+
+In an under-expanded nozzle $P_{j}>P_{a}$
+- Usually for choked convergent nozzle that reaches sonic conditions in the throat
+- We'll see how to compute the jet speed in the worked example
+
