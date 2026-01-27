@@ -98,9 +98,10 @@ The real S-T diagram therefore looks something like this.
 In an adapted nozzle $P_{j}=P_{a}$
 - The jet is fully expanded in an ideal De Laval nozzle or subsonic convergent nozzle
 - In relation to the above S-T graph:
-$$P_{0,N}=P_{0,5}~~~~T_{0,N}=T_{0,5}$$$$\frac{T_{0,N}}{T_{N}}=\left(\frac{P_{0,N}}{P_{a}}\right)^{\frac{\gamma-1}{\gamma}}~~~~T_$$
-
+$$P_{0,N}=P_{0,5}~~~~T_{0,N}=T_{0,5}$$$$\frac{T_{0,N}}{T_{N}}=\left(\frac{P_{0,N}}{P_{a}}\right)^{\frac{\gamma-1}{\gamma}}~~~~\frac{T_{0,5}}{T_{N}}=\left(\frac{P_{0,5}}{P_{a}}\right)^{\frac{\gamma-1}{\gamma}}$$$$T_{0,N}=T_{0,5}=T_{N}+\frac{C_{N}^{2}}{2C_{P}}$$
 In an under-expanded nozzle $P_{j}>P_{a}$
 - Usually for choked convergent nozzle that reaches sonic conditions in the throat
 - We'll see how to compute the jet speed in the worked example
 
+### Worked Example - Turbojet Performance
+See [[Lecture 2 - Fundamentals.pdf#page=19|Lecture 2 - Fundamentals, p.19]] for the worked example for Turbojet Performance.
