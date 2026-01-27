@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "2) Fixed Wing Performance"
             }
+          },
+          {
+            "id": "f1fc68700f4f6ecf",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,7 +277,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "9dd24e6272d9384c",
+  "active": "f1fc68700f4f6ecf",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
