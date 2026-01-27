@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2) Gas Turbine Fundamentals"
             }
+          },
+          {
+            "id": "de7d35ed8281d947",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6556c8c0b496464f",
@@ -33,7 +44,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf"
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+                "page": 18,
+                "left": -4,
+                "top": 309,
+                "zoom": 1.0527777777777778
               },
               "icon": "lucide-file-text",
               "title": "Lecture 2 - Fundamentals"
@@ -270,7 +285,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4f4e48adbc2359bc",
+  "active": "de7d35ed8281d947",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
