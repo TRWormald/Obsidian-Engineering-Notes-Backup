@@ -4,50 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2a898fdb635317d5",
+        "id": "203889ea98407b48",
         "type": "tabs",
         "children": [
           {
-            "id": "4f4e48adbc2359bc",
+            "id": "a99d867ba189656e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Gas Turbine Fundamentals"
-            }
-          },
-          {
-            "id": "de7d35ed8281d947",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "task-board-view"
+              "title": "2) Policy, Regulations, and Ethics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "6556c8c0b496464f",
+        "id": "63381574727602fe",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d4cee8d7785165",
+            "id": "0a4ee714867cf891",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf"
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
+                "page": 33,
+                "left": -49,
+                "top": 124,
+                "zoom": 0.52
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 2 - Fundamentals"
+              "title": "SAE Lecture 2 - Policies, Regulations, and Ethics"
             }
           }
         ]
@@ -281,10 +274,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "de7d35ed8281d947",
+  "active": "0a4ee714867cf891",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Backend/Images & Attachments/Pasted image 20260127113841.png",
     "Backend/Images & Attachments/Pasted image 20260127113735.png",
     "Backend/Images & Attachments/Pasted image 20260127113554.png",
@@ -310,7 +305,6 @@
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Unconfirmed 157812.crdownload",
     "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Fiber Extraction.pdf",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/From Cactus to Composite.pdf",
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
@@ -328,7 +322,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/1) Wall and Edge Boundary Conditions.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/4) Physical Interpretation of CFL Condition.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/3) Fourier Stability Analysis.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/1) Numerical and Simulation Methods.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
