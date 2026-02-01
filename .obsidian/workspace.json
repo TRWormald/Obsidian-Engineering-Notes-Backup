@@ -34,16 +34,25 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
-                "page": 33,
-                "left": -49,
-                "top": 124,
-                "zoom": 0.52
+                "page": 31,
+                "zoom": -0.0196078431372549
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 2 - Policies, Regulations, and Ethics"
             }
+          },
+          {
+            "id": "8d71f5008cb7dff9",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,7 +283,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "0a4ee714867cf891",
+  "active": "8d71f5008cb7dff9",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
