@@ -4,55 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "203889ea98407b48",
+        "id": "63381574727602fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a99d867ba189656e",
+            "id": "36935de00ca5d602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Policy, Regulations, and Ethics"
+              "title": "1) Introduction to Propellers"
             }
           }
         ]
       },
       {
-        "id": "63381574727602fe",
+        "id": "332575f354081dcf",
         "type": "tabs",
         "children": [
           {
-            "id": "0a4ee714867cf891",
+            "id": "8f2212bcbd64b95e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
-                "page": 31,
-                "zoom": -0.0196078431372549
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
+                "page": 27,
+                "left": -35,
+                "top": 139,
+                "zoom": 0.7
               },
               "icon": "lucide-file-text",
-              "title": "SAE Lecture 2 - Policies, Regulations, and Ethics"
-            }
-          },
-          {
-            "id": "8d71f5008cb7dff9",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "title": "Prop Lecture 1 - Introduction to Propellers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -283,27 +275,29 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8d71f5008cb7dff9",
+  "active": "36935de00ca5d602",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
+    "Backend/Images & Attachments/Pasted image 20260201155627.png",
+    "Backend/Images & Attachments/Pasted image 20260201155615.png",
+    "Backend/Images & Attachments/Pasted image 20260201155558.png",
+    "Backend/Images & Attachments/Pasted image 20260201155544.png",
+    "Backend/Images & Attachments/Pasted image 20260201155516.png",
+    "Backend/Images & Attachments/Pasted image 20260201155500.png",
+    "Backend/Images & Attachments/Pasted image 20260201155440.png",
+    "Backend/Images & Attachments/Pasted image 20260201155404.png",
+    "Backend/Images & Attachments/Pasted image 20260201155330.png",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Backend/Images & Attachments/Pasted image 20260127113841.png",
     "Backend/Images & Attachments/Pasted image 20260127113735.png",
-    "Backend/Images & Attachments/Pasted image 20260127113554.png",
-    "Backend/Images & Attachments/Pasted image 20260127112725.png",
-    "Backend/Images & Attachments/Pasted image 20260127112548.png",
-    "Backend/Images & Attachments/Pasted image 20260127112451.png",
-    "Backend/Images & Attachments/Pasted image 20260127112430.png",
-    "Backend/Images & Attachments/Pasted image 20260127110356.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
-    "Backend/Images & Attachments/Pasted image 20260125221416.png",
-    "Backend/Images & Attachments/Pasted image 20260125221350.png",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
@@ -330,7 +324,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/2) The Moment Integral Equation.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/1) Wall and Edge Boundary Conditions.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/4) Physical Interpretation of CFL Condition.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/3) Fourier Stability Analysis.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
