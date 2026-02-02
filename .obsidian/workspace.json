@@ -20,30 +20,19 @@
               "icon": "lucide-file",
               "title": "1) Introduction to Propellers"
             }
-          }
-        ]
-      },
-      {
-        "id": "332575f354081dcf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8f2212bcbd64b95e",
+            "id": "95b9ed2a7311331f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
-                "page": 27,
-                "left": -35,
-                "top": 139,
-                "zoom": 0.7
-              },
-              "icon": "lucide-file-text",
-              "title": "Prop Lecture 1 - Introduction to Propellers"
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,25 +264,25 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "36935de00ca5d602",
+  "active": "95b9ed2a7311331f",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260201160852.png",
+    "Backend/Images & Attachments/Pasted image 20260201160828.png",
+    "Backend/Images & Attachments/Pasted image 20260201160757.png",
+    "Backend/Images & Attachments/Pasted image 20260201160732.png",
+    "Backend/Images & Attachments/Pasted image 20260201160715.png",
     "Backend/Images & Attachments/Pasted image 20260201155627.png",
     "Backend/Images & Attachments/Pasted image 20260201155615.png",
     "Backend/Images & Attachments/Pasted image 20260201155558.png",
     "Backend/Images & Attachments/Pasted image 20260201155544.png",
     "Backend/Images & Attachments/Pasted image 20260201155516.png",
     "Backend/Images & Attachments/Pasted image 20260201155500.png",
-    "Backend/Images & Attachments/Pasted image 20260201155440.png",
-    "Backend/Images & Attachments/Pasted image 20260201155404.png",
-    "Backend/Images & Attachments/Pasted image 20260201155330.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
-    "Backend/Images & Attachments/Pasted image 20260127113841.png",
-    "Backend/Images & Attachments/Pasted image 20260127113735.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",

@@ -19,3 +19,14 @@ We have previously covered this in Aero 2. However that was primarily focused on
 ![[Pasted image 20260201155615.png|centre]]
 ![[Pasted image 20260201155627.png|centre]]
 
+### Propellers in Practice
+#### The Propeller in Action
+![[Pasted image 20260201160715.png|centre]]
+#### Flying in Still Air
+![[Pasted image 20260201160732.png|centre]]
+#### Flying with Headwind of velocity $V$
+![[Pasted image 20260201160757.png|centre]]
+#### Flying in a Wind-tunnel with velocity $V$
+![[Pasted image 20260201160828.png|centre]]
+#### Frames of Reference
+![[Pasted image 20260201160852.png|centre]]
