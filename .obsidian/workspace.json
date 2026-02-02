@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "1) Introduction to Propellers"
             }
+          },
+          {
+            "id": "37b55c5f1c94f74d",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,7 +264,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "36935de00ca5d602",
+  "active": "37b55c5f1c94f74d",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260201160852.png",
     "Backend/Images & Attachments/Pasted image 20260201160828.png",
