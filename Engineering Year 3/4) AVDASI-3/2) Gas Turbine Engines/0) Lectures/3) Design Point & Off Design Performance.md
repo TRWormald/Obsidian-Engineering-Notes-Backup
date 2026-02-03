@@ -58,5 +58,21 @@ For a convergent-divergent or an un-choked convergent nozzle, the static pressur
 The Ideal Gross Thrust is  assuming that the flow entering the nozzle is expanded adiabatically and reversibly to the ambient static pressure i.e. a convergent-divergent nozzle with no losses.
 ### Nozzle Types
 ![[Pasted image 20260203105033.png|centre]]
+#### Supersonic High-bypass Ratio Engines
+It is possible to have either mixed jets or separate jets coming out of an engine:
+![[Pasted image 20260203110144.png|centre]]
+The image on the right shows a typical practical mixer of the two.
+#### Mixing of the Hot and Cold Streams
+![[Pasted image 20260203110337.png|centre|500]]
+### Mechanical Design Parameters
+There are a number of design parameters that need to be addressed/kept within limits when designing a jet engine:
+- Shaft Speeds
+- Compressor delivery temperature and pressure
+- Fan flutter
+- Vibration levels of rotating components
+- Disc and blade stress levels
+- Cycling and creep life of major components
+- Oxidation levels of components
+- Rotating flow instabilities
 
 
