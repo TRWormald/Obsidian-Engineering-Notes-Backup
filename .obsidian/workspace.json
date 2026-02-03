@@ -28,17 +28,16 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
-                "page": 274,
-                "left": 110,
-                "top": -553,
-                "zoom": 0.58
+                "page": 23,
+                "left": 59,
+                "top": -44,
+                "zoom": 1.53
               },
               "icon": "lucide-file-text",
               "title": "GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,8 +268,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a4deaac014fc4ae9",
+  "active": "cfa425929bc6e014",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/3) Design Point & Off Design Performance.md",
     "Backend/Images & Attachments/Pasted image 20260203110337.png",
     "Backend/Images & Attachments/Pasted image 20260203110144.png",
@@ -295,7 +295,6 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 1 - Introduction.pdf",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) Intro To FEA/5) The Principle of Virtual Work.md",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Differentiating Scalar Fields.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
