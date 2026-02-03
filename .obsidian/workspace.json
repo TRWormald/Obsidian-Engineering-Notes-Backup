@@ -20,8 +20,25 @@
               "icon": "lucide-file",
               "title": "3) Design Point & Off Design Performance"
             }
+          },
+          {
+            "id": "a4deaac014fc4ae9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
+                "page": 274,
+                "left": 110,
+                "top": -553,
+                "zoom": 0.58
+              },
+              "icon": "lucide-file-text",
+              "title": "GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,8 +269,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "cfa425929bc6e014",
+  "active": "a4deaac014fc4ae9",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/3) Design Point & Off Design Performance.md",
     "Backend/Images & Attachments/Pasted image 20260203110337.png",
     "Backend/Images & Attachments/Pasted image 20260203110144.png",
     "Backend/Images & Attachments/Pasted image 20260203105033.png",
@@ -264,9 +282,7 @@
     "Backend/Images & Attachments/Pasted image 20260203103422.png",
     "Backend/Images & Attachments/Pasted image 20260203103349.png",
     "Backend/Images & Attachments/Pasted image 20260203103328.png",
-    "Backend/Images & Attachments/Pasted image 20260203103231.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/3) Design Point & Off Design Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
