@@ -8,13 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c444027380698679",
+            "id": "372e896938954958",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Analysis of Propeller Aerodynamics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f46164278f3675c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d9fb5b1e599467",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
+                "page": 9,
+                "left": -35,
+                "top": 285,
+                "zoom": 0.7
+              },
+              "icon": "lucide-file-text",
+              "title": "Prop Lecture 2 - Analysis of Propeller Aerodynamics"
             }
           }
         ]
@@ -74,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -248,8 +275,14 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "c444027380698679",
+  "active": "372e896938954958",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
+    "Backend/Images & Attachments/Pasted image 20260209111100.png",
+    "Backend/Images & Attachments/Pasted image 20260209110536.png",
+    "Backend/Images & Attachments/Pasted image 20260209110516.png",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/3) Design Point & Off Design Performance.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Backend/Images & Attachments/Pasted image 20260203110337.png",
@@ -259,12 +292,8 @@
     "Backend/Images & Attachments/Pasted image 20260203104528.png",
     "Backend/Images & Attachments/Pasted image 20260203104504.png",
     "Backend/Images & Attachments/Pasted image 20260203103736.png",
-    "Backend/Images & Attachments/Pasted image 20260203103422.png",
-    "Backend/Images & Attachments/Pasted image 20260203103349.png",
-    "Backend/Images & Attachments/Pasted image 20260203103328.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
@@ -280,7 +309,6 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 1/AVDASI/Aeronautics/Atmosphere.md",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
-    "Engineering Year 3/5) RP-3/1) Research Project/1) Studies/Unconfirmed 157812.crdownload",
     "Engineering Year 1/Thermodynamics/Steady-Flow Systems and their Equations/Steady-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Isothermal Process.md",
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
@@ -295,7 +323,6 @@
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/3) Uses of MIE.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/2) The Moment Integral Equation.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/2) Karman Momentum Integral Equation/1) Wall and Edge Boundary Conditions.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
