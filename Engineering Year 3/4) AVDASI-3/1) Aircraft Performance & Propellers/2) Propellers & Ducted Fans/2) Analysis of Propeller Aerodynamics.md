@@ -29,4 +29,10 @@ In reality **Ideal** propellers don't exist, so we need to consider real propell
 - Blade vortex interaction
 $$\eta_{p}=\frac{TV}{P}\left(=\frac{TV}{T(V+v)+\text{Losses}}\right)$$
 Needless to say, these result in energy loss and therefore reduced efficiency.
-In order to obtain a more detailed knowledge of the b
+In order to obtain a more detailed knowledge of the behaviour of a rotor:
+- It is necessary to analyse the forces on the rotor blades
+- The blade has to be considered as a number of separate aerofoil elements
+- Elements are then integrated to represent the characteristics of the whole propeller.
+
+This is achieved by **Blade Element Analysis** (sometimes called Strip Analysis)
+
