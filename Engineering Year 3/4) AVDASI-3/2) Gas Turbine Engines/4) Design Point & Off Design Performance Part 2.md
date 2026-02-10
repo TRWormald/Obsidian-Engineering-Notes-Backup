@@ -33,4 +33,13 @@ See [[Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf#page=8|Lec
 ### Turbojet Fuel Consumption Characteristics
 ![[Pasted image 20260210112547.png|centre|500]]
 ### Typical Engine Data
-The following figure shows the typical engine data for a subsonic transport aircraft
+The following figure shows the typical engine data for a subsonic transport aircraft:
+![[Pasted image 20260210112641.png|centre]]
+
+### Overall Performance Characteristics
+**The major points of interest are:**
+- As combustion temperature and spool speed increase at fixed atmospheric conditions, the thrust increase is non-linear - the thrust increases rapidly at higher values of combustion temperature & spool speed. The GT has a different characteristic to that of the reciprocating engine.
+
+- At a fixed combustion temperature, thrust falls almost linearly with atmospheric conditions due to falling density and quantity of inlet airflow.
+
+- Initially thrust decreases with forward speed (at fixed atmospheric conditions & combustor temperature). This is due to increasing momentum drag. Subsequently thrust rises as inlet pressure rises giving higher values of jet pipe pressure & jet velocity. Finally thrust falls as compressor delivery temperature rises towards the combustor temperature.
