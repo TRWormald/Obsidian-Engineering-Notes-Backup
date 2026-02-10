@@ -34,16 +34,37 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
-                "page": 15,
-                "left": -35,
-                "top": 168,
-                "zoom": 0.7
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Prop Lecture 2 - Analysis of Propeller Aerodynamics"
             }
+          },
+          {
+            "id": "bb5c423277b5e56e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "1cdc08f43e541b3e",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,7 +296,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "82d9fb5b1e599467",
+  "active": "1cdc08f43e541b3e",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
