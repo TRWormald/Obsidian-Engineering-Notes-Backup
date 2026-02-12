@@ -50,9 +50,19 @@
               "icon": "lucide-file",
               "title": "4) Design Point & Off Design Performance Part 2"
             }
+          },
+          {
+            "id": "8d48b8adf4c89f45",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ffc6500fb4e3720b",
@@ -65,10 +75,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
-                "page": 18,
+                "page": 12,
                 "left": -4,
-                "top": 183,
-                "zoom": 0.6
+                "top": 88,
+                "zoom": 1.0694444444444444
               },
               "icon": "lucide-file-text",
               "title": "Lecture 4 - Design Point, and Off-Design Performance Part 2"
@@ -306,7 +316,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "aa0ece5009260421",
+  "active": "8d48b8adf4c89f45",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/4) Design Point & Off Design Performance Part 2.md",
