@@ -7,7 +7,7 @@ The difference between these two lengths is called the **Propeller Slip**.
 If the propeller blade has a radial twist such that all stations have the same Geometric Pitch the propeller is described as a **Constant Pitch Propeller**, as shown below:
 ![[Pasted image 20260216110932.png|centre|600]]
 
-In this case $\beta$ is the angle to the horizontal and $\phi$ is the inflow angle. We can see that $P$ is described by $\beta$ and $E$ is described by $\phi$.
+In this case $\beta$ is the angle to the horizontal (pitch angle) and $\phi$ is the inflow angle. We can see that $P$ is described by $\beta$ and $E$ is described by $\phi$.
 
 By combining *Momentum Theory* and *Blade Element Analysis* we can determine some basic design parameters:
 
@@ -20,4 +20,5 @@ $$\tan\phi=\frac{V}{2\pi rn}~\left(=\frac{V}{2\pi rn}\frac{D}{D}=\frac{JD}{2\pi 
 Since the angle of incidence $\alpha=\beta-\phi$, then:
 $$\alpha=\arctan\frac{P}{2\pi r}-\arctan\frac{JD}{2\pi r}$$
 When $P=JD$ (i.e. when $J=P/D$) the incidence along the entire blade is zero and the blade produces zero lift. (In practice it is unusual for all the radial locations of a blade to have the same pitch)
+*(Note that P is Geometric Pitch, D is the Diameter of the Rotor, J is the Advance Ratio ($J=V/nD$), and r is the radius from the centre of the Rotor)*
 
