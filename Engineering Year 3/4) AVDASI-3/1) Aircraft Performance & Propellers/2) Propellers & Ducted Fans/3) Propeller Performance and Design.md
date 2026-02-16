@@ -22,3 +22,18 @@ $$\alpha=\arctan\frac{P}{2\pi r}-\arctan\frac{JD}{2\pi r}$$
 When $P=JD$ (i.e. when $J=P/D$) the incidence along the entire blade is zero and the blade produces zero lift. (In practice it is unusual for all the radial locations of a blade to have the same pitch)
 *(Note that P is Geometric Pitch, D is the Diameter of the Rotor, J is the Advance Ratio ($J=V/nD$), and r is the radius from the centre of the Rotor)*
 
+**This means that as you increase speed your thrust will reduce, and when your thrust becomes zero you reach your maximum speed.**
+
+### Design for Optimum Incidence
+In practice it is unusual for all the radial locations of a blade to have the same pitch. In theory the radial twist of the blade can be such that the angle of incidence is constant along it's length (for a particular $J$) so that the entire blade can operate at it's best $L/D$.
+For the incidence to remain constant along the length of the blade, the Geometric Blade Pitch Angle ($\beta$) for each radial station can be determined as follows:
+$$\beta=\alpha+\phi$$
+Thus:
+$$\tan\beta=\tan(\alpha+\phi)=\frac{\tan\alpha+\tan\phi}{1-\tan\alpha\tan\phi}$$
+But:
+$$\tan\beta=\frac{P}{2\pi r}$$
+So:
+$$P=2\pi r\frac{\tan\alpha+ JD/ 2\pi r}{1-(JD /2\pi r)\tan\alpha}$$
+Using the dimensionless quantities:
+$$y=\frac{P}{D}~~~and~~~x=\frac{2r}{D}$$
+$$y=\pi x\frac{\tan\alpha+(J/ \pi x)}{1-J\tan\alpha/\pi x}=J\frac{1+\pi x\tan\alpha /J}{1-J\tan\alpha/\pi x}$$
