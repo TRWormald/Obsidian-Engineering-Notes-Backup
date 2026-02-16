@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 4.pdf",
-                "page": 13,
-                "left": -5,
-                "top": 180,
-                "zoom": 0.69
+                "page": 6,
+                "left": -4,
+                "top": 540,
+                "zoom": 0.9301470588235294
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 4"
@@ -42,8 +42,19 @@
               "icon": "lucide-file",
               "title": "4) Sustainable ATC & ATM, Ground and Airport Operations"
             }
+          },
+          {
+            "id": "e2465dea259e29fc",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,7 +286,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4586a913846a6fd8",
+  "active": "e2465dea259e29fc",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260212131345.png",
     "Backend/Images & Attachments/Pasted image 20260212131335.png",
