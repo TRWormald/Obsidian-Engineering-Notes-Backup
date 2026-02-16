@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f857b47a80716d0e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Prop Lecture 3&4 - Propeller Performance and Design"
-            }
-          },
-          {
-            "id": "e5469b2d4e0f30b4",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
-            }
-          },
-          {
             "id": "962126863a60a607",
             "type": "leaf",
             "state": {
@@ -45,8 +21,29 @@
               "title": "3) Propeller Performance and Design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "0b98db80159b365b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f857b47a80716d0e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
+                "page": 5,
+                "left": -35,
+                "top": 226,
+                "zoom": 0.7
+              },
+              "icon": "lucide-file-text",
+              "title": "Prop Lecture 3&4 - Propeller Performance and Design"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -277,10 +275,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e5469b2d4e0f30b4",
+  "active": "962126863a60a607",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
+    "Backend/Images & Attachments/Pasted image 20260216110932.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 4.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/4) Sustainable ATC & ATM, Ground and Airport Operations.md",
     "Backend/Images & Attachments/Pasted image 20260212131345.png",
@@ -295,7 +294,6 @@
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/4) Design Point & Off Design Performance Part 2.md",
-    "Backend/Images & Attachments/Pasted image 20260210112641.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
@@ -325,7 +323,6 @@
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
     "Engineering Year 1/AVDASI/Aeronautics/Range/Breguet Range - Jet.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 1 - Fundamental Theory/5) Numerical Stability/2) Discrete Numerical Schemes.md",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/Part 2 - Applied Concepts/16) Parallel Processing/3) Parallel Decomposition and Timings.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
