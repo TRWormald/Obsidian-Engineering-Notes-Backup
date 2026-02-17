@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "77a0c9e6ea297ca7",
+        "id": "7128cabcbfc59015",
         "type": "tabs",
         "children": [
           {
-            "id": "962126863a60a607",
+            "id": "1370e9cd9aae0860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Propeller Performance and Design"
+              "title": "5) Airframe Integration"
             }
           }
         ]
       },
       {
-        "id": "0b98db80159b365b",
+        "id": "4ff0c78184c9806b",
         "type": "tabs",
         "children": [
           {
-            "id": "f857b47a80716d0e",
+            "id": "a0515fdd8614c2b6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
-                "page": 24,
-                "left": -4,
-                "top": 523,
-                "zoom": 0.7
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
+                "page": 7,
+                "left": 4,
+                "top": 242,
+                "zoom": 0.6
               },
               "icon": "lucide-file-text",
-              "title": "Prop Lecture 3&4 - Propeller Performance and Design"
+              "title": "Lecture 5 - Airframe Integration"
             }
           }
         ]
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -274,13 +275,17 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f857b47a80716d0e",
+  "active": "1370e9cd9aae0860",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260217110958.png",
+    "Backend/Images & Attachments/Pasted image 20260217110823.png",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
     "Engineering Year 2/1) Aerodynamics/5) Labs/Aero Lab Info & Notes.pdf",
     "Engineering Year 2/1) Aerodynamics/5) Labs/Lab 2 Notes.md",
     "Engineering Year 2/1) Aerodynamics/5) Labs/Lab 1 Notes.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Backend/Images & Attachments/Pasted image 20260216110932.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 4.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/4) Sustainable ATC & ATM, Ground and Airport Operations.md",
@@ -292,7 +297,6 @@
     "Backend/Images & Attachments/Pasted image 20260212131224.png",
     "Backend/Images & Attachments/Pasted image 20260212131125.png",
     "Backend/Images & Attachments/Pasted image 20260212130715.png",
-    "Backend/Images & Attachments/Pasted image 20260212130329.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/4) Design Point & Off Design Performance Part 2.md",
@@ -305,7 +309,6 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/3) Design Point & Off Design Performance.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
@@ -321,7 +324,6 @@
     "Engineering Year 1/Thermodynamics/The Internal Energy of an Ideal Gas.md",
     "Engineering Year 1/Thermodynamics/The Ideal Gas Law.md",
     "Engineering Year 1/Thermodynamics/The Fuel Combustion Equation.md",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
