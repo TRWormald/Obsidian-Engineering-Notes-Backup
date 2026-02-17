@@ -28,8 +28,31 @@ We need to consider the sources of drag on an aircraft, the image above shows wh
 ![[Pasted image 20260217110958.png|centre|500]]
 Thrust is the summation of the forces acting on the internal surfaces of the engine nacelle & pre-entry and post-exit stream-tubes from minus to positive infinity.
 
-Drag is the summation of the forces acting on the external surfaces of the nacell & pre-entry and post-exit stream-tubes from minus to positive infin
+Drag is the summation of the forces acting on the external surfaces of the nacelle & pre-entry and post-exit stream-tubes from minus to positive infinity.
+
+#### Installed Performance Definition
+![[Pasted image 20260217111254.png|centre]]
+It is important to differentiate between uninstalled and installed, you cannot treat an engine on a test stand as being representative of the final performance once it is installed on an aircraft.
+
+#### Accessories
+Jet engines have a large number of accessory systems which all need to be considered when it comes to cowlings:
+![[Pasted image 20260217111555.png|centre|500]]
+#### Example of Installed Performance Losses
+![[Pasted image 20260217111836.png|centre|500]]
+
 ### Nacelle Geometry
+#### Subsonic Nacelle Geometry
+![[Pasted image 20260217111640.png|centre|500]]
+#### Major Characteristics of the Forebody
+![[Pasted image 20260217111710.png|centre|500]]
+#### Intake Flow Fields
+![[Pasted image 20260217111802.png|centre|500]]
+#### Nacelle Forebody Drag Characteristics
+![[Pasted image 20260217112004.png|centre]]
 
-### Installed Drag
+#### Types of Nacelle
+![[Pasted image 20260217112024.png|centre]]
 
+#### Integrated Nozzle vs Separate Jets for Bypass Engines
+![[Pasted image 20260217112109.png|centre]]
+There are trade-offs between both designs, you shift drag from one area to others, as well as the potential to reduce noise with an integrated nozzle.
