@@ -56,3 +56,28 @@ Jet engines have a large number of accessory systems which all need to be consid
 #### Integrated Nozzle vs Separate Jets for Bypass Engines
 ![[Pasted image 20260217112109.png|centre]]
 There are trade-offs between both designs, you shift drag from one area to others, as well as the potential to reduce noise with an integrated nozzle.
+![[Pasted image 20260217113045.png|centre]]
+
+#### Flow Field of an Underwing Installation
+![[Pasted image 20260217113117.png|centre]]
+
+#### Drag of Close-Coupled Underwing Nacelles
+![[Pasted image 20260217113153.png|centre]]
+#### Inlet Distortion
+![[Pasted image 20260217113433.png|centre]]
+
+![[Pasted image 20260217113449.png|centre]]
+#### Underwing Installation: Critical Geometry
+![[Pasted image 20260217113511.png|centre]]
+
+#### Non-Aerodynamic Design Considerations
+![[Pasted image 20260217113544.png|centre]]
+
+#### Fuselage Mounted Nacelles
+![[Pasted image 20260217113731.png|centre]]
+
+#### Comparison of Underwing vs Rear Engines
+![[Pasted image 20260217113800.png|centre|500]]
+
+#### Engine Integration Issues
+![[Pasted image 20260217113933.png|centre|600]]
