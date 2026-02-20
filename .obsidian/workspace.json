@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "5) Airframe Integration"
             }
+          },
+          {
+            "id": "8022246c6ff8ff1c",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ff0c78184c9806b",
@@ -34,10 +45,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
-                "page": 40,
-                "left": -23,
-                "top": 181,
-                "zoom": 0.55
+                "page": 38,
+                "left": -4,
+                "top": 288,
+                "zoom": 1.0541666666666667
               },
               "icon": "lucide-file-text",
               "title": "Lecture 5 - Airframe Integration"
@@ -275,7 +286,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "1370e9cd9aae0860",
+  "active": "8022246c6ff8ff1c",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260217113933.png",
     "Backend/Images & Attachments/Pasted image 20260217113800.png",
