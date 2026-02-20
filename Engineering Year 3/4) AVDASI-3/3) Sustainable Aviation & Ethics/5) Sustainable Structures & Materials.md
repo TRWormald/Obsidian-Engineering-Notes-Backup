@@ -40,7 +40,10 @@ Current polymer matrix composites use thermoset resins which are not recyclable 
 ![[Pasted image 20260220140050.png|centre]]
 ### Non-Contact Liquid Moulding
 ![[Pasted image 20260220140110.png|centre]]
-### Cost & Weight Com
+### Cost & Weight Comparisons
+![[Pasted image 20260220140127.png|centre]]
+## Thermoplastics
+
 
 
 
