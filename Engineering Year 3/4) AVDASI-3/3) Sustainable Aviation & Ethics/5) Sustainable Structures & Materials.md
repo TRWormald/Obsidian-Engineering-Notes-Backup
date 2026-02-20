@@ -43,7 +43,6 @@ Current polymer matrix composites use thermoset resins which are not recyclable 
 ### Cost & Weight Comparisons
 ![[Pasted image 20260220140127.png|centre]]
 ## Thermoplastics
-
-
+The aerospace industry is embracing thermoplastics due to their reusability. S
 
 
