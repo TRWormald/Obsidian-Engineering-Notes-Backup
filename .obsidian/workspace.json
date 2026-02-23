@@ -21,13 +21,24 @@
               "icon": "lucide-file",
               "title": "5) Sustainable Structures & Materials"
             }
+          },
+          {
+            "id": "938c1bb355be2f84",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e388b7d009e050b7",
         "type": "tabs",
-        "dimension": 52.57595772787318,
+        "dimension": 52.57595772787319,
         "children": [
           {
             "id": "85df345d1c4bf8eb",
@@ -36,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
-                "page": 17,
-                "left": -15,
-                "top": 420,
-                "zoom": 0.71
+                "page": 38,
+                "left": -4,
+                "top": 252,
+                "zoom": 0.9436274509803921
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 5"
@@ -277,22 +288,23 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "499b94db4762716a",
+  "active": "938c1bb355be2f84",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260220144033.png",
+    "Backend/Images & Attachments/Pasted image 20260220144012.png",
+    "Backend/Images & Attachments/Pasted image 20260220143959.png",
+    "Backend/Images & Attachments/Pasted image 20260220143947.png",
+    "Backend/Images & Attachments/Pasted image 20260220143936.png",
+    "Backend/Images & Attachments/Pasted image 20260220143924.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/5) Sustainable Structures & Materials.md",
-    "Backend/Images & Attachments/Pasted image 20260220140127.png",
-    "Backend/Images & Attachments/Pasted image 20260220140110.png",
-    "Backend/Images & Attachments/Pasted image 20260220140050.png",
-    "Backend/Images & Attachments/Pasted image 20260220140031.png",
-    "Backend/Images & Attachments/Pasted image 20260220135938.png",
-    "Backend/Images & Attachments/Pasted image 20260220135452.png",
+    "Backend/Images & Attachments/Pasted image 20260220143900.png",
+    "Backend/Images & Attachments/Pasted image 20260220143553.png",
+    "Backend/Images & Attachments/Pasted image 20260220143532.png",
+    "Backend/Images & Attachments/Pasted image 20260220143458.png",
+    "Backend/Images & Attachments/Pasted image 20260220143219.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
-    "Backend/Images & Attachments/Pasted image 20260217113933.png",
-    "Backend/Images & Attachments/Pasted image 20260217113800.png",
-    "Backend/Images & Attachments/Pasted image 20260217113731.png",
-    "Backend/Images & Attachments/Pasted image 20260217113544.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",

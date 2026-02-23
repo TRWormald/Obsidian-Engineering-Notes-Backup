@@ -43,6 +43,48 @@ Current polymer matrix composites use thermoset resins which are not recyclable 
 ### Cost & Weight Comparisons
 ![[Pasted image 20260220140127.png|centre]]
 ## Thermoplastics
-The aerospace industry is embracing thermoplastics due to their reusability. S
+The aerospace industry is embracing thermoplastics due to their reusability. Some have improved mechanical properties over their thermoset counterparts PEEK and PTFE have benefits that are not seen in thermosets.
+
+### Sustainability Comparisons
+![[Pasted image 20260220143219.png|centre]]
+
+## Carbon Fibre Recycling
+### Aligned Carbon Fibres
+By recycling continuous carbon fibres into chopped short highly aligned carbon fibre you can achieve similar results to continuous fibre material.
+![[Pasted image 20260220143458.png|centre]]
+
+## 3D Composites
+### Commonly Used 3D Composites
+![[Pasted image 20260220143532.png|centre]]
+### 3D Woven Composites
+![[Pasted image 20260220143553.png|centre]]
+Advantages:
+- Out of plane properties
+- Formability
+- Reduced takt time
+- Z-directional thermal conductivity
+
+Properties of 3D composites
+- In plane properties (tensile, compressive, shear)
+	- Various types of defects are inadvertently created during the 3D weaving/braiding/stitching/pinning process
+	- Similar of slightly higher than an equivalent 2D material
+- Out of plane properties (CAI, bird strike, FOD etc)
+	- Significantly improved, with minimal compromise in in-plane properties
+		- Damage assessment of NCF, 2D and 3D woven composites under compression after multiple-impact using C-scan, X-ray, CAI & acoustic emission.
+
+## Distributed Manufacturing
+![[Pasted image 20260220143900.png|centre]]
+![[Pasted image 20260220143924.png|centre]]
+![[Pasted image 20260220143936.png|centre]]
+![[Pasted image 20260220143947.png|centre]]
+![[Pasted image 20260220143959.png|centre]]
+![[Pasted image 20260220144012.png|centre]]
+### Green & Sustainable Composite Structures for Aviation
+![[Pasted image 20260220144033.png|centre]]
+
+
+
+
+
 
 
