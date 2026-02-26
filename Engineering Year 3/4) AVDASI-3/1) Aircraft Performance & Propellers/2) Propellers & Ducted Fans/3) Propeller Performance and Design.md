@@ -52,3 +52,4 @@ $$J=\frac{V}{nD}$$
 $$C_{P}=\frac{P}{\rho n^{3} D^{5}}$$
 $$C_{T}=\frac{T}{\rho n^{2} D^4}$$
 $$\eta_{P}=\frac{TV}{P}=\frac{C_{T}\rho n^{2}D^{4}V}{C_{P}\rho n^{4}D^{5}}=\frac{C_{T}J}{C_{P}}$$
+Where $\eta$ is the propellor efficiency.
