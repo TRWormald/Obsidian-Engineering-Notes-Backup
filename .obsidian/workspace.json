@@ -4,56 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c2725b85c601794f",
+        "id": "b650a3a4b712031b",
         "type": "tabs",
-        "dimension": 47.42404227212681,
         "children": [
           {
-            "id": "499b94db4762716a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/5) Sustainable Structures & Materials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5) Sustainable Structures & Materials"
-            }
-          },
-          {
-            "id": "938c1bb355be2f84",
+            "id": "f484c0565396e621",
             "type": "leaf",
             "state": {
               "type": "task-board-view",
               "state": {},
               "icon": "brick-wall",
               "title": "Task Board"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e388b7d009e050b7",
-        "type": "tabs",
-        "dimension": 52.57595772787319,
-        "children": [
-          {
-            "id": "85df345d1c4bf8eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
-                "page": 38,
-                "left": -4,
-                "top": 252,
-                "zoom": 0.9436274509803921
-              },
-              "icon": "lucide-file-text",
-              "title": "SAE Lecture 5"
             }
           }
         ]
@@ -113,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -288,8 +248,15 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "938c1bb355be2f84",
+  "active": "f484c0565396e621",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+    "Engineering Year 3/3) FD & AC/2) Advanced Control/1) P&ID/0) Advanced Control - P&ID.pdf",
+    "Engineering Year 3/3) FD & AC/0) Intro to FD & AC.md",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/5) Sustainable Structures & Materials.md",
     "Backend/Images & Attachments/Pasted image 20260220144033.png",
     "Backend/Images & Attachments/Pasted image 20260220144012.png",
     "Backend/Images & Attachments/Pasted image 20260220143959.png",
@@ -297,12 +264,10 @@
     "Backend/Images & Attachments/Pasted image 20260220143936.png",
     "Backend/Images & Attachments/Pasted image 20260220143924.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/5) Sustainable Structures & Materials.md",
     "Backend/Images & Attachments/Pasted image 20260220143900.png",
     "Backend/Images & Attachments/Pasted image 20260220143553.png",
     "Backend/Images & Attachments/Pasted image 20260220143532.png",
     "Backend/Images & Attachments/Pasted image 20260220143458.png",
-    "Backend/Images & Attachments/Pasted image 20260220143219.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
@@ -316,13 +281,9 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/4) Design Point & Off Design Performance Part 2.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/3) Design Point & Off Design Performance.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
@@ -335,8 +296,6 @@
     "Engineering Year 1/Thermodynamics/Non-Flow Systems and their Equations/Non-Flow Cycles.md",
     "Engineering Year 1/Thermodynamics/The First Law of Thermodynamics.md",
     "Engineering Year 1/Thermodynamics/The Work Equation for Non-Constant Force.md",
-    "Engineering Year 1/Thermodynamics/The Internal Energy of an Ideal Gas.md",
-    "Engineering Year 1/Thermodynamics/The Ideal Gas Law.md",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
