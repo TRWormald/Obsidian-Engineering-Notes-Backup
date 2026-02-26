@@ -37,3 +37,18 @@ $$P=2\pi r\frac{\tan\alpha+ JD/ 2\pi r}{1-(JD /2\pi r)\tan\alpha}$$
 Using the dimensionless quantities:
 $$y=\frac{P}{D}~~~and~~~x=\frac{2r}{D}$$
 $$y=\pi x\frac{\tan\alpha+(J/ \pi x)}{1-J\tan\alpha/\pi x}=J\frac{1+\pi x\tan\alpha /J}{1-J\tan\alpha/\pi x}$$
+### Propeller Performance
+General Aviation (GA) propellers are purchased “off the shelf” to best match the engine and airframe characteristics. Such proprietary propellers are tested in controlled conditions over a range of advance ratios (J).
+
+These performance charts have a number of uses:
+- Comparing the performance of commercially available propellers
+- Choosing a propeller to suit a particular engine's power output characteristics
+- Establishing the best blade pitch setting for a flight mission
+- Determining the take-off or climb performance of an aircraft
+- Providing a measure in the development of a new propeller design
+
+Recalling the Coefficients used in the analysis of propeller performance:
+$$J=\frac{V}{nD}$$
+$$C_{P}=\frac{P}{\rho n^{3} D^{5}}$$
+$$C_{T}=\frac{T}{\rho n^{2} D^4}$$
+$$\eta_{P}=\frac{TV}{P}=\frac{C_{T}\rho n^{2}D^{4}V}{C_{P}\rho n^{4}D^{5}}=\frac{C_{T}J}{C_{P}}$$
