@@ -59,4 +59,20 @@ These all have a number of pros & cons:
 - Operating off the design point for the blade aerofoil
 - General increase in vibration, due to localised stalling
 
-### Contra-Rotational Coa
+### Contra-Rotational Coaxial Propeller
+Contra-Rotating Props are another good way of absorbing more power, this is where you introduce another set of blades that rotate in the opposite direction.
+**Pros**
+- Prevents T.O. yaw due to swirl effects
+- Prevents T.O. yaw due to inclined propeller disk (tail draggers only)
+- Prevents T.O. yaw due to differential wheel drag
+- Prevents a/c rotation induced yaw due to gyroscopic effects
+- Prevents a/c rotation induced roll due to engine torque
+- Aerodynamically more efficient
+**Cons**
+- Expensive initial and maintenance costs
+- High weight penalty
+- Complex pitch change mechanism
+
+### Propeller Moment
+This is the moment created about the centre of the propeller due to aerodynamic forces
+![[Pasted image 20260228181139.png|centre|500]]
