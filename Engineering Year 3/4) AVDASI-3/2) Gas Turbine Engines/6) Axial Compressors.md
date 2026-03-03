@@ -53,3 +53,17 @@ $$\Delta h_{0}=U(Cw_{2}-Cw_{1})$$
 ![[Pasted image 20260303112455.png]]
 ### Pressure & Velocity Changes Through an Axial Compressor
 ![[Pasted image 20260303112603.png]]
+### T-s Diagram for a Single Stage
+![[Pasted image 20260303112710.png|centre]]
+### Velocity Triangles
+**This is the most important plot to understand how a compressor works**
+![[Pasted image 20260303113309.png]]
+![[Pasted image 20260303113329.png]]
+#### Simple Blading Analysis
+From the velocity triangles:
+$$U/C_{a}=(\tan\beta_{1}+\tan\alpha_{1})=(\tan\beta_{2}+\tan\alpha_{2})$$
+By consideration of Angular Momentum (see the Euler Equation) it can be shown that:
+$$P_{ow}=\dot{m}\cdot U\cdot (C_{w2}-C_{w1})$$
+In terms of Axial Velocity and Air Angles:
+$$P_{ow}=\dot{m} \cdot U \cdot C_{a}(\tan\alpha_{2}-\tan\alpha_1)$$
+Or in terms of 
