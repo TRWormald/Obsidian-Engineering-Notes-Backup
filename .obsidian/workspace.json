@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "6) Axial Compressors"
             }
+          },
+          {
+            "id": "0087510a0bfb1d6b",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b1c6d83b3a356a8e",
@@ -36,8 +47,8 @@
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",
                 "page": 22,
                 "left": -4,
-                "top": 283,
-                "zoom": 0.61
+                "top": 290,
+                "zoom": 1.0694444444444444
               },
               "icon": "lucide-file-text",
               "title": "Lecture 6 - Axial Compressors"
@@ -275,7 +286,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "d985ea401f159b6f",
+  "active": "0087510a0bfb1d6b",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260303115304.png",
     "Backend/Images & Attachments/Pasted image 20260303115101.png",
