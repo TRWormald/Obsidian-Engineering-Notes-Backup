@@ -18,4 +18,38 @@ $$\eta_{pol}\frac{dT_{o}}{T_{o}}=\frac{\gamma}{\gamma-1}\frac{dp_{o}}{p_{o}}$$
 Which we can integrate from 1 to 2 to obtain:
 $$\frac{T_{O2}}{T_{O1}}=\left(\frac{p_{O2}}{p_{01}}\right)^\frac{\gamma-1}{\gamma\eta_{pol}}$$
 This is representative of aerodynamic quality and "technology level".
-###
+#### Isentropic Efficiency
+$$\eta_{isen}=\frac{T_{O2}'-T_{O1}}{T_{O2}-T_{O1}}$$
+The Overall Efficiency of compressors of identical aerodynamic quality reduces as overall pressure ratio increases. In a multi-stage axial compressor of equal aerodynamic quality, i.e. a similar $\Delta T_{O}$ per stage, the pressure ratio per stage decreases.
+![[Pasted image 20260303111340.png|centre]]
+#### Using Polytropic Efficiency
+The polytropic efficiency removes the penalty from higher pressure ratios and allows compressors of differing aerodynamic quality and pressure ratio to be compared.
+![[Pasted image 20260303111622.png]]
+### The Euler Work Equation
+This is applicable to both compressors and turbines.
+Consider the rotor stage below:
+![[Pasted image 20260303111814.png|246]]
+If we consider an elemental mass $\delta\dot{m}$ entering the rotor in steady flow conditions. In time $\delta t$ an equal mass must leave.
+
+The moment of momentum of the entering fluid at $r_{1}$ about the axis of rotation is:
+$$M_{1}=\delta \dot{{m}}\cdot r_{1}\cdot C_{w1}$$
+The corresponding moment of momentum of the leaving fluid at $r_2$:
+$$M_{2}=\delta\dot{m}\cdot r_{2}\cdot C_{w2}$$
+Since torque is the rate of change of the moment of momentum then:
+$$T=\dot{m}(r_{2}\cdot C_{w2}-r_{2}\cdot C_{w1})$$
+Where $C$ is the velocity of the fluid.
+
+**Power** is then given by the Euler Equation:
+$$P_{ow}=T\cdot \omega~~~~\&~~~~U=r\cdot\omega$$
+So then:
+$$P_{ow}=T\cdot\omega=\dot{m}(U_{2}\cdot C_{w2}-U_{1}\cdot C_{w1})$$
+Where $U_1$ and $U_2$ are the speed of the blade row at inlet & outlet.
+
+The work input per unit mass is equal to the change in stagnation enthalpy per unit mass:
+$$\Delta h_{0}=C_{p}(T_{02}-T_{01})=U_{2}\cdot C_{w2}-U_{1}\cdot C_{w1}$$
+In most cases we can assume that $r_{1}=r_{2}$ and hence $U_{1}=U_{2}=U$:
+$$\Delta h_{0}=U(Cw_{2}-Cw_{1})$$
+### Typical Axial Compressor Layout
+![[Pasted image 20260303112455.png]]
+### Pressure & Velocity Changes Through an Axial Compressor
+![[Pasted image 20260303112603.png]]
