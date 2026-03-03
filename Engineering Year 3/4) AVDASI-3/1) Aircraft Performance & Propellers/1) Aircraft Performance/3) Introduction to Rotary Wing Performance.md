@@ -87,5 +87,12 @@ $$FoM=\frac{\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}}{k\frac{C_{T}^\frac{3}{2}}{\sqrt{
 The fuel flow for a power plant delivering a power $P$:
 $$m_{f}=SFC\cdot P$$
 The weight loss due to fuel consumption:
-$$\frac{dW}{dt}=-\frac$$
+$$\frac{dW}{dt}=-\frac{dW_{f}}{dt}=-g \cdot SFC\cdot P=-g\cdot SFC \cdot \rho A(\Omega R)^{3}C_{p}$$
+We also have:
+$$\frac{dW}{dT}=\frac{dT}{dt}=\rho A(\Omega R)^{2}C_{T}$$
+Therefore, the endurance can be given as:
+$$E=\frac{1}{g\cdot SFC}\frac{1}{\Omega R}\int_{end}^{initial} \frac{dC_{T}}{C_{P}}$$
+## Helicopter Performance in Forward Flight 
+### Induced Velocity in Translational Flight
+
 
