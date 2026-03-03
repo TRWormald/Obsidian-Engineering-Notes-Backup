@@ -66,4 +66,27 @@ By consideration of Angular Momentum (see the Euler Equation) it can be shown th
 $$P_{ow}=\dot{m}\cdot U\cdot (C_{w2}-C_{w1})$$
 In terms of Axial Velocity and Air Angles:
 $$P_{ow}=\dot{m} \cdot U \cdot C_{a}(\tan\alpha_{2}-\tan\alpha_1)$$
-Or in terms of 
+Or in terms of $\beta_1$:
+$$P_{ow}=\dot{m} \cdot U \cdot C_{a}(\tan\beta_{1}-\tan\beta_{2}) $$
+The input energy will be absorbed in raising pressure and overcoming frictional losses. Regardless of efficiency, power input must equal the raise in stagnation temperature of the stage.
+![[Pasted image 20260303114259.png|centre]]
+### Factors Effecting Stage Pressure Ratio
+![[Pasted image 20260303114322.png|centre]]
+### Compressor Reaction
+The Reaction, R, is defined as:
+$$R=\frac{\text{Static Enthalpy Rise in Rotor}}{\text{Static Enthalpy Rise in Stage}}=\frac{\Delta h_{rotor}}{\Delta h_{stage}}=\frac{\Delta T_{rotor}}{\Delta T_{stage}}$$
+Because at $$\Delta T_{stage}=\Delta T_{0}= T_{03}-T_{01}=T_{02}-T_{01}$$
+If we assume $C1=C3$, so:
+$$R=\frac{\Delta T_{rotor}}{\Delta T_{0}}$$
+And, from previously:
+$$\Delta T_{0}=\frac{U\cdot C_a}{C_{p}}(\tan\beta_{1}-\tan\beta_{2})$$
+$$\Delta T_{rotor}=\Delta T_{0}-\frac{1}{2C_{p}}(C_{2}^{2}-C_{1}^{2})$$
+With reference to the velocity triangles and use of trig:
+$$R=\frac{C_{a}}{2U}(\tan\beta_{1}+\tan\beta_{2})$$
+**If the reaction is >50% then the majority of the static pressure rise is being done in the rotor**.
+**If the reaction <50% then the majority of the static pressure rise is being done in the stator.**
+
+### Blade Spacing and Blockage
+![[Pasted image 20260303115101.png|centre]]
+### Dimensional Relationships
+![[Pasted image 20260303115304.png|centre]]
