@@ -69,6 +69,23 @@ Where $V_{F}$ is the helicopter forward speed and $\alpha$ is the angle of attac
 **The Inflow Ratio**:
 $$\lambda=\frac{V_{V}+v}{\Omega R}$$
 Where $V_{V}$ is the vertical speed of the helicopter. In hover $\lambda = \frac{v}{\Omega R}$.
-### The Figure of Merit
 
+### The Figure of Merit
+We have previously seen:
+$$FoM=\frac{Tv}{P}=\frac{C_T}{C_{P}}\lambda=\frac{1}{\sqrt{2}}\frac{C_{T}^\frac{3}{2}}{C_{P}}$$
+For ideally twisted blades:
+$$C_{P}=\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}+\frac{\sigma \delta}{8}$$
+Therefore the FoM is:
+$$FoM=\frac{\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}}{\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}+\frac{\sigma \delta}{8}}$$
+#### The FoM for General Cases
+$$C_{P}=k\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}+\frac{\sigma\delta}{8}$$
+Where $k$ is the induced power correction factor (k=1.1 to 1.15).
+$$FoM=\frac{\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}}{k\frac{C_{T}^\frac{3}{2}}{\sqrt{2}}+\frac{\sigma\delta}{8}}$$
+#### Maximising the Figure of Merit
+![[Pasted image 20260303191525.png|centre]]
+### Endurance
+The fuel flow for a power plant delivering a power $P$:
+$$m_{f}=SFC\cdot P$$
+The weight loss due to fuel consumption:
+$$\frac{dW}{dt}=-\frac$$
 
