@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "3) Introduction to Rotary Wing Performance"
             }
+          },
+          {
+            "id": "177fec0b664a668b",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "57db92c92684d71a",
@@ -51,10 +61,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 3 - Introduction to RW Performance.pdf",
-                "page": 29,
-                "left": 83,
-                "top": 228,
-                "zoom": 0.66
+                "page": 39,
+                "left": -4,
+                "top": 4,
+                "zoom": 1.0694444444444444
               },
               "icon": "lucide-file-text",
               "title": "AP Lecture 3 - Introduction to RW Performance"
@@ -292,21 +302,21 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4cd11437dea01522",
+  "active": "177fec0b664a668b",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260303194250.png",
+    "Backend/Images & Attachments/Pasted image 20260303194236.png",
+    "Backend/Images & Attachments/Pasted image 20260303194220.png",
+    "Backend/Images & Attachments/Pasted image 20260303194200.png",
+    "Backend/Images & Attachments/Pasted image 20260303194139.png",
+    "Backend/Images & Attachments/Pasted image 20260303193954.png",
+    "Backend/Images & Attachments/Pasted image 20260303193645.png",
     "Backend/Images & Attachments/Pasted image 20260303191525.png",
     "Backend/Images & Attachments/Pasted image 20260303185634.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 3 - Introduction to RW Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
     "Backend/Images & Attachments/Pasted image 20260303185619.png",
     "Backend/Images & Attachments/Pasted image 20260303185252.png",
-    "Backend/Images & Attachments/Pasted image 20260303185223.png",
-    "Backend/Images & Attachments/Pasted image 20260303184745.png",
-    "Backend/Images & Attachments/Pasted image 20260303184220.png",
-    "Backend/Images & Attachments/Pasted image 20260303184135.png",
-    "Backend/Images & Attachments/Pasted image 20260303183039.png",
-    "Backend/Images & Attachments/Pasted image 20260303182649.png",
-    "Backend/Images & Attachments/Pasted image 20260303182543.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",

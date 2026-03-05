@@ -94,5 +94,17 @@ Therefore, the endurance can be given as:
 $$E=\frac{1}{g\cdot SFC}\frac{1}{\Omega R}\int_{end}^{initial} \frac{dC_{T}}{C_{P}}$$
 ## Helicopter Performance in Forward Flight 
 ### Induced Velocity in Translational Flight
+![[Pasted image 20260303193645.png|centre]]
+### Induced Velocity in Translational Flight
+![[Pasted image 20260303193954.png|centre]]
+### Power of the Main Rotor in Forward Flight
+![[Pasted image 20260303194139.png|centre|532]]
 
-
+### Breakdown of Helicopter Power
+![[Pasted image 20260303194200.png|centre]]
+### Effects of Weight and Altitude on Power
+![[Pasted image 20260303194220.png|centre]]
+### Maximum Range and Maximum Endurance
+![[Pasted image 20260303194236.png|centre]]
+### Payload Range Diagram
+![[Pasted image 20260303194250.png|centre]]
