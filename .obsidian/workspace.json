@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
-                "page": 6,
-                "left": -43,
-                "top": 105,
-                "zoom": 0.63
+                "page": 16,
+                "left": -23,
+                "top": 234,
+                "zoom": 0.66
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 6"
@@ -277,6 +277,9 @@
   },
   "active": "9cb1c5f81ded629e",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260305132500.png",
+    "Backend/Images & Attachments/Pasted image 20260305132432.png",
+    "Backend/Images & Attachments/Pasted image 20260305132039.png",
     "Backend/Images & Attachments/Pasted image 20260305131208.png",
     "Backend/Images & Attachments/Pasted image 20260305130923.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
@@ -291,9 +294,6 @@
     "Backend/Images & Attachments/Pasted image 20260303194220.png",
     "Backend/Images & Attachments/Pasted image 20260303194200.png",
     "Backend/Images & Attachments/Pasted image 20260303194139.png",
-    "Backend/Images & Attachments/Pasted image 20260303193954.png",
-    "Backend/Images & Attachments/Pasted image 20260303193645.png",
-    "Backend/Images & Attachments/Pasted image 20260303191525.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",
     "Untitled.md",
