@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
-                "page": 17,
-                "left": -174,
-                "top": 324,
-                "zoom": 0.72
+                "page": 19,
+                "left": 186,
+                "top": 295,
+                "zoom": 1.94
               },
               "icon": "lucide-file-text",
               "title": "Lecture 1 - Intro to Gas Turbines"
@@ -45,9 +45,9 @@
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
                 "page": 1,
-                "left": -193,
-                "top": 219,
-                "zoom": 0.7
+                "left": -408,
+                "top": 401,
+                "zoom": 0.53
               },
               "icon": "lucide-file-text",
               "title": "Lecture 2 - Fundamentals"
@@ -117,7 +117,8 @@
               "title": "Lecture 6 - Axial Compressors"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,10 +349,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4866040054c3b520",
+  "active": "600a6c6883350a51",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
