@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "4) Rotary Wing Performance Design Analysis"
             }
+          },
+          {
+            "id": "b798667dd61dac34",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "18c3dd8b520af73f",
@@ -34,10 +45,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
-                "page": 15,
-                "left": 119,
-                "top": 167,
-                "zoom": 0.8
+                "page": 18,
+                "left": -4,
+                "top": 389,
+                "zoom": 1.0694444444444444
               },
               "icon": "lucide-file-text",
               "title": "AP Lecture 4 - RW Performance Design Analysis"
@@ -275,7 +286,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "1d53fa1c35bcc726",
+  "active": "b798667dd61dac34",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260309114012.png",
     "Backend/Images & Attachments/Pasted image 20260309113955.png",

@@ -80,3 +80,20 @@ A range of blade aerodynamic technologies are available:
 ![[Pasted image 20260309114012.png|488]]
 
 ##### Blade Number vs Blade Chord
+Knowing the blade area the remaining blade sizing choice is to select the blade chord and the number of blades.
+
+If the blade chord is too low the blade aspect will be high. High aspect ratio blades can lead to low blade torsional stiffness with tendency towards rotor instabilities and handling problems. (Typically AR is limited to <21 for blades).
+
+A large blade chord will lead to higher profile power levels, a higher blade mass and increased hub mass to withstand higher centrifugal loads. (A rotor weight limit is typically prescribed)
+It will also mean that you need fewer blades, however vibration increases with fewer blades.
+
+Conversely, too many blades will result in a lower chord and a potentially unacceptably high aspect ratio.
+
+Therefore a balanced decision should be based upon a rotor parametric variational analysis of:
+- Vibration
+- Rotor mass
+- Aspect Ratio
+- Rotational inertia (for auto-rotational capability)
+
+Once the rotor dimensions have been fixed the structural design of the rotor can be defined.
+
