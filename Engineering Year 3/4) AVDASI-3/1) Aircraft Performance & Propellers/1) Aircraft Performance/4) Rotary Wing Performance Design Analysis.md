@@ -54,11 +54,29 @@ And then subsequently:
 - Blade area is to be defined on the basis of achieving a forward flight envelope to meet specification requirements. This defines the parameter which is the product of blade chord and blade number.
 
 ##### Rotor Diameter
-
+With an initial estimate of rotor area, rotor diameter is based on achieving the specified hover performance.
+Blade radius can also be constrained by other limitations, e.g. fuselage length, transportation and stowage requirements, restricted landing zones, etc.
+Relatively small rotor diameters will result in high Disc Loadings, wake velocities, and hover powers
+Relatively large rotor diameters will require increased fuselage length (for adequate rotor separation) and hence higher aircraft weight.
 ##### Rotor Tip Speed
-
+Rotor tip speed must be sufficiently high to provide the requisite rotor performance.
+Rotor tip speed must be constrained to provide acceptable noise levels to meet certification requirements
+Relatively low rotor speeds will:
+- Increase rotor torque levels and will therefore penalise transmission design
+- Require increased blade area (hence weight) to meet performance requirements
+Relatively high rotor speeds will:
+- Generate unacceptable noise levels
+- Result in unacceptably high Mach Numbers at high speed conditions on the advancing blade tip
+![[Pasted image 20260309113707.png|329]]
 ##### Rotor Blade Area
-
+The total blade area is defined on the basis of achieving the required thrust and forward speed envelope.
+The blade loading $C_{w}/s$ is defined as:
+$$C_{w}/s=\frac{T}{0.5 \rho Nc R(\Omega R)^{2}}$$
+A range of blade aerodynamic technologies are available:
+- A low level aerodynamic technology will result in increased blade area, drag and weight.
+- Beware that an advanced aerodynamic technology may lead to inadequate blade area and hence rotational inertial for auto-rotation purposes.
+![[Pasted image 20260309113955.png|507]]
 ##### Rotor Blade Technology
+![[Pasted image 20260309114012.png|488]]
 
 ##### Blade Number vs Blade Chord
