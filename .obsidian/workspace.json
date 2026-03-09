@@ -31,29 +31,6 @@
               "title": "Task Board"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "18c3dd8b520af73f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3cd2e38ff3564629",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
-                "page": 18,
-                "left": -4,
-                "top": 389,
-                "zoom": 1.0694444444444444
-              },
-              "icon": "lucide-file-text",
-              "title": "AP Lecture 4 - RW Performance Design Analysis"
-            }
-          }
         ]
       }
     ],
@@ -286,7 +263,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b798667dd61dac34",
+  "active": "1d53fa1c35bcc726",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260309114012.png",
     "Backend/Images & Attachments/Pasted image 20260309113955.png",
