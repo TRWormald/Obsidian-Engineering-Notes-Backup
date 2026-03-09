@@ -49,4 +49,16 @@ And then subsequently:
 
 ##### Rotor Sizing Overview
 - Rotor diameter is primarily defined to optimise hover performance
-- 
+- Rotor tip speed is defined on the basis of providing the requisite rotor performance and providing acceptable noise levels and Mach number limits
+- The selection of blade aerodynamic technology will influence the required total blade area
+- Blade area is to be defined on the basis of achieving a forward flight envelope to meet specification requirements. This defines the parameter which is the product of blade chord and blade number.
+
+##### Rotor Diameter
+
+##### Rotor Tip Speed
+
+##### Rotor Blade Area
+
+##### Rotor Blade Technology
+
+##### Blade Number vs Blade Chord
