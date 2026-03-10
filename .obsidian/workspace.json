@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "b798667dd61dac34",
+            "id": "e133e5a946ad3ef3",
             "type": "leaf",
             "state": {
               "type": "task-board-view",
@@ -30,8 +30,19 @@
               "icon": "brick-wall",
               "title": "Task Board"
             }
+          },
+          {
+            "id": "b798667dd61dac34",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "task-board-view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,7 +274,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "1d53fa1c35bcc726",
+  "active": "e133e5a946ad3ef3",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260309114012.png",
     "Backend/Images & Attachments/Pasted image 20260309113955.png",
