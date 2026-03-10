@@ -4,45 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "379f2098de240c09",
+        "id": "b6ada31f953593ea",
         "type": "tabs",
         "children": [
           {
-            "id": "1d53fa1c35bcc726",
+            "id": "d310236b1ed74d7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+                "page": 6,
+                "left": -49,
+                "top": 153,
+                "zoom": 0.89
               },
-              "icon": "lucide-file",
-              "title": "4) Rotary Wing Performance Design Analysis"
+              "icon": "lucide-file-text",
+              "title": "Lecture 2 - Fundamentals"
             }
           },
           {
-            "id": "e133e5a946ad3ef3",
+            "id": "a235503452b75ab9",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
+                "page": 14,
+                "zoom": -0.022222222222222223
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 3 - Design Point, and Off-Design Performance"
             }
           },
           {
-            "id": "b798667dd61dac34",
+            "id": "6e33db20e07c161c",
             "type": "leaf",
             "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "task-board-view"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
+                "page": 12,
+                "left": -4,
+                "top": 96,
+                "zoom": 1.0694444444444444
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 4 - Design Point, and Off-Design Performance Part 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -274,8 +284,13 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e133e5a946ad3ef3",
+  "active": "d310236b1ed74d7e",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
     "Backend/Images & Attachments/Pasted image 20260309114012.png",
     "Backend/Images & Attachments/Pasted image 20260309113955.png",
     "Backend/Images & Attachments/Pasted image 20260309113707.png",
@@ -286,19 +301,13 @@
     "Backend/Images & Attachments/Pasted image 20260309110033.png",
     "Backend/Images & Attachments/Pasted image 20260309110011.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 3 - Introduction to RW Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/6) Sustainable Aerodynamics & Configurations.md",
     "Backend/Images & Attachments/Pasted image 20260305132500.png",
-    "Backend/Images & Attachments/Pasted image 20260305132432.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
