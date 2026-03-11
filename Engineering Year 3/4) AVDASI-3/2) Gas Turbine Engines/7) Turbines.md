@@ -14,3 +14,9 @@ In an impulse/reaction turbine the turbine blades converge and accelerate the ga
 ![[Pasted image 20260311121314.png]]
 ![[Pasted image 20260311121328.png]]
 ### The Axial Flow Turbine Stage
+![[Pasted image 20260311122429.png]]
+If we assume constant axial velocity:
+$$C_{a1}=C_{a2}=C_{a3}=C_{a}$$
+So:
+$$\frac{U}{C_{a}}=(\tan\alpha_{2}-\tan\beta_{2})=(\tan\beta_{3}-\tan\alpha_{3})$$
+The stage work
