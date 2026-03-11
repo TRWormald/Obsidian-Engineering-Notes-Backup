@@ -14,13 +14,21 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
-                "page": 6,
-                "left": -49,
-                "top": 153,
-                "zoom": 0.89
+                "page": 17,
+                "zoom": -0.022222222222222223
               },
               "icon": "lucide-file-text",
               "title": "Lecture 2 - Fundamentals"
+            }
+          },
+          {
+            "id": "366859ebe016e1f9",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
             }
           },
           {
@@ -53,7 +61,8 @@
               "title": "Lecture 4 - Design Point, and Off-Design Performance Part 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,7 +293,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "d310236b1ed74d7e",
+  "active": "366859ebe016e1f9",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
