@@ -20,30 +20,41 @@
               "icon": "lucide-file",
               "title": "7) Turbines"
             }
-          }
-        ]
-      },
-      {
-        "id": "bf22507504e9b4e3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "15ca12aaea44cade",
+            "id": "21e064e467ad65ec",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 7 - Turbines.pdf",
-                "page": 19,
-                "left": 136,
-                "top": 29,
-                "zoom": 0.97
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+                "page": 14,
+                "left": -486,
+                "top": 451,
+                "zoom": 0.58
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 7 - Turbines"
+              "title": "Lecture 2 - Fundamentals"
+            }
+          },
+          {
+            "id": "61553c3656288a65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
+                "page": 14,
+                "left": -4,
+                "top": 437,
+                "zoom": 1.0527777777777778
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 3 - Design Point, and Off-Design Performance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,8 +286,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2408049fb440c350",
+  "active": "21e064e467ad65ec",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Backend/Images & Attachments/Pasted image 20260311124543.png",
     "Backend/Images & Attachments/Pasted image 20260311124520.png",
     "Backend/Images & Attachments/Pasted image 20260311124425.png",
@@ -286,15 +300,11 @@
     "Backend/Images & Attachments/Pasted image 20260311121328.png",
     "Backend/Images & Attachments/Pasted image 20260311121314.png",
     "Backend/Images & Attachments/Pasted image 20260311120813.png",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 7 - Turbines.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
     "Backend/Images & Attachments/Pasted image 20260309114012.png",
-    "Backend/Images & Attachments/Pasted image 20260309113955.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 3 - Introduction to RW Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",
