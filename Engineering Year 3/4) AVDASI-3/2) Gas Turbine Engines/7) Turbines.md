@@ -11,6 +11,7 @@ In an impulse turbine the rotation is driven by the impulse of the gas flow only
 In an impulse/reaction turbine the turbine blades converge and accelerate the gas flow as it passes through the turbine.
 
 ### Turbine Velocity Triangles
+**Note that NGV stands for Nozzle Guide Vane**
 ![[Pasted image 20260311121314.png]]
 ![[Pasted image 20260311121328.png]]
 ### The Axial Flow Turbine Stage
@@ -43,4 +44,12 @@ A typical turbine cooling system is as follows:
 ![[Pasted image 20260311124543.png|403]]
 The cooling effectiveness of a blade can be calculated as:
 $$C.E.=\frac{T_{b}-T_{cr}}{T_{g~rel}-T_{cr}}$$
+Note that C.E. should be around 0.5 for modern engines.
 Where $T_{b}$ is the mean blade metal temperature, $T_{cr}$ is the cooling air temperature coming from the HP compressor, and $T_{g~rel}$ is the mean gas temperature coming from the combustor or previous stages.
+$T_b$ needs to be kept well below the melting point to increase lifespan.
+
+In high performance engines, HP turbines NGV's & Blades are nearly always cooled.
+Intermediate pressure and low pressure turbines may sometimes be cooled depending on the cycle.
+The designer will try and ensure as few stages as possible are cooled, as cooled turbine NGV's and blades are much more expensive than uncooled ones.
+
+For simple cycles and/or gas turbines the cycle may not demand cooled blades.
