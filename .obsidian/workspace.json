@@ -4,65 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ada31f953593ea",
+        "id": "2a77a52ac76fcfc2",
         "type": "tabs",
         "children": [
           {
-            "id": "d310236b1ed74d7e",
+            "id": "2408049fb440c350",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
-                "page": 17,
-                "zoom": -0.022222222222222223
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 2 - Fundamentals"
-            }
-          },
-          {
-            "id": "366859ebe016e1f9",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
-            }
-          },
-          {
-            "id": "a235503452b75ab9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
-                "page": 14,
-                "zoom": -0.022222222222222223
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 3 - Design Point, and Off-Design Performance"
-            }
-          },
-          {
-            "id": "6e33db20e07c161c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
-                "page": 12,
-                "left": -4,
-                "top": 96,
-                "zoom": 1.0694444444444444
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 4 - Design Point, and Off-Design Performance Part 2"
+              "icon": "lucide-file",
+              "title": "7) Turbines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "bf22507504e9b4e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ca12aaea44cade",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 7 - Turbines.pdf",
+                "page": 7,
+                "left": 9,
+                "top": 193,
+                "zoom": 0.61
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 7 - Turbines"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -293,12 +275,17 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "366859ebe016e1f9",
+  "active": "2408049fb440c350",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
+    "Backend/Images & Attachments/Pasted image 20260311121328.png",
+    "Backend/Images & Attachments/Pasted image 20260311121314.png",
+    "Backend/Images & Attachments/Pasted image 20260311120813.png",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 7 - Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
     "Backend/Images & Attachments/Pasted image 20260309114012.png",
     "Backend/Images & Attachments/Pasted image 20260309113955.png",
@@ -308,7 +295,6 @@
     "Backend/Images & Attachments/Pasted image 20260309110840.png",
     "Backend/Images & Attachments/Pasted image 20260309110818.png",
     "Backend/Images & Attachments/Pasted image 20260309110033.png",
-    "Backend/Images & Attachments/Pasted image 20260309110011.png",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 3 - Introduction to RW Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 6 - Axial Compressors.pdf",
@@ -316,9 +302,7 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/6) Sustainable Aerodynamics & Configurations.md",
-    "Backend/Images & Attachments/Pasted image 20260305132500.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Untitled.md",
@@ -339,7 +323,6 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
     "Engineering Year 2/2) Engineering Maths/1) Vector Calculus/2) Scalar Fields/Scalar Fields.md",
-    "Engineering Year 3/2) Structures & Materials/2) FEA Theory/1) Intro To FEA/5) The Principle of Virtual Work.md",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
