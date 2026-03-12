@@ -71,4 +71,9 @@ The main issue with hydrogen is its poor Volume Energy Density:
 ![[Pasted image 20260312134306.png]]
 Your options for increasing this is:
 - Storing at cryogenic temperatures
+	- Issues with cryogenic embrittlement
+	- Sloshing
 - Storing at high pressures
+	- Lower VED than LH2
+	- Serious safety issues (I love me a pressure bomb)
+![[Pasted image 20260312134533.png]]
