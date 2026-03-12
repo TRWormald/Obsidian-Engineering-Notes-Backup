@@ -46,4 +46,29 @@ They are all refined kerosine.
 - Very high mass energy density
 - Very high volume energy density
 - Easily available
-- All current engines & infrastructure is alligned with 
+- All current engines & infrastructure is aligned with kerosine usage
+**Against**
+- Unsustainable
+- Geopolitical concerns
+
+### SAF (Synthetic Aviation Fuel)
+Synthetic Aviation Fuel is an artificially produced form of jet fuel, the UK mandates 10% SAF in aviation fuel by 2030. 
+The advantage of SAF is that you can reuse the same infrastructure that you used for kerosine.
+Alternatively you could use Biomass derived synthesized paraffin kerosine. (Bio-kerosine)
+However bio-fuels are also questionable for environmental  sustainability, since they use farmland to generate the bio-mass that is required in their production.
+
+There have been a number of LCAs for SAF, e.g. CORSICA. which have analysed all of the stages of operation of aircraft using SAF, from feedstock cultivation to combustion.
+
+### Other Alternatives
+![[Pasted image 20260312134118.png]]
+### Hydrogen
+Hydrogen can be used in several ways:
+- Hydrogen + Atmospheric CO2 can be used to make SAF
+- Use in Hydrogen Fuel Cells
+- H2 Combustion Engines
+
+The main issue with hydrogen is its poor Volume Energy Density:
+![[Pasted image 20260312134306.png]]
+Your options for increasing this is:
+- Storing at cryogenic temperatures
+- Storing at high pressures
