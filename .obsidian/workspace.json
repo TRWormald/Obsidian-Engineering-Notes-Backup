@@ -41,8 +41,8 @@
             "state": {
               "type": "task-board-view",
               "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-ghost",
+              "title": "task-board-view"
             }
           },
           {
@@ -74,9 +74,19 @@
               "icon": "lucide-file",
               "title": "2) Reynolds Time-Averaging Concept"
             }
+          },
+          {
+            "id": "343cbf8e78212b80",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -308,7 +318,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "70261616225297ff",
+  "active": "343cbf8e78212b80",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
