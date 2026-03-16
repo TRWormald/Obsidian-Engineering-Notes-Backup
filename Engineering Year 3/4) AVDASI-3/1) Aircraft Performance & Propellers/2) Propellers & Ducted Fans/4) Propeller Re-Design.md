@@ -40,6 +40,8 @@ These all have a number of pros & cons:
 - Requires new hub assembly
 - Increases hub complexity, particularly for controllable or constant speed propellers
 - Expensive to modify and maintain
+- Increased weight
+- Flow interaction between blades
 
 #### Increase Propeller Blade Chord
 **Pros**
@@ -76,5 +78,5 @@ Contra-Rotating Props are another good way of absorbing more power, this is wher
 ### Propeller Moment
 This is the moment created about the centre of the propeller due to its rotation. As the propeller spins, centrifugal force acts on the "discrete masses" comprising the propeller blade and pulls them outwards from the hub.
 ![[Pasted image 20260228181139.png|centre|500]]
-Because the blade is tilted, these centrifugal forces don't pull in line with each other, they act as a couple and therefore generate a moment (the propeller moment).
+Because the blade is tilted, these centrifugal forces don't pull in line with each other, they act as a couple (once the forces are resolved) and therefore generate a moment (the propeller moment).
 This effectively makes the propeller want to "flatten" its pitch.

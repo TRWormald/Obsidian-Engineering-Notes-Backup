@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
-                "page": 26,
-                "left": -5,
-                "top": 235,
-                "zoom": 0.76
+                "page": 29,
+                "left": -4,
+                "top": 152,
+                "zoom": 1.0694444444444444
               },
               "icon": "lucide-file-text",
               "title": "Prop Lecture 3&4 - Propeller Performance and Design"
@@ -76,6 +76,16 @@
             }
           },
           {
+            "id": "e249c488a6d478d5",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
+          },
+          {
             "id": "51cf3c9c436e6e92",
             "type": "leaf",
             "state": {
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -322,7 +332,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "d919423a4e23b7da",
+  "active": "e249c488a6d478d5",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Backend/Images & Attachments/Pasted image 20260316112400.png",
