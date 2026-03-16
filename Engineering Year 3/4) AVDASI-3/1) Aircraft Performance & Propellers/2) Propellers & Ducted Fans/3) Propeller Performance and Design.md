@@ -53,3 +53,11 @@ $$C_{P}=\frac{P}{\rho n^{3} D^{5}}$$
 $$C_{T}=\frac{T}{\rho n^{2} D^4}$$
 $$\eta_{P}=\frac{TV}{P}=\frac{C_{T}\rho n^{2}D^{4}V}{C_{P}\rho n^{4}D^{5}}=\frac{C_{T}J}{C_{P}}$$
 Where $\eta$ is the propellor efficiency.
+
+### Performance Charts
+![[Pasted image 20260316110441.png|303]]
+The above is an example of a performance chart for a controllable pitch propeller. 
+
+The red lines indicate that if the pilot knows the available engine power ($C_{P}=0.22$) and the speed at which he/she wishes to fly ($J=1.4$), then propeller pitch ($\beta _{n}$) should be set to 40 degrees, and the available thrust, from the $C_T$ value (=0.125) can be determined.
+
+If the aircraft drag at this speed is known, then the rate of climb can also be calculated.
