@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "7) Sustainable Propulsion & Fuel Systems"
             }
+          },
+          {
+            "id": "a43626b6640b8df5",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1bbd8b2c97947aff",
@@ -34,10 +45,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
-                "page": 32,
-                "left": -51,
-                "top": 110,
-                "zoom": 0.62
+                "page": 31,
+                "left": -4,
+                "top": 12,
+                "zoom": 0.9436274509803921
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 7"
@@ -275,7 +286,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ad2ebfb754504d94",
+  "active": "a43626b6640b8df5",
   "lastOpenFiles": [
     "Backend/Images & Attachments/Pasted image 20260312134533.png",
     "Backend/Images & Attachments/Pasted image 20260312134306.png",
