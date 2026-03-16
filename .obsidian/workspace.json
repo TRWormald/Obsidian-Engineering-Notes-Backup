@@ -28,17 +28,33 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 407,
-                "zoom": 1.0694444444444444
+                "page": 22,
+                "left": -16,
+                "top": 78,
+                "zoom": 0.95
               },
               "icon": "lucide-file-text",
               "title": "Lecture 3 - Design Point, and Off-Design Performance"
             }
+          },
+          {
+            "id": "113355b741512ecd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
+                "page": 12,
+                "left": -4,
+                "top": 100,
+                "zoom": 1.0694444444444444
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 4 - Design Point, and Off-Design Performance Part 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,10 +285,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "6963b74822404f16",
+  "active": "113355b741512ecd",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/3) Design Point & Off Design Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
