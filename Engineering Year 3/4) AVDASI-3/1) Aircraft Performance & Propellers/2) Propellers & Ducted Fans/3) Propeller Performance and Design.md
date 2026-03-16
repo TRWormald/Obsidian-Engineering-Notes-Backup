@@ -37,6 +37,10 @@ $$P=2\pi r\frac{\tan\alpha+ JD/ 2\pi r}{1-(JD /2\pi r)\tan\alpha}$$
 Using the dimensionless quantities:
 $$y=\frac{P}{D}~~~and~~~x=\frac{2r}{D}$$
 $$y=\pi x\frac{\tan\alpha+(J/ \pi x)}{1-J\tan\alpha/\pi x}=J\frac{1+\pi x\tan\alpha /J}{1-J\tan\alpha/\pi x}$$
+### Experimental Results from Propeller Testing
+![[Pasted image 20260316112400.png]]
+Note how **thrust is constant at low flow velocities**. This is despite the fact that at low flow velocity the AoA is very high which would lead to stall in a typical aerofoil. However this neglects the role of the induced velocity, which decreases the AoA at low speeds, despite being negligible in comparison to the flow speed at higher velocities.
+
 ### Propeller Performance
 General Aviation (GA) propellers are purchased “off the shelf” to best match the engine and airframe characteristics. Such proprietary propellers are tested in controlled conditions over a range of advance ratios (J).
 
@@ -61,3 +65,9 @@ The above is an example of a performance chart for a controllable pitch propelle
 The red lines indicate that if the pilot knows the available engine power ($C_{P}=0.22$) and the speed at which he/she wishes to fly ($J=1.4$), then propeller pitch ($\beta _{n}$) should be set to 40 degrees, and the available thrust, from the $C_T$ value (=0.125) can be determined.
 
 If the aircraft drag at this speed is known, then the rate of climb can also be calculated.
+
+We can also display this information on a number of graphs for simplicity:
+![[Pasted image 20260316111351.png]]
+Here we see a graph of pitch angle vs the coefficient of thrust.
+![[Pasted image 20260316111519.png|350]]![[Pasted image 20260316111533.png|294]]
+We can also compare the advance ratio and power coefficient (left) and advance ratio and propellor efficiency (right).
