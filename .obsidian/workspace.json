@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "5) Airframe Integration"
             }
+          },
+          {
+            "id": "3bf059c346f7456b",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +263,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b6cae55b40f67f3e",
+  "active": "3bf059c346f7456b",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
