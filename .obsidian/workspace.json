@@ -8,50 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7e4dea96114d855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8) Combustors"
-            }
-          },
-          {
-            "id": "a3b6b40c4de0d032",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3cf0a28b5c8b0836",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05bbc3a486664d7c",
+            "id": "ac3f1b020ab85796",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 8 - Combustors.pdf",
-                "page": 18,
-                "left": -4,
-                "top": 2,
-                "zoom": 1.0694444444444444
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
+                "page": 1,
+                "left": -124,
+                "top": 544,
+                "zoom": 0.78
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 8 - Combustors"
+              "title": "Lecture 5 - Airframe Integration"
             }
           }
         ]
@@ -111,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -286,8 +254,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a3b6b40c4de0d032",
+  "active": "ac3f1b020ab85796",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
     "Backend/Images & Attachments/Pasted image 20260317112346.png",
     "Backend/Images & Attachments/Pasted image 20260317112327.png",
     "Backend/Images & Attachments/Pasted image 20260317112306.png",
@@ -298,12 +269,9 @@
     "Backend/Images & Attachments/Pasted image 20260317111654.png",
     "Backend/Images & Attachments/Pasted image 20260317111522.png",
     "Backend/Images & Attachments/Pasted image 20260317111225.png",
-    "Backend/Images & Attachments/Pasted image 20260317111134.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 8 - Combustors.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/3) Design Point & Off Design Performance.md",
