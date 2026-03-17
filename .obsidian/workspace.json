@@ -8,31 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6cae55b40f67f3e",
+            "id": "f7e4dea96114d855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5) Airframe Integration"
-            }
-          },
-          {
-            "id": "3bf059c346f7456b",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "title": "8) Combustors"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "3cf0a28b5c8b0836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05bbc3a486664d7c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 8 - Combustors.pdf",
+                "page": 2,
+                "left": -84,
+                "top": 307,
+                "zoom": 0.49
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 8 - Combustors"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -263,9 +275,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "f7e4dea96114d855",
   "lastOpenFiles": [
+    "Backend/Images & Attachments/Pasted image 20260317105948.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 8 - Combustors.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
@@ -293,7 +308,6 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 7 - Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 1 - Intro to Gas Turbines.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 4 - RW Performance Design Analysis.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/6) Sustainable Aerodynamics & Configurations.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
@@ -302,7 +316,6 @@
     "Engineering Year 3/3) FD & AC/0) Intro to FD & AC.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/5) Sustainable Structures & Materials.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 2/1) Aerodynamics/5) Labs/Lab 2 Notes.md",
     "Engineering Year 2/1) Aerodynamics/5) Labs/Lab 1 Notes.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/4) Sustainable ATC & ATM, Ground and Airport Operations.md",
@@ -310,7 +323,6 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/2) Policy, Regulations, and Ethics.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
