@@ -42,3 +42,23 @@ Typically this is done in stages, an initial combustion occurring at stoichiomet
 ### Types of Combustion System
 There have been three primary combustor designs:
 ![[Pasted image 20260317111522.png]]
+![[Pasted image 20260317111654.png]]
+![[Pasted image 20260317111733.png]]
+### Combustion Chamber Pressure Loss
+Pressure loss is caused by:
+- Rise in temperature due to combustion (fundamental loss)
+- Skin friction and turbulence (cold loss)
+
+Pressure loss factor:
+$$PLF=(P_{oA}-P_{oB}/ \frac{1}{2}\rho~C_{A}^{2})$$
+![[Pasted image 20260317112019.png]]Note that suffix A is the air at the inlet to the combustion chamber, whilst B refers to the products of combustion at the exit from the combustion chamber.
+### Combustion Efficiency
+![[Pasted image 20260317112202.png]]
+### Combustion Stability
+![[Pasted image 20260317112223.png]]
+### Uniform Turbine Temperature Traverse
+![[Pasted image 20260317112306.png]]
+### How to Cool the Flame Tube
+![[Pasted image 20260317112327.png]]
+### Reheat or Afterburner Systems
+![[Pasted image 20260317112346.png]]
