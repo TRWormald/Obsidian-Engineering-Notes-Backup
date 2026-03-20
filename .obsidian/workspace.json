@@ -14,16 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
-                "page": 1,
-                "left": -124,
-                "top": 544,
-                "zoom": 0.78
+                "page": 7,
+                "zoom": -0.022222222222222223
               },
               "icon": "lucide-file-text",
               "title": "Lecture 5 - Airframe Integration"
             }
+          },
+          {
+            "id": "465a825b4d4a4794",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +263,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ac3f1b020ab85796",
+  "active": "465a825b4d4a4794",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
