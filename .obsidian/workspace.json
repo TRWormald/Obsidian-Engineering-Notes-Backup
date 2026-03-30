@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "9) Costing & Commercial Aspects of Aircraft Design"
             }
-          },
-          {
-            "id": "4f400bdd1eef0a02",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fbe38519cb4122fa",
@@ -51,25 +40,8 @@
               "icon": "lucide-file",
               "title": "8) Recent Trends in the UAM & AAM Industry"
             }
-          },
-          {
-            "id": "7d5e9508742f7aab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
-                "page": 6,
-                "left": -4,
-                "top": 10,
-                "zoom": 0.9436274509803921
-              },
-              "icon": "lucide-file-text",
-              "title": "SAE Lecture 9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -301,8 +272,52 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4f400bdd1eef0a02",
+  "floating": {
+    "id": "6c7052b81f25136e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4e4c2f6feb844f10",
+        "type": "window",
+        "children": [
+          {
+            "id": "a9411cbd241974b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "039124efe2d67515",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
+                    "page": 251,
+                    "left": 125,
+                    "top": -221,
+                    "zoom": 0.71
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 341,
+        "y": 109,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "039124efe2d67515",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS 1.pdf",
     "Backend/Images & Attachments/Pasted image 20260320163050.png",
     "Backend/Images & Attachments/Pasted image 20260320163037.png",
     "Backend/Images & Attachments/Pasted image 20260320163028.png",
@@ -310,13 +325,11 @@
     "Backend/Images & Attachments/Pasted image 20260320163012.png",
     "Backend/Images & Attachments/Pasted image 20260320163003.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/8) Recent Trends in the UAM & AAM Industry.md",
     "Backend/Images & Attachments/Pasted image 20260320162859.png",
     "Backend/Images & Attachments/Pasted image 20260320162848.png",
     "Backend/Images & Attachments/Pasted image 20260320162836.png",
     "Backend/Images & Attachments/Pasted image 20260320162825.png",
-    "Backend/Images & Attachments/Pasted image 20260320162802.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
     "Untitled.md",
@@ -331,9 +344,7 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/4) Propeller Re-Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/7) Sustainable Propulsion & Fuel Systems.md",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/2) Reynolds Time-Averaging Concept.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
