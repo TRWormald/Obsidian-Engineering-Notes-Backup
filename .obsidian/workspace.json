@@ -272,51 +272,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "floating": {
-    "id": "6c7052b81f25136e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4e4c2f6feb844f10",
-        "type": "window",
-        "children": [
-          {
-            "id": "a9411cbd241974b7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "039124efe2d67515",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
-                    "page": 251,
-                    "left": 125,
-                    "top": -221,
-                    "zoom": 0.71
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 341,
-        "y": 109,
-        "width": 1025,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "039124efe2d67515",
+  "active": "6daa9cf6f9bb0a8e",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS 1.pdf",
     "Backend/Images & Attachments/Pasted image 20260320163050.png",
     "Backend/Images & Attachments/Pasted image 20260320163037.png",
