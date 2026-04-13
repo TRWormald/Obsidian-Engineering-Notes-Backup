@@ -4,64 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7b99bb5a8a318f",
+        "id": "555dc4abc6fc86c0",
         "type": "tabs",
         "children": [
           {
-            "id": "6daa9cf6f9bb0a8e",
+            "id": "0d18b88cfddf330f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
+                "page": 6,
+                "left": -61,
+                "top": 57,
+                "zoom": 0.55
               },
-              "icon": "lucide-file",
-              "title": "9) Costing & Commercial Aspects of Aircraft Design"
-            }
-          },
-          {
-            "id": "cdc00f9e6fcfb50d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
-            "id": "ae8f929edfdf9015",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-file-text",
+              "title": "Prop Lecture 5 - Propellers and Ducted Fans"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "fbe38519cb4122fa",
+        "id": "87c5df299d1b05c0",
         "type": "tabs",
         "children": [
           {
-            "id": "9337b4b45a7dfe1a",
+            "id": "ab7e4b54e1189b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/8) Recent Trends in the UAM & AAM Industry.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8) Recent Trends in the UAM & AAM Industry"
+              "title": "5) Propellers and Ducted Fans"
             }
           }
         ]
@@ -295,10 +274,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ae8f929edfdf9015",
+  "active": "0d18b88cfddf330f",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS 1.pdf",
     "Backend/Images & Attachments/Pasted image 20260320163050.png",
     "Backend/Images & Attachments/Pasted image 20260320163037.png",
@@ -325,7 +306,6 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/3) Design Point & Off Design Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/4) Propeller Re-Design.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/7) Sustainable Propulsion & Fuel Systems.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/7) Introduction to Turbulent Boundary Layers/2) Reynolds Time-Averaging Concept.md",
@@ -341,7 +321,6 @@
     "Engineering Year 2/1) Aerodynamics/5) Labs/Lab 1 Notes.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/4) Sustainable ATC & ATM, Ground and Airport Operations.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/4) Design Point & Off Design Performance Part 2.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
     "Engineering Year 3/5) RP-3/1) Research Project/Project Map.canvas",
     "Untitled.canvas",
     "HyPower/Untitled.canvas",
