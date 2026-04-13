@@ -75,4 +75,5 @@ We can also define propulsive thrust, which is the amount of thrust required to 
 $$T_{P}=T-(D^{*}-D)=T\left[1-\frac{2D}{\rho AV^{2}}\right]$$
 Since the drag $D$ (and $D^{*}$) is proportional to the square of the velocity, the propulsive thrust is a constant fraction of the apparent (or total) thrust (i.e. $\frac{T_{p}}{T}=\text{constant}$)
 
-### Effect of Propeller on Yaw & Pit
+### Effect of Propeller on Yaw & Pitch
+![[Pasted image 20260413113234.png]]
