@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
-                "page": 6,
-                "left": -61,
-                "top": 57,
-                "zoom": 0.55
+                "page": 9,
+                "left": -118,
+                "top": 411,
+                "zoom": 0.58
               },
               "icon": "lucide-file-text",
               "title": "Prop Lecture 5 - Propellers and Ducted Fans"
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055
+    "width": 239.51435470581055,
+    "collapsed": true
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -131,12 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 5) Propellers and Ducted Fans"
             }
           },
           {
@@ -238,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/2) Aerodynamics/1) Boundary Layers/10) Integral Methods for Turbulent Boundary Layers/2) Overview of Boundary Layer Patching Strategy in XFoil.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -248,10 +250,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2) Overview of Boundary Layer Patching Strategy in XFoil"
+              "title": "Backlinks for 5) Propellers and Ducted Fans"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -274,10 +277,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "0d18b88cfddf330f",
+  "active": "ab7e4b54e1189b6c",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
+    "Backend/Images & Attachments/Pasted image 20260413112436.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS 1.pdf",
@@ -292,7 +296,6 @@
     "Backend/Images & Attachments/Pasted image 20260320162859.png",
     "Backend/Images & Attachments/Pasted image 20260320162848.png",
     "Backend/Images & Attachments/Pasted image 20260320162836.png",
-    "Backend/Images & Attachments/Pasted image 20260320162825.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
     "Untitled.md",
