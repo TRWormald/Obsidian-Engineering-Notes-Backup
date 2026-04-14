@@ -30,9 +30,26 @@
               "icon": "brick-wall",
               "title": "Task Board"
             }
+          },
+          {
+            "id": "2092c74c4f790226",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Everything You Need to Know About Statistics"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,10 +282,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e10411187d1aad12",
+  "active": "2092c74c4f790226",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/8) Recent Trends in the UAM & AAM Industry.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/8) Recent Trends in the UAM & AAM Industry.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
