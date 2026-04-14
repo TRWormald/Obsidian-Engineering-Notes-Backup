@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "9) Costing & Commercial Aspects of Aircraft Design"
             }
+          },
+          {
+            "id": "e10411187d1aad12",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +265,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "da33fdad5216c600",
+  "active": "e10411187d1aad12",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/8) Recent Trends in the UAM & AAM Industry.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
