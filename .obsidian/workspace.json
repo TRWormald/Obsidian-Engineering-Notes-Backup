@@ -11,16 +11,14 @@
             "id": "18c41b2f6140fbee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 259,
-                "zoom": 2.295996362467564
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "11) Numerical Methods Lecture 11"
+              "icon": "lucide-file",
+              "title": "6) Axial Compressors"
             }
           }
         ]
@@ -258,15 +256,16 @@
   },
   "active": "18c41b2f6140fbee",
   "lastOpenFiles": [
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/1) Numerical Methods Lecture 1.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/1) Numerical Methods Lecture 1.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/9) Costing & Commercial Aspects of Aircraft Design.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/8) Recent Trends in the UAM & AAM Industry.md",
@@ -276,7 +275,6 @@
     "Backend/Images & Attachments/Pasted image 20260413113234.png",
     "Backend/Images & Attachments/Pasted image 20260413112436.png",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS 1.pdf",
     "Backend/Images & Attachments/Pasted image 20260320163050.png",
     "Backend/Images & Attachments/Pasted image 20260320163037.png",
     "Backend/Images & Attachments/Pasted image 20260320163028.png",
@@ -285,7 +283,6 @@
     "Backend/Images & Attachments/Pasted image 20260320163003.png",
     "Backend/Images & Attachments/Pasted image 20260320162859.png",
     "Backend/Images & Attachments/Pasted image 20260320162848.png",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Untitled.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
