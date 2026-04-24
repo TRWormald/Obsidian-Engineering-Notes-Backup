@@ -11,14 +11,16 @@
             "id": "18c41b2f6140fbee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 259,
+                "zoom": 2.295996362467564
               },
-              "icon": "lucide-file",
-              "title": "6) Axial Compressors"
+              "icon": "lucide-file-text",
+              "title": "11) Numerical Methods Lecture 11"
             }
           }
         ]
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51435470581055,
-    "collapsed": true
+    "width": 239.51435470581055
   },
   "right": {
     "id": "2eeec26eb13477ac",
@@ -257,6 +258,13 @@
   },
   "active": "18c41b2f6140fbee",
   "lastOpenFiles": [
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/15) Numerical Methods Lecture 15.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
+    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/1) Numerical Methods Lecture 1.pdf",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
@@ -278,14 +286,9 @@
     "Backend/Images & Attachments/Pasted image 20260320162859.png",
     "Backend/Images & Attachments/Pasted image 20260320162848.png",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 5 - Airframe Integration.pdf",
     "Untitled.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 4 - Design Point, and Off-Design Performance Part 2.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 8 - Combustors.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 3 - Design Point, and Off-Design Performance.pdf",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/3) Design Point & Off Design Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/4) Propeller Re-Design.md",
@@ -295,7 +298,6 @@
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/6) Sustainable Aerodynamics & Configurations.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Engineering Year 3/3) FD & AC/0) Intro to FD & AC.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/1) Types of Environmental Impacts & Aviation’s Contributions.md",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/5) Sustainable Structures & Materials.md",
