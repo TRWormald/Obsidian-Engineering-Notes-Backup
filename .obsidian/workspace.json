@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "6) Axial Compressors"
             }
+          },
+          {
+            "id": "b0523c906f9281c2",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +265,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "18c41b2f6140fbee",
+  "active": "b0523c906f9281c2",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
