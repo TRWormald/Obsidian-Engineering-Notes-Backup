@@ -8,19 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b589ee0f3cbad108",
+            "id": "bfb8691925b3877a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
-                "page": 14,
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
+                "page": 1,
                 "left": -96,
-                "top": 412,
+                "top": 458,
                 "zoom": 0.9571078431372549
               },
               "icon": "lucide-file-text",
-              "title": "SAE Lecture 5"
+              "title": "SAE Lecture 6"
+            }
+          },
+          {
+            "id": "4dab66dfe14bb7d9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
+                "page": 1,
+                "left": -96,
+                "top": 462,
+                "zoom": 0.9571078431372549
+              },
+              "icon": "lucide-file-text",
+              "title": "SAE Lecture 7"
+            }
+          },
+          {
+            "id": "ab82dc5edce1dbed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
+                "page": 1,
+                "left": -96,
+                "top": 466,
+                "zoom": 0.9571078431372549
+              },
+              "icon": "lucide-file-text",
+              "title": "SAE Lecture 8"
+            }
+          },
+          {
+            "id": "b578505bc6dd6938",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
+                "page": 1,
+                "left": -96,
+                "top": 470,
+                "zoom": 0.9571078431372549
+              },
+              "icon": "lucide-file-text",
+              "title": "SAE Lecture 9"
             }
           }
         ]
@@ -256,8 +304,13 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b589ee0f3cbad108",
+  "active": "bfb8691925b3877a",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 4.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
@@ -277,11 +330,6 @@
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/5) Airframe Integration.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/1) Intro to Gas Turbines.md",
     "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/1) Numerical Methods Lecture 1.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/16) Numerical Methods Lecture 16.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/14) Numerical Methods Lecture 14.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/12) Numerical Methods Lecture 12.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/11) Numerical Methods Lecture 11.pdf",
-    "Engineering Year 3/1) Aero & Numerical Methods/1) Numerical Methods/0) Resources/1) Lectures/13) Numerical Methods Lecture 13.pdf",
     "Everything You Need to Know/Maths/Everything You Need to Know About Statistics.canvas",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
     "Backend/Images & Attachments/Pasted image 20260413113234.png",
