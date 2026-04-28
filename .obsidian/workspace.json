@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "8) Combustors"
             }
+          },
+          {
+            "id": "f6296006b5327fca",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +265,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "3c9ec156b992931e",
+  "active": "f6296006b5327fca",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
