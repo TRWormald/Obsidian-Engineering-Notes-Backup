@@ -16,7 +16,7 @@
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
                 "page": 12,
                 "left": -96,
-                "top": 64,
+                "top": 587,
                 "zoom": 0.9571078431372549
               },
               "icon": "lucide-file-text",
@@ -30,17 +30,16 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
-                "page": 1,
+                "page": 3,
                 "left": -96,
-                "top": 616,
+                "top": 210,
                 "zoom": 0.9571078431372549
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 9"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +272,13 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b578505bc6dd6938",
+  "active": "ab82dc5edce1dbed",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 4.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 2 - Policies, Regulations, and Ethics.pdf",
