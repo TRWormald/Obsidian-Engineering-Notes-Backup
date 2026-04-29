@@ -14,21 +14,11 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 4,
+                "zoom": -0.0196078431372549
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 7"
-            }
-          },
-          {
-            "id": "f266920e0d008421",
-            "type": "leaf",
-            "state": {
-              "type": "task-board-view",
-              "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
             }
           },
           {
@@ -38,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
-                "page": 1,
+                "page": 4,
                 "left": -96,
-                "top": 466,
+                "top": 129,
                 "zoom": 0.9571078431372549
               },
               "icon": "lucide-file-text",
@@ -63,8 +53,7 @@
               "title": "SAE Lecture 9"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,12 +286,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f266920e0d008421",
+  "active": "4dab66dfe14bb7d9",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
+    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 5.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
-    "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 4.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 3.pdf",
