@@ -8,29 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4dab66dfe14bb7d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
-                "page": 4,
-                "zoom": -0.0196078431372549
-              },
-              "icon": "lucide-file-text",
-              "title": "SAE Lecture 7"
-            }
-          },
-          {
             "id": "ab82dc5edce1dbed",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
-                "page": 4,
+                "page": 12,
                 "left": -96,
-                "top": 129,
+                "top": 64,
                 "zoom": 0.9571078431372549
               },
               "icon": "lucide-file-text",
@@ -46,14 +32,15 @@
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
                 "page": 1,
                 "left": -96,
-                "top": 470,
+                "top": 616,
                 "zoom": 0.9571078431372549
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +273,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "4dab66dfe14bb7d9",
+  "active": "b578505bc6dd6938",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
