@@ -14,16 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
-                "page": 3,
-                "left": -96,
-                "top": 210,
-                "zoom": 0.9571078431372549
+                "page": 8,
+                "zoom": -0.0196078431372549
               },
               "icon": "lucide-file-text",
               "title": "SAE Lecture 9"
             }
+          },
+          {
+            "id": "2190be1e17a88b17",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +265,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b578505bc6dd6938",
+  "active": "2190be1e17a88b17",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 8.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 9.pdf",
