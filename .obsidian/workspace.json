@@ -60,7 +60,7 @@
                 "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
                 "page": 4,
                 "left": -74,
-                "top": 469,
+                "top": 71,
                 "zoom": 1.0847222222222221
               },
               "icon": "lucide-file-text",
@@ -141,7 +141,8 @@
               "title": "Prop Lecture 5 - Propellers and Ducted Fans"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1) Introduction to Propellers"
+              "title": "Outline of Prop Lecture 2 - Analysis of Propeller Aerodynamics"
             }
           },
           {
@@ -337,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -347,7 +348,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1) Introduction to Propellers"
+              "title": "Backlinks for Prop Lecture 2 - Analysis of Propeller Aerodynamics"
             }
           }
         ],
@@ -374,12 +375,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "42edd8c44b433893",
+  "active": "5c3bcd267a70c413",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 3&4 - Propeller Performance and Design.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
