@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1aad7d5ea1ca75a1",
+        "id": "9c0b6985d2201b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "35b287cf00dccb5d",
+            "id": "18a646a46ca69742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3) Introduction to Rotary Wing Performance"
-            }
-          },
-          {
-            "id": "0f50e261353ea7b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering Year 2/1) Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2) Fundamentals of Vertical Flight"
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
             }
           }
         ]
@@ -268,12 +250,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "35b287cf00dccb5d",
+  "active": "18a646a46ca69742",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
-    "Engineering Year 2/1) Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/4) Rotary Wing Performance Design Analysis.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/3) Introduction to Rotary Wing Performance.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
+    "Engineering Year 2/1) Aerodynamics/3) Rotorcraft Dynamics/2) Fundamentals of Vertical Flight.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/1) Aircraft Performance/AP Lecture 2 - Analysis.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 7.pdf",
     "Engineering Year 3/4) AVDASI-3/3) Sustainable Aviation & Ethics/0) Lectures/SAE Lecture 6.pdf",
