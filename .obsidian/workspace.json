@@ -141,8 +141,7 @@
               "title": "Prop Lecture 5 - Propellers and Ducted Fans"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2) Analysis of Propeller Aerodynamics"
+              "title": "Outline of 1) Introduction to Propellers"
             }
           },
           {
@@ -338,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
+                "file": "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -348,7 +347,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2) Analysis of Propeller Aerodynamics"
+              "title": "Backlinks for 1) Introduction to Propellers"
             }
           }
         ],
@@ -375,10 +374,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "34f535533931c17a",
+  "active": "42edd8c44b433893",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
+    "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 1 - Introduction to Propellers.pdf",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/1) Introduction to Propellers.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 5 - Propellers and Ducted Fans.pdf",
