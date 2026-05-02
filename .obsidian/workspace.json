@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "76fb953e99a87f19",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
+          },
+          {
             "id": "80868bb0fc488b75",
             "type": "leaf",
             "state": {
@@ -37,7 +47,8 @@
               "title": "Prop Lecture 5 - Propellers and Ducted Fans"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +281,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2ef41bed6cef865d",
+  "active": "76fb953e99a87f19",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/4) Propeller Re-Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
