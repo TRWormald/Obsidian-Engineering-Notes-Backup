@@ -35,16 +35,14 @@
             "id": "46bba5c19b012030",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
-                "page": 24,
-                "left": -7,
-                "top": 413,
-                "zoom": 0.55
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 2 - Fundamentals"
+              "icon": "lucide-file",
+              "title": "8) Combustors"
             }
           },
           {
@@ -346,6 +344,7 @@
   },
   "active": "46bba5c19b012030",
   "lastOpenFiles": [
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/0) Lectures/Lecture 2 - Fundamentals.pdf",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/2) Gas Turbine Fundamentals.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/2) Analysis of Propeller Aerodynamics.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/0) Async Materials/2) Propellers/Prop Lecture 2 - Analysis of Propeller Aerodynamics.pdf",
