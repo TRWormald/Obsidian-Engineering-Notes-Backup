@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "27037b0127e4cf45",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
+          },
+          {
             "id": "76fb953e99a87f19",
             "type": "leaf",
             "state": {
@@ -65,11 +75,12 @@
             "state": {
               "type": "task-board-view",
               "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-ghost",
+              "title": "task-board-view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,7 +313,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2ef41bed6cef865d",
+  "active": "27037b0127e4cf45",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/5) Propellers and Ducted Fans.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/4) Propeller Re-Design.md",
