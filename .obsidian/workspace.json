@@ -11,14 +11,16 @@
             "id": "90d26a4bf17b4ee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
+                "page": 1,
+                "left": -4,
+                "top": -327,
+                "zoom": 0.8041598023064251
               },
-              "icon": "lucide-file",
-              "title": "7) Turbines"
+              "icon": "lucide-file-text",
+              "title": "GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS"
             }
           }
         ]
@@ -256,8 +258,8 @@
   },
   "active": "90d26a4bf17b4ee4",
   "lastOpenFiles": [
-    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
+    "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/2) Propellers & Ducted Fans/3) Propeller Performance and Design.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
