@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "e3038156e558c57b",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
+          },
+          {
             "id": "f8855071fbc8093c",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               "title": "1) Introduction to Aircraft Performance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,7 +279,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "90d26a4bf17b4ee4",
+  "active": "e3038156e558c57b",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/1) Introduction to Aircraft Performance.md",
     "Engineering Year 3/4) AVDASI-3/1) Aircraft Performance & Propellers/1) Aircraft Performance/2) Fixed Wing Performance.md",
