@@ -14,16 +14,25 @@
               "type": "pdf",
               "state": {
                 "file": "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS.pdf",
-                "page": 6,
-                "left": 182,
-                "top": -116,
-                "zoom": 1.5
+                "page": 73,
+                "zoom": -0.016474464579901156
               },
               "icon": "lucide-file-text",
               "title": "GAS TURBINE THEORY BY HIH SARAVANAMUTTOO, H. COHEN & GFC ROGERS"
             }
+          },
+          {
+            "id": "fbe872344f042f57",
+            "type": "leaf",
+            "state": {
+              "type": "task-board-view",
+              "state": {},
+              "icon": "brick-wall",
+              "title": "Task Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +266,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "90d26a4bf17b4ee4",
+  "active": "fbe872344f042f57",
   "lastOpenFiles": [
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
@@ -311,8 +320,4 @@
     "Everything You Need to Know/Maths/Everything You Need to Know About Numerical Methods.canvas",
     "Engineering Year 2/3) AVDASI 2/Group 4 - S Flap & Aileron/Work Breakdown Diagram.canvas",
     "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Sustainable Manufacturing.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Polymers & Composites.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Metals.canvas",
-    "Everything You Need to Know/Structures & Materials/Everything You Need to Know About Light Aircraft Structures.canvas"
-  ]
-}
+    "Everything You Need to Know/Structure
