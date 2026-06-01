@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71f85e6b1eaf1fc1",
+        "id": "99727a25618e7baa",
         "type": "tabs",
         "children": [
           {
-            "id": "23f66bfa9f4dec7c",
+            "id": "10dea42ea31b8d9b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -250,8 +250,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "76ad3b8cbd3db5c5",
+  "active": "10dea42ea31b8d9b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 16 - Rotor Loads 2.pdf",
     "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 15 - Rotor Loads 1.pdf",
     "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 14 - Dynamic Response 2.pdf",
@@ -262,8 +263,6 @@
     "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 11 - Modal Analysisasda_drs26_11_modal_analysis.pdf",
     "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 10 - BVP Solutions.pdf",
     "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 09 - BVP.pdf",
-    "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 08 - Boundary Conditions.pdf",
-    "Untitled.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/7) Turbines.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/8) Combustors.md",
     "Engineering Year 3/4) AVDASI-3/2) Gas Turbine Engines/6) Axial Compressors.md",
