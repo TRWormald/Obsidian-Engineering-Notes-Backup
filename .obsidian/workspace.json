@@ -11,10 +11,16 @@
             "id": "10dea42ea31b8d9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Engineering Year 4/3) ASDA/1) Dynamics of Rotor Systems/0) Resources/1) 2025-26 Lectures/ASDA DRS 01 - Intro.pdf",
+                "page": 1,
+                "left": -320,
+                "top": 810,
+                "zoom": 0.7268091125670042
+              },
+              "icon": "lucide-file-text",
+              "title": "ASDA DRS 01 - Intro"
             }
           }
         ]
